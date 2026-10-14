@@ -23,11 +23,13 @@ L'Ucraina avanza ancora nel cammino verso l'Unione europea. In Lussemburgo Kiev 
 I due nuovi gruppi riguardano mercato interno e competitività e sono i più ampi per numero di materie coinvolte. La commissaria europea all'Allargamento, Marta Kos, ha spiegato che dietro le formule tecniche ci saranno vantaggi tangibili per i cittadini ucraini: più opportunità per le imprese, condizioni di lavoro migliori, maggiori tutele per i consumatori, investimenti e occupazione. Il viceministro ucraino per l'Integrazione europea, Vsevolod Chentsov, ha assicurato che il Paese vuole procedere con le riforme il più velocemente possibile.
 Il passo avanti, secondo quanto riportato da Reuters, è stato reso possibile dal ritiro del veto dell'Ungheria. Budapest ha dato il via libera dopo che il Parlamento ucraino ha approvato una legge che rafforza il diritto della minoranza ungherese e delle altre minoranze a studiare nella propria lingua, una delle condizioni poste dal governo ungherese per consentire nuovi progressi.
 
-@Esteri|Linkiesta
-Il tradimento di Trump: un confronto tra analisti
-Enrico Cisnetto discute con Carolina De Stefano, Paolo Garimberti e Nathalie Tocci della svolta americana.
-Il dibattito ruota intorno alla percezione di un abbandono degli alleati da parte della Casa Bianca.
-Gli interlocutori analizzano le conseguenze per l'Europa e per l'Ucraina.
+@Società|Il Post
+Le opinioni prima dei fatti
+Giuseppe De Rita si chiede se l'"opinionismo" stia cambiando le nostre società più di quanto immaginiamo.
+Il sociologo Giuseppe De Rita, presidente del Censis, si è chiesto in un intervento sul Corriere della Sera se l'enorme quantità di opinioni in circolazione, sui social ma anche nello spazio che concedono loro i media tradizionali, spesso prive di basi fattuali o di competenze diverse dalla semplice esperienza personale, non sia ormai diventata un problema di qualità oltre che di quantità, capace di cambiare il nostro rapporto con la realtà.
+Un tempo, ricorda De Rita, si diceva che la matematica non è un'opinione, convinti che alcune verità non potessero essere intaccate da valutazioni personali dettate dalle emozioni. Oggi quella certezza non avrebbe più spazio: chi affermasse che due più due fa quattro si sentirebbe rispondere che "lo dice lei", come se si trattasse di un punto di vista. Domina la regola dell'"uno vale uno", per cui nessuna verità è al riparo dal dubbio e non contano dogmi, ricerche di laboratorio o statistiche: prevale l'opinione personale.
+Saremmo così diventati un popolo prigioniero dell'opinionismo, non più solo per tradizione calcistica ma su ogni tema della vita collettiva. Basta sfogliare un quotidiano, osserva, per trovare prime pagine piene di fatti d'opinione, personaggi d'opinione e polemiche d'opinione. Da opinionista di lunga data, scrive sul Corriere dal 1976, De Rita si dice colpito dalla forza delle ondate quotidiane di opinioni che rimbalzano in circolo, dall'enfasi usata per tenere il pubblico e dalla presunzione di costituire un mondo potente di per sé.
+Il rischio, conclude, è che tutti restino prigionieri di livelli culturali bassi, inchiodati alle proprie convinzioni e restii all'approfondimento, al confronto e alla dialettica.
 
 @Disinformazione|Valigia Blu
 Gli attacchi ucraini ai data center e la disinformazione russa
@@ -173,23 +175,29 @@ A marzo circa duemila persone hanno partecipato all'inaugurazione di Factory 4, 
 Lo slogan era "l'Alabama torna al lavoro". Ma, come ha raccontato Julia Gledhill sulla rivista The Baffler, la fabbrica celebrata non era ancora operativa. Occupa un enorme capannone dove un tempo si costruivano vagoni ferroviari, attività chiusa nel 2021 dall'azienda che lo gestiva.
 Il punto sollevato dall'articolo è proprio questo: le fabbriche altamente automatizzate promettono rilancio industriale, ma creano molti meno posti di lavoro di quelle che sostituiscono. Il prezzo del progresso rischia così di ricadere sulle comunità che più avrebbero bisogno di occupazione, a meno che la politica non intervenga per orientare la trasformazione.
 
-@Società|La Stampa
-Adolescenti e identità di genere: lo scontro ideologico non aiuta
-La disforia di genere è una sofferenza reale che richiede attenzione, non contrapposizioni.
-Il commento descrive la disforia come la sofferenza di chi non si riconosce nel genere attribuito alla nascita.
-L'autore invita a sottrarre il tema alle battaglie ideologiche.
+@Politica|Linkiesta
+Il discorso di Meloni sull'Ucraina e le parole che il campo largo non sa dire
+Linkiesta riporta e apprezza l'intervento della premier: sostegno a Kiev, dubbi sull'intesa Trump-Putin sul gasolio e un'Europa unita al tavolo.
+Linkiesta definisce eccellente il discorso pronunciato da Giorgia Meloni in Parlamento in vista del Consiglio europeo e lo contrappone all'incapacità del campo largo di esprimersi con la stessa chiarezza. La premier ha descritto la nuova campagna d'autunno russa: non riuscendo ad avanzare al fronte, Mosca colpisce sempre più duramente i civili, con attacchi a centrali elettriche, ospedali e persino autobus di lavoratori, come nella strage di Kramatorsk, per piegare l'Ucraina con freddo, terrore e buio. Dall'inizio dell'anno, ha ricordato, la Russia ha guadagnato pochissimo terreno e a settembre ha perso gran parte delle conquiste recenti.
+Quello stallo, secondo Meloni, è frutto del coraggio ucraino e del sostegno occidentale, Italia compresa, ed è l'unico strumento per portare Mosca a un negoziato serio. Il sostegno a Kiev non è l'alternativa alla pace ma ciò che la rende possibile: se l'aggressore può puntare alla resa dell'avversario non ha motivo di trattare, e la resa non è pace ma conquista. La premier ha detto di non rimpiangere i carri armati sovietici a Praga e Budapest né il Muro di Berlino, e ha ribadito i pilastri della linea del governo: sostegno a Kiev con attenzione ai civili, pressione su Mosca e unità euro-atlantica.
+Sull'intesa americana per il gasolio russo, Meloni ha riconosciuto l'esigenza di contenere i prezzi dell'energia, ma ha ricordato che il rincaro dei carburanti dipende soprattutto dalla guerra in Iran. Il risultato dell'accordo è incerto, mentre i rischi sono evidenti: legittimazione di Mosca, nuove entrate per finanziare la guerra e indebolimento delle sanzioni. Diverso è il caso di una tregua sulle infrastrutture energetiche, che l'Italia sostiene, ringraziando Zelensky per la disponibilità e chiedendo alla Russia di fare altrettanto.
+La premier ha poi chiesto che l'Europa non resti a guardare: i Ventisette dovrebbero indicare una figura autorevole con un mandato comune, oppure, se Francia, Germania e Regno Unito preferiscono il formato E3, agire almeno a nome di tutti. Un'Europa divisa sui formati, ha detto, darebbe un'immagine infantile e sarebbe un regalo a Mosca. Infine le minacce ibride russe, dai droni sugli aeroporti ai cavi nel Baltico, dagli attacchi informatici alla disinformazione e all'uso dei migranti come arma: l'Italia chiederà di proteggere le infrastrutture critiche, sostenere l'industria nei sistemi antidrone e antimissile e non dimenticare il fianco sud, perché difendersi significa tutelare la vita quotidiana dei cittadini.
 
-@Società|La Stampa
-Il futuro non si costruisce restaurando il passato
-Partendo da una riflessione di Gianrico Carofiglio sul superfluo, una domanda sul futuro della democrazia.
-L'editoriale si interroga su quale società vogliamo costruire.
-La nostalgia, sostiene, non è una risposta.
+@Cultura|Internazionale
+Cosa non torna su Cameron Winter
+Il nuovo disco dal vivo del leader dei Geese non convince: un talento celebrato che prende in prestito senza rielaborare.
+Il critico musicale di Internazionale spiega di non aver mai scritto dei Geese e del loro leader Cameron Winter perché la loro musica non gli piace, e di preferire di solito raccontare ciò che ama. Ma quando un artista riceve un consenso quasi unanime, ritiene giusto dire anche ciò che non convince, invitando i lettori a dare il loro parere.
+L'occasione è Live at Carnegie Hall, registrato nel dicembre 2025 nella sala newyorchese che ha ospitato Billie Holiday, Joan Baez e Bob Dylan, definito "trionfale" da Pitchfork e diventato anche un documentario di Paul Thomas Anderson. Piano e voce, raccoglie i brani dell'esordio solista Heavy metal e alcuni inediti, come il folk It all fell in the river e Emperor XII in shades, che ricorda Jackson Browne.
+L'autore sperava che la dimensione intima gli facesse cambiare idea, e invece il disco accentua i difetti: la voce baritonale con improvvisi falsetti non comunica nulla, e la scrittura, ispirata ai classici del rock americano e britannico, non aggiunge niente a quanto detto meglio da altri. Non è una questione di originalità, precisa, perché l'arte è sempre sedimentazione, ma Winter sembra prendere suggestioni senza rielaborarle e senza mai suonare sincero: a tratti evoca il Van Morrison di Astral weeks o il Nick Cave di Idiot prayer, che pure lo ha lodato, ma il confronto è impietoso.
+Winter ha 24 anni, è stato definito il Bob Dylan della generazione Z, e i Geese sono passati in poco tempo dai piccoli locali ai grandi festival. L'autore respinge come poco sensata l'insinuazione di un articolo di Wired su campagne di marketing con bot, e spiega il successo con il vuoto lasciato dalle nuove band rock americane: un'attitudine sfrontata da New York che ricorda gli Strokes dei primi Duemila. Anche loro furono liquidati come cloni dei Velvet Underground, e oggi Someday, Last nite e Reptilia sono piccoli classici. Per Winter, conclude, al momento propende per il no, ma se ne riparlerà tra dieci o vent'anni.
 
-@Società|La Stampa
-Quando i killer veri assomigliano a quelli delle serie tv
-Il caso della ricina e Breaking Bad: la cronaca che supera la finzione.
-Il commento riflette sulle somiglianze tra fatti di cronaca e narrazioni televisive.
-Un caso recente di avvelenamento richiama la celebre serie.
+@Cultura|Internazionale
+Lo sguardo a rovescio di Marialba Russo
+Due mostre a Roma riscoprono la fotografa napoletana che ha raccontato genere, corpi e riti popolari del Sud.
+"Se lo sguardo si misura con una cosa e la sceglie, è già il fatto di una dimensione politica", ha detto Marialba Russo, fotografa ancora poco conosciuta a cui Roma dedica ora due mostre. Nata a Napoli nel 1947, si è avvicinata alla fotografia negli anni Sessanta, quando i ruoli di uomini e donne erano rigidamente definiti e i giovani cominciavano a contestarli, nell'epoca in cui il privato diventava politico.
+Russo ha scelto di lavorare come un'osservatrice, quasi un'antropologa, proponendo un altro sguardo sui corpi, sui confini del genere e dell'identità sessuale e sulle tradizioni popolari del Sud, ribaltando la prospettiva patriarcale e cogliendo le trasformazioni dell'Italia di quegli anni.
+Il Macro ospita fino al 31 gennaio 2027 Sguardo rovescio, la prima retrospettiva, con sette serie realizzate tra il 1974 e il 1981. Si apre con Travestimento, una trentina di ritratti dei carnevali campani in cui gli uomini si truccano e indossano abiti femminili imitando i gesti di madri, sorelle e mogli: il carnevale è il rito del ribaltamento, ma le immagini, viste senza contesto, potrebbero raccontare semplicemente il desiderio di vestirsi da donna, e in questa ambiguità consapevole sta la forza del lavoro. Della serie delle centotrenta figure di spalle, del 1981, ritrae uomini di spalle di cui si intuisce solo l'estrazione sociale da abiti e postura: la ripetizione rigorosa costruisce un'immagine collettiva della mascolinità, svuotata e resa oggetto. Al ristorante, del 29 settembre 1974, segue due giovani di ritorno dal santuario della Madonna di Monteverde, nella Murgia materana, legato alla leggenda medievale di due amanti omosessuali torturati a morte, mentre si lasciano andare a una danza sempre più libera ed erotica: la festa diventa un modo per sottrarsi alle regole sociali.
+Al Museo delle civiltà è esposta fino al 20 novembre 2026 Immagini della Madonna dell'Arco (After), dedicata ai riti di un santuario vicino a Napoli documentati tra il 1971 e il 1976 nell'ambito di una ricerca sulle culture popolari coordinata dall'antropologa Annabella Rossi. Già mostrata nel 1973, la serie torna in una nuova versione che valorizza il metodo interdisciplinare del progetto, con pubblicazioni, oggetti devozionali, materiali del santuario e video.
 
 @Politica|Domani
 Su Kiev i compromessi al ribasso umiliano il centrosinistra
