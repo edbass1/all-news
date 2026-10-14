@@ -9,9 +9,19 @@ TABS=[("italia","Italia",[("it-news","Prima pagina"),("it-op","Editoriali e opin
       ("mondo","Mondo",[("wo-news","Notizie dal mondo"),("wo-op","Editoriali e opinioni")]),
       ("sport","Sport",[("wo-sport","Sport internazionale"),("wo-opsport","Commenti e analisi")])]
 SECN={k:n for _,_,s in TABS for k,n in s}
+COLS={"it-news":"#ff2d55","it-op":"#ff9f0a","it-sport":"#30d158","it-opsport":"#64d2ff","wo-news":"#0a84ff","wo-op":"#bf5af2","wo-sport":"#30d158","wo-opsport":"#64d2ff"}
 now=datetime.datetime.now().strftime("%d/%m/%Y %H:%M")
 FZ="var Z=+localStorage.getItem('anfs')||17;function ap(){document.querySelector('article').style.setProperty('--fs',Z+'px')}function fz(d){Z=Math.min(26,Math.max(13,Z+d*2));localStorage.setItem('anfs',Z);ap()}ap()"
-CSS=""".srcb{display:inline-block;margin-left:8px;padding:2px 8px;border:0;border-radius:4px;background:#2a2a2a;color:#e0e0e4;font:600 10.5px/1.4 Arial,sans-serif;letter-spacing:.4px;text-transform:none;vertical-align:middle}
+CSS="""
+.blk{display:grid;grid-template-columns:170px 1fr;gap:20px;border-top:4px solid var(--k);padding:12px 0 26px}.bh{margin:0;font:800 22px/1.15 Arial,sans-serif;color:var(--k)}
+.bg{display:grid;grid-template-columns:repeat(4,1fr);grid-auto-flow:dense;gap:1px;background:#222;border:1px solid #222}
+.bg .card{background:#121215;border:0;border-top:2px solid var(--k);border-radius:0;padding:12px 14px;grid-column:auto}.bg .card:hover{background:#18181c;border-color:var(--k)}
+.bg .card h3{font-size:16.5px}.bg .card p{font-size:14px;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+.bg .card.q{grid-column:span 2;grid-row:span 2;padding:20px}.bg .card.q h3{font-size:28px;line-height:1.15}.bg .card.q p{font-size:15.5px;-webkit-line-clamp:6}.bg .card.q.small h3{font-size:22px}
+.blk .tag{color:var(--k)}.blk .meta .tag{margin-right:6px}.blk .rel b{color:var(--k)}.blk .briefs{margin-top:12px}
+@media(max-width:900px){.blk{grid-template-columns:1fr;gap:10px}.bg{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:560px){.bg{grid-template-columns:1fr}.bg .card.q{grid-column:auto;grid-row:auto}.bg .card.q h3{font-size:22px}}
+.srcb{display:inline-block;margin-left:8px;padding:2px 8px;border:0;border-radius:4px;background:#2a2a2a;color:#e0e0e4;font:600 10.5px/1.4 Arial,sans-serif;letter-spacing:.4px;text-transform:none;vertical-align:middle}
 .fs{float:right;display:flex;gap:6px}.fs button{background:#18181c;color:#ddd;border:1px solid #333;border-radius:4px;padding:3px 9px;font:600 13px Arial,sans-serif;cursor:pointer}.fs button:hover{color:#fff;border-color:#ff2d55}article>p{font-size:var(--fs,17px)}
 .top{background:#111114;border-bottom:1px solid #26262b}.top .in{max-width:1200px;margin:auto;display:flex;align-items:stretch;padding:0 24px;height:60px}
 .top .logo{display:flex;align-items:center;gap:6px;font:700 22px 'Space Grotesk',Arial,sans-serif;color:#fff;letter-spacing:1px;padding-right:28px;border-right:1px solid #26262b}.top .logo span{background:#ff2d55;color:#fff;padding:2px 7px;border-radius:3px}
@@ -45,7 +55,7 @@ def head(t,root,bar=True):
 FOOT="""</main><footer>ALL NEWS · Aggiornamento automatico ogni ora · Tutti gli articoli sono sintesi originali, riscritte e tradotte in italiano dalla redazione · Le testate di origine sono citate in calce</footer>"""
 def card(a,cls="",rel=()):
     r="".join(f'<div><b>›</b> {e(x["title"])}</div>' for x in rel)
-    return f'<a class="card {cls}" href="a/{a["id"]}.html"><div class="meta"><span class="tag">{e(a["tag"])}</span><span class="srcb">{e(a["source"].split(",")[0])}</span></div><h3>{e(a["title"])}</h3><p>{e(a["summary"])}</p>{"<div class=rel>"+r+"</div>" if r else ""}</a>'
+    return f'<a class="card {cls}" href="a/{a["id"]}.html"><div class="meta"><span class="tag">{e(a["tag"])}</span>{d(a["date"])}<span class="srcb">{e(a["source"].split(",")[0])}</span></div><h3>{e(a["title"])}</h3><p>{e(a["summary"])}</p>{"<div class=rel>"+r+"</div>" if r else ""}</a>'
 shutil.rmtree("docs",ignore_errors=True); os.makedirs("docs/a")
 open("docs/style.css","w").write(CSS); open("docs/.nojekyll","w").close()
 body=""
@@ -61,10 +71,10 @@ for k,n,secs in TABS:
             lv=a.get("live","")
             if lv=="live" or (lv=="live-big" and cards):
                 briefs.append(f'<a class="brief" href="a/{a["id"]}.html"><span class="tag">{e(a["tag"])}</span>{e(a["title"])}</a>'); continue
-            i=len(cards); cls=("lead small" if lv=="live-big" else "lead" if i==0 else "big" if i<3 else "")+(" op" if "op" in s else "")
+            i=len(cards); cls=("q small" if lv=="live-big" else "q" if i==0 else "")+(" op" if "op" in s else "")
             cards.append(card(a,cls,rel))
-        body+=f'<h2 class="sec"><span>{sn}</span></h2><div class="grid">'+"".join(cards)+"</div>"
-        if briefs: body+='<div class="briefs"><h4>Risultati e dirette in breve</h4>'+"".join(briefs)+"</div>"
+        bx='<div class="briefs"><h4>Risultati e dirette in breve</h4>'+"".join(briefs)+"</div>" if briefs else ""
+        body+=f'<section class="blk" style="--k:{COLS.get(s,"#ff2d55")}"><h2 class="bh">{sn}</h2><div><div class="bg">'+"".join(cards)+f"</div>{bx}</div></section>"
     body+="</div>"
 open("docs/index.html","w").write(head("ALL NEWS – Italia, Mondo, Sport","")+body+FOOT+f"<script>{JS}</script></body></html>")
 for a in A:
