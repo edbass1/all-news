@@ -6752,10 +6752,22 @@
    "Fabian Reese ha deciso di dire basta. L'attaccante di 28 anni del Wolfsburg ha disattivato il suo account Instagram, che contava oltre 100.000 follower. Alla base della scelta ci sarebbero le pesanti ostilità che lo accompagnano da quando, in estate, ha lasciato Berlino.",
    "Il suo trasferimento è al centro delle discussioni da mesi. In diverse trasferte Reese è stato fischiato e sui social ha ricevuto insulti anche molto duri. Già a fine agosto, dopo una partita sul campo del Karlsruher SC, aveva ammesso che le reazioni dei tifosi lo colpivano: aveva parlato di un dolore vero, di parole che feriscono.",
    "Quanto la situazione pesi su di lui e su chi gli sta vicino lo ha fatto capire anche la fidanzata Johanna Grünewald. In un messaggio sui social ha scritto che proprio le emozioni sono ciò che rende speciale questo sport, ma di aver sottovalutato quanto possano far male le parole.",
-   "Il paradosso è che all'Hertha Reese era diventato negli anni uno dei beniamini del pubblico. Per questo la delusione di molti tifosi è stata enorme quando ha scelto di trasferirsi al Wolfsburg, diretta concorrente in seconda divisione. Per ora, almeno su Instagram, ha chiuso.",
-   "@Champions League|Sport Bild||2026-10-14",
-   "Liverpool, tripletta di Barcola nel 6-3 di Linz; Wirtz ancora a secco",
-   "Il francese da 125 milioni segna i primi gol in maglia Reds, il tedesco offre un assist ma non trova la rete da otto partite.",
+   "Il paradosso è che all'Hertha Reese era diventato negli anni uno dei beniamini del pubblico. Per questo la delusione di molti tifosi è stata enorme quando ha scelto di trasferirsi al Wolfsburg, diretta concorrente in seconda divisione. Per ora, almeno su Instagram, ha chiuso."
+  ],
+  "date": "2026-10-14",
+  "first_seen": "2026-10-14",
+  "live": ""
+ },
+ {
+  "id": "liverpool-tripletta-di-barcola-nel-6-3-di-linz-wirtz-ancora-a-secco",
+  "section": "so-sportbild",
+  "rank": 5,
+  "tag": "Champions League",
+  "source": "Sport Bild",
+  "story": "liverpool-tripletta-di-barcola-nel-6-3-di-linz-wirtz-ancora-a-secco",
+  "title": "Liverpool, tripletta di Barcola nel 6-3 di Linz; Wirtz ancora a secco",
+  "summary": "Il francese da 125 milioni segna i primi gol in maglia Reds, il tedesco offre un assist ma non trova la rete da otto partite.",
+  "body": [
    "Vittoria spettacolare per il Liverpool nella seconda giornata di Champions League: i Reds hanno vinto 6-3 sul campo del Lask Linz. Florian Wirtz, titolare, ha disputato una buona partita e ha fornito un assist, ma l'uomo copertina è stato Bradley Barcola, acquistato in estate per 125 milioni, che ha segnato tre gol, i suoi primi con la maglia del club inglese.",
    "La squadra di Andoni Iraola si è presentata in Austria senza molti titolari. Virgil van Dijk, acciaccato, è partito dalla panchina, mentre non erano nemmeno convocati Szoboszlai per un problema alla coscia, Gakpo per una caviglia, Isak per la coscia ed Ekitiké per la rottura del tendine d'Achille. Spazio quindi a giovani come Rio Ngumoha, 18 anni, Lewis Koumas, 21, e Trey Nyoni, 19.",
    "Reduce da uno 0-3 casalingo contro il Manchester City in Premier League, il Liverpool ha chiuso la pratica già nel primo tempo: Ronald Araujo di testa al 22', Barcola al 24' dopo un'ottima giocata di Ngumoha e ancora Barcola al 37' su un pallone illuminante di Wirtz.",
@@ -6770,7 +6782,7 @@
  {
   "id": "bayern-il-rientro-a-monaco-e-il-gesto-insolito-di-olise",
   "section": "so-sportbild",
-  "rank": 5,
+  "rank": 6,
   "tag": "Bundesliga",
   "source": "Sport Bild",
   "story": "bayern-il-rientro-a-monaco-e-il-gesto-insolito-di-olise",
@@ -6790,7 +6802,7 @@
  {
   "id": "eisbaren-quarta-vittoria-di-fila-in-champions-hockey-league",
   "section": "so-sportbild",
-  "rank": 6,
+  "rank": 7,
   "tag": "Hockey su ghiaccio",
   "source": "Sport Bild",
   "story": "eisbaren-quarta-vittoria-di-fila-in-champions-hockey-league",
@@ -6807,7 +6819,7 @@
  {
   "id": "lipsia-demichelis-ripesca-klostermann",
   "section": "so-sportbild",
-  "rank": 7,
+  "rank": 8,
   "tag": "Champions League",
   "source": "Sport Bild",
   "story": "lipsia-demichelis-ripesca-klostermann",
@@ -6826,7 +6838,7 @@
  {
   "id": "fortuna-hottmann-salva-ende-al-92-a-munster",
   "section": "so-sportbild",
-  "rank": 8,
+  "rank": 9,
   "tag": "3. Liga",
   "source": "Sport Bild",
   "story": "fortuna-hottmann-salva-ende-al-92-a-munster",
@@ -6845,7 +6857,7 @@
  {
   "id": "gladbach-in-crisi-ora-tutto-dipende-da-blessin",
   "section": "so-sportbild",
-  "rank": 9,
+  "rank": 10,
   "tag": "Bundesliga",
   "source": "Sport Bild",
   "story": "gladbach-in-crisi-ora-tutto-dipende-da-blessin",
@@ -6864,7 +6876,7 @@
  {
   "id": "gulacsi-rompe-il-silenzio-dopo-la-rapina-esperienza-profondamente-trau",
   "section": "so-sportbild",
-  "rank": 10,
+  "rank": 11,
   "tag": "Liga",
   "source": "Sport Bild",
   "story": "gulacsi-rompe-il-silenzio-dopo-la-rapina-esperienza-profondamente-trau",
@@ -6883,7 +6895,7 @@
  {
   "id": "quattro-giornate-a-vinicius-salta-il-clasico",
   "section": "so-sportbild",
-  "rank": 11,
+  "rank": 12,
   "tag": "Liga",
   "source": "Sport Bild",
   "story": "quattro-giornate-a-vinicius-salta-il-clasico",
@@ -6903,7 +6915,7 @@
  {
   "id": "rasmussen-difende-l-amico-tripic-il-provocatore-di-olise",
   "section": "so-sportbild",
-  "rank": 12,
+  "rank": 13,
   "tag": "2. Bundesliga",
   "source": "Sport Bild",
   "story": "rasmussen-difende-l-amico-tripic-il-provocatore-di-olise",
@@ -6922,7 +6934,7 @@
  {
   "id": "bunning-racconta-l-ictus-mi-hanno-spento-la-luce",
   "section": "so-sportbild",
-  "rank": 13,
+  "rank": 14,
   "tag": "2. Bundesliga",
   "source": "Sport Bild",
   "story": "bunning-racconta-l-ictus-mi-hanno-spento-la-luce",
@@ -6933,10 +6945,22 @@
    "Quella primavera sembrava perfetta: salvezza con la Dynamo, festa a Maiorca, matrimonio con Sina. Poi tutto è cambiato. Bünning si stava preparando in bagno a casa dei genitori, vicino ad Amburgo, prima di partire per un addio al celibato a Dublino. Ha sentito qualcosa di simile a un giramento di testa dopo essersi alzati troppo in fretta, ha pensato che sarebbe passato, ma si è ritrovato immobile, come congelato.",
    "Con le ultime forze ha chiamato la moglie a Dresda, che ha capito subito la gravità e ha organizzato i soccorsi; per fortuna la cognata era vicina e aveva le chiavi. Da lì il buio: Bünning non ricorda nulla, sa solo che era a terra, non riusciva a muoversi e urlava per il dolore. «Si è spenta la mia luce», ha detto.",
    "Il racconto lo scuote ancora. Riesce a parlarne, ha spiegato, ma diventa difficile quando pensa a cosa hanno passato i familiari; si è fermato commosso ricordando la moglie, la persona più forte che abbia conosciuto.",
-   "È stato trasportato in elicottero in ospedale e si è risvegliato in terapia intensiva, ma le sue condizioni sono peggiorate. I medici hanno dovuto decidere se tentare tutto: hanno scelto un intervento d'urgenza e lo hanno messo in coma farmacologico. All'origine, ha spiegato il giocatore, c'era un accumulo anomalo di vasi sanguigni.",
-   "@Europa League|Sport Bild||2026-10-14",
-   "Leverkusen a Poznań, Terrier verso una maglia da titolare",
-   "Martínez farà turnover contro il Lech; Rolfes elogia l'attaccante francese.",
+   "È stato trasportato in elicottero in ospedale e si è risvegliato in terapia intensiva, ma le sue condizioni sono peggiorate. I medici hanno dovuto decidere se tentare tutto: hanno scelto un intervento d'urgenza e lo hanno messo in coma farmacologico. All'origine, ha spiegato il giocatore, c'era un accumulo anomalo di vasi sanguigni."
+  ],
+  "date": "2026-10-14",
+  "first_seen": "2026-10-14",
+  "live": ""
+ },
+ {
+  "id": "leverkusen-a-poznan-terrier-verso-una-maglia-da-titolare",
+  "section": "so-sportbild",
+  "rank": 15,
+  "tag": "Europa League",
+  "source": "Sport Bild",
+  "story": "leverkusen-a-poznan-terrier-verso-una-maglia-da-titolare",
+  "title": "Leverkusen a Poznań, Terrier verso una maglia da titolare",
+  "summary": "Martínez farà turnover contro il Lech; Rolfes elogia l'attaccante francese.",
+  "body": [
    "Seconda partita di Europa League per il Bayer Leverkusen, che giovedì alle 18.45 gioca sul campo del Lech Poznań, campione di Polonia, con l'obiettivo di conquistare il secondo successo nella competizione. Rispetto al 4-3 di Magonza in Bundesliga, l'allenatore Carles Martínez cambierà diversi giocatori.",
    "Il direttore sportivo Simon Rolfes vede nell'Europa League un'occasione per dare minuti a più giocatori: in rosa, spiega, ce ne sono molti con potenziale che hanno bisogno di questa esperienza per raggiungere il loro miglior livello.",
    "La partita può essere importante soprattutto per Martin Terrier, 29 anni, candidato a partire dall'inizio. A Magonza era entrato al 75' disputando un buon spezzone. Rolfes lo descrive come un giocatore estremamente intelligente, pericoloso sotto porta, capace di trovare gli spazi e con un'ottima qualità di passaggio: a volte resta in agguato, ma sa anche essere molto presente nella manovra. È duttile, può giocare da centravanti, da trequartista e soprattutto a sinistra, e collega bene i compagni.",
@@ -6949,7 +6973,7 @@
  {
   "id": "hannover-dopo-il-brutto-esordio-di-wagner-si-pensa-a-un-mental-coach",
   "section": "so-sportbild",
-  "rank": 14,
+  "rank": 16,
   "tag": "2. Bundesliga",
   "source": "Sport Bild",
   "story": "hannover-dopo-il-brutto-esordio-di-wagner-si-pensa-a-un-mental-coach",
@@ -6968,7 +6992,7 @@
  {
   "id": "le-giocatrici-del-bayern-protagoniste-con-le-nazionali",
   "section": "so-sportbild",
-  "rank": 15,
+  "rank": 17,
   "tag": "Calcio femminile",
   "source": "Sport Bild",
   "story": "le-giocatrici-del-bayern-protagoniste-con-le-nazionali",
@@ -6987,7 +7011,7 @@
  {
   "id": "doping-procedimento-contro-ansah-l-amburgo-gli-rinnova-il-contratto",
   "section": "so-sportbild",
-  "rank": 16,
+  "rank": 18,
   "tag": "Atletica",
   "source": "Sport Bild",
   "story": "doping-procedimento-contro-ansah-l-amburgo-gli-rinnova-il-contratto",
@@ -7005,7 +7029,7 @@
  {
   "id": "uduokhai-la-fede-come-appiglio-nei-momenti-difficili",
   "section": "so-sportbild",
-  "rank": 17,
+  "rank": 19,
   "tag": "2. Bundesliga",
   "source": "Sport Bild",
   "story": "uduokhai-la-fede-come-appiglio-nei-momenti-difficili",
@@ -7024,7 +7048,7 @@
  {
   "id": "bod-cramer-offre-la-birra-a-400-tifosi-del-dortmund",
   "section": "so-sportbild",
-  "rank": 18,
+  "rank": 20,
   "tag": "Champions League",
   "source": "Sport Bild",
   "story": "bod-cramer-offre-la-birra-a-400-tifosi-del-dortmund",
@@ -7043,7 +7067,7 @@
  {
   "id": "norimberga-non-c-e-solo-zoma-i-numeri-di-scobel",
   "section": "so-sportbild",
-  "rank": 19,
+  "rank": 21,
   "tag": "2. Bundesliga",
   "source": "Sport Bild",
   "story": "norimberga-non-c-e-solo-zoma-i-numeri-di-scobel",
@@ -7053,10 +7077,22 @@
    "Quando si parla del Norimberga, squadra tra le più prolifiche della seconda divisione, si cita quasi sempre Mohamed Ali Zoma, 22 anni, nazionale italiano e capocannoniere con sette gol in sette partite. Ma il suo compagno di reparto Piet Scobel, 21 anni, non sfigura.",
    "Con cinque gol e un assist il ragazzo nato a Pinneberg è quarto nella classifica di gol più assist, dietro a Josip Brekalo dell'Hertha con nove e a Zoma e Fabian Reese del Wolfsburg con sette. Vince il 45% dei duelli, un buon dato per un attaccante, ha già tirato 23 volte, una ogni 25 minuti, quasi quanto Zoma che ha 25 tiri, uno ogni 24 minuti. Ha concluso dieci volte di testa, segnando una volta: nessuno in seconda serie ha fatto meglio.",
    "In questa stagione è sempre stato titolare, già quanto in tutto il campionato precedente. Si gode ogni minuto, soprattutto in partite come il 4-4 contro il Wolfsburg: una gara così, racconta, non l'aveva mai giocata, con tre gol nel recupero, e dopo non si riesce a dormire. La sua doppietta ha permesso al Norimberga di rimontare in undici minuti una partita che sembrava persa.",
-   "Ora Scobel è convinto che la squadra possa fare una grande stagione: il Wolfsburg era l'avversario più forte incontrato finora e il Norimberga, dice, non deve nascondersi davanti a nessuno.",
-   "@Champions League|Sport Bild||2026-10-14",
-   "Gruda decide Lipsia-Psv con le scarpe di Messi",
-   "Il gol dell'1-0 segnato con un modello in edizione limitatissima regalato dall'argentino.",
+   "Ora Scobel è convinto che la squadra possa fare una grande stagione: il Wolfsburg era l'avversario più forte incontrato finora e il Norimberga, dice, non deve nascondersi davanti a nessuno."
+  ],
+  "date": "2026-10-14",
+  "first_seen": "2026-10-14",
+  "live": ""
+ },
+ {
+  "id": "gruda-decide-lipsia-psv-con-le-scarpe-di-messi",
+  "section": "so-sportbild",
+  "rank": 22,
+  "tag": "Champions League",
+  "source": "Sport Bild",
+  "story": "gruda-decide-lipsia-psv-con-le-scarpe-di-messi",
+  "title": "Gruda decide Lipsia-Psv con le scarpe di Messi",
+  "summary": "Il gol dell'1-0 segnato con un modello in edizione limitatissima regalato dall'argentino.",
+  "body": [
    "Il gol che ha dato al Lipsia l'1-0 sul Psv Eindhoven è stato di gran classe: dopo un calcio d'angolo respinto, Brajan Gruda, 22 anni, ha controllato di petto, ha spostato il pallone oltre l'avversario e lo ha piazzato a giro nell'angolo sinistro. Una rete che ha regalato sollievo e la prima vittoria in Champions League per la squadra sassone dopo 629 giorni.",
    "Il dettaglio curioso riguarda i piedi del talento tedesco: Gruda indossava il nuovo modello di scarpe di Lionel Messi, prodotto in pochissimi esemplari. Le \"F50 Messi El Ultimo Tango\" esistono in sole 208 paia nel mondo. Messi ne ha usato un paio nella partita d'addio contro il Benin, vinta 3-0, e ha spedito le altre ad amici, persone che lo hanno accompagnato in carriera e dieci giovani talenti scelti nel mondo. Gruda è uno di loro.",
    "Il giocatore ha raccontato che le scarpe sono un sogno e che Messi ha segnato tutta la sua infanzia: invece di chiuderle in un armadio ha deciso di usarle. Le ha ricevute la settimana scorsa in una scatola regalo, nella versione celeste e bianca con il Sol de Mayo, accompagnate da una cartolina autografata; un oggetto che, se rimasto intatto, avrebbe un valore destinato a crescere. A lui però non importa: si diverte a giocarci.",
@@ -7069,7 +7105,7 @@
  {
   "id": "gladbach-18-gol-subiti-ma-nicolas-resta-il-numero-uno",
   "section": "so-sportbild",
-  "rank": 20,
+  "rank": 23,
   "tag": "Bundesliga",
   "source": "Sport Bild",
   "story": "gladbach-18-gol-subiti-ma-nicolas-resta-il-numero-uno",
@@ -7087,7 +7123,7 @@
  {
   "id": "wolff-multato-per-gli-attacchi-agli-arbitri-dopo-kiel-flensburg",
   "section": "so-sportbild",
-  "rank": 21,
+  "rank": 24,
   "tag": "Pallamano",
   "source": "Sport Bild",
   "story": "wolff-multato-per-gli-attacchi-agli-arbitri-dopo-kiel-flensburg",
@@ -7105,7 +7141,7 @@
  {
   "id": "union-zingler-blinda-lustrinelli-sapevamo-che-sarebbe-stato-difficile",
   "section": "so-sportbild",
-  "rank": 22,
+  "rank": 25,
   "tag": "Bundesliga",
   "source": "Sport Bild",
   "story": "union-zingler-blinda-lustrinelli-sapevamo-che-sarebbe-stato-difficile",
@@ -7123,7 +7159,7 @@
  {
   "id": "bayern-la-rabbia-di-gnabry-dopo-il-3-3-di-stavanger",
   "section": "so-sportbild",
-  "rank": 23,
+  "rank": 26,
   "tag": "Champions League",
   "source": "Sport Bild",
   "story": "bayern-la-rabbia-di-gnabry-dopo-il-3-3-di-stavanger",
@@ -7133,10 +7169,22 @@
    "Tra i giocatori del Bayern, dopo il 3-3 contro il Viking Stavanger, il più contrariato sembrava Serge Gnabry. Il nazionale tedesco, 31 anni, è rimasto in panchina per tutta la partita e subito dopo il fischio finale è salito per primo sul pullman, molto prima dei compagni, con l'evidente desiderio di lasciare al più presto lo stadio.",
    "All'intervallo Vincent Kompany ha inserito il nuovo acquisto Ismael Saibari, arrivato dal Psv per circa 50 milioni, al posto di un deludente Lennart Karl, 18 anni. Nel recupero, sul 3-3, l'allenatore ha scelto Hiroki Ito per proteggere la difesa, spostando in avanti Alphonso Davies per sfruttarne la velocità in contropiede. Ancora una volta niente spazio per Gnabry.",
    "L'attaccante non è ancora al meglio dopo quasi cinque mesi di stop per il distacco dell'adduttore della coscia destra, e sul sintetico norvegese il rischio di ricaduta era forse più alto. Ma dopo la lunga riabilitazione si sente pronto e voleva giocare, e la panchina lo ha irritato.",
-   "Dal rientro ha giocato pochissimo: 13 minuti contro l'Union Berlino prima della sosta e 23 nel fine settimana ad Augusta, dove aveva portato vivacità, sfiorando il gol vittoria con una rete annullata per fuorigioco e un palo.",
-   "@Bundesliga|Sport Bild||2026-10-14",
-   "Francoforte, Hütter spiega la crisi di Collins",
-   "Disastroso nello 0-6 di Lipsia, il difensore paga il carico di minuti dopo lo stop, non il debutto in nazionale.",
+   "Dal rientro ha giocato pochissimo: 13 minuti contro l'Union Berlino prima della sosta e 23 nel fine settimana ad Augusta, dove aveva portato vivacità, sfiorando il gol vittoria con una rete annullata per fuorigioco e un palo."
+  ],
+  "date": "2026-10-14",
+  "first_seen": "2026-10-14",
+  "live": ""
+ },
+ {
+  "id": "francoforte-hutter-spiega-la-crisi-di-collins",
+  "section": "so-sportbild",
+  "rank": 27,
+  "tag": "Bundesliga",
+  "source": "Sport Bild",
+  "story": "francoforte-hutter-spiega-la-crisi-di-collins",
+  "title": "Francoforte, Hütter spiega la crisi di Collins",
+  "summary": "Disastroso nello 0-6 di Lipsia, il difensore paga il carico di minuti dopo lo stop, non il debutto in nazionale.",
+  "body": [
    "Nnamdi Collins, 22 anni, ha vissuto una giornata nerissima a Lipsia. Al debutto stagionale da titolare, nello 0-6 dell'Eintracht ha deluso su tutta la linea: prima del secondo gol si è fatto spostare con troppa facilità da Antonio Nusa, prima del quinto ha subito un tunnel. Il giornale gli ha dato il voto più basso.",
    "Soprattutto il contrasto perso sullo 0-2 non è da lui: di solito è considerato un difensore robusto e atletico, ma quelle qualità si sono viste di rado ultimamente. In molti pensano che pesi ancora il brutto esordio in nazionale, lo 0-2 in Slovacchia del settembre dello scorso anno.",
    "L'allenatore Adi Hütter non è d'accordo: secondo lui quella partita non è più un pensiero per il giocatore, è passato un anno e sarebbe davvero tanto se ci rimuginasse ancora. La causa, per il tecnico austriaco, è il carico di lavoro. Durante la sosta Collins ha giocato 90 minuti nell'amichevole vinta 4-0 contro il Braunschweig, poi altri 90 con l'Under 21, e di nuovo l'intera partita a Lipsia.",
@@ -7149,7 +7197,7 @@
  {
   "id": "kane-dopo-il-3-3-ora-tocca-a-noi-reagire",
   "section": "so-sportbild",
-  "rank": 24,
+  "rank": 28,
   "tag": "Champions League",
   "source": "Sport Bild",
   "story": "kane-dopo-il-3-3-ora-tocca-a-noi-reagire",
@@ -7167,7 +7215,7 @@
  {
   "id": "kiel-walter-si-gioca-la-panchina-contro-la-capolista-hertha",
   "section": "so-sportbild",
-  "rank": 25,
+  "rank": 29,
   "tag": "2. Bundesliga",
   "source": "Sport Bild",
   "story": "kiel-walter-si-gioca-la-panchina-contro-la-capolista-hertha",
@@ -7186,7 +7234,7 @@
  {
   "id": "barometro-dei-tifosi-il-bayern-e-campione-di-gradimento",
   "section": "so-sportbild",
-  "rank": 26,
+  "rank": 30,
   "tag": "Bundesliga",
   "source": "Sport Bild",
   "story": "barometro-dei-tifosi-il-bayern-e-campione-di-gradimento",
@@ -7205,7 +7253,7 @@
  {
   "id": "werder-hein-si-racconta-dalla-quasi-partenza-ai-ricordi-dell-estonia",
   "section": "so-sportbild",
-  "rank": 27,
+  "rank": 31,
   "tag": "Bundesliga",
   "source": "Sport Bild",
   "story": "werder-hein-si-racconta-dalla-quasi-partenza-ai-ricordi-dell-estonia",
