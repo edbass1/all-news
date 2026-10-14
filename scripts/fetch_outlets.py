@@ -37,6 +37,16 @@ def scrape(cfg):
         t=re.sub(r"\s+"," ",html.unescape(re.sub("<[^>]+>"," ",m.group(2)))).strip()
         seen.add(p); out.append({"title":t,"desc":"","link":urljoin(cfg["url"],p),"date":""})
     return out
+def fresh(d,days=4):
+    """Scarta voci RSS più vecchie di `days` giorni (feed fermi o archivi)."""
+    from email.utils import parsedate_to_datetime; import datetime
+    if not d: return True
+    try: t=parsedate_to_datetime(d)
+    except Exception:
+        try: t=datetime.datetime.fromisoformat(d.replace("Z","+00:00"))
+        except Exception: return True
+    if t.tzinfo is None: t=t.replace(tzinfo=datetime.timezone.utc)
+    return (datetime.datetime.now(datetime.timezone.utc)-t).days<=days
 def ptitle(u):
     try:
         b=raw(u).decode("utf8","replace"); m=re.search(r'<meta[^>]+property="og:title"[^>]+content="([^"]+)"',b) or re.search(r"<title>(.*?)</title>",b,re.S)
@@ -51,6 +61,7 @@ def outlet(o):
         for typ,u in src:
             try:
                 for it in (items(u) if typ=="rss" else scrape(u)):
+                    if not fresh(it.get("date","")): continue
                     if not it["title"]: it["title"]=ptitle(it["link"])
                     if k=="op" and o.get("op_match") and typ=="rss" and u in o.get("news",[]) and not re.search(o["op_match"],it["link"]): continue
                     if k=="news" and o.get("op_match") and re.search(o["op_match"],it["link"]): continue

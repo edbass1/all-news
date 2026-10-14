@@ -296,14 +296,16 @@
   "label": "Corriere della Sera",
   "country": "Italia",
   "tab": "italia",
-  "news": [
-   "https://xml2.corriereobjects.it/rss/homepage.xml",
-   "https://xml2.corriereobjects.it/rss/politica.xml"
-  ],
-  "op": [
-   "https://xml2.corriereobjects.it/rss/editoriali.xml",
-   "https://xml2.corriereobjects.it/rss/opinioni.xml"
-  ]
+  "news": [],
+  "op": [],
+  "html": {
+   "url": "https://www.corriere.it/",
+   "re": "^/(politica|esteri|cronache|economia|salute|scuola|tecnologia)/\\d\\d_[a-z]+_\\d\\d/[a-z0-9-]+\\.shtml$"
+  },
+  "html_op": {
+   "url": "https://www.corriere.it/",
+   "re": "^/(opinioni|editoriali)/\\d\\d_[a-z]+_\\d\\d/[a-z0-9-]+\\.shtml$"
+  }
  },
  {
   "key": "italiaoggi",
