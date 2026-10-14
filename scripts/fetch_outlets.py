@@ -6,7 +6,7 @@ import json,re,sys,html,gzip,urllib.request,concurrent.futures as cf,xml.etree.E
 N=int(sys.argv[1]) if len(sys.argv)>1 else 12
 O=[o for o in json.load(open("data/outlets.json")) if len(sys.argv)<3 or o.get("tab")==sys.argv[2]]
 US=re.compile(r"\b(nfl|nba|mlb|nhl|wnba|ncaa|college|super bowl|touchdown|quarterback|baseball|basketball|hockey|playoffs? (nfl|nba)|yankees|dodgers|lakers|celtics|knicks|warriors|cowboys|chiefs|eagles|patriots|packers|49ers|steelers|ravens|jets|giants|mets|cubs|red sox|nba finals|world series|stanley cup|march madness|fantasy football|heisman|draft pick|nba draft|nfl draft)\b",re.I)
-UA={"User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/124 Safari/537.36","Accept-Language":"it,en;q=0.8"}
+UA={"User-Agent":"Mozilla/5.0 (X11; Linux x86_64) Chrome/120","Accept-Language":"it,en;q=0.8"}
 def raw(u):
     r=urllib.request.urlopen(urllib.request.Request(u,headers=UA),timeout=20).read()
     return gzip.decompress(r) if r[:2]==b"\x1f\x8b" else r

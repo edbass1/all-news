@@ -32,7 +32,8 @@
    "https://www.espn.co.uk/espn/rss/football/news"
   ],
   "op": [],
-  "tab": "sport"
+  "tab": "sport",
+  "note": "Contenuti non disponibili al momento: i feed di ESPN non sono accessibili."
  },
  {
   "key": "si",
@@ -42,7 +43,8 @@
    "https://www.si.com/feed"
   ],
   "op": [],
-  "tab": "sport"
+  "tab": "sport",
+  "note": "Al momento Sports Illustrated pubblica soprattutto sport americani, esclusi da questa sezione."
  },
  {
   "key": "cbs",
@@ -74,7 +76,8 @@
    "https://www.telegraph.co.uk/football/rss.xml"
   ],
   "op": [],
-  "tab": "sport"
+  "tab": "sport",
+  "note": "Contenuti non disponibili al momento: The Telegraph richiede abbonamento."
  },
  {
   "key": "independent",
@@ -240,7 +243,8 @@
    "https://www.tycsports.com/rss.xml"
   ],
   "op": [],
-  "tab": "sport"
+  "tab": "sport",
+  "note": "Contenuti non disponibili al momento."
  },
  {
   "key": "ge",
@@ -463,5 +467,162 @@
    "https://www.quotidianocanavese.it/feed/"
   ],
   "op": []
+ },
+ {
+  "key": "w-guardian",
+  "label": "The Guardian",
+  "country": "Regno Unito",
+  "tab": "mondo",
+  "news": [
+   "https://www.theguardian.com/world/rss"
+  ],
+  "op": [
+   "https://www.theguardian.com/uk/commentisfree/rss"
+  ]
+ },
+ {
+  "key": "w-mirror",
+  "label": "Daily Mirror",
+  "country": "Regno Unito",
+  "tab": "mondo",
+  "news": [
+   "https://www.mirror.co.uk/news/world-news/?service=rss",
+   "https://www.mirror.co.uk/news/?service=rss"
+  ],
+  "op": []
+ },
+ {
+  "key": "w-sun",
+  "label": "The Sun",
+  "country": "Regno Unito",
+  "tab": "mondo",
+  "news": [
+   "https://www.thesun.co.uk/news/worldnews/feed/",
+   "https://www.thesun.co.uk/news/feed/"
+  ],
+  "op": []
+ },
+ {
+  "key": "w-nydn",
+  "label": "Daily News",
+  "country": "USA",
+  "tab": "mondo",
+  "news": [
+   "https://www.nydailynews.com/feed/"
+  ],
+  "op": [
+   "https://www.nydailynews.com/opinion/feed/"
+  ],
+  "note": "Contenuti non disponibili al momento: il sito del Daily News blocca l'accesso automatico."
+ },
+ {
+  "key": "w-observer",
+  "label": "The Observer",
+  "country": "Regno Unito",
+  "tab": "mondo",
+  "news": [],
+  "op": [],
+  "html": {
+   "url": "https://observer.co.uk/",
+   "re": "^/news/[a-z0-9/-]{25,}$"
+  },
+  "html_op": {
+   "url": "https://observer.co.uk/",
+   "re": "^/(comment|opinion|columnists?)/[a-z0-9/-]{20,}$"
+  }
+ },
+ {
+  "key": "w-liberation",
+  "label": "Libération",
+  "country": "Francia",
+  "tab": "mondo",
+  "news": [
+   "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml"
+  ],
+  "op": [
+   "https://www.liberation.fr/arc/outboundfeeds/rss/category/idees-et-debats/?outputType=xml"
+  ]
+ },
+ {
+  "key": "w-independent",
+  "label": "The Independent",
+  "country": "Regno Unito",
+  "tab": "mondo",
+  "news": [
+   "https://www.independent.co.uk/news/world/rss"
+  ],
+  "op": [
+   "https://www.independent.co.uk/voices/rss"
+  ]
+ },
+ {
+  "key": "w-lemonde",
+  "label": "Le Monde",
+  "country": "Francia",
+  "tab": "mondo",
+  "news": [
+   "https://www.lemonde.fr/rss/une.xml"
+  ],
+  "op": [
+   "https://www.lemonde.fr/idees/rss_full.xml"
+  ]
+ },
+ {
+  "key": "w-elpais",
+  "label": "El País",
+  "country": "Spagna",
+  "tab": "mondo",
+  "news": [
+   "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"
+  ],
+  "op": [
+   "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/opinion/portada"
+  ]
+ },
+ {
+  "key": "w-standard",
+  "label": "Der Standard",
+  "country": "Austria",
+  "tab": "mondo",
+  "news": [
+   "https://www.derstandard.at/rss"
+  ],
+  "op": [],
+  "op_match": "/kommentar|/userkommentar|/meinung"
+ },
+ {
+  "key": "w-volkskrant",
+  "label": "de Volkskrant",
+  "country": "Paesi Bassi",
+  "tab": "mondo",
+  "news": [
+   "https://www.volkskrant.nl/voorpagina/rss.xml"
+  ],
+  "op": [],
+  "op_match": "columns-opinie|/opinie/"
+ },
+ {
+  "key": "w-politiken",
+  "label": "Politiken",
+  "country": "Danimarca",
+  "tab": "mondo",
+  "news": [
+   "https://politiken.dk/rss/senestenyt.rss"
+  ],
+  "op": [
+   "https://politiken.dk/rss/debat.rss"
+  ]
+ },
+ {
+  "key": "w-nyt",
+  "label": "The New York Times",
+  "country": "USA",
+  "tab": "mondo",
+  "news": [
+   "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+  ],
+  "op": [
+   "https://rss.nytimes.com/services/xml/rss/nyt/Opinion.xml"
+  ]
  }
 ]
