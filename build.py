@@ -11,7 +11,8 @@ TABS=[("italia","Italia",[("it-news","Prima pagina"),("it-op","Editoriali e opin
 SECN={k:n for _,_,s in TABS for k,n in s}
 now=datetime.datetime.now().strftime("%d/%m/%Y %H:%M")
 FZ="var Z=+localStorage.getItem('anfs')||17;function ap(){document.querySelector('article').style.setProperty('--fs',Z+'px')}function fz(d){Z=Math.min(26,Math.max(13,Z+d*2));localStorage.setItem('anfs',Z);ap()}ap()"
-CSS=""".fs{float:right;display:flex;gap:6px}.fs button{background:#18181c;color:#ddd;border:1px solid #333;border-radius:4px;padding:3px 9px;font:600 13px Arial,sans-serif;cursor:pointer}.fs button:hover{color:#fff;border-color:#ff2d55}article>p{font-size:var(--fs,17px)}
+CSS=""".srcb{display:inline-block;margin-left:8px;padding:1px 7px;border:1px solid #3a3a40;border-radius:3px;background:#1a1a1e;color:#cfcfd4;font:600 10px/1.6 Arial,sans-serif;letter-spacing:.5px;text-transform:none;vertical-align:middle}
+.fs{float:right;display:flex;gap:6px}.fs button{background:#18181c;color:#ddd;border:1px solid #333;border-radius:4px;padding:3px 9px;font:600 13px Arial,sans-serif;cursor:pointer}.fs button:hover{color:#fff;border-color:#ff2d55}article>p{font-size:var(--fs,17px)}
 .top{background:#111114;border-bottom:1px solid #26262b}.top .in{max-width:1200px;margin:auto;display:flex;align-items:stretch;padding:0 24px;height:60px}
 .top .logo{display:flex;align-items:center;gap:6px;font:700 22px 'Space Grotesk',Arial,sans-serif;color:#fff;letter-spacing:1px;padding-right:28px;border-right:1px solid #26262b}.top .logo span{background:#ff2d55;color:#fff;padding:2px 7px;border-radius:3px}
 .top .bar{display:flex;margin-left:8px}.top .bar button{display:flex;align-items:center;background:none;border:0;border-bottom:3px solid transparent;cursor:pointer;padding:0 22px;font:500 13px 'Space Grotesk',Arial,sans-serif;letter-spacing:2px;text-transform:uppercase;color:#9a9aa2}.top .bar button.on{color:#fff;border-bottom-color:#ff2d55;background:#18181c}.top .bar button:hover{color:#fff}
@@ -44,7 +45,7 @@ def head(t,root,bar=True):
 FOOT="""</main><footer>ALL NEWS · Aggiornamento automatico ogni ora · Tutti gli articoli sono sintesi originali, riscritte e tradotte in italiano dalla redazione · Le testate di origine sono citate in calce</footer>"""
 def card(a,cls="",rel=()):
     r="".join(f'<div><b>›</b> {e(x["title"])}</div>' for x in rel)
-    return f'<a class="card {cls}" href="a/{a["id"]}.html"><div class="meta"><span class="tag">{e(a["tag"])}</span>{e(a["source"].split(",")[0])}</div><h3>{e(a["title"])}</h3><p>{e(a["summary"])}</p>{"<div class=rel>"+r+"</div>" if r else ""}</a>'
+    return f'<a class="card {cls}" href="a/{a["id"]}.html"><div class="meta"><span class="tag">{e(a["tag"])}</span><span class="srcb">{e(a["source"].split(",")[0])}</span></div><h3>{e(a["title"])}</h3><p>{e(a["summary"])}</p>{"<div class=rel>"+r+"</div>" if r else ""}</a>'
 shutil.rmtree("docs",ignore_errors=True); os.makedirs("docs/a")
 open("docs/style.css","w").write(CSS); open("docs/.nojekyll","w").close()
 body=""
@@ -70,5 +71,5 @@ for a in A:
     p="".join(f"<p>{e(x)}</p>" for x in a["body"])
     rel=[x for x in A if x["story"]==a["story"] and x["id"]!=a["id"] and x["section"]==a["section"]]
     rl="".join(f'<div><b>›</b> <a href="{x["id"]}.html">{e(x["title"])}</a></div>' for x in rel)
-    open(f"docs/a/{a['id']}.html","w").write(head(e(a["title"])+" – ALL NEWS","../",False)+f"""<article><div class="fs"><button onclick="fz(-1)" aria-label="Riduci testo">A−</button><button onclick="fz(1)" aria-label="Ingrandisci testo">A+</button></div><div class="meta"><span class="tag">{e(a['tag'])}</span>{SECN[a['section']]} · {d(a['date'])}</div><h1>{e(a['title'])}</h1><p class="lede">{e(a['summary'])}</p>{p}{'<div class="rel"><b>Sullo stesso tema</b>'+rl+'</div>' if rl else ''}<div class="src">Fonti: {e(a['source'])} · {d(a['date'])}<br>Sintesi originale riscritta{' e tradotta' if not a['section'].startswith('it') else ''} in italiano dalla redazione di ALL NEWS.</div></article>"""+FOOT+"<script>"+FZ+"</script></body></html>")
+    open(f"docs/a/{a['id']}.html","w").write(head(e(a["title"])+" – ALL NEWS","../",False)+f"""<article><div class="fs"><button onclick="fz(-1)" aria-label="Riduci testo">A−</button><button onclick="fz(1)" aria-label="Ingrandisci testo">A+</button></div><div class="meta"><span class="tag">{e(a['tag'])}</span>{SECN[a['section']]} · {d(a['date'])}<span class="srcb">{e(a['source'])}</span></div><h1>{e(a['title'])}</h1><p class="lede">{e(a['summary'])}</p>{p}{'<div class="rel"><b>Sullo stesso tema</b>'+rl+'</div>' if rl else ''}<div class="src">Fonti: {e(a['source'])} · {d(a['date'])}<br>Sintesi originale riscritta{' e tradotta' if not a['section'].startswith('it') else ''} in italiano dalla redazione di ALL NEWS.</div></article>"""+FOOT+"<script>"+FZ+"</script></body></html>")
 print(len(A),"articoli")
