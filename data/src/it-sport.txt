@@ -1,8 +1,8 @@
-@Champions League|ANSA, Adnkronos|roma-real||live-big
-Champions League, la Roma batte il Real Madrid 2-1 all'Olimpico
-Successo giallorosso nella seconda giornata della fase campionato: Malen firma il gol del nuovo vantaggio.
-All'Olimpico la Roma ha superato il Real Madrid per 2-1 nella seconda giornata della fase a campionato della Champions League. A riportare avanti i giallorossi è stato Malen.
-La serata è stata segnata anche da un momento di apprensione per Koné, che si è accasciato al 16' portandosi la maglia sul volto ed è stato sostituito da Pisilli.
+@Champions League|AS, Sport, El País, Globo Esporte|roma-real||live-big
+Champions League, rimonta del Real Madrid all'Olimpico: Roma battuta 4-3
+I giallorossi erano avanti 3-1 al minuto 80, poi Espí, Endrick e Rüdiger ribaltano tutto in sette minuti.
+Il Real Madrid ha vinto 4-3 sul campo della Roma nella seconda giornata della fase a campionato della Champions League. De Roon aveva portato avanti i giallorossi e Malen, con una doppietta convalidata anche dal Var, aveva fissato il 3-1.
+Negli ultimi minuti i gol di Carlos Espí, Endrick e Rüdiger hanno completato la rimonta spagnola. In avvio di gara c'era stata apprensione per Koné, che si è accasciato al 16' ed è stato sostituito da Pisilli.
 
 @Champions League|Adnkronos|roma-real
 L'Olimpico rende omaggio a Mourinho: cori, striscioni e un bacio alla Curva Sud
