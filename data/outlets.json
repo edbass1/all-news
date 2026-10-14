@@ -1,0 +1,467 @@
+[
+ {
+  "key": "guardian",
+  "label": "The Guardian Sport",
+  "country": "Regno Unito",
+  "news": [
+   "https://www.theguardian.com/uk/sport/rss",
+   "https://www.theguardian.com/football/rss"
+  ],
+  "op": [
+   "https://www.theguardian.com/sport/blog/rss"
+  ],
+  "tab": "sport"
+ },
+ {
+  "key": "athletic",
+  "label": "The Athletic",
+  "country": "USA/Regno Unito",
+  "news": [
+   "https://www.nytimes.com/athletic/rss/football/",
+   "https://www.nytimes.com/athletic/rss/news/"
+  ],
+  "op": [],
+  "tab": "sport"
+ },
+ {
+  "key": "espn",
+  "label": "ESPN",
+  "country": "USA",
+  "news": [
+   "https://www.espn.com/espn/rss/soccer/news",
+   "https://www.espn.co.uk/espn/rss/football/news"
+  ],
+  "op": [],
+  "tab": "sport"
+ },
+ {
+  "key": "si",
+  "label": "Sports Illustrated",
+  "country": "USA",
+  "news": [
+   "https://www.si.com/feed"
+  ],
+  "op": [],
+  "tab": "sport"
+ },
+ {
+  "key": "cbs",
+  "label": "CBS Sports",
+  "country": "USA",
+  "news": [
+   "https://www.cbssports.com/rss/headlines/soccer/"
+  ],
+  "op": [],
+  "tab": "sport"
+ },
+ {
+  "key": "bbc",
+  "label": "BBC Sport",
+  "country": "Regno Unito",
+  "news": [
+   "https://feeds.bbci.co.uk/sport/rss.xml",
+   "https://feeds.bbci.co.uk/sport/football/rss.xml"
+  ],
+  "op": [],
+  "tab": "sport"
+ },
+ {
+  "key": "telegraph",
+  "label": "The Telegraph Sport",
+  "country": "Regno Unito",
+  "news": [
+   "https://www.telegraph.co.uk/sport/rss.xml",
+   "https://www.telegraph.co.uk/football/rss.xml"
+  ],
+  "op": [],
+  "tab": "sport"
+ },
+ {
+  "key": "independent",
+  "label": "The Independent Sport",
+  "country": "Regno Unito",
+  "news": [
+   "https://www.independent.co.uk/sport/football/rss",
+   "https://www.independent.co.uk/sport/rss"
+  ],
+  "op": [],
+  "tab": "sport"
+ },
+ {
+  "key": "lequipe",
+  "label": "L'Équipe",
+  "country": "Francia",
+  "news": [
+   "https://dwh.lequipe.fr/api/edito/rss?path=/",
+   "https://dwh.lequipe.fr/api/edito/rss?path=/Football/"
+  ],
+  "op": [],
+  "tab": "sport"
+ },
+ {
+  "key": "sofoot",
+  "label": "So Foot",
+  "country": "Francia",
+  "news": [
+   "https://www.sofoot.com/rss"
+  ],
+  "op": [],
+  "tab": "sport"
+ },
+ {
+  "key": "francefootball",
+  "label": "France Football",
+  "country": "Francia",
+  "news": [
+   "https://dwh.lequipe.fr/api/edito/rss?path=/France-football/"
+  ],
+  "op": [],
+  "tab": "sport"
+ },
+ {
+  "key": "marca",
+  "label": "Marca",
+  "country": "Spagna",
+  "news": [
+   "https://e00-marca.uecdn.es/rss/portada.xml",
+   "https://e00-marca.uecdn.es/rss/futbol/primera-division.xml"
+  ],
+  "op": [
+   "https://e00-marca.uecdn.es/rss/opinion.xml"
+  ],
+  "tab": "sport"
+ },
+ {
+  "key": "as",
+  "label": "AS",
+  "country": "Spagna",
+  "news": [
+   "https://feeds.as.com/mrss-s/pages/as/site/as.com/portada/"
+  ],
+  "op": [
+   "https://feeds.as.com/mrss-s/pages/as/site/as.com/section/opinion/portada/"
+  ],
+  "tab": "sport"
+ },
+ {
+  "key": "md",
+  "label": "Mundo Deportivo",
+  "country": "Spagna",
+  "news": [
+   "https://www.mundodeportivo.com/rss/home",
+   "https://www.mundodeportivo.com/rss/futbol"
+  ],
+  "op": [
+   "https://www.mundodeportivo.com/rss/opinion"
+  ],
+  "tab": "sport"
+ },
+ {
+  "key": "sport",
+  "label": "Sport",
+  "country": "Spagna",
+  "news": [
+   "https://www.sport.es/es/rss/last-news/news.xml"
+  ],
+  "op": [
+   "https://www.sport.es/es/rss/opinion/rss.xml"
+  ],
+  "tab": "sport"
+ },
+ {
+  "key": "relevo",
+  "label": "Relevo",
+  "country": "Spagna",
+  "news": [
+   "https://www.relevo.com/rss/"
+  ],
+  "op": [],
+  "tab": "sport"
+ },
+ {
+  "key": "kicker",
+  "label": "Kicker",
+  "country": "Germania",
+  "news": [
+   "https://newsfeed.kicker.de/news/aktuell",
+   "https://newsfeed.kicker.de/news/fussball"
+  ],
+  "op": [],
+  "tab": "sport"
+ },
+ {
+  "key": "sportbild",
+  "label": "Sport Bild",
+  "country": "Germania",
+  "news": [
+   "https://www.bild.de/rss-feeds/rss-16725492,feed=sport.bild.html"
+  ],
+  "op": [],
+  "tab": "sport"
+ },
+ {
+  "key": "abola",
+  "label": "A Bola",
+  "country": "Portogallo",
+  "news": [
+   "https://www.abola.pt/rss-articles.xml"
+  ],
+  "op": [],
+  "tab": "sport"
+ },
+ {
+  "key": "record",
+  "label": "Record",
+  "country": "Portogallo",
+  "news": [
+   "https://www.record.pt/rss"
+  ],
+  "op": [],
+  "tab": "sport"
+ },
+ {
+  "key": "ole",
+  "label": "Olé",
+  "country": "Argentina",
+  "news": [
+   "https://www.ole.com.ar/rss/ultimas-noticias/",
+   "https://www.ole.com.ar/rss/futbol-primera/"
+  ],
+  "op": [
+   "https://www.ole.com.ar/rss/opinion/"
+  ],
+  "tab": "sport"
+ },
+ {
+  "key": "tyc",
+  "label": "TyC Sports",
+  "country": "Argentina",
+  "news": [
+   "https://www.tycsports.com/rss.xml"
+  ],
+  "op": [],
+  "tab": "sport"
+ },
+ {
+  "key": "ge",
+  "label": "Globo Esporte",
+  "country": "Brasile",
+  "news": [
+   "https://ge.globo.com/rss/ge/",
+   "https://ge.globo.com/rss/ge/futebol/"
+  ],
+  "op": [],
+  "tab": "sport"
+ },
+ {
+  "key": "uol",
+  "label": "UOL Esporte",
+  "country": "Brasile",
+  "news": [
+   "https://rss.uol.com.br/feed/esporte.xml"
+  ],
+  "op": [],
+  "tab": "sport"
+ },
+ {
+  "key": "fotomac",
+  "label": "Fotomaç",
+  "country": "Turchia",
+  "news": [
+   "https://www.fotomac.com.tr/rss/anasayfa.xml"
+  ],
+  "op": [
+   "https://www.fotomac.com.tr/rss/yazarlar.xml"
+  ],
+  "tab": "sport"
+ },
+ {
+  "key": "fatto",
+  "label": "Il Fatto Quotidiano",
+  "country": "Italia",
+  "tab": "italia",
+  "news": [
+   "https://www.ilfattoquotidiano.it/feed/"
+  ],
+  "op": [
+   "https://www.ilfattoquotidiano.it/category/blog/feed/"
+  ]
+ },
+ {
+  "key": "corriere",
+  "label": "Corriere della Sera",
+  "country": "Italia",
+  "tab": "italia",
+  "news": [
+   "https://xml2.corriereobjects.it/rss/homepage.xml",
+   "https://xml2.corriereobjects.it/rss/politica.xml"
+  ],
+  "op": [
+   "https://xml2.corriereobjects.it/rss/editoriali.xml",
+   "https://xml2.corriereobjects.it/rss/opinioni.xml"
+  ]
+ },
+ {
+  "key": "italiaoggi",
+  "label": "Italia Oggi",
+  "country": "Italia",
+  "tab": "italia",
+  "news": [],
+  "op": [],
+  "html": {
+   "url": "https://www.italiaoggi.it/",
+   "re": "^/(economia-e-politica|diritto-e-fisco|settori|enti-locali-e-pa|ordini-e-professioni|marketing-e-media)/[a-z0-9/-]{30,}-[a-z0-9]{8}$"
+  }
+ },
+ {
+  "key": "internazionale",
+  "label": "Internazionale",
+  "country": "Italia",
+  "tab": "italia",
+  "news": [
+   "https://www.internazionale.it/sitemaps/rss.xml"
+  ],
+  "op": [],
+  "op_match": "/opinione/"
+ },
+ {
+  "key": "manifesto",
+  "label": "Il Manifesto",
+  "country": "Italia",
+  "tab": "italia",
+  "news": [
+   "https://ilmanifesto.it/feed"
+  ],
+  "op": [],
+  "html_op": {
+   "url": "https://ilmanifesto.it/sezioni/commenti",
+   "re": "^/(?!buon-compleanno|le-novita|scarica-le-app|dichiarazione-di)[a-z0-9-]{30,}$"
+  }
+ },
+ {
+  "key": "mowmag",
+  "label": "MOW Mag",
+  "country": "Italia",
+  "tab": "italia",
+  "news": [],
+  "op": [],
+  "html": {
+   "url": "https://www.mowmag.com/",
+   "re": "^/(attualita|sport|culture)/[a-z0-9-]{25,}$"
+  },
+  "html_op": {
+   "url": "https://www.mowmag.com/opinioni/be-folk",
+   "re": "^/attualita/[a-z0-9-]{25,}$"
+  }
+ },
+ {
+  "key": "to0",
+  "label": "La Stampa",
+  "country": "Torino",
+  "tab": "torino",
+  "pool": true,
+  "news": [
+   "https://www.lastampa.it/torino/rss"
+  ],
+  "op": []
+ },
+ {
+  "key": "to1",
+  "label": "La Sentinella del Canavese",
+  "country": "Torino",
+  "tab": "torino",
+  "pool": true,
+  "news": [
+   "https://www.lasentinella.it/feed/"
+  ],
+  "op": []
+ },
+ {
+  "key": "to2",
+  "label": "TorinoToday",
+  "country": "Torino",
+  "tab": "torino",
+  "pool": true,
+  "news": [
+   "https://www.torinotoday.it/rss"
+  ],
+  "op": []
+ },
+ {
+  "key": "to3",
+  "label": "Torino Oggi",
+  "country": "Torino",
+  "tab": "torino",
+  "pool": true,
+  "news": [
+   "https://www.torinoggi.it/rss.xml"
+  ],
+  "op": []
+ },
+ {
+  "key": "to4",
+  "label": "Quotidiano Piemontese",
+  "country": "Torino",
+  "tab": "torino",
+  "pool": true,
+  "news": [
+   "https://www.quotidianopiemontese.it/feed/"
+  ],
+  "op": []
+ },
+ {
+  "key": "to5",
+  "label": "il Torinese",
+  "country": "Torino",
+  "tab": "torino",
+  "pool": true,
+  "news": [
+   "https://www.iltorinese.it/feed/"
+  ],
+  "op": []
+ },
+ {
+  "key": "to6",
+  "label": "La Voce",
+  "country": "Torino",
+  "tab": "torino",
+  "pool": true,
+  "news": [
+   "https://www.giornalelavoce.it/sezioni/268/rss"
+  ],
+  "op": []
+ },
+ {
+  "key": "to7",
+  "label": "Chivasso Oggi",
+  "country": "Torino",
+  "tab": "torino",
+  "pool": true,
+  "news": [
+   "https://www.chivassooggi.it/feed/"
+  ],
+  "op": []
+ },
+ {
+  "key": "to8",
+  "label": "La Nuova Periferia",
+  "country": "Torino",
+  "tab": "torino",
+  "pool": true,
+  "news": [
+   "https://www.lanuovaperiferia.it/feed/"
+  ],
+  "op": []
+ },
+ {
+  "key": "to9",
+  "label": "Quotidiano Canavese",
+  "country": "Torino",
+  "tab": "torino",
+  "pool": true,
+  "news": [
+   "https://www.quotidianocanavese.it/feed/"
+  ],
+  "op": []
+ }
+]
