@@ -93,4 +93,9 @@ for a in A:
     rel=[x for x in A if x["story"]==a["story"] and x["id"]!=a["id"] and x["section"]==a["section"]]
     rl="".join(f'<div><b>›</b> <a href="{x["id"]}.html">{e(x["title"])}</a></div>' for x in rel)
     open(f"docs/a/{a['id']}.html","w").write(head(e(a["title"])+" – ALL NEWS","../",False)+f"""<article><div class="fs"><button onclick="fz(-1)" aria-label="Riduci testo">A−</button><button onclick="fz(1)" aria-label="Ingrandisci testo">A+</button></div><div class="meta"><span class="tag">{e(a['tag'])}</span>{SECN[a['section']]} · {d(a['date'])}<span class="srcb">{e(a['source'])}</span></div><h1>{e(a['title'])}</h1><p class="lede">{e(a['summary'])}</p>{p}{'<div class="rel"><b>Sullo stesso tema</b>'+rl+'</div>' if rl else ''}<div class="src">Fonti: {e(a['source'])} · {d(a['date'])}<br>Sintesi originale riscritta{' e tradotta' if not a['section'].startswith('it') else ''} in italiano dalla redazione di ALL NEWS.</div></article>"""+FOOT+"<script>"+FZ+"</script></body></html>")
-print(len(A),"articoli")
+import sys; sys.path.insert(0,"scripts"); from slugs import update
+SM=update(A)
+for s,t in SM["redirects"].items():
+    u=f"{t}.html" if t else "../index.html"
+    open(f"docs/a/{s}.html","w").write(f'<!doctype html><html lang="it"><head><meta charset="utf-8"><meta http-equiv="refresh" content="0;url={u}"><link rel="canonical" href="{u}"><title>ALL NEWS</title></head><body style="background:#0a0a0c;color:#ccc;font-family:Arial"><p>Questo articolo è stato spostato: <a href="{u}">continua qui</a>.</p></body></html>')
+print(len(A),"articoli,",len(SM["redirects"]),"redirect")

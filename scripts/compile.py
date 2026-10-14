@@ -13,4 +13,12 @@ for f in sorted(glob.glob("data/src/*.txt")):
         date=(h[3] if len(h)>3 else "") or None; live=h[4] if len(h)>4 else ""
         i=slug(L[1]); o=old.get(i,{})
         out.append({"id":i,"section":sec,"rank":rank,"tag":tag,"source":src,"story":story or i,"title":L[1],"summary":L[2],"body":L[3:],"date":date or o.get("date",today),"first_seen":o.get("first_seen",today),"live":live})
+# slug stabili: se un titolo cambia, l'articolo mantiene il vecchio ID (URL) pubblicato
+import sys; sys.path.insert(0,"scripts"); from slugs import best
+newids={a["id"] for a in out}; gone=[o for i,o in old.items() if i not in newids]
+for a in out:
+    if a["id"] in old or not gone: continue
+    m=best(a,[dict(g,section=g["section"]) for g in gone if g["section"]==a["section"]])
+    if m and m not in {x["id"] for x in out}:
+        a["id"]=m; a["first_seen"]=old[m]["first_seen"]; gone=[g for g in gone if g["id"]!=m]
 json.dump(out,open("data/articles.json","w"),ensure_ascii=False,indent=1); print(len(out),"articoli")

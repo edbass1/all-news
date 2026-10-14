@@ -34,3 +34,9 @@ Articoli con la stessa `story-key` sono raggruppati: il primo è la notizia prin
 6. Verifica: `grep -rE 'href="https?://' docs` deve essere vuoto (nessun link esterno).
 7. `git add -A && git diff --cached --quiet || (git commit -m "Aggiornamento $(date +%F\ %H:%M)" && git push)` — se non è cambiato nulla nei contenuti, non si committa (nota: il timestamp in `docs/` cambia a ogni build, quindi eseguire build e commit solo se `data/src` è cambiato: `git diff --quiet data/src || ...`).
 8. Controllare che https://edbass1.github.io/all-news/ risponda 200.
+
+## URL stabili (slug)
+- `data/slugs.json`: `published` = tutti gli slug mai pubblicati; `redirects` = vecchio slug → slug attuale (vuoto = pagina iniziale).
+- `scripts/compile.py`: se un articolo cambia titolo, mantiene il vecchio ID/URL (match per sezione + somiglianza titolo/sommario ≥ 0,25). **Comunque: non cambiare i titoli degli articoli già pubblicati.**
+- `build.py` aggiorna `slugs.json` e genera in `docs/a/<vecchio>.html` una pagina di redirect (meta refresh, link relativo) per ogni slug pubblicato che non esiste più. Committare sempre `data/slugs.json`.
+- Recupero dalla storia git: `python3 scripts/slugs.py --history`.
