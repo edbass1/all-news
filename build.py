@@ -13,6 +13,14 @@ COLS={"it-news":"#ff2d55","it-op":"#ff9f0a","it-sport":"#30d158","it-opsport":"#
 now=datetime.datetime.now().strftime("%d/%m/%Y %H:%M")
 FZ="var Z=+localStorage.getItem('anfs')||17;function ap(){document.querySelector('article').style.setProperty('--fs',Z+'px')}function fz(d){Z=Math.min(26,Math.max(13,Z+d*2));localStorage.setItem('anfs',Z);ap()}ap()"
 CSS="""
+.sb{display:flex;justify-content:space-between;align-items:stretch;border-bottom:1px solid #26262b;margin:6px 0 4px}
+.sb button{background:none;border:0;border-bottom:4px solid transparent;color:#8a8a92;cursor:pointer;font:800 20px Arial,sans-serif;padding:10px 4px 8px;letter-spacing:.3px}
+.sb button.on{color:var(--k);border-bottom-color:var(--k)}.sb button:hover{color:#fff}
+.sv{display:none}.sv.on{display:block}
+#up{position:fixed;right:20px;bottom:20px;z-index:50;background:#ff2d55;color:#fff;border:0;border-radius:999px;padding:10px 16px;font:700 14px Arial,sans-serif;cursor:pointer;box-shadow:0 4px 14px #0008;opacity:0;pointer-events:none;transform:translateY(10px);transition:.2s}
+#up.on{opacity:1;pointer-events:auto;transform:none}
+@media(max-width:560px){.sb button{font-size:16px}#up{right:12px;bottom:12px;padding:9px 14px}}
+
 .blk{display:grid;grid-template-columns:170px 1fr;gap:20px;border-top:4px solid var(--k);padding:12px 0 26px}.bh{margin:0;font:800 22px/1.15 Arial,sans-serif;color:var(--k)}
 .bg{display:grid;grid-template-columns:repeat(4,1fr);grid-auto-flow:dense;gap:1px;background:#222;border:1px solid #222}
 .bg .card{background:#121215;border:0;border-top:2px solid var(--k);border-radius:0;padding:12px 14px;grid-column:auto}.bg .card:hover{background:#18181c;border-color:var(--k)}
@@ -46,8 +54,10 @@ article{max-width:760px;margin:30px auto}article h1{color:#fff;font:800 38px/1.1
 .src{margin-top:36px;border-top:1px solid #333;padding-top:12px;font:13px Arial,sans-serif;color:#888}
 footer{text-align:center;color:#666;font:12px Arial,sans-serif;padding:30px;border-top:1px solid #222}
 @media(max-width:640px){.card.big{grid-column:auto}}"""
-JS="""function sh(t){document.querySelectorAll('.tab').forEach(x=>x.classList.toggle('on',x.id==t));document.querySelectorAll('.bar button').forEach(x=>x.classList.toggle('on',x.dataset.t==t));history.replaceState(null,'','#'+t)}
-var h=location.hash.slice(1);sh(['italia','mondo','sport'].includes(h)?h:'italia')"""
+JS="""function sh(t,v){v=v||'n';document.querySelectorAll('.tab').forEach(x=>x.classList.toggle('on',x.dataset.k==t));document.querySelectorAll('.bar button').forEach(x=>x.classList.toggle('on',x.dataset.t==t));var T=document.querySelector('.tab[data-k='+t+']');T.querySelectorAll('.sv').forEach(x=>x.classList.toggle('on',x.dataset.v==v));T.querySelectorAll('.sb button').forEach(x=>x.classList.toggle('on',x.dataset.v==v));history.replaceState(null,'','#'+t+(v=='o'?'-opinioni':''))}
+function sv(v){sh(document.querySelector('.tab.on').dataset.k,v);scrollTo(0,0)}
+var h=location.hash.slice(1).split('-');sh(['italia','mondo','sport'].includes(h[0])?h[0]:'italia',h[1]=='opinioni'?'o':'n');scrollTo(0,0)
+var U=document.getElementById('up');addEventListener('scroll',function(){U.classList.toggle('on',scrollY>600)})"""
 def head(t,root,bar=True):
     b="".join(f'<button data-t="{k}" onclick="sh(\'{k}\')">{n}</button>' for k,n,_ in TABS) if bar else "".join(f'<button onclick="location.href=\'{root}index.html#{k}\'">{n}</button>' for k,n,_ in TABS)
     return f"""<!doctype html><html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{t}</title><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&display=swap"><link rel="stylesheet" href="{root}style.css"></head><body>
@@ -60,7 +70,8 @@ shutil.rmtree("docs",ignore_errors=True); os.makedirs("docs/a")
 open("docs/style.css","w").write(CSS); open("docs/.nojekyll","w").close()
 body=""
 for k,n,secs in TABS:
-    body+=f'<div class="tab" id="{k}">'
+    body+=f'<div class="tab" data-k="{k}"><div class="sb" style="--k:{COLS.get(secs[0][0])}"><button data-v="n" onclick="sv(\'n\')">{secs[0][1]}</button><button data-v="o" onclick="sv(\'o\')" style="--k:{COLS.get(next(s for s,_ in secs if "op" in s))}">Opinioni</button></div>'
+    V={'n':'','o':''}
     for s,sn in secs:
         L=sorted([a for a in A if a["section"]==s],key=lambda a:a["rank"])
         if not L: continue
@@ -74,9 +85,9 @@ for k,n,secs in TABS:
             i=len(cards); cls=("q small" if lv=="live-big" else "q" if i==0 else "")+(" op" if "op" in s else "")
             cards.append(card(a,cls,rel))
         bx='<div class="briefs"><h4>Risultati e dirette in breve</h4>'+"".join(briefs)+"</div>" if briefs else ""
-        body+=f'<section class="blk" style="--k:{COLS.get(s,"#ff2d55")}"><h2 class="bh">{sn}</h2><div><div class="bg">'+"".join(cards)+f"</div>{bx}</div></section>"
-    body+="</div>"
-open("docs/index.html","w").write(head("ALL NEWS – Italia, Mondo, Sport","")+body+FOOT+f"<script>{JS}</script></body></html>")
+        V['o' if 'op' in s else 'n']+=f'<section class="blk" style="--k:{COLS.get(s,"#ff2d55")}"><h2 class="bh">{sn}</h2><div><div class="bg">'+"".join(cards)+f"</div>{bx}</div></section>"
+    body+=f'<div class="sv" data-v="n">{V["n"]}</div><div class="sv" data-v="o">{V["o"]}</div></div>'
+open("docs/index.html","w").write(head("ALL NEWS – Italia, Mondo, Sport","")+body+FOOT+'<button id="up" onclick="scrollTo({top:0,behavior:\'smooth\'})" aria-label="Torna su">↑ Su</button>'+f"<script>{JS}</script></body></html>")
 for a in A:
     p="".join(f"<p>{e(x)}</p>" for x in a["body"])
     rel=[x for x in A if x["story"]==a["story"] and x["id"]!=a["id"] and x["section"]==a["section"]]
