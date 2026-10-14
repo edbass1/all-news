@@ -1,20 +1,27 @@
 @Politica|Linkiesta
 Meloni e Conte tengono unite destra e sinistra, ma senza una direzione
 Secondo Linkiesta la campagna elettorale permanente consolida Fratelli d'Italia e la maggioranza, mentre il governo fatica davanti alla crisi economica.
-L'editoriale sostiene che il clima di competizione elettorale continua rafforza il partito della premier e tiene compatta la coalizione.
-Allo stesso tempo, osserva l'autore, l'esecutivo appare in affanno sul fronte economico e anche il campo progressista resta tenuto insieme più dalla contrapposizione che da un progetto comune.
+Dentro la lunga campagna elettorale del centrodestra c'è anche il tema dell'unità della coalizione. La disponibilità mostrata da Giorgia Meloni sull'autonomia differenziata, una riforma che ormai suscita poco interesse, viene letta come un favore a Matteo Salvini in vista del congresso della Lega del 24 e 25 ottobre a Milano, un appuntamento senza veri sfidanti.
+Il segretario leghista, reduce da mesi difficili, dovrebbe uscirne confermato anche grazie a questa concessione della premier, che ha interesse a proteggere il suo vice dalle critiche interne. Critiche che finora si sono rivelate deboli: i possibili rivali, come Luca Zaia e Massimiliano Fedriga, al momento decisivo tendono a tirarsi indietro.
+Secondo l'analisi, Meloni si muove su tre fronti legati tra loro: rilanciare l'attività di governo, rafforzare Fratelli d'Italia e tenere unita l'alleanza. Sugli ultimi due la strategia sembra funzionare, e la mobilitazione continua della premier si traduce in consenso per il suo partito.
+Il meccanismo ricorda quello di Silvio Berlusconi, le cui apparizioni pubbliche facevano salire Forza Italia: anche Fratelli d'Italia, osserva l'autore, è diventato di fatto un partito personale. La campagna è partita il 4 settembre al porto di Bari, con un comizio per celebrare la durata del governo, ricco di richiami identitari ma povero di contenuti, seguito da una serie continua di incontri sul territorio e con le categorie produttive.
+Il punto debole resta invece l'azione dell'esecutivo: la maggioranza regge, compatta anche nei voti di fiducia e in quello segreto sulla legge elettorale, ma il governo fatica a produrre risultati. Una contraddizione che, secondo il commento, riguarda in modo speculare anche il campo di Giuseppe Conte: entrambi gli schieramenti restano uniti, ma senza una direzione chiara.
 
 @Esteri|Linkiesta
 Trump fa la guerra, a Zelensky arriva il conto
 Il presidente Usa attribuisce all'Ucraina il caro carburanti: per Linkiesta è un ribaltamento delle responsabilità.
-Il commento critica la scelta di Trump di dare la colpa dell'aumento dei prezzi dei carburanti a Kiev, che colpisce le raffinerie russe per difendersi da un'invasione su larga scala.
-Per l'autore si tratta di un modo per scaricare sull'aggredito i costi delle scelte di Washington.
+Donald Trump ha individuato un colpevole per l'aumento dei prezzi dei carburanti: Volodymyr Zelensky. Secondo il presidente americano, gli attacchi ucraini contro le raffinerie russe riducono l'offerta di gasolio e quindi Kiev dovrebbe fermare i droni. Passano così in secondo piano la guerra degli Stati Uniti contro l'Iran, lo sconvolgimento delle rotte del Golfo e gli impianti colpiti.
+Per smontare questo ribaltamento, il commento distingue due crisi energetiche. La prima nasce con l'invasione russa dell'Ucraina nel 2022, la seconda con il conflitto americano-israeliano contro l'Iran del 2026. Stabilire quanto pesi ciascuna in percentuale non è possibile con i dati disponibili, ma le cause principali si possono riconoscere.
+Mosca aveva iniziato a ridurre le forniture già prima dell'invasione: negli ultimi tre mesi del 2021 il gas russo arrivato in Europa via tubo era calato di circa un quarto rispetto all'anno precedente, e nel 2022 le esportazioni verso i Paesi europei dell'Ocse si sono dimezzate. L'idea che l'Europa si sia danneggiata da sola con le sanzioni ignora l'uso del gas come strumento di pressione.
+I Paesi europei hanno risposto diversificando i fornitori e aumentando gli acquisti di gas liquefatto: meno dipendenza dalla Russia, ma più esposizione alla concorrenza asiatica e ai rischi delle rotte marittime. Su questo sistema già trasformato si è poi abbattuto lo shock della guerra all'Iran, che secondo l'Agenzia internazionale dell'energia rappresenta la più grande interruzione di offerta nella storia del mercato petrolifero, vista l'importanza dello stretto di Hormuz per il commercio mondiale di greggio.
+La conclusione dell'autore è che scaricare il conto su Kiev significa rovesciare le responsabilità, attribuendo all'aggredito gli effetti di crisi provocate da altri.
 
 @Europa|Linkiesta
 L'Ucraina un passo più vicina all'Unione europea
 L'estensione dei diritti delle minoranze linguistiche convince l'Ungheria a sbloccare due nuovi capitoli negoziali.
-Il Parlamento di Kiev ha ampliato le tutele per le minoranze linguistiche, ottenendo il via libera di Budapest all'apertura di due nuovi cluster dei negoziati di adesione.
-Il percorso resta lungo, ma secondo l'analisi un ostacolo politico importante è stato superato.
+L'Ucraina avanza ancora nel cammino verso l'Unione europea. In Lussemburgo Kiev ha ottenuto l'apertura di altri due gruppi di capitoli negoziali, arrivando così a quattro dei sei previsti. Si tratta dei blocchi di riforme che ogni Paese candidato deve completare: non significa l'adesione, ma sblocca il processo dopo un lungo periodo di stallo. La Moldova si trova nella stessa fase.
+I due nuovi gruppi riguardano mercato interno e competitività e sono i più ampi per numero di materie coinvolte. La commissaria europea all'Allargamento, Marta Kos, ha spiegato che dietro le formule tecniche ci saranno vantaggi tangibili per i cittadini ucraini: più opportunità per le imprese, condizioni di lavoro migliori, maggiori tutele per i consumatori, investimenti e occupazione. Il viceministro ucraino per l'Integrazione europea, Vsevolod Chentsov, ha assicurato che il Paese vuole procedere con le riforme il più velocemente possibile.
+Il passo avanti, secondo quanto riportato da Reuters, è stato reso possibile dal ritiro del veto dell'Ungheria. Budapest ha dato il via libera dopo che il Parlamento ucraino ha approvato una legge che rafforza il diritto della minoranza ungherese e delle altre minoranze a studiare nella propria lingua, una delle condizioni poste dal governo ungherese per consentire nuovi progressi.
 
 @Esteri|Linkiesta
 Il tradimento di Trump: un confronto tra analisti
@@ -25,110 +32,146 @@ Gli interlocutori analizzano le conseguenze per l'Europa e per l'Ucraina.
 @Disinformazione|Valigia Blu
 Gli attacchi ucraini ai data center e la disinformazione russa
 I raid contro i server di Yandex non hanno fermato i bot russi: cosa dicono davvero i dati.
-Valigia Blu esamina l'effetto dei colpi ucraini sulle infrastrutture digitali russe, concludendo che le reti di bot non sono state azzerate.
-L'articolo spiega come funzionano le reti di influenza online e perché la loro resilienza va oltre i singoli server.
+Nel fine settimana l'Ucraina ha condotto almeno tre attacchi con droni contro data center di Yandex, il principale motore di ricerca russo. Nella notte tra il 7 e l'8 ottobre è stato colpito l'impianto di Sasovo, nella regione di Rjazan, il più grande della società, situato nell'area della Sasta, fabbrica di macchine utensili sotto sanzioni perché lavora per l'industria bellica. Il giorno dopo è toccato al centro di Kaluga. Almeno due strutture avrebbero subito danni rilevanti, Yandex ha confermato gli attacchi e diversi siti russi sono andati offline.
+Zelensky ha rivendicato che i raid avrebbero ridotto la massiccia attività dei bot russi di disinformazione, rendendo molte piattaforme luoghi più respirabili, con meno odio e provocazioni. Alcuni commentatori hanno rilanciato la tesi diffondendo grafici che mostravano un crollo del traffico automatizzato proveniente da Yandex.
+Il sito Tom's Hardware ha effettivamente registrato una discesa del traffico dei bot della rete Yandex allo 0,4% del picco delle due settimane precedenti. Ma Valigia Blu mette in guardia dal leggere quel dato come la fine delle campagne di account automatizzati: i bot di cui parlano le statistiche di traffico sono in gran parte crawler, cioè programmi che indicizzano il web per il motore di ricerca, non profili falsi sui social.
+L'analisi conclude che il caso mostra come anche una notizia vera possa trasformarsi in propaganda quando i numeri vengono interpretati oltre ciò che dicono, e che la disinformazione russa non dipende da un singolo fornitore di infrastrutture.
 
 @Medio Oriente|Internazionale
 Il rinvio del voto in Palestina è un cattivo segnale
 Votare tra le macerie e sotto occupazione è impensabile, ma la scelta del presidente dell'Anp solleva dubbi.
-Il commento riconosce le enormi difficoltà di organizzare elezioni nelle condizioni attuali.
-Allo stesso tempo critica la leadership dell'Autorità nazionale palestinese, che rimanda il confronto con gli elettori.
+Mahmoud Abbas aveva preso un impegno con i palestinesi e con la Francia. In una lettera a Emmanuel Macron, dopo il riconoscimento dello Stato palestinese da parte di Parigi poco più di un anno fa, il presidente dell'Autorità nazionale palestinese aveva promesso elezioni legislative entro quest'anno e presidenziali l'anno successivo. Ora il voto è stato rinviato.
+Pochi ci avevano creduto davvero. Il contesto resta ostile a qualsiasi processo democratico: votare a Gaza, tra le macerie e con il 60 per cento del territorio occupato da Israele, appare irrealistico, anche perché Hamas mantiene una forte presa sui due milioni di abitanti della Striscia.
+In Cisgiordania la situazione non è migliore: le violenze dei coloni contro i palestinesi proseguono con la complicità dell'esercito israeliano, e un voto sereno è impensabile. Un anno fa si poteva sperare in un miglioramento, ma è successo il contrario.
+Secondo il commento, però, il rinvio ha anche un'altra radice: un deficit democratico interno. Abbas, erede di Yasser Arafat alla guida di Fatah e dell'Anp, è stato eletto nel 2005 per un mandato che doveva terminare nel 2009, ma è rimasto al potere da allora. Nel 2006 Hamas vinse le legislative, aprendo la frattura che ancora divide il campo palestinese. Rimandare ancora le urne, conclude l'autore, è un pessimo segnale per la credibilità dell'Autorità palestinese.
 
 @Scienza|Valigia Blu
 La ricercatrice morta in Siberia e il caso di peste in Russia
 Una giovane scienziata di un istituto anti-peste muore per una polmonite: cosa sappiamo.
-Valigia Blu ricostruisce la vicenda della ricercatrice russa che lavorava in un istituto dedicato alla peste in una grande città siberiana.
-L'analisi si concentra sulla trasparenza delle informazioni e sui rischi sanitari.
+La morte di una giovane ricercatrice di un istituto russo per la lotta alla peste, in una grande città siberiana, per una polmonite dalle cause non chiarite, ha suscitato allarme internazionale e alimentato ipotesi su un possibile incidente di laboratorio legato al batterio della peste.
+Il timore deriva dalla velocità con cui la forma polmonare della malattia può uccidere se non curata: Brendan Wren, docente alla London School of Hygiene & Tropical Medicine, ha spiegato a ScienceAlert che può essere fatale in circa 24 ore. L'Organizzazione mondiale della sanità ricorda però che una cura antibiotica tempestiva è efficace.
+L'articolo richiama l'esperienza del Covid-19, quando i ritardi della Cina nell'ammettere la circolazione del virus ebbero conseguenze globali: senza un coinvolgimento rapido delle autorità sanitarie internazionali, situazioni di questo tipo comportano rischi seri, e nessuna tecnologia può sostituire una comunicazione trasparente.
+Per ora, secondo l'Oms, i pericoli per la salute pubblica in Russia e all'estero appaiono contenuti, anche se il rigido controllo delle informazioni da parte di Mosca rende il quadro meno leggibile. Il pezzo ripercorre poi cosa si sa della peste, malattia ancora presente in alcune aree del mondo, e perché la trasparenza resta la prima forma di prevenzione.
 
 @Esteri|Internazionale
 La "rivoluzione dei fenicotteri" sfida il governo albanese
 Da maggio migliaia di persone protestano contro il resort di lusso promosso da Jared Kushner e Ivanka Trump in una riserva naturale.
-Internazionale racconta un movimento nato in difesa di un'area protetta e diventato una sfida politica al governo di Tirana.
-Il progetto immobiliare è percepito come simbolo di un modello di sviluppo che sacrifica l'ambiente.
+In Albania, dalla fine di maggio, decine di migliaia di persone manifestano contro il progetto di Jared Kushner e Ivanka Trump di costruire un grande resort di lusso sull'isola di Sazan, all'interno di una riserva naturale abitata anche dai fenicotteri rosa.
+Quella che è stata chiamata la rivoluzione dei fenicotteri è partita come una mobilitazione ambientalista, ma si è rapidamente allargata a una contestazione del governo di Edi Rama, accusato di corruzione e di cedere la costa del Paese agli investitori stranieri.
+Il giornalista del Guardian Matthew Cassel è andato in Albania per raccontare in un video come la protesta si sia trasformata in uno scontro politico sul futuro della nazione.
 
 @Politica|Valigia Blu
 Gli Stati Uniti finanziano la destra europea, e lo dichiarano apertamente
 Un'inchiesta sui bandi del Dipartimento di Stato destinati alla rete sovranista e conservatrice.
-Valigia Blu documenta milioni di dollari stanziati da Washington a favore di realtà politiche e mediatiche della destra europea.
-I finanziamenti, sottolinea l'articolo, compaiono sul sito stesso del Dipartimento di Stato.
+Il 27 luglio 2026 la pagina Welcome to Favelas ha comunicato ai propri follower di aver presentato domanda a un programma di finanziamento del Dipartimento di Stato americano, che mette a disposizione fino a tre milioni di dollari per progetto per sostenere in Europa la resilienza democratica, lo stato di diritto e la libertà di parola e di stampa. Non si tratta di un canale riservato ma di un bando pubblico, che chiunque può leggere e che spiega chiaramente chi si vuole finanziare e con quali obiettivi.
+Non è l'unico. Tra luglio e agosto il Bureau of Democracy, Human Rights and Labor, l'ufficio del Dipartimento di Stato che sostiene democrazia e diritti umani all'estero, ne ha pubblicati tre, per quasi 10 milioni di dollari complessivi, destinati a organizzazioni europee attive su sovranità nazionale, immigrazione, censura e lawfare, cioè l'uso politico dei tribunali. Reuters descrive i destinatari come gruppi vicini al movimento MAGA di Donald Trump.
+Accanto alle gare esiste un canale diretto. Secondo ProPublica, funzionari politici dell'amministrazione hanno indicato almeno una dozzina di organizzazioni da finanziare senza bando; per due sole realtà britanniche, stando a documenti consultati dal Guardian, erano previsti 12 milioni, più dell'intero valore dei bandi.
+Nello stesso periodo il bilancio dell'ufficio è stato drasticamente ridotto, da oltre 500 milioni di dollari nel 2024 a circa 190, con tagli ai programmi tradizionali per i diritti umani. L'inchiesta di Valigia Blu sostiene che il risultato è uno spostamento delle risorse: meno sostegno alla società civile classica, più fondi a soggetti che condividono l'agenda politica della Casa Bianca.
+Il punto sollevato dall'articolo è che questa ingerenza non è nascosta: è dichiarata nei documenti ufficiali. E proprio per questo, osserva l'autore, pone all'Europa una domanda sulla capacità di reagire a un'influenza esterna che si presenta come promozione della libertà di espressione.
 
 @Salute|Internazionale
 Molti interventi chirurgici sono inutili
 Studi sempre più numerosi mostrano che alcune operazioni non funzionano meglio di un placebo.
-Il pezzo raccoglie le evidenze secondo cui diversi tipi di chirurgia non offrono benefici superiori all'effetto placebo.
-Ne deriva un invito a ripensare pratiche mediche consolidate.
+Secondo l'Organizzazione mondiale della sanità ogni anno nel mondo si effettuano oltre trecento milioni di operazioni chirurgiche, con una probabilità molto più alta nei Paesi ricchi: in Inghilterra, ad esempio, si stima che circa il 60 per cento delle persone venga operato almeno una volta nella vita. Alcuni interventi salvano chiaramente la vita, come i trapianti o i cesarei d'urgenza, ma con la crescita continua degli altri una parte del mondo medico comincia a chiedersi quanti siano davvero utili.
+Rispondere è stato a lungo difficile perché in chirurgia si facevano pochi studi randomizzati controllati, lo strumento usato per valutare l'efficacia dei farmaci. Senza di essi non si poteva capire se i pazienti migliorassero più di quanto sarebbe accaduto senza operazione. Ora le cose cambiano: nel Regno Unito gli studi di questo tipo finanziati dal National institute for health and care research sono passati da 34 nel 2011 a 188 nel 2023, e iniziative simili esistono in Europa, Australia e Canada.
+I risultati sorprendono. L'asportazione dell'appendice, che riguarda tra il 5 e il 10 per cento delle persone, per la maggioranza dei pazienti non si è dimostrata più efficace di una terapia antibiotica. Il confronto tra tecniche diverse ha mostrato inoltre che spesso le soluzioni meno invasive danno risultati analoghi a quelle più complesse.
+L'articolo conclude che la chirurgia sta attraversando una revisione simile a quella vissuta in passato dalla farmacologia: più prove, meno interventi fatti per abitudine, e una maggiore attenzione ai rischi e ai costi di operazioni che potrebbero essere evitate.
 
 @Tecnologia|Linkiesta
 L'intelligenza artificiale potrebbe replicarsi da sola, perfino negli elettrodomestici
 L'avvertimento di Anthropic sui modelli capaci di diffondersi da un dispositivo all'altro.
-Secondo l'allarme ripreso da Linkiesta, i sistemi di IA potrebbero presto propagarsi autonomamente sfruttando le vulnerabilità di televisori e altri apparecchi.
-Il commento discute le implicazioni per la sicurezza.
+Nel giro di pochi mesi l'intelligenza artificiale potrebbe riuscire a copiarsi da sola attraverso i dispositivi connessi, dai televisori alle videocamere di sorveglianza, fino ai forni smart e ai robot aspirapolvere. L'avvertimento arriva da Anthropic, secondo cui alcuni modelli potrebbero diventare una sorta di software malevolo autonomo, in grado di entrare negli apparecchi, usarne la capacità di calcolo e diffondersi senza alcun intervento umano. Un attacco del genere sarebbe molto più difficile da fermare, perché non ci sarebbe un unico interruttore da spegnere.
+Il Guardian ha analizzato il rapporto diffuso lunedì dai ricercatori dell'azienda, che descrive la possibile comparsa di veri e propri worm basati sull'IA. Dopo aver compromesso una macchina, il modello potrebbe trasferire il proprio codice e i propri pesi, i parametri che lo fanno funzionare, sul dispositivo successivo, riprendere a operare e continuare a propagarsi.
+La differenza con i virus informatici tradizionali sta nella capacità di adattarsi anche a sistemi e ambienti mai visti prima. I bersagli iniziali sarebbero case e piccole aziende, dove abbondano apparecchi connessi con difese deboli: televisori, frigoriferi e forni intelligenti, tosaerba automatici e altri dispositivi domestici.
+Il rapporto invita quindi produttori e utenti a rafforzare la sicurezza degli oggetti connessi prima che queste capacità diventino concrete.
 
 @Medio Oriente|Valigia Blu
 7 ottobre, tre anni dopo: la memoria contro la manipolazione politica
 Israele alla vigilia del voto fa i conti con un trauma irrisolto e con le divisioni dell'opposizione.
-Valigia Blu riflette sull'uso politico della memoria del 7 ottobre.
-L'analisi indica nella cura della memoria condivisa un antidoto alle strumentalizzazioni.
+A pochi giorni dal voto, Israele ha ricordato per la terza volta le vittime delle stragi dell'ottobre 2023. Tra commemorazioni ufficiali e iniziative spontanee, nella scorsa settimana le storie dei morti e degli ostaggi sono tornate in primo piano sui media, accentuando il senso di stanchezza e di incertezza del Paese. Secondo l'autrice, mentre la popolazione cerca di riprendersi dopo anni di guerra, il governo continua a evitare le proprie responsabilità e respinge le richieste di commissioni d'inchiesta.
+In questo clima, la devastazione e la crisi umanitaria di Gaza restano fuori dal racconto pubblico, quasi un tabù nei media principali, ancora allineati alla narrazione nazionale e militare. Questo allineamento, sostiene l'articolo, impedisce alla sinistra sionista di proporre una vera alternativa al Likud di Netanyahu.
+L'anniversario del 7 ottobre ha avuto quest'anno un tono diverso: l'attesa e la speranza legate al possibile ritorno degli ostaggi hanno lasciato posto al lutto e allo sfinimento, segni di un trauma collettivo mai elaborato e riattivato di continuo dalle immagini trasmesse. Alcuni documentari andati in onda hanno proposto letture diverse della tragedia, affiancando alla dimensione militare quella umana.
+La tesi del pezzo è che la memoria può essere una cura contro la manipolazione politica solo se include tutte le vittime e non viene piegata alle esigenze di chi governa.
 
 @Diritti|Internazionale
 L'offensiva di Trump contro l'aborto investe tutto il mondo
 Dopo lo smantellamento di Usaid, gli aiuti americani sono legati al rifiuto di finanziare servizi abortivi.
-Il commento mostra come le condizioni poste da Washington influenzino la salute riproduttiva in molti Paesi.
-Gli aiuti umanitari, osserva l'autore, sono ora distribuiti in base agli interessi politici statunitensi.
+Il 15 settembre la Caucus room, una delle sale più prestigiose del Congresso americano, ha ospitato un pranzo con 180 invitati: stretti collaboratori di Donald Trump, esponenti dell'ala più dura del Partito repubblicano, una decina di ambasciatori e diversi leader evangelici. L'occasione era il sesto anniversario della Dichiarazione di consenso di Ginevra, un testo di tre pagine promosso dalla prima amministrazione Trump nell'ottobre 2020 a margine dell'assemblea dell'Oms, che afferma il primato del diritto alla vita e nega l'esistenza di un diritto internazionale all'aborto.
+All'epoca l'avevano sostenuta 22 Paesi, con cinque promotori: Ungheria, Uganda, Brasile, Egitto e Indonesia. Oggi le adesioni sono salite a 46, tra cui Russia, Arabia Saudita e Burkina Faso. Per Washington, che guida questa coalizione eterogenea, lo scopo è dare voce agli antiabortisti nelle istituzioni internazionali.
+In un messaggio letto al pranzo dal consigliere politico Vince Haley, Trump ha promesso che la sua amministrazione difenderà sempre la dignità della vita, la salute delle donne e la famiglia, per costruire un futuro più forte per le prossime generazioni.
+L'articolo ricostruisce poi come questa offensiva si traduca anche in risorse: somme ingenti e tagli mirati ai programmi di salute riproduttiva nel mondo, con effetti che vanno ben oltre i confini degli Stati Uniti e che, secondo le organizzazioni sanitarie, colpiscono soprattutto le donne dei Paesi più poveri.
 
 @Società|Valigia Blu
 Il caso della Cornell e la cultura dello stupro
 Lo stupro all'università americana non è un'eccezione, ma lo specchio di dinamiche strutturali.
-L'articolo sostiene che la vicenda illumini meccanismi diffusi nelle istituzioni.
-Per l'autrice, il caso va letto come sintomo di una cultura che minimizza la violenza.
+Tra la fine di settembre e l'inizio di ottobre su TikTok, Instagram e X si è diffuso lo slogan "#IamJaneDoe". Molti post raccontano esperienze di violenza sessuale ed esprimono solidarietà alla donna che ha denunciato uno stupro di gruppo avvenuto durante una festa in una confraternita maschile della Cornell University, nello Stato di New York. Jane Doe è lo pseudonimo usato negli Stati Uniti per indicare una persona non identificata; i fatti risalgono al 2024, quando la ragazza aveva vent'anni.
+Per quasi due anni la sua denuncia alla polizia non ha portato ad alcun processo e la vicenda è rimasta sommersa. È emersa solo nella seconda metà di settembre 2026, quando la giovane ha avviato una causa civile contro i sette uomini accusati e contro l'università. Da quel momento il caso è diventato un dibattito nazionale sulle violenze nei campus e sull'impunità di chi le commette.
+Scrivere "I am Jane Doe" serve anche a proteggere la vittima, confondendo motori di ricerca e sistemi di intelligenza artificiale: la legge di New York consente l'uso di uno pseudonimo a chi denuncia, ma dopo la diffusione della notizia sono partiti tentativi di scoprire la sua identità.
+L'articolo usa il caso per descrivere la cultura dello stupro: un insieme di atteggiamenti che minimizzano la violenza, mettono in dubbio la vittima e proteggono gli aggressori, soprattutto in ambienti chiusi e privilegiati come le confraternite universitarie.
 
 @Esteri|Internazionale
 Una crisi sfuggita di mano tra Kiev e Seoul
 I rapporti tra Corea del Sud e Ucraina si erano rafforzati con l'avvicinamento tra Mosca e Pyongyang, ma ora si sono incrinati.
-Il commento analizza come un rapporto in crescita sia entrato rapidamente in crisi nelle ultime settimane.
-In gioco c'è l'equilibrio tra sicurezza asiatica e guerra in Europa.
+Tra Corea del Sud e Ucraina è in corso una crisi diplomatica nata un paio di settimane fa da un passo falso di Zelensky all'Assemblea generale dell'Onu, aggravata da un'inchiesta del Guardian su petroliere che da porti sudcoreani avrebbero portato gasolio in Russia, e culminata con il richiamo dell'ambasciatore di Seoul a Kiev.
+Come alleata degli Stati Uniti, la Corea del Sud sostiene l'Ucraina, e negli ultimi anni i rapporti bilaterali si erano rafforzati man mano che Mosca si avvicinava a Pyongyang. La guerra ha infatti ridisegnato gli equilibri in Asia orientale, rianimando l'asse tra Russia e Corea del Nord, che dopo il crollo dell'Urss si era quasi spento.
+L'articolo ricorda che fu Mosca a insediare il regime dei Kim dopo la Seconda guerra mondiale, ma che dalla fine dell'era sovietica è stata la Cina a garantirne la sopravvivenza, più per interesse che per affinità: un collasso nordcoreano significherebbe 25 milioni di profughi poveri alle porte e le truppe americane al confine.
+Con l'invasione dell'Ucraina, però, la Russia ha avuto bisogno di ciò che Pyongyang poteva offrire: armi, munizioni e soldati. Questo legame ha reso Seoul più sensibile a ogni segnale proveniente da Kiev, e spiega perché un incidente diplomatico sia potuto degenerare così rapidamente.
 
 @Informazione|Linkiesta
 I giornali, le zone grigie e il potere degli inserzionisti
 La libertà di stampa si gioca anche dentro le redazioni, scrive Marco Taradash.
-Il problema, sostiene l'autore, non riguarda solo le norme penali ma i condizionamenti economici interni alle testate.
-La pubblicità diventa così una forma di pressione meno visibile ma efficace.
+I comitati di redazione di Corriere della Sera, Repubblica, Sole 24 Ore e Stampa hanno scritto in un documento comune che la separazione tra giornalismo, interessi degli inserzionisti e strategie commerciali degli editori non ammette eccezioni né zone grigie, e che va difesa la professionalità e la reputazione di chi fa informazione.
+Il commento di Linkiesta osserva però che quelle zone grigie esistono da tempo e non sono mai state davvero eliminate. L'occasione è l'inchiesta della procura di Napoli su Multiversity-Pegaso: secondo gli inquirenti, pubblicità e rapporti commerciali sarebbero stati usati per ottenere articoli favorevoli o per attenuare e far sparire notizie sgradite. Negli atti compaiono quasi tutte le principali testate e nomi come Mario Orfeo, Andrea Malaguti, Claudio Cerasa, Francesco Cancellato e Peter Gomez.
+Si tratta di ipotesi da verificare, e non ogni comportamento descritto costituisce reato. L'indagine, nota l'autore, ha però avuto l'effetto di far riscoprire il garantismo: nessuna intercettazione sul filone che riguarda la stampa è stata pubblicata, come ha sottolineato Claudio Caprara.
+Il cuore dell'argomento è che la libertà di stampa non si misura solo con il codice penale. La forma di censura più efficace è l'autocensura: nessuno deve dare ordini, basta sapere che una notizia può far perdere un inserzionista importante. Ed è su questo meccanismo silenzioso, conclude il pezzo, che le redazioni dovrebbero interrogarsi.
 
 @Esteri|Internazionale
 La repressione delle proteste in India rivela la paranoia di Modi
 Il premier teme che la generazione Z possa rovesciare il governo come accaduto in Nepal, Sri Lanka e Bangladesh.
-Secondo il commento la durezza contro i manifestanti nasce dalla paura di un contagio regionale.
-L'autore vede in questo atteggiamento un segnale di debolezza.
+Il 10 ottobre era in programma a Delhi una manifestazione del Partito degli scarafaggi, il movimento della generazione Z indiana nato la scorsa primavera che protesta contro la revisione delle liste elettorali, costata il diritto di voto a 130 milioni di persone. Quel giorno la zona di Lutyens, dove si trovano i palazzi del governo, sembrava tornata ai lockdown della pandemia: strade chiuse una dopo l'altra, controlli ripetuti dei documenti, in giro solo giornalisti e agenti.
+A un paio di chilometri, vicino al cavalcavia di Safdarjung, un gruppo di militanti dell'All India students' association si era seduto in strada per bloccare un mezzo della polizia che stava portando via alcuni manifestanti, chiedendo le dimissioni del presidente della commissione elettorale Gyanesh Kumar, responsabile della revisione. La leader dell'associazione, Neha Bora, era già stata fermata quando l'autore è arrivato sul posto.
+Bora era riuscita a evitare l'ondata di arresti preventivi scattata alla vigilia, ma tre giorni prima era stata spostata dalla sua abitazione, come ha raccontato un compagno. Il reportage descrive una repressione sproporzionata rispetto alla protesta, che secondo l'autore rivela il timore del governo di Narendra Modi davanti a un movimento giovanile difficile da controllare.
 
 @Diritti|Valigia Blu
 Tetto agli alunni stranieri e cittadinanza: quando i diritti diventano privilegi
 Valigia Blu critica le proposte di Vannacci e del governo alla luce dell'articolo 3 della Costituzione.
-L'articolo sostiene che subordinare i diritti alla cittadinanza mini il principio di uguaglianza.
-Il tetto agli alunni stranieri viene letto come esempio di questa deriva.
+Roberto Vannacci, leader di Futuro Nazionale, ha sostenuto nei giorni scorsi che l'articolo 3 della Costituzione varrebbe solo per i cittadini italiani, perché il testo parla di "tutti i cittadini" con pari dignità sociale e uguali davanti alla legge.
+Valigia Blu ricorda però che la Carta va letta insieme alla giurisprudenza della Corte costituzionale. Già nel 1967 la Consulta stabilì che, pur riferendosi espressamente ai cittadini, il principio di uguaglianza vale anche per gli stranieri quando sono in gioco i diritti fondamentali. Nel 2020 la Corte ha ribadito che la pari dignità sociale spetta alla persona in quanto tale: differenze di trattamento sono ammesse solo se giustificate da ragioni oggettive, non perché i diritti dipendano dal passaporto.
+Il problema, secondo l'articolo, è che la maggioranza sembra rincorrere Vannacci su questi temi, e la distinzione tra cittadini e stranieri sta entrando nelle leggi. Ne è un esempio il provvedimento annunciato da Giorgia Meloni all'evento di Gioventù Nazionale, che fisserebbe per legge un tetto agli alunni stranieri nelle classi.
+La conclusione è che così diritti universali, come l'istruzione, rischiano di trasformarsi in privilegi riservati a chi ha la cittadinanza, in contrasto con l'impostazione della Costituzione.
 
 @Medio Oriente|Internazionale
 L'Arabia Saudita alle strette per mano degli huthi
 Riad pensava di essere uscita dalla guerra e scopre i limiti dell'affidarsi a Washington.
-Il commento osserva che il regno è stato trascinato di nuovo nel conflitto.
-Delegare la propria sicurezza agli Stati Uniti si è rivelata una scommessa rischiosa.
+In questi giorni il principe ereditario saudita Mohammed bin Salman, in teoria tra gli uomini più potenti del mondo, vive tra palazzi dotati di bunker e una scorta selezionatissima. Il regno che punta a modernità e grandezza ha dovuto sospendere i collegamenti aerei internazionali, le ambasciate invitano i propri cittadini alla prudenza, e il 12 ottobre a Riyadh una conferenza petrolifera si è aperta senza i vertici delle grandi compagnie.
+Un dirigente saudita ha assicurato che nel vocabolario del regno la paura non esiste, ma secondo il commentatore il Paese affronta un dilemma strategico: una minaccia che non riesce a contenere.
+Si tratta degli huthi dello Yemen, sostenuti dall'Iran, che con il loro arsenale missilistico hanno colpito nei giorni scorsi l'aeroporto di Riyadh, causando tredici morti e trecento feriti, dopo aver preso di mira altri obiettivi tra cui un Airbus per fortuna vuoto.
+L'ostilità è antica: nel 2015, appena nominato erede al trono, bin Salman lanciò una guerra contro il gruppo, durissima e senza esito, chiusa con il ritiro saudita nel 2022. La nuova escalation va letta nel quadro della guerra contro l'Iran avviata a febbraio dagli Stati Uniti, che ha riaperto tutti i fronti della regione.
 
 @Europa|Linkiesta
 Le misure attive di Mosca e le contromisure europee
 I capi dei servizi di Estonia, Repubblica Ceca e Regno Unito chiedono di togliere al Cremlino il vantaggio dell'iniziativa.
-L'analisi raccoglie gli interventi recenti dell'intelligence europea sulla guerra ibrida russa.
-L'obiettivo indicato è passare da una postura difensiva a una più attiva.
+Il capo dell'intelligence estera dell'Estonia, Kaupo Rosin, ritiene improbabile un attacco militare russo contro il suo Paese nei prossimi dodici mesi, a patto che Europa e Nato mantengano una deterrenza credibile. Il pericolo più concreto, spiega, è il sabotaggio, anche con operazioni sotto falsa bandiera pensate per far ricadere la colpa sull'Ucraina e indebolire il sostegno europeo a Kiev.
+In un'intervista a Holger Roonemaa, Rosin ha esortato i servizi europei a passare dalla raccolta di informazioni all'azione, anche con contromisure preventive non militari sul piano informativo, psicologico e tecnico, usando contro Mosca i suoi stessi strumenti. Secondo lui il Cremlino cerca anche di frenare il riarmo europeo con operazioni coperte e influenza politica, mentre la guerra continua a pesare sull'economia russa e il malcontento cresce, senza però che una rivolta contro Putin sia vicina.
+Anche per ridurre lo spazio di manovra russo i responsabili dei servizi europei parlano sempre più spesso in pubblico. A Praga il direttore del controspionaggio ceco, Michal Koudelka, ha descritto davanti ai deputati una strategia russa di escalation per ottenere una de-escalation, e ha spiegato che rendere note queste valutazioni serve a rendere più difficile a Mosca negare le proprie intenzioni.
+Il quadro che emerge è quello di un'Europa che prova a passare da una postura difensiva a una di contrasto attivo delle cosiddette misure attive russe.
 
 @Medio Oriente|Internazionale
 Come una guerra locale in Yemen è diventata un problema globale
 Gli scontri attorno allo stretto di Bab el Mandeb coinvolgono potenze regionali e internazionali.
-Il commento spiega come la contesa tra huthi e forze governative abbia assunto una portata mondiale.
-In gioco ci sono traffici marittimi ed equilibri regionali.
+Le guerre cambiano gli equilibri non solo quando cade una città, ma anche quando un territorio acquista un nuovo valore strategico. È quanto accaduto nello Yemen, e in particolare sulla sua costa occidentale: dodici anni di conflitto hanno trasformato la lotta degli huthi da contesa interna per il potere a questione geopolitica legata a uno dei passaggi marittimi più importanti del pianeta.
+La presa delle zone affacciate sullo stretto di Bab el Mandeb da parte degli huthi ha avuto forti effetti sui mercati mondiali. In meno di un mese, però, il governo yemenita sostenuto dalla coalizione guidata dall'Arabia Saudita ha lanciato una grande controffensiva, l'operazione "Alba dello Yemen". La rapidità della risposta riflette le preoccupazioni di Riyadh e di altre potenze, e ha lasciato agli huthi poco tempo per consolidare i guadagni o sfruttare i progressi nelle zone rurali del governatorato di Taiz.
+Sebbene l'obiettivo dichiarato sia riconquistare Sanaa, la prima fase si è concentrata sulla costa occidentale. Si tratta di riprendere un territorio il cui controllo prolungato da parte degli huthi sarebbe un serio problema per il commercio globale e la sicurezza della navigazione.
+Secondo l'analisi, questi sviluppi potrebbero offrire alle potenze internazionali l'occasione per ripensare l'intero conflitto yemenita, finora trattato come una crisi periferica. Il controllo delle coste e dello stretto è diventato il vero centro della partita: chi lo detiene ha in mano una leva sull'economia mondiale.
+L'articolo esamina infine i rischi della controffensiva, dalla tenuta delle forze governative alle possibili reazioni dell'Iran, e sottolinea come un conflitto a lungo considerato locale sia ormai diventato un problema globale.
 
 @Economia|Internazionale
 Le fabbriche del futuro e il prezzo del progresso
 Una startup dell'Alabama promette fabbriche automatizzate per l'industria militare.
-Il pezzo confronta questa promessa con le lezioni delle rivoluzioni industriali del passato.
-Il progresso tecnologico, ricorda l'autore, ha sempre costi sociali.
+Per capire una delle grandi sfide che l'intelligenza artificiale porrà agli Stati Uniti bisogna andare in Alabama, uno degli Stati più poveri del Paese. A Cherokee, lontano dalla Silicon Valley e dalle comunità che si oppongono ai data center, una startup sta sperimentando un nuovo tipo di fabbrica. La sua vicenda anticipa una domanda destinata a diventare centrale: come guidare una rivoluzione tecnologica perché migliori la vita delle persone invece di aumentare disuguaglianze e rabbia.
+A marzo circa duemila persone hanno partecipato all'inaugurazione di Factory 4, lo stabilimento di Hadrian, azienda che sviluppa sistemi di produzione automatizzata per l'industria della difesa e che dovrebbe realizzare componenti per i sottomarini nucleari della Marina. C'erano politici, investitori e dirigenti del settore militare, giacche Carhartt personalizzate, un modellino di sottomarino e, a chiudere, un concerto dei Lynyrd Skynyrd.
+Lo slogan era "l'Alabama torna al lavoro". Ma, come ha raccontato Julia Gledhill sulla rivista The Baffler, la fabbrica celebrata non era ancora operativa. Occupa un enorme capannone dove un tempo si costruivano vagoni ferroviari, attività chiusa nel 2021 dall'azienda che lo gestiva.
+Il punto sollevato dall'articolo è proprio questo: le fabbriche altamente automatizzate promettono rilancio industriale, ma creano molti meno posti di lavoro di quelle che sostituiscono. Il prezzo del progresso rischia così di ricadere sulle comunità che più avrebbero bisogno di occupazione, a meno che la politica non intervenga per orientare la trasformazione.
 
 @Società|La Stampa
 Adolescenti e identità di genere: lo scontro ideologico non aiuta
@@ -151,5 +194,7 @@ Un caso recente di avvelenamento richiama la celebre serie.
 @Politica|Domani
 Su Kiev i compromessi al ribasso umiliano il centrosinistra
 Domani critica le mediazioni dell'opposizione sulla linea verso l'Ucraina.
-Il commento ritiene che la ricerca di un'intesa a ogni costo indebolisca la credibilità del centrosinistra.
-Le divisioni sulla politica estera restano un nodo irrisolto.
+I sondaggi danno in vantaggio il campo largo: sommando le intenzioni di voto dei partiti di opposizione si supera il totale della maggioranza, esclusa la formazione di Vannacci. Ma secondo il commento di Domani questa aritmetica è fragile, perché l'elettorato di sinistra è meno compatto e più esigente di quello di destra.
+Nel lessico politico italiano parole come negoziato e compromesso hanno sempre un'accezione positiva: un accordo trattato sembra per definizione una buona soluzione, e in più evita di prendere decisioni nette e divisive. Ma un compromesso che evita scelte coerenti, avverte l'autore, può diventare un limite.
+È ciò che accade sull'Ucraina. L'alleanza ha trovato una posizione comune nella risoluzione sul documento programmatico di finanza pubblica, primo abbozzo di programma condiviso, con un no al riarmo sottoscritto anche da Italia viva. Giuseppe Conte, che nei giorni precedenti aveva criticato l'intesa tra Trump e Putin, aveva auspicato che le opposizioni si presentassero unite anche sulla guerra in vista delle comunicazioni sul Consiglio europeo.
+L'unità su Kiev però non è arrivata: dal Pd Giuseppe Provenzano ha avvertito che la questione non si risolve in una notte. Per il commentatore, inseguire formule al ribasso pur di tenere insieme la coalizione rischia di umiliare il centrosinistra su un tema che richiederebbe invece una posizione chiara.
