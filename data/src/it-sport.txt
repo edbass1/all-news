@@ -1,4 +1,4 @@
-@Champions League|ANSA, Adnkronos|roma-real
+@Champions League|ANSA, Adnkronos|roma-real||live-big
 Champions League, la Roma batte il Real Madrid 2-1 all'Olimpico
 Successo giallorosso nella seconda giornata della fase campionato: Malen firma il gol del nuovo vantaggio.
 All'Olimpico la Roma ha superato il Real Madrid per 2-1 nella seconda giornata della fase a campionato della Champions League. A riportare avanti i giallorossi è stato Malen.
@@ -10,7 +10,7 @@ Il tecnico, tornato a Roma da avversario, è stato accolto con affetto dai tifos
 Sugli spalti sono comparsi striscioni e uno stendardo che ritrae José Mourinho con la Conference League vinta nel 2022.
 L'allenatore ha ricambiato mandando un bacio alla curva.
 
-@Champions League|ANSA, Sky Sport, Adnkronos|como
+@Champions League|ANSA, Sky Sport, Adnkronos|como||live
 Champions, il Como si illude con Diao poi crolla: il Feyenoord vince 3-2
 A Rotterdam i lariani passano in vantaggio ma vengono rimontati nella ripresa.
 Il Como era andato avanti con Diao, che però si è infortunato dopo il gol. Nel secondo tempo gli olandesi hanno ribaltato il risultato; sul 3-1 una sfortunata deviazione è finita sul palo e poi sulla gamba del portiere Sanchez, terminando in rete.
@@ -58,13 +58,13 @@ L'ex capitano vede l'Inter un gradino sopra ed esclude un ritorno nel club.
 Francesco Totti considera la Roma competitiva e attribuisce gran parte del merito all'allenatore. Ha speso parole di elogio anche per la Lazio.
 Su un suo rientro in società la risposta è stata netta: no.
 
-@Ciclismo|ANSA
+@Ciclismo|ANSA|||live
 Mondiali su pista, Ganna trascina l'Italia in finale nell'inseguimento a squadre
 Con Milan, Lamon e Magagnotti si giocherà l'oro contro la Danimarca.
 Il quartetto azzurro ha conquistato la finale; Ganna ha chiesto di recuperare bene per l'ultimo atto.
 Gli azzurri puntano al gradino più alto del podio.
 
-@Tennis|ANSA
+@Tennis|ANSA|||live
 Wuhan, Paolini agli ottavi e con Errani ai quarti di doppio
 L'azzurra supera Bartunkova; in doppio rimonta contro Mihalikova e Nicholls.
 In singolare Jasmine Paolini ha battuto la ceca Bartunkova e affronterà la britannica Kartal.

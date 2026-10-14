@@ -14,7 +14,7 @@ h2.sec span{background:#ff2d55;padding:3px 10px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:16px}
 .card{background:#131316;border:1px solid #232327;padding:16px;border-radius:6px;transition:.15s;display:block}.card:hover{border-color:#ff9f0a}
 .card.lead{grid-column:1/-1;padding:26px;background:linear-gradient(135deg,#1a1a1f,#101013)}.card.lead h3{font-size:32px}
-.card.big{grid-column:span 2}.card.big h3{font-size:24px}
+.card.lead.small{padding:16px}.card.lead.small h3{font-size:21px}.briefs{margin:14px 0 0;border:1px solid #232327;border-radius:6px;padding:10px 16px;font:14px Arial,sans-serif}.briefs h4{margin:0 0 6px;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:#888}.brief{display:block;padding:5px 0;border-top:1px solid #1d1d21;color:#ddd}.brief:hover{color:#fff}.brief .tag{margin-right:8px}.card.big{grid-column:span 2}.card.big h3{font-size:24px}
 .card h3{color:#fff;margin:6px 0;font:700 19px/1.25 Arial,sans-serif}.card p{margin:0;color:#aaa;font-size:15px}
 .meta{font:11px Arial,sans-serif;color:#888;text-transform:uppercase;letter-spacing:.5px}
 .tag{color:#ff9f0a;font-weight:800;margin-right:8px}

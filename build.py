@@ -26,7 +26,7 @@ h2.sec span{background:#ff2d55;padding:3px 10px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:16px}
 .card{background:#131316;border:1px solid #232327;padding:16px;border-radius:6px;transition:.15s;display:block}.card:hover{border-color:#ff9f0a}
 .card.lead{grid-column:1/-1;padding:26px;background:linear-gradient(135deg,#1a1a1f,#101013)}.card.lead h3{font-size:32px}
-.card.big{grid-column:span 2}.card.big h3{font-size:24px}
+.card.lead.small{padding:16px}.card.lead.small h3{font-size:21px}.briefs{margin:14px 0 0;border:1px solid #232327;border-radius:6px;padding:10px 16px;font:14px Arial,sans-serif}.briefs h4{margin:0 0 6px;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:#888}.brief{display:block;padding:5px 0;border-top:1px solid #1d1d21;color:#ddd}.brief:hover{color:#fff}.brief .tag{margin-right:8px}.card.big{grid-column:span 2}.card.big h3{font-size:24px}
 .card h3{color:#fff;margin:6px 0;font:700 19px/1.25 Arial,sans-serif}.card p{margin:0;color:#aaa;font-size:15px}
 .meta{font:11px Arial,sans-serif;color:#888;text-transform:uppercase;letter-spacing:.5px}
 .tag{color:#ff9f0a;font-weight:800;margin-right:8px}
@@ -54,13 +54,17 @@ for k,n,secs in TABS:
     for s,sn in secs:
         L=sorted([a for a in A if a["section"]==s],key=lambda a:a["rank"])
         if not L: continue
-        seen=set(); cards=[]
+        seen=set(); cards=[]; briefs=[]
         for a in L:
             if a["id"] in seen: continue
             rel=[x for x in L if x["story"]==a["story"] and x["id"]!=a["id"]]; seen|={x["id"] for x in rel}
-            i=len(cards); cls=("lead" if i==0 else "big" if i<3 else "")+(" op" if "op" in s else "")
+            lv=a.get("live","")
+            if lv=="live" or (lv=="live-big" and cards):
+                briefs.append(f'<a class="brief" href="a/{a["id"]}.html"><span class="tag">{e(a["tag"])}</span>{e(a["title"])}</a>'); continue
+            i=len(cards); cls=("lead small" if lv=="live-big" else "lead" if i==0 else "big" if i<3 else "")+(" op" if "op" in s else "")
             cards.append(card(a,cls,rel))
         body+=f'<h2 class="sec"><span>{sn}</span></h2><div class="grid">'+"".join(cards)+"</div>"
+        if briefs: body+='<div class="briefs"><h4>Risultati e dirette in breve</h4>'+"".join(briefs)+"</div>"
     body+="</div>"
 open("docs/index.html","w").write(head("ALL NEWS – Italia, Mondo, Sport","")+body+FOOT+f"<script>{JS}</script></body></html>")
 for a in A:

@@ -1,22 +1,22 @@
-@Champions League|L'Équipe, Guardian Sport, Olé|psg-city
+@Champions League|L'Équipe, Guardian Sport, Olé|psg-city||live-big
 Champions, il Psg stende il Manchester City: due gol in 99 secondi
 Désiré Doué, prima al tiro poi con l'assist, indirizza la sfida dell'Etihad nel primo quarto d'ora.
 Luis Enrique ha schierato Dembélé e Zaïre-Emery dal primo minuto, lasciando inizialmente in panchina Kvaratskhelia e João Neves. I parigini hanno colpito due volte in un minuto e mezzo.
 Sugli spalti c'era anche Pep Guardiola, tornato a Manchester per assistere alla partita contro la squadra di Luis Enrique.
 
-@Champions League|L'Équipe|psg-city
+@Champions League|L'Équipe|psg-city||live
 Youth League, anche i giovani del Psg battono il City
 Seconda vittoria per i semifinalisti della scorsa stagione.
 I ragazzi parigini si sono imposti in casa del Manchester City.
 Il Psg conferma il ruolo di favorito nella competizione giovanile.
 
-@Champions League|Guardian Sport, L'Équipe, Mundo Deportivo, Olé|
+@Champions League|Guardian Sport, L'Équipe, Mundo Deportivo, Olé|||live
 Tripletta di Barcola, il Liverpool travolge il Lask 6-3
 Primi gol con i Reds per l'attaccante francese arrivato in estate.
 Dopo lo 0-3 interno subito dal Manchester City, il Liverpool ha reagito in Austria con una prestazione travolgente; in gol anche Araujo.
 Mac Allister ha giocato pochi minuti; i Reds restano a punteggio pieno nella competizione europea.
 
-@Champions League|L'Équipe, Mundo Deportivo|
+@Champions League|L'Équipe, Mundo Deportivo|||live
 Lamine Yamal incanta: il Barcellona vince 4-1 a Istanbul
 Un assist geniale con una finta di rabona e la risposta social a Lemina.
 Il Barça, andato sotto, ha ribaltato il Galatasaray. L'Équipe analizza il passaggio decisivo del giovane talento.
@@ -70,7 +70,7 @@ Alcaraz, Djokovic e Zverev restano senza il torneo di Riad.
 L'esibizione era prevista dal 21 al 24 ottobre.
 Lo stop è legato alla situazione di sicurezza nella regione.
 
-@Tennis|BBC Sport|
+@Tennis|BBC Sport|||live
 Wuhan, Kartal sorprende Bencic, Sabalenka fuori
 La britannica vola al terzo turno.
 Sonay Kartal ha battuto la nona testa di serie.
@@ -82,7 +82,7 @@ Il più giovane dal 2007 a raggiungere gli ottavi in cinque tornei consecutivi.
 Il giovane spagnolo può diventare il più precoce di sempre.
 Un traguardo che lo accosta al serbo.
 
-@Cricket|Guardian Sport, ESPNcricinfo|
+@Cricket|Guardian Sport, ESPNcricinfo|||live
 Hazlewood sei wicket: l'Australia domina il Sudafrica
 Bersaglio record di 421 punti, Sudafrica eliminato a 206.
 Josh Hazlewood ha chiuso con sei wicket per 49.
@@ -94,7 +94,7 @@ Il mentore aveva firmato un ricco contratto.
 Il codice della federazione vieta le scommesse.
 Pietersen ha informato l'Ecb.
 
-@Pallamano|Kicker|
+@Pallamano|Kicker|||live
 Magdeburgo imbattuto, già nel girone principale di Champions
 Battuto anche il Kielce.
 Il club tedesco mantiene il percorso netto.

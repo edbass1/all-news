@@ -12,6 +12,8 @@ Sommario (1 frase)
 Paragrafo 1
 Paragrafo 2 ...
 ```
+**Regola live/partite:** quinto campo dell'intestazione = `live` per cronache di partite, risultati, live-blog e dirette: vengono mostrati come voci brevi ("Risultati e dirette in breve") sotto la griglia, mai come notizie principali. Solo un grande evento (es. big match di Champions, finale) può avere `live-big`: va in cima ma in card ridotta (e se non è il primo della sezione diventa anch'esso breve). Es.: `@Champions League|ANSA||2026-10-14|live`.
+
 Articoli con la stessa `story-key` sono raggruppati: il primo è la notizia principale, gli altri sono approfondimenti (intervista, analisi, retroscena) e devono avere contenuto diverso. L'ID è lo slug del titolo: **non modificare il titolo di un articolo che resta**, così ID/URL e `first_seen` restano stabili.
 
 ## Passi di ogni esecuzione (ogni ora)
