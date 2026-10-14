@@ -72,7 +72,7 @@ Altman dice che l'IA causerà 'cose brutte': ecco la prova
 Moustafa Bayoumi: l'IA è già coinvolta in morti violente.
 Sam Altman, amministratore delegato di OpenAI, ha spiegato al podcast Decoded di Politico che la differenza tra la sua azienda e i sostenitori più rigidi della sicurezza è che, secondo lui, il mondo dovrebbe accettare che accadano alcune "cose brutte" in cambio dei benefici della tecnologia e della libertà delle persone di usarla.
 Per Moustafa Bayoumi, sul Guardian, è una frase a dir poco problematica, emblematica di come la tecnologia stia rimodellando il mondo con pochissimo coinvolgimento dei cittadini. Parlare di "cose brutte" fa pensare a errori innocui, come quando le risposte automatiche di Google suggerirono di aggiungere colla non tossica alla pizza per far aderire il formaggio.
-Ma l'IA, osserva l'autore, opera in ambiti ben più delicati della cucina, e le sue conseguenze possono essere gravi: Bayoumi porta come prova le morti evitabili legate all'uso di chatbot da parte di persone fragili, casi che secondo lui mostrano quanto sia inaccettabile considerarli un prezzo da pagare.
+Ma l'IA, osserva l'autore, opera in ambiti ben più delicati della cucina, e le sue conseguenze possono essere gravi: Bayoumi porta come prova principale le morti evitabili, che secondo lui mostrano quanto sia inaccettabile considerarli un prezzo da pagare.
 Sullo stesso tono, sull'Irish Times Una Mullally critica la cultura della Silicon Valley che vorrebbe affidare all'IA anche i gesti più intimi, come leggere una favola ai figli, citando un post poi cancellato di un dipendente del settore e l'affermazione di Altman secondo cui non saprebbe crescere un neonato senza ChatGPT.
 
 @Clima|The Guardian

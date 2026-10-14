@@ -34,14 +34,18 @@ La degenza prevista è di circa una settimana, anche se si è parlato di un poss
 @Vaticano|Le Monde|papa
 Dopo la diagnosi, il pontificato di Leone XIV entra in una nuova fase
 Un Papa relativamente giovane e dall'immagine dinamica deve ora fare i conti con la malattia.
-Le Monde osserva che la scoperta del cancro modifica la percezione del pontificato.
-L'intervento di martedì segna uno spartiacque nell'agenda del Vaticano.
+Papa Leone XIV ha iniziato la convalescenza al Policlinico Gemelli di Roma all'indomani dell'intervento al polmone. Secondo le prime informazioni, il Pontefice si è alzato dal letto, ha camminato nella stanza, ha mangiato normalmente e ha cominciato la fisioterapia respiratoria. Ha anche concelebrato la messa in una sala preparata al decimo piano, perché la cappella abituale, come l'appartamento riservato ai papi, è in ristrutturazione.
+Il bollettino firmato dai medici Luigi Carbone e Stefano Margaritora parla di un decorso regolare: analisi del sangue e radiografia del torace danno valori nella norma per questo tipo di operazione. Il direttore della Sala stampa vaticana, Matteo Bruni, ha riferito che il Papa è di buon umore.
+Per ora si prevede una settimana di ricovero a partire dall'ingresso in ospedale di martedì. Molto dipenderà però dall'esame istologico, atteso nei prossimi giorni, che orienterà anche le decisioni sugli impegni futuri.
+Il più delicato è il viaggio in Sudamerica previsto dal 6 al 17 novembre tra Uruguay, Argentina e Perù: 15 tappe e circa 31 mila chilometri in aereo ed elicottero, con soste anche a Cuzco, a 3.400 metri di quota, e nella foresta amazzonica. Bruni è rimasto cauto, ricordando che il Papa ha espresso il desiderio di partire e che si valuterà più avanti. Per un Pontefice relativamente giovane e dall'immagine dinamica, la malattia apre comunque una fase nuova del pontificato.
 
 @Russia|The Guardian, Le Monde
 Russia, arrestato un giornalista giapponese con l'accusa di spionaggio
 Yuki Imai, corrispondente dell'Hokkaido Shimbun, fermato con la forza a Sachalin.
-L'Fsb sostiene che il cronista raccogliesse informazioni sulle difese russe sull'isola dell'Estremo Oriente.
-Le Monde lo legge come un aumento della pressione di Mosca sui corrispondenti stranieri.
+La Russia ha arrestato sull'isola di Sachalin, nell'Estremo Oriente, un giornalista giapponese accusato di spionaggio, in un nuovo segnale del peggioramento dei rapporti tra Mosca e Tokyo. La portavoce del ministero degli Esteri russo, Maria Zakharova, lo ha identificato come Yuki Imai, corrispondente del quotidiano Hokkaido Shimbun, accusato di aver svolto attività di intelligence sul territorio russo.
+Secondo l'agenzia Tass, Imai lavorava nella redazione di Južno-Sachalinsk e stava per rientrare in Giappone quando è stato fermato con l'accusa di raccogliere informazioni sulle capacità di difesa russe; l'Fsb sostiene che intendesse passarle ai servizi giapponesi. L'agenzia di sicurezza ha diffuso un video in cui agenti incappucciati irrompono in una camera d'albergo, atterrano un uomo e lo ammanettano. Trasferito a Mosca, è stato posto in custodia cautelare. Rischia fino a 20 anni di carcere.
+Il ministero degli Esteri giapponese ha convocato l'ambasciatore russo a Tokyo, Nikolay Nozdrev, e ha chiesto un trattamento equo e imparziale, informazioni rapide e considerazioni umanitarie attraverso l'ambasciata a Mosca e il consolato di Južno-Sachalinsk. Il giornale ha fatto sapere di stare ancora verificando i dettagli e che la sicurezza del suo cronista è la priorità.
+L'arresto arriva in un momento di forte tensione, legato al sostegno giapponese all'Ucraina e alla storica disputa sulle quattro isole Curili meridionali, che il Giappone chiama Territori del Nord e rivendica come proprie.
 
 @Albania|Le Monde, El País, Der Standard, Folha|albania
 Albania, secondo giorno di proteste studentesche: in fiamme il ministero dell'Istruzione
@@ -60,8 +64,10 @@ Nell'ambito dell'inchiesta sono stati spiccati ordini di fermo per 17 persone, 1
 @Stati Uniti|Le Monde
 Usa, l'inflazione sale al 3,7% a settembre spinta dal petrolio
 L'energia costa il 20% in più in un anno: cattiva notizia per Trump.
-I dati diffusi il 14 ottobre mostrano un'accelerazione dei prezzi legata al greggio.
-Il presidente era stato eletto promettendo di farli scendere.
+L'inflazione negli Stati Uniti ha accelerato a settembre, salendo al 3,7% su base annua dal 3,4% di agosto, secondo i dati diffusi mercoledì dal dipartimento del Lavoro. Su base mensile i prezzi sono cresciuti dello 0,6%, il rialzo più forte da cinque mesi, dopo il +0,4% del mese precedente.
+A pesare è soprattutto la guerra con l'Iran, iniziata a fine febbraio, che ha fatto salire il prezzo della benzina. Ma non c'è solo l'energia: la corsa agli investimenti in data center e intelligenza artificiale ha fatto aumentare anche il costo dei chip e dei dispositivi elettronici che li utilizzano.
+L'inflazione di fondo, che esclude alimentari ed energia, è salita al 2,6% dal 2,4%, più delle attese, con un aumento mensile dello 0,3%: un ritmo che, se mantenuto, porterebbe i prezzi ben sopra l'obiettivo del 2% della Federal Reserve. Gli economisti notano che i rincari si sono estesi a molti settori, e cresce la pressione sulla banca centrale perché alzi i tassi alla riunione del 27-28 ottobre. Bill Adams, capo economista di Fifth Third Bank, ha definito il dato peggiore del previsto, osservando che la domanda dei consumatori regge meglio di quanto indichino i sondaggi.
+È l'ultimo dato importante sui prezzi prima delle elezioni di metà mandato, in una campagna centrata sul costo della vita. Per Donald Trump è una cattiva notizia: l'inflazione ha già eroso il suo consenso, come mostrano i sondaggi dell'Associated Press-NORC.
 
 @Stati Uniti|Der Standard, de Volkskrant, El País
 Debutto disastroso per la nuova portavoce della Casa Bianca Katie Zacharia
@@ -97,8 +103,11 @@ A San Paolo è crollato invece il fronte ampio che aveva battuto Bolsonaro nel 2
 @Criminalità|The Guardian
 Il crimine organizzato latinoamericano opera in 16 Paesi europei
 Un'inchiesta di quattro mesi del Guardian: sequestri di cocaina quintuplicati in dieci anni.
-I cartelli hanno messo radici in tutto il continente.
-L'indagine documenta l'ampiezza del fenomeno.
+Un'inchiesta durata quattro mesi del Guardian collega l'aumento del traffico di cocaina verso l'Europa alla crescente presenza di reti criminali latinoamericane nel continente, dove hanno stretto rapporti con le mafie locali.
+Il lavoro, basato su banche dati, fonti di polizia e intelligence e interviste a giudici, procuratori ed esperti di otto Paesi, mostra che cartelli e fazioni di Colombia, Brasile, Ecuador, Venezuela, Messico e Stati Uniti operano in almeno 12 Paesi europei, e fino a 16 secondo altre stime. Tra il 2014 e il 2024 la cocaina sequestrata è aumentata del 471%, ed è cresciuto anche il numero di laboratori smantellati sul territorio europeo.
+Il conteggio, avvertono gli autori, è probabilmente per difetto: include solo i gruppi individuati da operazioni di polizia, indagini internazionali e processi, non quelli che lavorano in società con le mafie europee senza una presenza fisica.
+Tra le organizzazioni citate ci sono i cartelli messicani di Sinaloa e Jalisco Nueva Generación, il Clan del Golfo, l'Eln e i dissidenti delle Farc in Colombia, i brasiliani Primeiro Comando da Capital e Comando Vermelho, il venezuelano Tren de Aragua e le gang Barrio 18 e MS-13. La loro presenza è più forte in Spagna, Portogallo, Paesi Bassi, Belgio e Francia, ma sono state segnalate attività anche in Germania, Romania, Croazia, Slovacchia e Bulgaria.
+Daniel Brombacher, direttore dell'osservatorio europeo della Global Initiative Against Transnational Organized Crime, sottolinea la novità: questi gruppi si stanno insediando anche in Paesi privi di infrastrutture criminali preesistenti, e il fenomeno non riguarda più soltanto le tradizionali porte d'ingresso della droga.
 
 @Medio Oriente|The Guardian
 Nobel per la pace a Navi Pillay
@@ -135,8 +144,10 @@ Nello Yemen intanto peggiora la situazione a Taiz, terza città del Paese, quasi
 @Medio Oriente|Der Standard
 L'Ue critica il rinvio delle elezioni palestinesi
 L'Anp vuole spostare il voto al settembre 2027.
-Bruxelles ha reagito con dure critiche alla decisione.
-Il rinvio riguarda sia le legislative sia le presidenziali.
+Il presidente palestinese Mahmoud Abbas ha annullato le elezioni legislative previste per novembre e ha fissato all'11 settembre 2027 la data sia per il voto parlamentare sia per quello presidenziale, secondo quanto riportato dall'agenzia ufficiale Wafa. La decisione ha suscitato critiche internazionali, compresa quella dell'Unione europea, e Australia, Canada, Francia e Regno Unito hanno chiesto ad Abbas di tornare sui suoi passi.
+Il decreto attribuisce il rinvio agli ostacoli creati da Israele: attacchi militari, espansione degli insediamenti, violenze dei coloni e restrizioni ai movimenti in Cisgiordania e a Gerusalemme Est, oltre al blocco delle entrate fiscali palestinesi. Per Gaza vengono citate condizioni di sicurezza e umanitarie eccezionali, il ritiro incompleto delle forze israeliane, la ricostruzione ferma e la mancata attuazione degli accordi su una forza internazionale di stabilizzazione. Anche l'accesso limitato per il personale elettorale e gli osservatori ha complicato i preparativi.
+La scelta segue una risoluzione del comitato esecutivo dell'Olp e consultazioni con le fazioni, e secondo il decreto deve lasciare tempo a un dialogo nazionale per rafforzare l'unità.
+I palestinesi non votano dal 2005-2006: dopo quelle elezioni Hamas prese il controllo di Gaza cacciando i fedeli di Abbas. Molti dubitavano già che il voto di novembre si sarebbe tenuto davvero.
 
 @Medio Oriente|Der Standard
 Israele, l'ex capo dello Shin Bet fa causa a Netanyahu
@@ -160,8 +171,9 @@ Il governo della Groenlandia ha smentito Donald Trump, che aveva parlato di immi
 @Asia|SCMP, NYT
 Export cinese record: chip +136% a settembre
 Le vendite di circuiti integrati raggiungono 45 miliardi di dollari spinte dall'IA.
-Il New York Times rileva la crescita delle esportazioni più rapida da anni, con il surplus avviato verso un record.
-Il boom dei chip riflette l'aumento dei prezzi legato all'intelligenza artificiale.
+Le esportazioni cinesi di circuiti integrati sono aumentate a settembre del 136% rispetto a un anno prima, raggiungendo 45 miliardi di dollari, secondo i dati doganali diffusi mercoledì e riportati dal South China Morning Post. È una crescita superiore a quella media dei primi nove mesi dell'anno, pari al 108%, e conferma il peso crescente della Cina nella filiera mondiale dei semiconduttori.
+In volume l'aumento è stato modesto: 32,7 miliardi di unità, appena l'1% in più. A spingere il valore sono stati i prezzi, saliti per la carenza di chip di memoria provocata dalla corsa globale alla costruzione di infrastrutture per l'intelligenza artificiale.
+Nei primi tre trimestri la Cina ha esportato 275,2 miliardi di circuiti integrati per quasi 302 miliardi di dollari, secondo l'Amministrazione generale delle dogane. I chip sono tra le categorie in più rapida crescita in un quadro di export complessivamente molto forte, che secondo la stampa internazionale sta portando l'avanzo commerciale cinese verso un nuovo record.
 
 @Europa|The Guardian
 L'Ue limita le ibride cinesi a 350mila l'anno
@@ -178,11 +190,13 @@ Il Kenya ha confermato un secondo caso di Ebola, dieci giorni dopo la morte di u
 La prima vittima, un keniano di 40 anni, era morta il 5 ottobre a Nairobi poco dopo il ricovero. Un parente l'aveva accompagnato in ospedale dopo averlo preso all'aeroporto: era arrivato dal Congo passando per l'Uganda senza che la malattia fosse individuata. Le autorità hanno ricostruito 128 contatti; 113 sono stati rintracciati, 108 dei quali sono in quarantena, e la ricerca degli altri 15 prosegue. Poiché l'incubazione va da 2 a 21 giorni, altri casi potrebbero emergere nelle prossime settimane.
 Nella Repubblica democratica del Congo l'epidemia, iniziata a maggio, ha già causato oltre 4.000 morti quest'anno: è la seconda più letale mai registrata. È provocata dal ceppo Bundibugyo, relativamente raro, per il quale non esistono vaccini né cure approvati, anche se sono in corso sperimentazioni; due persone sono morte anche in Uganda. Il virus si trasmette con il contatto con fluidi corporei infetti, e il ministero raccomanda a chi ha febbre, stanchezza insolita, dolori, vomito, diarrea o emorragie inspiegabili di rivolgersi subito a una struttura sanitaria.
 
-@Africa|Le Monde
-Niger, eruzione di petrolio: "incidente ambientale di eccezionale gravità"
-Le immagini preoccupano; così lo definisce il ministero del Petrolio.
-Le Monde riporta le prime informazioni ufficiali.
-L'entità del danno è ancora da valutare.
+@Africa|BBC
+Mauritius, coprifuoco dopo le peggiori rivolte da decenni
+Le proteste per la mancanza d'acqua e il carovita sono degenerate dopo che una donna è stata ferita dalla polizia.
+La polizia di Mauritius ha imposto un coprifuoco notturno per fermare i disordini più gravi che l'isola dell'Oceano Indiano abbia conosciuto da decenni. Le proteste, iniziate pacificamente una settimana fa contro la scarsità d'acqua e l'aumento del costo della vita, sono diventate violente venerdì, quando una donna è stata colpita e ferita da un agente a un posto di blocco.
+Le circostanze dello sparo non sono chiare, ma il poliziotto è stato arrestato e si trova in custodia. Il primo ministro Navin Ramgoolam ha ordinato il coprifuoco martedì, avvertendo che chi agisce contro gli interessi del Paese, polo turistico e finanziario, subirà conseguenze molto pesanti per quelli che ha definito atti antipatriottici.
+Nel fine settimana i manifestanti hanno bruciato pneumatici e bloccato strade, e sono stati danneggiati commissariati e altre strutture pubbliche. Scuole e trasporti sono stati chiusi e diverse ambasciate hanno invitato i propri cittadini alla prudenza. Nonostante il coprifuoco, durante la notte si sono registrati alcuni incidenti e arresti, ma mercoledì mattina la polizia ha riferito che la circolazione era tornata normale in tutta l'isola.
+Secondo Zoë McCathie, analista della società sudafricana Signal Risk, il governo aveva inizialmente risposto alle proteste aumentando la fornitura d'acqua alle famiglie; l'escalation ha però creato una situazione insolita, con proteste di questa portata che non si vedevano dal 1999. La risposta delle autorità, a suo giudizio, è stata necessaria, ma le tensioni potrebbero riaccendersi, perché la scarsità d'acqua durerà fino alla stagione delle piogge di dicembre. Il governo si è riunito mercoledì per valutare i prossimi passi.
 
 @Clima|Folha, The Guardian, La Jornada
 El Niño: incendi in Indonesia e Amazzonia, chiuse le cascate dell'Iguazú
@@ -257,23 +271,29 @@ In India il Partito degli scarafaggi, il movimento della generazione Z nato la s
 Il 10 ottobre, giorno della manifestazione annunciata dal movimento, il quartiere governativo di New Delhi sembrava in lockdown: strade sbarrate, documenti controllati più volte, viali deserti. La polizia aveva avviato i fermi già alla vigilia e tra sabato e domenica, secondo la stampa locale, circa 20mila persone sono state fermate, compresi i leader del movimento; sei stazioni della metropolitana sono rimaste chiuse per 11 ore. Studenti dell'associazione Aisa si sono seduti in strada per impedire alla polizia di portare via alcuni manifestanti, scandendo slogan contro il presidente della commissione elettorale Gyanesh Kumar.
 Lunedì migliaia di persone hanno marciato pacificamente per circa sette chilometri fino alla Corte suprema, consegnando una petizione firmata anche dal leader dell'opposizione Rahul Gandhi: chiede una verifica delle cancellazioni, garanzie contro l'esclusione senza preavviso e senza contraddittorio e la sospensione della revisione. La commissione elettorale nega favoritismi e ricorda che chi è stato escluso per errore può iscriversi di nuovo; il Bjp accusa il Congresso di voler minare la democrazia e prendere il potere con le piazze. La polizia ha intanto tolto a Jantar Mantar lo status di luogo ufficiale per le proteste.
 
-@Asia|NYT
-I talebani sospendono le trasmissioni della Bbc in Afghanistan
-Prima la stretta colpiva solo i media afghani.
-La repressione sulla stampa si è intensificata negli ultimi mesi.
-Ora tocca anche a un'emittente internazionale.
+@Economia|BBC
+Netflix taglia mille posti di lavoro, la riduzione più ampia dal 2022
+Il colosso dello streaming elimina il 6% della forza lavoro mentre cresce la concorrenza.
+Netflix eliminerà 1.000 posti di lavoro in tutto il mondo, circa il 6% del personale, nel taglio più consistente dal 2022. Le riduzioni riguarderanno soprattutto le risorse umane, l'ufficio legale e i team di prodotto e tecnologia.
+Il mese scorso il co-amministratore delegato Ted Sarandos aveva ammesso al Bloomberg Screentime summit che l'azienda non cresceva alla velocità desiderata. Il settore sta attraversando una fase di concentrazione dopo la fusione da 110 miliardi di dollari tra Paramount e Warner Bros, proprietaria di HBO, per la quale anche Netflix era in corsa prima di essere superata dall'offerta rivale. Intanto piattaforme gratuite come YouTube e TikTok continuano a sottrarre spettatori.
+In una email ai dipendenti, Sarandos e l'altro co-ceo Greg Peters hanno spiegato che la società continuerà a investire con decisione nelle aree a maggiore impatto e che la missione di intrattenere il mondo richiede disciplina nell'allocazione di persone e risorse. I manager comunicheranno a breve chi è coinvolto. L'azienda assicura di essere in linea con le previsioni finanziarie e presenterà i risultati il 20 ottobre.
+Netflix ha cercato nuove fonti di ricavo con i videogiochi e la pubblicità, ma secondo Ross Benes, analista di eMarketer, non ha ancora trovato una seconda grande linea di entrate e dipende da un modello ad abbonamento vicino al tetto. L'ultima grande ondata di licenziamenti risale al 2022, quando furono tagliati circa 450 posti dopo la prima perdita di abbonati in oltre dieci anni.
 
-@Africa|Der Standard
-Eritrea, l'esperto: "Attaccare l'Etiopia è stato un errore di calcolo"
-Kjetil Tronvoll prevede la fine del regime totalitario.
-Secondo l'analista il presidente Isaias rischia molto.
-Per Asmara, dice, è troppo tardi per tornare indietro.
+@Europa|Straits Times
+Louvre, il direttore avverte: senza lavori rischia la chiusura
+Christophe Leribault chiede un grande intervento pubblico dopo le elezioni del 2027.
+Il Louvre potrebbe essere costretto a chiudere al pubblico se il Parlamento francese non approverà una profonda ristrutturazione del museo, vecchio e oltre la sua capienza. Lo ha detto al Figaro il presidente-direttore Christophe Leribault, spiegando che si cercheranno finanziamenti privati, ma che servirà un forte investimento pubblico da approvare dopo le elezioni nazionali del 2027.
+Chiunque formi il prossimo governo, ha avvertito, deve sapere che se il Louvre non verrà riparato e trasformato resterà rapidamente indietro e finirà per chiudere, il che sarebbe un disastro. In Francia i governi di minoranza faticano da anni ad approvare i bilanci, e il premier Sébastien Lecornu cerca di contenere la spesa per ridurre il deficit.
+Leribault è stato nominato a febbraio, dopo il clamoroso furto del 19 ottobre 2025, quando una banda sottrasse gioielli della corona per un valore stimato di circa 100 milioni di dollari. Ha fatto della sicurezza una priorità: il piano da 83 milioni di euro prevede un nuovo responsabile della sicurezza, il rinnovo della rete di videocamere, che presentava apparecchi vecchi e ampie zone scoperte, e una sorveglianza più efficace del perimetro e degli accessi.
+Ma, ha sottolineato, non esistono soluzioni miracolose: la messa in sicurezza richiede interventi sull'edificio storico e sugli impianti, e tutto è collegato. Il museo più visitato al mondo, con circa nove milioni di ingressi nel 2025, soffre di impianti idraulici datati, sale mal isolate e spazi pubblici angusti. Il costo dell'operazione è diventato un tema politico: Emmanuel Macron sostiene un progetto da 600 milioni con un nuovo ingresso, mentre i sindacati chiedono interventi più modesti e mirati a migliorare le condizioni di visita e di lavoro.
 
 @Europa|Le Monde, El País
 Il Marocco disapprova in silenzio la visita di Felipe VI a Ceuta e Melilla
 Nessuna condanna pubblica, ma segnali di malcontento.
-Il viaggio dei reali spagnoli arriva dopo l'arrivo massiccio di migranti.
-Rabat evita lo scontro aperto.
+Re Felipe VI ha ribadito la sovranità spagnola su Ceuta durante una visita all'enclave nordafricana rivendicata dal Marocco, accolto da una folla numerosa a oltre due mesi dalla crisi migratoria che ha teso i rapporti tra Madrid e Rabat. Ceuta e Melilla, ha detto, sono parte irrinunciabile della Spagna e sovranità e integrità territoriale non sono negoziabili. Allo stesso tempo ha assicurato la volontà di mantenere buoni rapporti con il Marocco, sulla base della buona fede reciproca.
+È il primo viaggio del sovrano nelle due città da quando è salito al trono nel 2014; accompagnato dalla regina Letizia, ha trascorso la notte a Ceuta prima di proseguire per Melilla. L'ultimo re a visitarle era stato Juan Carlos nel 2007, provocando una crisi diplomatica con Rabat.
+Prima dell'arrivo dei reali le autorità hanno allestito oltre 7.000 posti di accoglienza temporanea per migranti adulti e 2.800 per minori, smantellando i grandi accampamenti sulle spiagge, anche se alcune persone dormono ancora all'aperto o sulle alture. Diversi abitanti, interpellati dall'Afp, hanno letto la visita come un segnale al vicino marocchino.
+Rabat ha scelto di non condannare pubblicamente il viaggio, ma nei giorni precedenti re Mohammed VI aveva fatto trapelare il proprio disappunto. La visita cade inoltre poche settimane prima delle elezioni spagnole del 29 novembre, in cui l'immigrazione è uno dei temi più sensibili.
 
 @Europa|Der Standard
 Sassonia-Anhalt, la Cdu lascerà l'aula se si elegge un governatore AfD
@@ -288,17 +308,21 @@ La Commissione europea vuole rinviare di un anno, dal 2027 al 2028, l'entrata in
 Tra chi aveva chiesto la sospensione c'è l'Italia. Nelle comunicazioni al Senato prima del Consiglio europeo, Giorgia Meloni ha rivendicato il rinvio come un risultato del suo governo, spiegando che le prescrizioni per gli importatori rischiavano di restringere l'offerta e creare nuove tensioni sui prezzi, e che per questo era stata chiesta una sospensione temporanea di alcuni obblighi.
 La premier ha indicato il costo dell'energia come la questione che pesa di più sull'economia e sulla competitività delle imprese, chiedendo una risposta europea coordinata e rapida perché nessuno può affrontarla da solo. Sul tavolo del vertice anche il prossimo bilancio pluriennale dell'Unione e il calendario di rimborso del debito comune del Next Generation Eu: su questi dossier, ha avvertito Meloni, l'Italia firmerà solo un accordo che consideri giusto per il Paese.
 
-@Europa|Libération
-Francia, pensioni complementari rivalutate dell'1,4%
-Accordo tra imprese e sindacati dopo il blocco del 2026.
-L'aumento scatta dal primo novembre.
-Pesa il contesto di pressione sui conti pubblici.
+@Europa|The Guardian
+Il Monte Bianco perde più di un metro in un anno
+La vetta misura ora 4.807,47 metri, 1,29 metri in meno rispetto al 2025.
+La montagna più alta dell'Europa occidentale si è abbassata di oltre un metro in un anno. Secondo i rilievi presentati mercoledì da un gruppo di geometri, la cima del Monte Bianco si trova ora a 4.807,47 metri sul livello del mare, 1,29 metri in meno rispetto al 2025.
+La roccia arriva a circa 4.792 metri, ma la vetta cambia continuamente perché caldo, vento e precipitazioni modificano lo spessore di neve e ghiaccio. Il valore registrato durante la spedizione del mese scorso è comunque superiore di 1,88 metri a quello del 2023, il più basso degli ultimi anni, mentre rispetto al massimo di 4.810,90 metri del 2007 la cima ha perso 3,43 metri.
+Le misurazioni, effettuate regolarmente dal 2001 dai geometri-esperti francesi, si basano su tecnologie satellitari di precisione e su droni che ricostruiscono un modello dettagliato della calotta. Gli esperti invitano però a non collegare le oscillazioni annuali direttamente alla perdita di ghiaccio alpino: una variazione dell'altitudine in superficie non equivale a un cambiamento della massa totale di ghiaccio.
+Il contesto resta preoccupante: quest'estate, la più calda mai registrata nell'Europa occidentale, ha accelerato lo scioglimento nelle Alpi, e i glaciologi svizzeri hanno confermato che il Paese ha perso un quinto dei suoi ghiacci in cinque anni, il 5,5% solo tra il 2025 e il 2026. Jean des Garets, che ha guidato la spedizione, ha spiegato che il riscaldamento si vede a occhio nudo nel resto del massiccio, con il ghiacciaio di Tête-Rousse visibilmente arretrato, anche se per ora sopra i 4.000 metri l'impatto sembra minore.
 
-@Europa|Libération
-Auto a guida autonoma, l'Ue accelera
-Dopo anni di prudenza Bruxelles vuole togliere i freni alla produzione.
-Anche grazie a forte lobbying, tra cui quello di Tesla.
-La Commissione cambia passo.
+@Europa|Al Jazeera
+Il caro carburante ferma una ong spagnola di soccorso in mare
+Salvamento Marítimo Humanitario rinvia la missione nel Mediterraneo centrale al prossimo anno.
+Un'organizzazione umanitaria spagnola ha rinviato al prossimo anno la sua prossima missione di soccorso ai migranti nel Mediterraneo centrale a causa dell'aumento del prezzo del carburante, un segnale delle conseguenze umanitarie della crisi energetica.
+Salvamento Marítimo Humanitario, che usa un peschereccio trasformato in nave di soccorso, ha spiegato che il raddoppio del costo del gasolio la costringe a spostare le attività nelle acque attorno a Valencia, e ha lanciato una raccolta fondi per coprire le spese aggiuntive.
+La rotta tra Nord Africa e Italia resta una delle più pericolose al mondo, spesso percorsa su imbarcazioni sovraffollate partite dalla Libia. Secondo l'Organizzazione internazionale per le migrazioni, nel 2026 circa 60.000 persone hanno raggiunto l'Europa via mare, il 39% in meno rispetto alle circa 98.000 dello stesso periodo dell'anno scorso, ma almeno 2.292 sono morte o disperse.
+Anche Open Arms ha ridotto negli ultimi anni le missioni nel Mediterraneo centrale, citando il costo del carburante e la scelta dell'Italia di assegnare alle navi umanitarie porti nel nord del Paese. Le imbarcazioni spagnole impiegano due o tre giorni per raggiungere l'area operativa, con costi più alti e meno tempo per le ricerche. Il governo italiano sostiene che i soccorsi umanitari incoraggino le partenze.
 
 @Stati Uniti|The Guardian
 Arrestata a Los Angeles una dottoranda accusata di avvelenare un collega
@@ -310,8 +334,10 @@ La donna resta in carcere a Los Angeles senza cauzione e negli atti non risulta 
 @Stati Uniti|de Volkskrant
 Trump dovrà riammettere Cnn e altri media alla Casa Bianca
 Lo ha deciso un giudice.
-Le testate erano state escluse.
-La sentenza ripristina l'accesso.
+Il giudice federale Timothy Kelly ha confermato l'accesso alla Casa Bianca per i giornalisti di CNN, MS NOW e Politico, stabilendo che Donald Trump ha probabilmente violato la legge quando ha cercato di escluderli. Per il presidente, che nel 2017 aveva nominato proprio Kelly, è una nuova sconfitta giudiziaria nello scontro sulla libertà di stampa.
+La decisione garantisce ai 78 giornalisti delle tre testate l'ingresso nel complesso presidenziale, ma non risolve tutti i problemi: non obbliga lo staff di Trump a includerli nei gruppi ristretti che seguono il presidente, come il pool sull'Air Force One, da cui a settembre erano stati esclusi i reporter della CNN durante un viaggio in Tennessee.
+Il provvedimento sviluppa l'ordine d'urgenza del 24 settembre e resterà in vigore fino alla sentenza definitiva, salvo ribaltamento in appello. Secondo Kelly, le dichiarazioni pubbliche di Trump mostrano che l'esclusione era motivata dall'idea che la copertura fosse faziosa, non da ragioni di sicurezza nazionale come sostenuto in seguito dagli avvocati del governo: si tratta, ha scritto, di una discriminazione illegale basata sul punto di vista.
+Le testate e le associazioni per la libertà di stampa accusano da tempo l'amministrazione di ritorsioni incostituzionali contro i giornalisti sgraditi.
 
 @Stati Uniti|Der Standard
 Casa Bianca, licenziata l'ambasciatrice in Grecia Kimberly Guilfoyle
@@ -322,20 +348,25 @@ Al centro della vicenda c'è un'inchiesta del Wall Street Journal, che ha pubbli
 @Stati Uniti|de Volkskrant
 Omicidio di Tupac, 40 anni all'ex membro di gang
 Condanna per il celebre delitto del rapper.
-Il caso risale al 1996.
-La sentenza chiude un lungo iter.
+Duane "Keffe D" Davis, ex capo di una gang californiana riconosciuto colpevole di aver organizzato l'omicidio del rapper Tupac Shakur nel 1996, è stato condannato a una pena da 40 anni all'ergastolo. Nel pronunciare la sentenza, la giudice Carli Kierny gli ha rimproverato di aver ripetuto per anni di essere cambiato, di aver lasciato Compton e di essere diventato nonno, ricordando che non si può togliere la vita a un uomo e andarsene come se nulla fosse.
+Tupac fu colpito il 7 settembre 1996 vicino alla Strip di Las Vegas, dopo un incontro di boxe di Mike Tyson, e morì alcuni giorni dopo. Per decenni il delitto è rimasto uno dei grandi misteri dell'hip hop; Davis è l'unico condannato.
+Le indagini furono ostacolate dall'omertà della strada e dalla diffidenza della polizia di Las Vegas verso i colleghi di Compton. Il principale sospettato come autore materiale era Orlando Anderson, nipote di Davis, con cui Tupac si era scontrato quella sera: interrogato ma mai arrestato, morì nel 1998.
+La svolta è arrivata nel 2023 grazie allo stesso Davis, che si era presentato nei media come uno degli ultimi testimoni oculari e nel 2019 aveva pubblicato un'autobiografia, Compton Street Legend, in cui raccontava di aver preso di mira il rapper insieme ad altri uomini. Si sentiva protetto da un accordo del 2008 con la polizia, che indagava sulla morte di Notorious B.I.G., e che gli garantiva l'immunità per quanto rivelato in quei colloqui.
 
 @Cultura|Libération, de Volkskrant
 Sally Rooney ritira i suoi libri dal mercato britannico
 Sostiene Palestine Action, organizzazione vietata nel Regno Unito.
-Teme che la distribuzione possa configurarsi come reato.
-La scrittrice irlandese ha annunciato la scelta.
+La scrittrice irlandese Sally Rooney non potrà più vendere i suoi libri nel Regno Unito a causa del suo sostegno a Palestine Action, ha annunciato mercoledì il suo editore Faber.
+Il gruppo di attivisti è stato messo al bando come organizzazione terroristica dal governo britannico nel luglio 2025, nella stessa lista di Hamas e Hezbollah: nel Regno Unito è quindi reato farne parte, sostenerlo o finanziarlo. L'organizzazione ha presentato ricorso contro la decisione e non è vietata in Irlanda, dove l'autrice vive.
+Faber ha spiegato che la legislazione attuale impedisce di trasferire a Rooney i guadagni maturati nel Regno Unito, e che vendere l'opera di una scrittrice senza poterle versare i compensi è una situazione inaccettabile per un editore. Di conseguenza i suoi romanzi saranno ritirati dal mercato britannico.
 
-@Cultura|NYT
-Francia, rubata una copertina di libro di Dalí da 150 chili
-Tre ladri in un museo privato.
-Il furto è avvenuto nel centro del Paese.
-L'opera è del maestro surrealista.
+@Stati Uniti|Al Jazeera
+Usa, le pensioni della Social Security aumenteranno del 3,6% nel 2027
+È uno degli adeguamenti al costo della vita più alti del decennio: in media 75 dollari in più al mese.
+Gli assegni della Social Security, il sistema pubblico pensionistico e assistenziale degli Stati Uniti, aumenteranno del 3,6% dal 2027, uno degli adeguamenti al costo della vita più consistenti del decennio e il più alto degli ultimi quattro anni. L'annuncio è arrivato mercoledì, subito dopo la pubblicazione dei dati sull'inflazione di settembre.
+L'aumento vale in media 75 dollari in più al mese per anziani e persone con disabilità. Scatterà a gennaio per 72 milioni di beneficiari della Social Security e il 31 dicembre per quasi 73 milioni di percettori del Supplemental Security Income. Dal 2027 salirà anche il tetto dei redditi soggetti ai contributi, da 184.500 a 192.300 dollari.
+L'adeguamento si basa sulla media di luglio, agosto e settembre dell'indice dei prezzi per lavoratori urbani e impiegati, salito del 3,9% a settembre e del 3,6% in media nel trimestre. Per il 2026 l'aumento era stato del 2,8%.
+La decisione arriva mentre l'inflazione resta alta, alimentata dagli shock energetici delle guerre in Ucraina e in Iran, che hanno spinto il greggio sopra i 100 dollari al barile e il gasolio a livelli record. Secondo un sondaggio dell'AARP di settembre, circa tre anziani su quattro ritengono che l'adeguamento non basti a tenere il passo con i prezzi.
 
 @Oceania|The Guardian
 Australia, telecamera nascosta su una nave militare
