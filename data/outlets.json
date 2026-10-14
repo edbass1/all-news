@@ -24,29 +24,6 @@
   "tab": "sport"
  },
  {
-  "key": "espn",
-  "label": "ESPN",
-  "country": "USA",
-  "news": [
-   "https://www.espn.com/espn/rss/soccer/news",
-   "https://www.espn.co.uk/espn/rss/football/news"
-  ],
-  "op": [],
-  "tab": "sport",
-  "note": "Contenuti non disponibili al momento: i feed di ESPN non sono accessibili."
- },
- {
-  "key": "si",
-  "label": "Sports Illustrated",
-  "country": "USA",
-  "news": [
-   "https://www.si.com/feed"
-  ],
-  "op": [],
-  "tab": "sport",
-  "note": "Al momento Sports Illustrated pubblica soprattutto sport americani, esclusi da questa sezione."
- },
- {
   "key": "cbs",
   "label": "CBS Sports",
   "country": "USA",
@@ -66,18 +43,6 @@
   ],
   "op": [],
   "tab": "sport"
- },
- {
-  "key": "telegraph",
-  "label": "The Telegraph Sport",
-  "country": "Regno Unito",
-  "news": [
-   "https://www.telegraph.co.uk/sport/rss.xml",
-   "https://www.telegraph.co.uk/football/rss.xml"
-  ],
-  "op": [],
-  "tab": "sport",
-  "note": "Contenuti non disponibili al momento: The Telegraph richiede abbonamento."
  },
  {
   "key": "independent",
@@ -234,17 +199,6 @@
    "https://www.ole.com.ar/rss/opinion/"
   ],
   "tab": "sport"
- },
- {
-  "key": "tyc",
-  "label": "TyC Sports",
-  "country": "Argentina",
-  "news": [
-   "https://www.tycsports.com/rss.xml"
-  ],
-  "op": [],
-  "tab": "sport",
-  "note": "Contenuti non disponibili al momento."
  },
  {
   "key": "ge",
@@ -427,50 +381,6 @@
   "op": []
  },
  {
-  "key": "to6",
-  "label": "La Voce",
-  "country": "Torino",
-  "tab": "torino",
-  "pool": true,
-  "news": [
-   "https://www.giornalelavoce.it/sezioni/268/rss"
-  ],
-  "op": []
- },
- {
-  "key": "to7",
-  "label": "Chivasso Oggi",
-  "country": "Torino",
-  "tab": "torino",
-  "pool": true,
-  "news": [
-   "https://www.chivassooggi.it/feed/"
-  ],
-  "op": []
- },
- {
-  "key": "to8",
-  "label": "La Nuova Periferia",
-  "country": "Torino",
-  "tab": "torino",
-  "pool": true,
-  "news": [
-   "https://www.lanuovaperiferia.it/feed/"
-  ],
-  "op": []
- },
- {
-  "key": "to9",
-  "label": "Quotidiano Canavese",
-  "country": "Torino",
-  "tab": "torino",
-  "pool": true,
-  "news": [
-   "https://www.quotidianocanavese.it/feed/"
-  ],
-  "op": []
- },
- {
   "key": "w-guardian",
   "label": "The Guardian",
   "country": "Regno Unito",
@@ -503,19 +413,6 @@
    "https://www.thesun.co.uk/news/feed/"
   ],
   "op": []
- },
- {
-  "key": "w-nydn",
-  "label": "Daily News",
-  "country": "USA",
-  "tab": "mondo",
-  "news": [
-   "https://www.nydailynews.com/feed/"
-  ],
-  "op": [
-   "https://www.nydailynews.com/opinion/feed/"
-  ],
-  "note": "Contenuti non disponibili al momento: il sito del Daily News blocca l'accesso automatico."
  },
  {
   "key": "w-observer",
