@@ -187,62 +187,75 @@ L'entità del danno è ancora da valutare.
 @Clima|Folha, The Guardian, La Jornada
 El Niño: incendi in Indonesia e Amazzonia, chiuse le cascate dell'Iguazú
 Scuole chiuse in Brasile e timori per la sicurezza alimentare.
-In Indonesia un incendio a Bangka Belitung ha distrutto quasi 300 case, nella situazione peggiore da un decennio.
-La Jornada riferisce la chiusura delle cascate dell'Iguazú.
+Un El Niño eccezionalmente intenso sta alimentando incendi e siccità in diverse parti del mondo. In Indonesia, sull'isola di Sumatra, un rogo forestale ha distrutto quasi 300 case nella provincia di Bangka Belitung, costringendo alla fuga circa mille persone. Gli abitanti avevano avvistato le fiamme sabato e avevano cercato di spegnerle da soli con pompe portatili, ma, come ha spiegato il capo della reggenza di Bangka Sud, Riza Herdavid, il fuoco covava ancora sotto la torba e, quando il vento ha cambiato direzione, ha raggiunto rapidamente il villaggio. Il centro abitato era stato costruito l'anno scorso su un'area di torbiera protetta.
+«La mia casa non c'è più, sono riuscita a salvare solo me stessa e i miei figli», ha raccontato una donna di 55 anni ospite di un centro di accoglienza. Gli incendi di quest'anno hanno provocato una fitta foschia, decine di migliaia di casi di malattie respiratorie e un peggioramento dell'aria anche a Singapore e in Malesia. Il governo parla delle condizioni peggiori dell'ultimo decennio e gli analisti prevedono che superficie bruciata ed emissioni possano eguagliare il record del 2015, quando andarono in fumo 2,6 milioni di ettari con 333 megatonnellate di carbonio. Pesanti anche i danni alla fauna: un gruppo di oranghi ha dovuto essere trasferito.
+Gli effetti del fenomeno climatico si fanno sentire anche in Sud America, con incendi in Amazzonia e la siccità che ha portato alla chiusura delle cascate dell'Iguazú.
 
 @Stati Uniti|The Guardian
 California, onde e inondazioni devastano le coste
 Distrutta una passerella a Long Beach; colpite anche Baja California e Las Vegas.
-Un fine settimana di maltempo estremo ha danneggiato abitazioni.
-Le comunità costiere fanno la conta dei danni.
+Le comunità costiere della California meridionale fanno la conta dei danni dopo un fine settimana di maltempo estremo, con strade allagate e onde violente che si sono abbattute sulle case affacciate sull'oceano. I resti della tempesta tropicale Rachel hanno colpito la Baja California messicana, il sud della California e Las Vegas: pur essendosi indebolita in ciclone post-tropicale, Rachel ha lasciato una scia di distruzione.
+A Long Beach le onde hanno investito le abitazioni, distrutto una passerella e costretto i residenti alla fuga. Almeno nove case sono state dichiarate inagibili, quindi chi vi abitava non può nemmeno rientrare a recuperare i propri oggetti, e la città ha già speso oltre un milione di dollari dai fondi di emergenza. Più a sud Newport Beach ha dichiarato l'emergenza locale e chiuso temporaneamente i moli per il mare insolitamente grosso che ha invaso le strade; lunedì, con le pulizie in corso, i moli sono stati riaperti, ma le autorità invitano alla prudenza. Mareggiate anche a Oceanside.
+A Las Vegas un torrente d'acqua ha travolto una strada vicino alla Strip e la città ha eguagliato il record di pioggia giornaliera per ottobre, con 2,74 centimetri caduti fino a domenica mattina.
+Secondo i meteorologi è solo un assaggio: un El Niño di portata storica nel Pacifico minaccia di portare tempeste violente nella regione per tutto l'inverno.
 
 @Africa|The Guardian
 Guinea-Bissau nega di aver approvato il test sul vaccino nei neonati
 Lo studio danese sull'epatite B era sostenuto da RFK Jr e finanziato dagli Usa.
-Il ministro della Salute afferma che il governo non lo ha autorizzato.
-La sperimentazione era molto controversa.
+La Guinea-Bissau non ha mai approvato il controverso studio sul vaccino contro l'epatite B nei neonati, finanziato dal governo statunitense e da partner privati. Lo ha dichiarato in conferenza stampa il ministro della Salute Quinhin Nantote, dicendosi sorpreso dalle notizie secondo cui il Paese avrebbe dato il via libera: il ministero, ha detto, non ha autorizzato i «test» nei termini descritti nelle pubblicazioni in circolazione, e ogni ricerca su esseri umani, soprattutto bambini, deve rispettare leggi nazionali, principi etici internazionali e procedure di approvazione.
+Il ministro ha parlato dopo una riunione d'urgenza con il Bandim Health Project, gestito da ricercatori danesi, il comitato etico locale, l'Istituto nazionale di sanità pubblica e il programma vaccinale nazionale. La smentita pesa perché ai membri di un comitato etico danese era stato riferito che le autorità della Guinea-Bissau avevano approvato la versione aggiornata del protocollo, informazione che aveva influenzato alcuni voti a favore della prosecuzione la settimana scorsa.
+Lo studio prevede di arruolare 14mila neonati, somministrando il vaccino alla nascita a metà di loro e rinviandolo di sei settimane per gli altri, per misurare effetti «non specifici» come la mortalità generale o disturbi del neurosviluppo, non la sicurezza o l'efficacia del vaccino. È sostenuto da Robert F. Kennedy Jr, segretario alla Salute degli Stati Uniti e storico attivista antivaccinista, che lo ha elogiato come esempio della politica vaccinale dell'amministrazione Trump.
+Molti esperti lo contestano. Il pediatra infettivologo Paul Offit, del Children's Hospital di Philadelphia, sostiene che Kennedy punti ad abolire la dose alla nascita negli Stati Uniti e che una sperimentazione del genere non sarebbe mai autorizzata in America per ragioni etiche, accusandolo di approfittare di un Paese in via di sviluppo.
 
 @Cultura|The Guardian
 Scrittore zimbabwese nega di aver usato l'IA per il racconto premiato
 The Atlantic sostiene che The Blue Fighter sia stato generato artificialmente.
-Simbarashe Kundizeza aveva appena vinto il Caine Prize.
-L'autore respinge le accuse.
+Lo scrittore zimbabwese Simbarashe Kundizeza respinge l'accusa di aver usato l'intelligenza artificiale per scrivere «The Blue Fighter», il racconto con cui il 6 ottobre ha vinto il prestigioso Caine Prize per la letteratura africana. «Ho scritto io The Blue Fighter, non ho usato l'IA generativa: è interamente opera mia», ha scritto su X, aggiungendo che continuerà a lavorare con il premio e, soprattutto, a scrivere.
+Cinque giorni dopo la proclamazione, The Atlantic aveva pubblicato un articolo della scrittrice e giornalista Vauhini Vara intitolato «Un altro vincitore di premio letterario sembra essere IA». Vara ha spiegato di aver sottoposto il testo a Pangram, un software di rilevamento che a sua volta si basa sull'IA, secondo cui il racconto sarebbe quasi interamente generato artificialmente, con l'eccezione di un'epigrafe tratta da una poesia inedita della sudafricana Vangile Gantsho.
+La giornalista ha aggiunto di aver notato nel testo i tic tipici della scrittura artificiale, come le costruzioni «non questo, ma quello», l'eccesso di metafore e gli aforismi banali, e lo ha giudicato senza mezzi termini un brutto racconto, sentimentale e pieno di cliché.
+Il caso non è isolato: negli ultimi mesi sospetti simili hanno riguardato altri premi letterari, tra cui il premio per il racconto breve della Commonwealth Foundation vinto a luglio dal trinidadiano Jamir Nazir.
 
 @America Latina|El País
 La Colombia apre l'ambasciata a Gerusalemme
 De la Espriella rompe il consenso internazionale: è il decimo Paese a farlo.
-Il presidente prosegue lo smantellamento delle politiche del predecessore.
-È il più grande Paese latinoamericano con la sede diplomatica nella città.
+La Colombia ha inaugurato mercoledì la propria ambasciata a Gerusalemme, diventando il più grande Paese latinoamericano e, dopo gli Stati Uniti, il più importante al mondo ad aver compiuto questo passo. Il ministro degli Esteri israeliano Gideon Saar ha parlato di un evento storico e di una festa per i rapporti tra i due Paesi; dal 2024 il numero di Stati con l'ambasciata a Gerusalemme è raddoppiato, da cinque a dieci. Bogotà ha definito l'apertura una pietra miliare diplomatica.
+È il gesto più forte della svolta impressa dal presidente conservatore Abelardo de la Espriella rispetto al suo predecessore Gustavo Petro. In due mesi al potere ha ripristinato le relazioni diplomatiche e l'accordo di libero scambio con Israele, interrotti da Petro nel maggio 2024 per la strage di Gaza, e ha riconosciuto la sovranità israeliana sulle alture del Golan, territorio siriano occupato. Così facendo ha realizzato in fretta ciò che un altro stretto alleato di Benjamin Netanyahu, l'argentino Javier Milei, promette da due anni senza averlo ancora fatto.
+La scelta ha implicazioni rilevanti. Quasi tutti i Paesi tengono le ambasciate a Tel Aviv o nei dintorni proprio per non pregiudicare lo status di Gerusalemme, rivendicata come capitale sia dagli israeliani sia dai palestinesi e nodo centrale dei negoziati di pace. Con questa decisione la Colombia esce dal consenso internazionale e riconosce implicitamente la posizione israeliana.
 
 @America Latina|El País
 Gli Usa revocano le sanzioni a Jorge Rodríguez
 Il presidente dell'Assemblea venezuelana è fratello della presidente incaricata.
-Il Tesoro lo ha rimosso dalla lista principale.
-Un segnale di distensione con Caracas.
+Gli Stati Uniti hanno revocato le sanzioni contro Jorge Rodríguez, presidente dell'Assemblea nazionale venezuelana e fratello della presidente ad interim Delcy Rodríguez. Il dipartimento del Tesoro ha cancellato il suo nome dalla lista principale dei soggetti sanzionati, senza fornire spiegazioni.
+La decisione arriva dopo che a gennaio militari statunitensi sono entrati a Caracas e hanno arrestato l'ex presidente Nicolás Maduro e la moglie Cilia Flores, ora sotto processo negli Stati Uniti per narcotraffico, tortura e repressione. Da allora il Paese è guidato da Delcy Rodríguez, che ha negoziato con l'amministrazione Trump un patto annunciato ad agosto: Washington avrà il controllo maggioritario di circa un quinto delle riserve petrolifere venezuelane, le più grandi del mondo con circa 300 miliardi di barili. Secondo Reuters, i due fratelli hanno anche modificato la legge per aprire maggiormente energia e miniere alle imprese straniere.
+Resta invece incerto il calendario di eventuali elezioni presidenziali. E non tutti in America Latina riconoscono il nuovo potere di Caracas: il ministro degli Esteri uruguaiano Mario Lubetkin ha definito Delcy Rodríguez illegittima quanto Maduro e ha escluso di riallacciare i rapporti finché non ci saranno elezioni democratiche con un vincitore confermato da una corte indipendente. Il ministro venezuelano Félix Plasencia ha parlato di un'ingerenza inammissibile.
 
 @America Latina|Folha
 Giornalista brasiliano espulso dall'Argentina dopo critiche a Milei
 Rogério Tomaz Jr. respinto all'aeroporto Aeroparque.
-Il reporter afferma che gli è stato impedito l'ingresso lunedì 12.
-Il caso solleva critiche sulla libertà di stampa.
+Il giornalista brasiliano Rogério Tomaz Jr., noto per le sue critiche al governo di Javier Milei, racconta di essere stato respinto lunedì all'aeroporto Aeroparque di Buenos Aires. Secondo l'Agência Brasil, le autorità migratorie argentine gli hanno revocato la residenza permanente, valida dal 2022 fino al 2037, e gli hanno vietato di rientrare nel Paese per cinque anni. La Direzione nazionale delle migrazioni sostiene che non avesse trascorso abbastanza tempo in Argentina per mantenere il permesso; lui replica di viaggiarvi spesso e di esserci stato 36 giorni quest'anno.
+Tomaz, che vive a Brasilia e produce contenuti critici sulle politiche economiche e sociali di Milei, sospetta una motivazione politica. Tra luglio e agosto si era scontrato sui social con sostenitori del governo e con Juan Pablo Carreira, influencer noto come Juan Doe e direttore della comunicazione digitale della presidenza, che lunedì ha commentato l'espulsione su X con un messaggio di scherno.
+Arrivato all'aeroporto di Guarulhos, il giornalista ha detto di considerare l'espulsione quasi un trofeo e ha attaccato duramente il governo argentino, avvertendo che anche il Brasile rischia di prendere la stessa strada. Per il 2027 prevede di pubblicare un libro sulla presidenza Milei.
 
 @America Latina|The Guardian
 Falkland, Londra chiede all'Interpol di respingere le richieste argentine
 Mandati "politicamente motivati" contro persone legate a un progetto petrolifero.
-Il governo Milei ha chiesto red notice.
-Il Regno Unito invita alla cautela.
+Il Regno Unito ha chiesto all'Interpol di respingere le richieste dell'Argentina di arrestare persone coinvolte in un grande progetto petrolifero al largo delle isole Falkland. Con la tensione sulla sovranità del territorio britannico d'oltremare ai livelli più alti dalla guerra del 1982, Londra ha inviato una lettera alla sede dell'organizzazione a Lione sostenendo che le «red notice» chieste da Buenos Aires, anche contro cittadini britannici, vanno considerate politicamente motivate.
+Al centro c'è Sea Lion, il giacimento nel bacino settentrionale delle Falkland che potrebbe triplicare il Pil delle isole. Il presidente argentino Javier Milei ha promesso di bloccarlo e la strategia di Buenos Aires comprende il tentativo di criminalizzare chi vi lavora per scoraggiare altri investitori; secondo fonti britanniche, si tratterebbe di un tentativo di intimidire persone e aziende.
+Andrea Clausen, direttrice generale del governo delle Falkland, ha riconosciuto che il ricorso all'Interpol è una minaccia, ma ha espresso la speranza che l'organizzazione non agisca. L'Interpol ha risposto a Londra che rispetterà l'articolo 3 del suo statuto, che le vieta di intervenire in questioni di carattere politico, militare, religioso o razziale.
 
 @America Latina|Folha
 Perù, Keiko Fujimori vieta capelli lunghi ai ragazzi e trucco alle ragazze a scuola
 La presidente avvia la linea dura promessa in campagna.
-La figlia dell'ex dittatore applica le prime misure.
-Le regole riguardano le scuole del Paese.
+La presidente del Perù Keiko Fujimori ha portato nelle scuole la linea dura promessa in campagna elettorale. Durante una cerimonia in un istituto di Chaclacayo, a una trentina di chilometri da Lima, la figlia dell'ex dittatore Alberto Fujimori ha annunciato che nelle scuole pubbliche i ragazzi dovranno avere i capelli corti e che saranno vietati tinture, trucco, smalto e cellulari. L'ordine, ha detto, deve tornare non solo nelle strade ma anche nelle aule.
+Tornano anche i voti in condotta, aboliti nel 2019, che valutavano puntualità e comportamento, e le espulsioni: i più indisciplinati, ha detto Fujimori, non resteranno in classe. Il ministro dell'Istruzione José Antonio Chang ha aggiunto che saranno vietati capelli eccessivamente lunghi o tinti e che bisognerà garantire una lunghezza adeguata delle gonne.
+Le regole non sono ancora definitive: il ministero ha pubblicato una risoluzione che apre una consultazione pubblica di 15 giorni. Le norme riguarderanno i 6,7 milioni di studenti delle scuole pubbliche, il 72% degli alunni dell'istruzione di base, mentre i 2,6 milioni iscritti alle private, in genere di famiglie più agiate, seguiranno i regolamenti dei propri istituti.
 
 @Asia|The Guardian, Le Monde
 India, il "partito degli scarafaggi" della generazione Z sfida Modi
 Nato per scherzo, è diventato un movimento politico strutturato.
-Le Monde racconta le figure carismatiche che lo guidano.
-Le proteste giovanili preoccupano il governo.
+In India il Partito degli scarafaggi, il movimento della generazione Z nato la scorsa primavera, è diventato il volto della protesta contro la revisione delle liste elettorali, che ha cancellato oltre 130 milioni di nomi, più dell'intera popolazione del Giappone. Secondo le autorità, tra gli esclusi ci sono 28 milioni di persone morte, 63 milioni che hanno cambiato residenza e 30 milioni non rintracciate; per i critici, l'operazione favorisce il Bjp del premier Narendra Modi.
+Il 10 ottobre, giorno della manifestazione annunciata dal movimento, il quartiere governativo di New Delhi sembrava in lockdown: strade sbarrate, documenti controllati più volte, viali deserti. La polizia aveva avviato i fermi già alla vigilia e tra sabato e domenica, secondo la stampa locale, circa 20mila persone sono state fermate, compresi i leader del movimento; sei stazioni della metropolitana sono rimaste chiuse per 11 ore. Studenti dell'associazione Aisa si sono seduti in strada per impedire alla polizia di portare via alcuni manifestanti, scandendo slogan contro il presidente della commissione elettorale Gyanesh Kumar.
+Lunedì migliaia di persone hanno marciato pacificamente per circa sette chilometri fino alla Corte suprema, consegnando una petizione firmata anche dal leader dell'opposizione Rahul Gandhi: chiede una verifica delle cancellazioni, garanzie contro l'esclusione senza preavviso e senza contraddittorio e la sospensione della revisione. La commissione elettorale nega favoritismi e ricorda che chi è stato escluso per errore può iscriversi di nuovo; il Bjp accusa il Congresso di voler minare la democrazia e prendere il potere con le piazze. La polizia ha intanto tolto a Jantar Mantar lo status di luogo ufficiale per le proteste.
 
 @Asia|NYT
 I talebani sospendono le trasmissioni della Bbc in Afghanistan
