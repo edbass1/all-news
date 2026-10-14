@@ -11,7 +11,7 @@ TABS=[("italia","Italia",[("it-news","Prima pagina"),("it-op","Editoriali e opin
 SECN={k:n for _,_,s in TABS for k,n in s}
 now=datetime.datetime.now().strftime("%d/%m/%Y %H:%M")
 FZ="var Z=+localStorage.getItem('anfs')||17;function ap(){document.querySelector('article').style.setProperty('--fs',Z+'px')}function fz(d){Z=Math.min(26,Math.max(13,Z+d*2));localStorage.setItem('anfs',Z);ap()}ap()"
-CSS=""".srcb{display:inline-block;margin-left:8px;padding:1px 7px;border:1px solid #3a3a40;border-radius:3px;background:#1a1a1e;color:#cfcfd4;font:600 10px/1.6 Arial,sans-serif;letter-spacing:.5px;text-transform:none;vertical-align:middle}
+CSS=""".srcb{display:inline-block;margin-left:8px;padding:2px 8px;border:0;border-radius:4px;background:#2a2a2a;color:#e0e0e4;font:600 10.5px/1.4 Arial,sans-serif;letter-spacing:.4px;text-transform:none;vertical-align:middle}
 .fs{float:right;display:flex;gap:6px}.fs button{background:#18181c;color:#ddd;border:1px solid #333;border-radius:4px;padding:3px 9px;font:600 13px Arial,sans-serif;cursor:pointer}.fs button:hover{color:#fff;border-color:#ff2d55}article>p{font-size:var(--fs,17px)}
 .top{background:#111114;border-bottom:1px solid #26262b}.top .in{max-width:1200px;margin:auto;display:flex;align-items:stretch;padding:0 24px;height:60px}
 .top .logo{display:flex;align-items:center;gap:6px;font:700 22px 'Space Grotesk',Arial,sans-serif;color:#fff;letter-spacing:1px;padding-right:28px;border-right:1px solid #26262b}.top .logo span{background:#ff2d55;color:#fff;padding:2px 7px;border-radius:3px}
