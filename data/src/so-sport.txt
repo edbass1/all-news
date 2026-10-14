@@ -1,35 +1,162 @@
-@Champions League|Sport||2026-10-14
-Il Bodø/Glimt continua a stupire l'Europa: 1-0 al Borussia Dortmund
-Dal circolo polare artico i norvegesi tengono testa ai grandi: decide Sjøvold a inizio ripresa, inutile il forcing finale dei tedeschi.
-Il Bodø/Glimt ha battuto con merito il Borussia Dortmund per 1-0 in Champions League e conferma di poter affrontare alla pari le big del calcio europeo, giocando a ridosso del circolo polare artico.
-Nel primo tempo i norvegesi sono stati nettamente superiori: più possesso, più arrivi in area e un lavoro difensivo che ha concesso al Dortmund pochissime azioni pulite, costringendolo a perdere palla in fretta. Alla squadra di casa è mancato soltanto il gol. L'occasione più nitida è arrivata al 28', quando Blomberg ha mancato di un soffio un cross dalla sinistra di Hauge; una decina di minuti prima Fet aveva calciato fuori dopo una bella combinazione.
-Al di là delle occasioni, la partita si è giocata quasi sempre nella metà campo tedesca e spesso vicino all'area, tanto che il Dortmund ha potuto considerarsi fortunato a rientrare negli spogliatoi sullo 0-0.
-Nella ripresa il Bodø è partito deciso a chiudere i conti, con quattro chiare occasioni nei primi cinque minuti. Il gol è arrivato al 52': il terzino destro Sjøvold, in posizione da centravanti, ha concluso un cross di Auklend dalla destra.
-Sotto di un gol, il Dortmund ha reagito, prima con gli uomini in campo e poi con gli ingressi di Felix Nmecha, Serhou Guirassy e Julian Ryerson, che hanno cambiato il volto della gara. L'ultima mezz'ora è stata dei tedeschi, che hanno creato diverse buone occasioni senza però riuscire a pareggiare.
+@Champions League|Sport|roma-real|2026-10-14|live-big
+Güler e gli emarginati salvano Mourinho a Roma
+Dal 3-1 al 3-4 in otto minuti: Espí, Endrick e Rüdiger rimediano al disastro delle stelle.
+Un doppio mediano Tchouaméni-Valverde di cemento, Courtois costretto a fare il libero, un Vinícius ormai zavorra e un Mbappé che manda messaggi a una curva che non lo teme: così Sport descrive il Real a Roma. A salvarlo sono stati gli esclusi: Espí ed Endrick, condannati alla panchina dalle gerarchie, e Arda Güler, che ha dato a Mourinho tutte le soluzioni per una rimonta in meno di dieci minuti (82', 85' e 90'), chiusa da Rüdiger.
+La Roma di Gasperini è partita col coltello tra i denti. Courtois ha salvato su Hermoso, Soulé e Dybala, poi De Roon dal limite ha fatto 1-0. Mbappé ha pareggiato cinque minuti dopo su un errore giallorosso, portandosi la mano all'orecchio. Nella ripresa il tacco di Vinícius ha avviato il 2-1 di Malen, servito da Rodrigo Mora e deviato da Valverde; il VAR ha poi convalidato il 3-1. Mourinho ha tolto Vinícius e Dumfries per Endrick e Güler: dal pallone di Arda sono nati il gol di Espí, il pareggio di Endrick e il 3-4 di Rüdiger, ex della partita.
 
-@Champions League|Sport||2026-10-14
+@Champions League|Sport|roma-real|2026-10-14
 Malen fa volare i suoi numeri contro il Real: otto gol in otto partite
 La doppietta al Madrid vale all'attaccante della Roma la media di una rete a partita tra Serie A e Champions; inutile però nella rimonta finale dei blancos.
-Donyell Malen ha trovato nel Real Madrid un'altra vetrina per mostrare la sua fame di gol. Con la doppietta contro i blancos l'attaccante della Roma è salito a otto reti in otto partite stagionali tra Serie A e Champions, una media di un gol a gara che dice molto del suo peso nell'attacco di Gian Piero Gasperini.
-L'olandese arrivava alla sfida con sei gol in sette presenze ufficiali, sei in campionato e una in Champions: all'esordio europeo contro il Fenerbahçe non aveva segnato ma aveva servito un assist. La doppietta al Madrid apre il suo conto in questa Champions contro un avversario di grande prestigio.
-In Italia aveva già dimostrato di saper segnare a raffica: tripletta alla Fiorentina in apertura di stagione, poi due gol al Lecce e uno al Torino. A secco contro Atalanta, Inter e Como, ha ritrovato la rete proprio contro gli spagnoli.
-A 27 anni Malen vive un momento di grande fiducia a Roma. Arrivato a gennaio dall'Aston Villa, è diventato presto decisivo per il ritorno dei giallorossi in Champions e quest'anno ha mantenuto la stessa efficacia, tanto da essere premiato come miglior giocatore di settembre in Serie A.
-Cresciuto nei vivai di Ajax e Arsenal, è esploso al PSV Eindhoven, dove dopo il ritorno in Olanda nel 2017 ha messo insieme 55 gol e 24 assist in 116 partite. Quei numeri gli hanno aperto le porte del Borussia Dortmund nell'estate 2021: in Germania ha totalizzato 39 gol e 20 assist in 132 gare in tre stagioni e mezza, prima di passare all'Aston Villa di Unai Emery nel gennaio 2025. L'esperienza inglese è durata un anno, fino all'approdo alla Roma nel gennaio 2026.
-Contro il Real aveva già giocato la finale di Champions del 2024, ma con un ruolo marginale: partito dalla panchina del Dortmund, era entrato all'80' al posto di Emre Can con i tedeschi sotto per il gol di Carvajal, e tre minuti dopo Vinícius aveva firmato lo 0-2 definitivo. Un ricordo amaro, lontano dalla doppietta dell'Olimpico, anche se la rimonta finale del Madrid, 3-4 negli ultimi minuti, ha trasformato i suoi due gol in una semplice statistica personale.
+Donyell Malen ha trovato nel Real Madrid un'altra vetrina per la sua fame di gol. Con la doppietta dell'Olimpico l'attaccante della Roma sale a otto reti in otto partite stagionali tra Serie A e Champions, una media di un gol a gara che misura il suo peso nell'attacco di Gian Piero Gasperini.
+L'olandese arrivava alla sfida con sei gol in sette presenze: sei in campionato e una in Champions, all'esordio contro il Fenerbahçe, quando non aveva segnato ma aveva servito un assist. In Italia aveva aperto la stagione con una tripletta alla Fiorentina, poi due gol al Lecce e uno al Torino, prima di restare a secco con Atalanta, Inter e Como.
+A 27 anni Malen vive un periodo di grande fiducia nella capitale. Arrivato dall'Aston Villa a gennaio, è stato decisivo per il ritorno della Roma in Champions ed è stato premiato come miglior giocatore di settembre in Serie A.
+La sua carriera è passata dai vivai di Ajax e Arsenal, ma è esplosa al PSV Eindhoven: rientrato in Olanda nel 2017, ha segnato 55 gol con 24 assist in 116 partite. Poi il Borussia Dortmund, dall'estate 2021: 39 gol e 20 assist in 132 gare in tre stagioni e mezzo. Nel gennaio 2025 il passaggio all'Aston Villa di Emery, un anno in Inghilterra, e nel gennaio 2026 l'approdo alla Roma.
+Contro il Real c'era anche un conto in sospeso. Nella finale di Champions 2024 Malen era partito dalla panchina del Dortmund ed era entrato all'80' al posto di Emre Can, con i tedeschi già sotto per il gol di Carvajal; tre minuti dopo Vinícius aveva segnato lo 0-2 definitivo. Un ricordo amaro che contrasta con la doppietta di Roma, anche se la rimonta madridista nel finale (3-4) ha trasformato i suoi gol in una semplice statistica personale.
 
-@Champions League|Sport
+@Champions League|Sport|roma-real
 Roncero: «Espí ed Endrick devono giocare»
 Il giornalista madridista indica nei cambi la chiave della rimonta di Roma.
-Il Real Madrid sembrava aver già dato la partita per persa all'Olimpico: dopo un primo tempo chiuso sull'1-1, nella ripresa la squadra è crollata e al 51' Malen ha firmato il 2-1 per la Roma.
-Poi sono arrivati i cambi di Mourinho, che conosceva bene i giallorossi per averli allenati dal 2021 al 2024, e la partita è girata. Per Tomás Roncero da qui nasce una lezione: Espí ed Endrick meritano spazio.
+Il Real Madrid è ricorso all'eroismo per rimontare a Roma. Sembrava che la squadra avesse dato la partita per persa, senza forza per reagire, poi sono arrivati i cambi: Mourinho, che conosceva bene la Roma per averla allenata dal 2021 al 2024, ha trovato il tasto giusto.
+Dopo un primo tempo disastroso chiuso sull'1-1, il Real è rientrato peggio: la Roma ha preso il controllo e Malen, assistito dal giovane Rodrigo Mora entrato al posto di Dybala, ha segnato il 2-1 al 51' e poi il 3-1. Ma, scrive Sport, contro il Real in Champions non bisogna mai arretrare, e la Roma lo ha fatto.
+Mourinho ha tolto un Vinícius spento e arrabbiato per Endrick, che con la sua esplosività ha creato molti problemi alla difesa giallorossa; poi sono entrati Bernardo Silva, Güler, Carreras ed Espí. Con il Real tutto in avanti sono arrivati occasioni e soprattutto calci d'angolo, nove in totale, la vera chiave della rimonta. All'83' Espí ha segnato su una respinta dopo un tentativo di Endrick, all'85' il brasiliano ha pareggiato di testa e al 90' Rüdiger, ex Roma, ha completato l'opera chiedendo scusa nell'esultanza.
+Tomás Roncero si è detto soddisfatto delle scelte del tecnico: secondo lui Espí ed Endrick devono partire titolari e Vinícius andare in panchina. Il giornalista considera Güler intoccabile e vuole Valverde terzino destro, sostenendo che il Real debba dare spazio a chi rende di più. Su Espí è stato netto: dovrebbe essere titolare, i gol gli cadono dalle tasche. Dani Garrido ha chiuso con una domanda a Mourinho: quali altre prove servono per far giocare quelli che sanno giocare?
 
-@Champions League|Sport
+@Champions League|Sport|roma-real
 Le pagelle del Real a Roma: bocciati Vinícius e Tchouaméni
 Il 3-4 nasce dalla panchina: promossi Diomande ed Endrick.
-Il Real Madrid ha ritrovato le rimonte europee battendo la Roma 3-4 grazie al contributo dei giocatori entrati dalla panchina. Giudizi molto diversi tra loro: Vinícius e Tchouaméni ne escono male, Diomande ed Endrick si guadagnano il posto. Courtois ha alternato parate decisive a gol su cui poteva poco.
+Il Real ha ritrovato le rimonte europee grazie ai giocatori entrati dalla panchina, in una partita di forti contrasti nei voti.
+Courtois, disperato: ha alternato parate decisive a gol su cui poteva poco. Dumfries, irregolare: meglio in attacco che in difesa, dove ha lasciato varchi preziosi ai romanisti, un altro acquisto che non fa la differenza. Konaté, messo a nudo: una sua palla persa ha avviato il primo gol e ha sofferto soprattutto sulla velocità. Rüdiger, eroico: il difensore più in palla, bravo negli anticipi e autore del gol della vittoria. Cucurella, irriconoscibile: una buona occasione alla mezz'ora, ma in difesa ha sofferto e concesso spazi.
+Tchouaméni, soffocato: travolto dalla superiorità romanista a centrocampo, senza aiuti, impreciso e perso nell'azione del terzo gol, quando non ha chiuso né il passaggio di Soulé né l'inserimento di Malen. Valverde, distratto: tra tanti cambi di ruolo sta perdendo anche la sua proverbiale capacità di lavoro, ed è finito terzino. Bellingham, insoddisfatto: discreto nel primo tempo, ha poi lanciato Mbappé nel gol annullato per fuorigioco e ha spinto la reazione.
+Diomande, in crescita: schierato a destra con Vinícius, ha mostrato molto più del brasiliano e merita più minuti. Vinícius, colpevole: scollegato dopo la notizia della squalifica, ha regalato il 2-1 con un numero inutile, rimproverato e sostituito da Mourinho. Mbappé, puntuale: dopo palloni persi, ha trovato il pareggio con una botta da lontano deviata. Endrick, riscattato: incredibile che giochi così poco, ha rivoluzionato l'attacco e guidato la rimonta. Güler, essenziale: con lui in campo il Real è un'altra squadra, oro puro sui piazzati. Bernardo Silva, solido: ha portato esperienza e buon senso.
 
-@Champions League|Sport
+@Champions League|Sport|roma-real
 Vinícius furioso con Mourinho per la sostituzione: «Perché mi togli?»
 Prestazione molto sotto le attese del brasileño a Roma; la rimonta evita il processo pubblico.
-L'attaccante ha giocato una partita molto al di sotto delle sue possibilità, soprattutto nel primo tempo, quando ha toccato pochissimi palloni senza fare la differenza né aiutare in difesa.
-Al momento della sostituzione ha protestato con il tecnico. Secondo il quotidiano catalano la situazione rischia di diventare insostenibile; solo la rimonta finale lo ha salvato da critiche ancora più dure.
+La serata di Vinícius all'Olimpico non è passata inosservata, ma per motivi opposti a quelli che il madridismo si aspettava dal suo idolo degli ultimi anni. Solo la rimonta finale lo ha salvato da un processo pubblico per un rendimento che comincia a preoccupare.
+Nel primo tempo ha toccato pochissimi palloni, senza fare la differenza e senza nemmeno garantire il lavoro difensivo chiesto dall'allenatore. Nella ripresa la serata è peggiorata con l'errore che ha permesso a Malen di segnare il 2-1, un'azione che Mourinho non ha perdonato.
+Al 59' il tecnico lo ha sostituito con Endrick. Vinícius l'ha presa malissimo: uscendo ha allargato le braccia verso la panchina in segno di disaccordo e, secondo il giornalista José Padilla, dal labiale si leggeva la domanda sul perché venisse tolto. Mourinho, visibilmente arrabbiato, ha persino imitato davanti al suo assistente il gesto tecnico del brasiliano e dopo la partita ha parlato di un errore ridicolo che in questa competizione non si può commettere.
+È un altro episodio difficile per Vinícius, lontano dalle attese in questo avvio di stagione e assente al Clásico del Camp Nou per le quattro giornate di squalifica rimediate dopo l'espulsione contro il Villarreal.
+
+@Champions League|Sport|roma-real
+Vinícius, disastro totale e indicato da Mourinho
+Il tacco che regala il 2-1 alla Roma e il tecnico che lo imita in panchina.
+La ripresa all'Olimpico è cominciata nel peggiore dei modi per il Real Madrid. Dopo un primo tempo chiuso in parità grazie a Mbappé, la squadra di Mourinho non è riuscita a fare un passo avanti ed è stata travolta dalla spinta della Roma, che ha trovato rapidamente gli spazi per colpire una difesa troppo accomodante. Malen ne ha approfittato due volte.
+Il primo tempo di Vinícius era stato grigio, con pochissimi contatti con il pallone. Nella ripresa il regalo: in fase di costruzione Courtois gli ha passato la palla e il brasiliano, spalle alla porta, ha tentato un tacco rischiosissimo a centrocampo. La Roma ha recuperato e Rodrigo Mora ha servito Malen per il primo gol della sua serata.
+Mourinho, furioso, ha mimato quel gesto con il suo assistente prima di effettuare il cambio: Antonio Romero lo ha raccontato in diretta su Cadena SER. Il brasiliano non ha gradito e ha mostrato il suo malumore dalla panchina. In stagione Vinícius ha un solo gol e tre assist.
+
+@Champions League|Sport|roma-real
+Il fermo immagine che dà ragione alla Roma: Valverde tiene in gioco Malen
+Il 3-1 annullato dall'assistente e convalidato dal VAR era regolare.
+Il secondo gol di Malen al Real è arrivato tra le polemiche. Al 57' Matías Soulé ha lanciato in profondità l'olandese, che ha battuto Courtois con un diagonale. L'assistente ha alzato la bandierina e l'arbitro François Letexier ha inizialmente annullato.
+La decisione non ha retto: dal VAR, guidato dall'olandese Dennis Higler, la rete è stata rivista con il fuorigioco semiautomatico e convalidata, per il 3-1 della Roma di Gasperini. La ricostruzione 3D mostrata in tv non lascia dubbi: la linea passa sullo scarpino di Fede Valverde, ultimo uomo del Real in quella zona, e Malen è dietro, in posizione regolare. L'errore è stato dell'assistente e la tecnologia lo ha corretto.
+Il sistema, usato dalla Uefa in Champions, segue con le telecamere giocatori e pallone; nell'istante del passaggio traccia la linea sulla parte del corpo più avanzata del penultimo difensore e la confronta con quella dell'attaccante, mostrando il risultato in un'animazione. In azioni così strette gli assistenti dovrebbero lasciar finire l'azione; stavolta la bandierina si è alzata, ma il gol è stato comunque convalidato.
+Valverde era già stato protagonista involontario del 2-1, quando il tiro di Malen, dopo il tacco sbagliato di Vinícius e il passaggio di Rodrigo Mora, aveva colpito lui spiazzando Courtois. La Roma era passata al 20' con De Roon, dopo un recupero di Dybala su un passaggio sbagliato di Tchouaméni, e Mbappé aveva pareggiato al 25'. Senza Courtois, decisivo su Hermoso e Malen, il passivo sarebbe stato ancora più ampio.
+
+@Champions League|Sport|roma-real
+Il Real nel mirino per il primo tempo: «Fa male vedere Vinícius e Mbappé camminare»
+Le radio spagnole durissime con la squadra di Mourinho prima della rimonta.
+Il Real Madrid è sceso in campo a Roma dopo aver saputo della squalifica di quattro giornate a Vinícius, che aveva fatto infuriare Mourinho, e in pochi minuti ha scoperto le minacce della squadra di casa. Al 20' De Roon ha segnato dal limite dopo un errore di Konaté, lento sul recupero di Dybala, con una deviazione che ha spiazzato Courtois. Al 25' Mbappé ha pareggiato approfittando di un errore dell'ex atletico Mario Hermoso, con il tiro deviato da Mancini sopra Gollini.
+Al di là del gol, il primo tempo è stato deludente: squadra addormentata, meno intensa degli italiani. Mourinho, insolitamente tranquillo in panchina, correggeva i suoi senza alterarsi, forse trattenendo le emozioni nella sua vecchia casa.
+Le critiche non si sono fatte attendere. Su COPE Poli Rincón ha detto di non capire alcuni giocatori e di non poter accettare una squadra così schiacciata nella propria area. Su SER Antonio Romero ha parlato di disastro, i peggiori minuti del Real di Mourinho da inizio stagione, e Dani Garrido lo ha descritto al tappeto, mettendo in dubbio un piano che rinunciava al pallone. Javi Herráez ha lamentato che fa male vedere Vinícius e Mbappé camminare in campo. Tomás Roncero ha chiesto più giocatori capaci di costruire a centrocampo, mentre Romero ha notato quanto poco serva al Real per punire: ha trovato il gol molto prima del gioco.
+
+@Champions League|Sport||2026-10-14
+Luis Enrique condanna il City in Europa
+Mentre l'Inghilterra attende le sanzioni, il PSG vince 2-4 all'Etihad.
+Mentre il Manchester City e tutta l'Inghilterra aspettano la sanzione della Premier, che potrebbe arrivare persino alla retrocessione, il PSG non ha atteso il verdetto e ha punito gli inglesi con quattro gol all'Etihad. A tratti è stata una lezione di Luis Enrique a Enzo Maresca, che ha trovato in Haaland la reazione ma è stato tradito da Donnarumma, proprio l'ex portiere dei parigini.
+Il primo tempo ha ricordato la valanga di PSG-Bayern nelle semifinali della scorsa edizione, con la differenza che stavolta concludeva solo una squadra. Davanti a Guardiola in tribuna, il City si è sciolto al 13' su una transizione perfetta finalizzata da Doué, che ha finto il tiro sul palo lungo e ha battuto Donnarumma sul primo palo. Due minuti dopo Dembélé ha segnato di testa sul secondo palo dopo una specie di triangolo aereo con Doué. Il City poteva passare in vantaggio all'11', quando un rinvio sbagliato di Safonov verso la propria porta è finito sulla traversa.
+Vitinha e Hakimi hanno sfiorato altri gol, poi alla mezz'ora Vitinha ha firmato lo 0-3 su un pallone di Akliouche prolungato di tacco da Zaïre-Emery. Al 38' Hakimi, solo davanti a Donnarumma, ha mancato il quarto. Il City ha tirato in porta una sola volta nel primo tempo, con Doku nel recupero; Haaland e Gvardiol hanno sprecato di testa.
+All'intervallo Maresca ha fatto tre cambi e la squadra è cresciuta fino a schiacciare il PSG: Haaland ha segnato di testa al 53', dopo altre tre occasioni con Ndiaye protagonista. Ma Donnarumma ha respinto male un tiro da lontano di Akliouche, pupillo di Luis Enrique, per l'1-4. Enzo Fernández ha colpito l'incrocio, Haaland la traversa, poi il norvegese ha fatto 2-4 al 75'. Haaland ha sfiorato la tripletta e Ferran Torres ha sbagliato un rigore nel recupero.
+
+@Champions League|Sport||2026-10-14|live
+Il Bodø/Glimt continua a stupire l'Europa: 1-0 al Borussia Dortmund
+Dal circolo polare artico i norvegesi tengono testa ai grandi: decide Sjøvold a inizio ripresa, inutile il forcing finale dei tedeschi.
+Il Bodø/Glimt ha battuto con merito il Dortmund 1-0. Nel primo tempo i norvegesi hanno avuto più possesso e occasioni, con Fet e soprattutto Blomberg, che al 28' ha mancato di poco un cross di Hauge. Al 52' il terzino destro Sjøvold, da centravanti, ha segnato su cross di Auklende. Poi l'ingresso di Nmecha, Guirassy e Ryerson ha cambiato la partita e l'ultima mezz'ora è stata del Dortmund, che però non ha trovato il pari.
+
+@Champions League|Sport||2026-10-14|live
+Aston Villa-Fenerbahçe 6-0
+Doppiette di Nicolas Jackson e Barkley, prima vittoria in casa per Emery.
+Sedicesimo in Premier, l'Aston Villa ha travolto il Fenerbahçe. Manzambi al 12', Jackson al 32' e al 39', Barkley due volte (una su rigore) e Abraham al 90'. I turchi hanno avuto occasioni nel primo tempo con Muriqi e Aydin, fermati dal portiere giapponese Suzuki, pagato 35 milioni in estate.
+
+@Champions League|Sport||2026-10-14|live
+Il Como di Fàbregas affonda al De Kuip
+Il Feyenoord vince 3-2, terza gara di fila senza vittorie per gli italiani.
+Diao ha portato avanti il Como su lancio di Jacobo Ramón, infortunandosi nell'azione; Zechiël ha pareggiato con un gran destro all'incrocio. Nella ripresa Hadj Moussa ha segnato il 2-1 al 52' e ha costruito il 3-1, chiuso con un tiro deviato da Ramón, palo e schiena di Robert Sánchez. Inutile il 3-2 di Douvikas al 92'. Nico Paz, falso nove, ha toccato pochi palloni.
+
+@Champions League|Sport||2026-10-14|live
+Champions, la classifica marcatori dopo due giornate
+Tresoldi, Demirović e Haaland in testa con quattro gol.
+Nicolò Tresoldi del Bruges, accostato al Barça in estate, ha segnato una tripletta all'Inter e guida con quattro gol insieme a Demirović dello Stoccarda e Haaland, a segno due volte contro il PSG. A tre gol Ferran Torres, che ha sbagliato un rigore nel finale, Kane, Barcola, Nicolas Jackson e Dembélé. A due, tra gli altri, Mbappé, Raphinha, Adeyemi, Bartra, Guirassy, Olise, Lautaro, Mouriño e Barkley.
+
+@Barcellona|Sport
+Dibattito al Barça su Hamza Abdelkarim
+Dodici minuti in dieci partite: l'egiziano di 18 anni ha bisogno di giocare.
+A Istanbul, senza Raphinha infortunato, Hansi Flick ha schierato Dani Olmo da falso nove per avere più controllo. Avrebbe potuto giocare Gabriel Jesus nel suo ruolo naturale, entrato poi nella ripresa con qualche occasione, oppure Anthony Gordon per la sua capacità realizzativa e di pressione. Un ventaglio di opzioni che, insieme a un calendario fittissimo, lascia pochissimo spazio a Hamza Abdelkarim: in dieci gare ufficiali l'egiziano ha giocato 12 minuti, 4 contro il Rayo e 8 contro il Getafe.
+Nel club c'è un dibattito interno: a 18 anni deve giocare, anche per adattarsi al sistema del Barça dopo il suo arrivo la scorsa stagione. A differenza di Brian Fariñas, che non ha ancora debuttato in gare ufficiali, ha ricevuto tessera e numero della squadra B proprio per poter giocare con il Barça Atlètic, dove peraltro non è mai sceso in campo, passando direttamente dalla Juvenil A alla prima squadra.
+Il giorno del rinnovo, fino al 30 giugno 2030, aveva detto che non si sarebbe vergognato di scendere nel filiale: il suo obiettivo è giocare, con il Barça, con la squadra B o con l'Egitto. Il club ha apprezzato, perché non tutti la pensano così e alcuni vedono la squadra di Segunda RFEF come un freno. Flick lo tiene in considerazione e gli piace in allenamento, ma i minuti sono carissimi. Se dovrà giocare con il filiale per non perdere ritmo, il ragazzo, già idolo in un paese appassionato e reduce da un Mondiale, non avrà problemi.
+
+@Liga|Sport
+Las Palmas, Ramírez punta su Juan Manuel: «Spero sia definitivo»
+Il presidente chiede di più ai veterani e difende il ds Helguera.
+Il presidente dell'UD Las Palmas Miguel Ángel Ramírez, durante l'inaugurazione del terzo centro medico del club, il secondo a Telde, ha spiegato il suo piano per Juan Manuel Rodríguez, allenatore ad interim dopo l'esonero di De la Barrera: il desiderio è che diventi il tecnico definitivo.
+Ramírez ha fatto autocritica e ha chiesto di più ai pesi massimi dello spogliatoio. I veterani, ha detto, sanno di dover dare qualcosa in più: ci sono molti infortunati e non si sta vedendo la migliore versione di Caro, Kirian o Enzo, mentre Pezzolesi, Iñaki e Romero sono al livello richiesto. Sugli infortuni ha ammesso il problema, ma un'altra cosa è non garantire un livello minimo.
+Il futuro di Juan Manuel dipenderà dai risultati: se andrà bene, sarà confermato. Il club, spiega, avrebbe potuto scegliere tra tutti gli allenatori sul mercato, molti dei quali vorrebbero venire, ma ha preferito una transizione con un uomo di casa. Se De la Barrera ha avuto nove o dieci giornate, è il minimo concederne altrettante al nuovo tecnico. Ramírez ha ricordato Pimienta e Luis García, arrivati senza curriculum e oggi nelle zone alte della classifica: con De la Barrera la scommessa non ha funzionato, quindi si è chiamato un vecchio conoscente.
+L'esonero è arrivato dopo un punto in quattro giornate. Il presidente ha difeso il direttore sportivo Helguera: la rosa è ben costruita, ha detto, e non si può criticarla quando ci sono tanti infortuni, come non lo si farebbe con il Barça o il Real. Helguera ha rinnovato per cinque anni e resterà finché lui sarà presidente. Secondo Ramírez, De la Barrera ha sbagliato nelle scelte: tra veterani sotto tono e infortuni, non ha trovato la chiave.
+
+@Liga|Sport
+Pepelu, la certezza del Valencia con tre allenatori e tre ruoli
+Sempre titolare con Corberán, Óscar Sánchez e Aguirre, da mediano o da difensore.
+In un avvio di stagione segnato da cambi di allenatore e di sistema, Pepelu è una delle poche certezze del Valencia. Tre tecnici, tre ruoli diversi, una costante: è sempre stato titolare in Liga, con Corberán, con Óscar Sánchez e anche all'esordio di Javier Aguirre.
+Il centrocampista di Dénia ha giocato da mediano, da difensore centrale in una linea a quattro e da centrale in una difesa a tre, una posizione simile al vecchio libero, con il compito di avviare l'azione e ordinare la retroguardia. La sua riconversione in difesa era nata dalle necessità della scorsa stagione, ma il rendimento l'ha giustificata: lontano dall'essere un ripiego, è stato uno dei difensori più affidabili.
+Sa dove posizionarsi, offre un'uscita pulita e corregge davanti alla porta, e così allenatori diversi hanno trovato in lui la soluzione a problemi diversi. Il suo peso ricorda la prima stagione al Mestalla, quando arrivò dal Levante e divenne subito un perno della squadra di Rubén Baraja; poi aveva perso spazio, e ora lo ritrova proprio quando il Valencia, tra risultati pessimi e tre allenatori in poche giornate, ha più bisogno di riferimenti.
+Il prossimo ruolo è ancora da decidere: preparando la gara contro l'Athletic, Aguirre lo ha provato accanto a Guido Rodríguez a centrocampo, che lo riporterebbe nel suo habitat naturale.
+
+@Liga|Sport
+Fer Niño torna alla Cerámica: «Al Villarreal devo gran parte della mia carriera»
+L'attaccante dell'Elche, cinque gol in Liga, sfida il club in cui è cresciuto.
+Sabato alle 16.15 Fer Niño vivrà una partita speciale. L'attaccante dell'Elche, cinque gol in Liga e riferimento offensivo della squadra, torna alla Cerámica per affrontare il club in cui è cresciuto. Lì, racconta, è cominciato tutto: a 15 anni si ruppe il crociato e il club gli diede ogni facilità per recuperare; ci è rimasto sette anni, è stato felice ed è diventato professionista.
+Sul Villarreal ha detto che può schierare quasi due squadre da Primera e che sarà una partita durissima: hanno uno stile simile all'Elche, che vuole tenere il pallone, e se la sua squadra rispetterà il piano gara sarà equilibrata.
+Niño ha debuttato in prima squadra nel gennaio 2020 e pochi giorni dopo ha segnato il primo gol in Liga contro l'Alavés quasi al primo pallone toccato. Con il Villarreal ha giocato 37 partite ufficiali con dieci gol e faceva parte della rosa che vinse l'Europa League 2020-21, primo titolo nella storia del club. Nel 2021 in prestito al Maiorca, dove segnò ancora all'esordio, sempre contro l'Alavés; poi una stagione con il filiale in Segunda (quattro gol e quattro assist in 39 partite) e la cessione al Burgos, dove è esploso con 26 gol in 115 gare in tre stagioni. Quest'estate il salto all'Elche, con cui è tornato in Primera.
+
+@Liga|Sport
+Gulácsi e la zona nel mirino dei ladri: gli altri calciatori derubati a Valencia
+Almeno nove giocatori di Villarreal, Valencia e Levante colpiti dal 2019.
+La rapina a mano armata subita da Péter Gulácsi con la famiglia in casa riaccende i riflettori sui furti ai calciatori nell'area di Valencia. Il portiere del Villarreal, che ha saltato la partita di Champions con il Napoli, si aggiunge ad almeno nove giocatori di Villarreal, Valencia e Levante vittime di furti o tentati furti nelle loro abitazioni dall'aprile 2019.
+Il fatto è avvenuto nella notte di martedì 13 ottobre nella sua casa di Monasterios, a Puçol. Nessuno è rimasto ferito. Dopo il giorno di riposo, non è chiaro se giovedì potrà tornare ad allenarsi. Iñigo Pérez ha espresso la massima empatia per un episodio grave e sgradevole, senza rivelare le condizioni del portiere per rispetto della sua privacy: quando si riceve una notizia del genere, ha detto, si pensa subito a cosa sarebbe successo a sé stessi, e ci si augura che non accada più.
+Molti precedenti si concentrano a Bétera e nei comuni vicini, anche se non c'è prova di collegamenti tra gli autori. Nel febbraio 2024 Étienne Capoue del Villarreal stava cenando con la famiglia quando sentì rumori al piano di sopra: tre intrusi fuggirono senza bottino. Nel maggio 2023 tre incappucciati entrarono nella casa di Justin Kluivert, allora al Valencia e in trasferta a Maiorca, aggredendo la compagna e un'altra persona e portando via gioielli e orologi. Nell'agosto 2022 Samu Castillejo trovò la villa a soqquadro al ritorno dal debutto con il Valencia. Nell'aprile 2022 Shkodran Mustafi, del Levante, dormiva con moglie e figli quando entrarono tre incappucciati, che fuggirono con denaro e oggetti di valore per un bottino stimato in quasi un milione. Nel maggio 2026 è toccato a Largie Ramazani del Valencia.
+
+@Basket|Sport
+Olympiacos, caos dopo l'impresa di Valencia: Dorsey escluso
+Il campione d'Europa rimanda ad Atene la guardia dopo le sue frasi sui social.
+La storica rimonta dell'Olympiacos a Valencia, da -28 a una vittoria per 97-102 dopo un supplementare al Roig Arena, è passata in secondo piano al Pireo per una grana interna. Poche ore dopo, il club ha escluso Tyler Dorsey dalla trasferta di Eurolega contro il Barça e gli ha ordinato di rientrare subito ad Atene.
+Tutto è nato da una discussione sul suo futuro nel programma «Triple Threat Show»: Chima Moneke, oggi alla Stella Rossa, ha difeso il suo peso nella squadra, mentre Jaron Blossomgame, ora a Dubai, ha sostenuto che il suo contributo fosse sostituibile. Dorsey ha risposto pubblicamente sui social chiedendo perché non lo lascino andare ora, lamentando un calo improvviso dei minuti e lasciando intendere che ci sono altre cose da raccontare sul trattamento ricevuto.
+La risposta del club è stata immediata, conseguenza diretta delle dichiarazioni. Dorsey ha contratto fino a fine stagione, ma il suo ruolo nella squadra di Giorgos Bartzokas si era molto ridotto: a Valencia ha giocato poco più di cinque minuti, con due punti, nessun assist e valutazione -1. Bartzokas aveva definito quella vittoria la più grande della sua squadra per come era arrivata; meno di 24 ore dopo, il focus è cambiato del tutto.
+
+@Calcio|Sport
+Il Molinón avrà l'erba ibrida provata a Mareo
+Lo storico stadio dello Sporting Gijón cambia manto durante tre trasferte consecutive.
+Lo Sporting Gijón installerà al Molinón l'erba ibrida già sperimentata con successo su due campi di Mareo. I lavori partiranno subito dopo la partita di sabato con l'Albacete, approfittando di tre gare consecutive lontano da Gijón. Sarà la prima volta che lo stadio più antico del calcio spagnolo adotta questa tecnologia, in cui all'erba naturale si aggiunge un 4% di fibra sintetica per renderla più stabile.
+Il club si è affidato di nuovo alla ditta basca Laziturri e alla tecnologia Grassmax: macchine che «cuciono» il terreno, interrando ogni due centimetri fibre di plastica alte 18 centimetri che si mescolano all'erba naturale. Secondo i tecnici non richiedono più manutenzione e migliorano drenaggio e tempi di recupero.
+La soluzione era stata valutata già nel 2023, sotto la supervisione della responsabile dei terreni Eva Sánchez-Céspedes, ma allora si scelse l'erba naturale al 100%; Mareo, più usato dalla prima squadra, fu il banco di prova. Dopo l'Albacete ci saranno 21 giorni fino alla gara casalinga successiva: lo Sporting giocherà a Castellón il 25 ottobre, in Coppa contro il Guijuelo il 29 e a Ceuta il 1° novembre. Il nuovo prato dovrebbe essere pronto per la sfida al Valladolid dell'8 novembre.
+
+@Liga|Sport
+Ndukwe non si nasconde
+Dall'errore del primo gol al pareggio al 90': la notte del difensore diciottenne del Levante.
+Il suo arrivo al Ciutat de València aveva stupito i tifosi: 18 anni, quasi due metri, difensore centrale proveniente da uno dei migliori club del mondo. L'austriaco Ifeanyi Ndukwe aveva già fatto intravedere le sue doti contro Barça e Villarreal, ma la prima da titolare contro il Siviglia è iniziata male: un passaggio sbagliato verso il portiere Ryan e il gol di Robbie Ure dopo pochi minuti.
+Il numero 3 ha però mostrato personalità e ha chiuso con un gol epico del 3-3 nel finale, che resterà tra le notti leggendarie dello stadio. Secondo Sofascore ha messo insieme sei recuperi, cinque respinte, due tiri murati e nove interventi difensivi, percorrendo 10,8 chilometri, terzo del Levante dietro Iván Romero (11,5) e Roger Brugué (11,1). La mappa di calore mostra un'attività intensa sul lato sinistro, in coppia con Dela: Luís Castro lo ha usato come appoggio per uscire palla al piede, e lui si è spinto a volte oltre la metà campo.
+L'allenatore ha minimizzato l'errore: il gol gli dà stabilità, ha detto, ma dopo uno sbaglio così nessuno fa la partita che ha fatto lui, e con un'evoluzione normale può diventare uno dei migliori nel suo ruolo.
+
+@Champions League|Sport
+Il tifo del Betis per il ritorno in Champions alla Cartuja
+Il primo tifo verticale nella storia del club, sollevato con le carrucole.
+Il Betis ha festeggiato il ritorno della Champions a Siviglia con una grande coreografia. I tifosi, presenti allo stadio della Cartuja già un'ora prima, hanno sollevato con un sistema di carrucole un tifo che copriva tutta la curva sud durante gli inni del club e della competizione.
+Raffigurava una famiglia, nonno, padre e figlio, davanti al sorteggio della Champions con gli otto avversari del Betis, e sotto il motto «Una storia da raccontare». È il primo tifo verticale nella storia del club, per la prima partita europea casalinga della stagione contro il Porto. Alla Cartuja arriveranno anche Feyenoord, Como e Arsenal.
+
+@Basket|Sport||2026-10-14|live
+Valencia Basket ko con il Fenerbahçe, Peterson infortunata
+Le campionesse turche vincono 69-88 all'esordio in Euroleague Women.
+Decima sconfitta in dieci sfide contro il Fenerbahçe per le taronja, in vantaggio solo sul 3-0 con una tripla di Araújo. Senza Buenavida, Chery e Carrera, la squadra di Torralba ha chiuso il primo quarto sotto 12-27. In chiusura è uscita per un problema al ginocchio Alexis Peterson. Applausi per l'ex Yvonne Anderson.
+
+@Basket|Sport||2026-10-14|live
+La Laguna Tenerife travolge Maxima Roma 96-71
+In EuroCup gli uomini di Lakovic salgono a due vittorie su tre.
+Partenza 18-3, 45-33 all'intervallo e allungo decisivo con Vince Hunter e la coppia Van Beck-Fernández. Cinque giocatori in doppia cifra, Happ e Shermadini top scorer con 15 punti; il georgiano il più valutato con 21. Inizio ritardato di 15 minuti per un guasto al tabellone.
