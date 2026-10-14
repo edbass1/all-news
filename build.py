@@ -62,13 +62,28 @@ h2.sec span{background:#ff2d55;padding:3px 10px}
 article{max-width:760px;margin:30px auto}article h1{color:#fff;font:800 38px/1.15 Arial,sans-serif}.lede{font-size:20px;color:#bbb;font-style:italic}
 .src{margin-top:36px;border-top:1px solid #333;padding-top:12px;font:13px Arial,sans-serif;color:#888}
 footer{text-align:center;color:#666;font:12px Arial,sans-serif;padding:30px;border-top:1px solid #222}
-@media(max-width:640px){.card.big{grid-column:auto}}"""
+@media(max-width:640px){.card.big{grid-column:auto}}
+.osw{display:flex;align-items:center;justify-content:center;gap:18px;margin:18px 0 6px}.osw .ar{width:42px;height:42px;border-radius:50%;background:#1c1c20;border:1px solid #2c2c32;color:#fff;font-size:24px;cursor:pointer;line-height:1}.osw .ar:hover{border-color:#ff2d55}
+.ot{text-align:center;min-width:260px}.onm{display:block;font:700 28px Georgia,serif;color:#fff}.ocn{background:none;border:0;color:#999;font:13px Arial,sans-serif;cursor:pointer;text-decoration:underline;margin-top:2px}
+.ol{display:none;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:6px;max-width:900px;margin:8px auto 10px;background:#17171a;border:1px solid #2a2a2f;border-radius:12px;padding:12px}.tab.lo .ol{display:grid}
+.ol button{background:#222226;border:0;color:#ddd;border-radius:8px;padding:8px 10px;text-align:left;font:600 13px Arial,sans-serif;cursor:pointer}.ol button small{display:block;color:#888;font-weight:400;font-size:10px;text-transform:uppercase}.ol button.on{background:#ff2d55;color:#fff}.ol button.on small{color:#fdd}
+.osw+.ol+.og .sb,.ol+.og .sb{justify-content:center}
+.bg{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.bg .card{border-radius:6px;border-top:4px solid var(--c);background:color-mix(in srgb,var(--c) 13%,#141416)}
+.bg .card:nth-child(6n+1){--c:#ff2d55}.bg .card:nth-child(6n+2){--c:#0a84ff}.bg .card:nth-child(6n+3){--c:#30d158}.bg .card:nth-child(6n+4){--c:#bf5af2}.bg .card:nth-child(6n+5){--c:#ff9f0a}.bg .card:nth-child(6n){--c:#64d2ff}
+.sb{justify-content:center}.blk{display:block!important}.blk>.bh{display:none}.og[data-o=all] .blk>.bh{display:block;margin:10px 0}.bg .card{grid-row:auto!important}.bg .card.q{grid-column:span 2}.bg .card.q.small{grid-column:span 3}
+@media(max-width:900px){.bg{grid-template-columns:1fr 1fr}.bg .card.q.small{grid-column:span 2}}
+@media(max-width:560px){.bg{grid-template-columns:1fr}.bg .card.q,.bg .card.q.small{grid-column:auto}.onm{font-size:21px}.ot{min-width:0}.osw{gap:10px}}
+"""
 JS="""function cur(){return document.querySelector('.tab.on')}
 function og(T){return T.querySelector('.og.on')||T.querySelector('.og')}
-function sh(t,v,o){v=v||'n';o=o||(document.querySelector('.tab[data-k="'+t+'"] .og')||{dataset:{}}).dataset.o;document.querySelectorAll('.tab').forEach(x=>x.classList.toggle('on',x.dataset.k==t));document.querySelectorAll('.bar button').forEach(x=>x.classList.toggle('on',x.dataset.t==t));var T=cur();if(!T.querySelector('.og[data-o="'+o+'"]'))o=T.querySelector('.og').dataset.o;T.querySelectorAll('.og').forEach(x=>x.classList.toggle('on',x.dataset.o==o));T.querySelectorAll('.ob button').forEach(x=>x.classList.toggle('on',x.dataset.o==o));var G=og(T);if(!G.querySelector('.sb button[data-v="'+v+'"]'))v='n';G.querySelectorAll('.sv').forEach(x=>x.classList.toggle('on',x.dataset.v==v));G.querySelectorAll('.sb button').forEach(x=>x.classList.toggle('on',x.dataset.v==v));history.replaceState(null,'','#'+t+(o!='all'&&o!=T.querySelector('.og').dataset.o?'-'+o:'')+(v=='o'?'-opinioni':''))}
+function sh(t,v,o){v=v||'n';o=o||(document.querySelector('.tab[data-k="'+t+'"] .og')||{dataset:{}}).dataset.o;document.querySelectorAll('.tab').forEach(x=>x.classList.toggle('on',x.dataset.k==t));document.querySelectorAll('.bar button').forEach(x=>x.classList.toggle('on',x.dataset.t==t));var T=cur();if(!T.querySelector('.og[data-o="'+o+'"]'))o=T.querySelector('.og').dataset.o;T.querySelectorAll('.og').forEach(x=>x.classList.toggle('on',x.dataset.o==o));var B=[...T.querySelectorAll('.ol button')];B.forEach((x,i)=>{x.classList.toggle('on',x.dataset.o==o);if(x.dataset.o==o){T.querySelector('.onm').textContent=x.dataset.n;T.querySelector('.oi').textContent=i+1}});T.classList.remove('lo');var G=og(T);if(!G.querySelector('.sb button[data-v="'+v+'"]'))v='n';G.querySelectorAll('.sv').forEach(x=>x.classList.toggle('on',x.dataset.v==v));G.querySelectorAll('.sb button').forEach(x=>x.classList.toggle('on',x.dataset.v==v));history.replaceState(null,'','#'+t+(o!='all'&&o!=T.querySelector('.og').dataset.o?'-'+o:'')+(v=='o'?'-opinioni':''))}
 function sv(v){sh(cur().dataset.k,v,og(cur()).dataset.o);scrollTo(0,0)}
+function tl(){cur().classList.toggle('lo')}
+function st(d){var T=cur(),B=[...T.querySelectorAll('.ol button')];if(!B.length)return;var i=B.findIndex(x=>x.classList.contains('on'));so(B[(i+d+B.length)%B.length].dataset.o)}
+var X0=null,Y0;addEventListener('touchstart',function(e){X0=e.touches[0].clientX;Y0=e.touches[0].clientY},{passive:true});addEventListener('touchend',function(e){if(X0===null)return;var dx=e.changedTouches[0].clientX-X0,dy=e.changedTouches[0].clientY-Y0;X0=null;if(Math.abs(dx)>70&&Math.abs(dx)>2*Math.abs(dy)&&!e.target.closest('.ol'))st(dx<0?1:-1)});
+addEventListener('keydown',function(e){if(e.target.tagName=='INPUT')return;if(e.key=='ArrowRight')st(1);if(e.key=='ArrowLeft')st(-1)});
 function so(o){sh(cur().dataset.k,'n',o);scrollTo(0,0)}
-var h=location.hash.slice(1).split('-');sh(['italia','mondo','sport','torino'].includes(h[0])?h[0]:'italia',h.includes('opinioni')?'o':'n',h[1]&&h[1]!='opinioni'?h[1]:null);scrollTo(0,0)
+function rh(){var h=location.hash.slice(1),op=/-opinioni$/.test(h);h=h.replace(/-opinioni$/,'');var t=h.split('-')[0];if(!['italia','mondo','sport','torino'].includes(t))t='italia';var o=h.slice(t.length+1)||null;sh(t,op?'o':'n',o)}rh();addEventListener('hashchange',rh);scrollTo(0,0)
 var U=document.getElementById('up');addEventListener('scroll',function(){U.classList.toggle('on',scrollY>600)})"""
 def head(t,root,bar=True):
     b="".join(f'<button data-t="{k}" onclick="sh(\'{k}\')">{n}</button>' for k,n,_ in TABS) if bar else "".join(f'<button onclick="location.href=\'{root}index.html#{k}\'">{n}</button>' for k,n,_ in TABS)
@@ -108,8 +123,8 @@ for k,n,secs in TABS:
     body+=f'<div class="tab" data-k="{k}">'
     OK=[o for o in OUT if o.get("tab","sport")==k and not o.get("pool")]
     if OK:
-        body+='<div class="ob">'+"".join(f'<button data-o="{o["key"]}" onclick="so(\'{o["key"]}\')" title="{e(o["country"])}">{e(o["label"])}<small>{e(o["country"])}</small></button>' for o in OK)+'</div>'
-        for o in OK: body+=group(o["key"],[(f"so-{o['key']}",f"Notizie · {o['label']}"),(f"so-{o['key']}-op",f"Opinioni · {o['label']}")],o["label"],o.get("note",""))
+        body+=f'<div class="osw"><button class="ar" onclick="st(-1)" aria-label="Giornale precedente">‹</button><div class="ot"><b class="onm">{e(OK[0]["label"])}</b><button class="ocn" onclick="tl()"><span class="oi">1</span> / {len(OK)} · tutti i giornali ▾</button></div><button class="ar" onclick="st(1)" aria-label="Giornale successivo">›</button></div><div class="ol">'+"".join(f'<button data-o="{o["key"]}" data-n="{e(o["label"])}" onclick="so(\'{o["key"]}\')">{e(o["label"])}<small>{e(o["country"])}</small></button>' for o in OK)+'</div>'
+        for o in OK: body+=group(o["key"],[(f"so-{o['key']}",f"Notizie · {o['label']}"),(f"so-{o['key']}-op",f"Opinioni · {o['label']}")],"Notizie",o.get("note",""))
     else: body+=group("all",secs,secs[0][1])
     body+='</div>'
 open("docs/index.html","w").write(head("ALL NEWS – Italia, Mondo, Sport","")+body+FOOT+'<button id="up" onclick="scrollTo({top:0,behavior:\'smooth\'})" aria-label="Torna su">↑ Su</button>'+f"<script>{JS}</script></body></html>")

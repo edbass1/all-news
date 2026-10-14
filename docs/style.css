@@ -46,3 +46,13 @@ article{max-width:760px;margin:30px auto}article h1{color:#fff;font:800 38px/1.1
 .src{margin-top:36px;border-top:1px solid #333;padding-top:12px;font:13px Arial,sans-serif;color:#888}
 footer{text-align:center;color:#666;font:12px Arial,sans-serif;padding:30px;border-top:1px solid #222}
 @media(max-width:640px){.card.big{grid-column:auto}}
+.osw{display:flex;align-items:center;justify-content:center;gap:18px;margin:18px 0 6px}.osw .ar{width:42px;height:42px;border-radius:50%;background:#1c1c20;border:1px solid #2c2c32;color:#fff;font-size:24px;cursor:pointer;line-height:1}.osw .ar:hover{border-color:#ff2d55}
+.ot{text-align:center;min-width:260px}.onm{display:block;font:700 28px Georgia,serif;color:#fff}.ocn{background:none;border:0;color:#999;font:13px Arial,sans-serif;cursor:pointer;text-decoration:underline;margin-top:2px}
+.ol{display:none;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:6px;max-width:900px;margin:8px auto 10px;background:#17171a;border:1px solid #2a2a2f;border-radius:12px;padding:12px}.tab.lo .ol{display:grid}
+.ol button{background:#222226;border:0;color:#ddd;border-radius:8px;padding:8px 10px;text-align:left;font:600 13px Arial,sans-serif;cursor:pointer}.ol button small{display:block;color:#888;font-weight:400;font-size:10px;text-transform:uppercase}.ol button.on{background:#ff2d55;color:#fff}.ol button.on small{color:#fdd}
+.osw+.ol+.og .sb,.ol+.og .sb{justify-content:center}
+.bg{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.bg .card{border-radius:6px;border-top:4px solid var(--c);background:color-mix(in srgb,var(--c) 13%,#141416)}
+.bg .card:nth-child(6n+1){--c:#ff2d55}.bg .card:nth-child(6n+2){--c:#0a84ff}.bg .card:nth-child(6n+3){--c:#30d158}.bg .card:nth-child(6n+4){--c:#bf5af2}.bg .card:nth-child(6n+5){--c:#ff9f0a}.bg .card:nth-child(6n){--c:#64d2ff}
+.sb{justify-content:center}.blk{display:block!important}.blk>.bh{display:none}.og[data-o=all] .blk>.bh{display:block;margin:10px 0}.bg .card{grid-row:auto!important}.bg .card.q{grid-column:span 2}.bg .card.q.small{grid-column:span 3}
+@media(max-width:900px){.bg{grid-template-columns:1fr 1fr}.bg .card.q.small{grid-column:span 2}}
+@media(max-width:560px){.bg{grid-template-columns:1fr}.bg .card.q,.bg .card.q.small{grid-column:auto}.onm{font-size:21px}.ot{min-width:0}.osw{gap:10px}}
