@@ -3,7 +3,8 @@
 import json, html, os, re, shutil, datetime, hashlib, calendar
 from concurrent.futures import ThreadPoolExecutor
 from zoneinfo import ZoneInfo
-import feedparser, requests
+import feedparser, requests, socket
+socket.setdefaulttimeout(30)
 
 e = html.escape
 TZ = ZoneInfo("Europe/Rome")
@@ -67,18 +68,20 @@ def gather(urls, sport):
 def key(s): return hashlib.sha1(s.encode()).hexdigest()[:16]
 from deep_translator import GoogleTranslator
 import time
-def tr_batch(L):
+DEADLINE = time.time() + 12 * 60  # massimo 12 minuti di traduzioni per esecuzione
+FAILS = [0]
+def tr_batch(L, depth=0):
     """Traduce un gruppo di stringhe in una sola richiesta (una per riga)."""
-    for att in range(3):
-        try:
-            r = GoogleTranslator(source="auto", target="it").translate("\n".join(L))
-            out = [x.strip() for x in (r or "").split("\n")]
-            if len(out) == len(L): return out
-            if len(L) > 1:  # righe non allineate: dividi a meta
-                h = len(L) // 2; return tr_batch(L[:h]) + tr_batch(L[h:])
-            return [None]
-        except Exception as x:
-            print("TR fail", str(x)[:80]); time.sleep(5 * (att + 1))
+    if time.time() > DEADLINE or FAILS[0] >= 4: return [None] * len(L)
+    try:
+        r = GoogleTranslator(source="auto", target="it").translate("\n".join(L))
+        FAILS[0] = 0
+    except Exception as x:
+        FAILS[0] += 1; print("TR fail", str(x)[:80], flush=True); time.sleep(10); return [None] * len(L)
+    out = [x.strip() for x in (r or "").split("\n")]
+    if len(out) == len(L): return out
+    if len(L) > 1 and depth < 3:
+        h = len(L) // 2; return tr_batch(L[:h], depth + 1) + tr_batch(L[h:], depth + 1)
     return [None] * len(L)
 
 def translate(items_all):
@@ -91,6 +94,7 @@ def translate(items_all):
     if cur: batches.append(cur)
     ok = 0
     for bt in batches:
+        if time.time() > DEADLINE or FAILS[0] >= 4: print("traduzioni interrotte, riprendo al prossimo giro"); break
         for s, r in zip(bt, tr_batch(bt)):
             if r: TR[key(s)] = r; ok += 1
         time.sleep(0.5)
