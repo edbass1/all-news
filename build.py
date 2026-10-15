@@ -270,7 +270,7 @@ def main():
                     if p and key(p) not in BTR: paras.append(p)
     paras = list(dict.fromkeys(paras))
     print("paragrafi da tradurre:", len(paras), flush=True)
-    FAILS[0] = 0; DEADLINE_BODY = time.time() + 8 * 60
+    FAILS[0] = 0; DEADLINE_BODY = time.time() + 14 * 60
     batches, cur, n = [], [], 0
     for p in paras:
         if cur and (n + len(p) > 3500 or len(cur) >= 25): batches.append(cur); cur, n = [], 0
