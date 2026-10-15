@@ -77,16 +77,6 @@
   "tab": "sport"
  },
  {
-  "key": "francefootball",
-  "label": "France Football",
-  "country": "Francia",
-  "news": [
-   "https://dwh.lequipe.fr/api/edito/rss?path=/France-football/"
-  ],
-  "op": [],
-  "tab": "sport"
- },
- {
   "key": "marca",
   "label": "Marca",
   "country": "Spagna",
@@ -121,18 +111,6 @@
   ],
   "op": [
    "https://www.mundodeportivo.com/rss/opinion"
-  ],
-  "tab": "sport"
- },
- {
-  "key": "sport",
-  "label": "Sport",
-  "country": "Spagna",
-  "news": [
-   "https://www.sport.es/es/rss/last-news/news.xml"
-  ],
-  "op": [
-   "https://www.sport.es/es/rss/opinion/rss.xml"
   ],
   "tab": "sport"
  },
@@ -246,34 +224,6 @@
   ]
  },
  {
-  "key": "corriere",
-  "label": "Corriere della Sera",
-  "country": "Italia",
-  "tab": "italia",
-  "news": [],
-  "op": [],
-  "html": {
-   "url": "https://www.corriere.it/",
-   "re": "^/(politica|esteri|cronache|economia|salute|scuola|tecnologia)/\\d\\d_[a-z]+_\\d\\d/[a-z0-9-]+\\.shtml$"
-  },
-  "html_op": {
-   "url": "https://www.corriere.it/",
-   "re": "^/(opinioni|editoriali)/\\d\\d_[a-z]+_\\d\\d/[a-z0-9-]+\\.shtml$"
-  }
- },
- {
-  "key": "italiaoggi",
-  "label": "Italia Oggi",
-  "country": "Italia",
-  "tab": "italia",
-  "news": [],
-  "op": [],
-  "html": {
-   "url": "https://www.italiaoggi.it/",
-   "re": "^/(economia-e-politica|diritto-e-fisco|settori|enti-locali-e-pa|ordini-e-professioni|marketing-e-media)/[a-z0-9/-]{30,}-[a-z0-9]{8}$"
-  }
- },
- {
   "key": "internazionale",
   "label": "Internazionale",
   "country": "Italia",
@@ -299,27 +249,10 @@
   }
  },
  {
-  "key": "mowmag",
-  "label": "MOW Mag",
-  "country": "Italia",
-  "tab": "italia",
-  "news": [],
-  "op": [],
-  "html": {
-   "url": "https://www.mowmag.com/",
-   "re": "^/(attualita|sport|culture)/[a-z0-9-]{25,}$"
-  },
-  "html_op": {
-   "url": "https://www.mowmag.com/opinioni/be-folk",
-   "re": "^/attualita/[a-z0-9-]{25,}$"
-  }
- },
- {
   "key": "to0",
   "label": "La Stampa",
   "country": "Torino",
   "tab": "torino",
-  "pool": true,
   "news": [
    "https://www.lastampa.it/torino/rss"
   ],
@@ -330,7 +263,6 @@
   "label": "La Sentinella del Canavese",
   "country": "Torino",
   "tab": "torino",
-  "pool": true,
   "news": [
    "https://www.lasentinella.it/feed/"
   ],
@@ -341,7 +273,6 @@
   "label": "TorinoToday",
   "country": "Torino",
   "tab": "torino",
-  "pool": true,
   "news": [
    "https://www.torinotoday.it/rss"
   ],
@@ -352,7 +283,6 @@
   "label": "Torino Oggi",
   "country": "Torino",
   "tab": "torino",
-  "pool": true,
   "news": [
    "https://www.torinoggi.it/rss.xml"
   ],
@@ -363,7 +293,6 @@
   "label": "Quotidiano Piemontese",
   "country": "Torino",
   "tab": "torino",
-  "pool": true,
   "news": [
    "https://www.quotidianopiemontese.it/feed/"
   ],
@@ -374,7 +303,6 @@
   "label": "il Torinese",
   "country": "Torino",
   "tab": "torino",
-  "pool": true,
   "news": [
    "https://www.iltorinese.it/feed/"
   ],
@@ -413,22 +341,6 @@
    "https://www.thesun.co.uk/news/feed/"
   ],
   "op": []
- },
- {
-  "key": "w-observer",
-  "label": "The Observer",
-  "country": "Regno Unito",
-  "tab": "mondo",
-  "news": [],
-  "op": [],
-  "html": {
-   "url": "https://observer.co.uk/",
-   "re": "^/news/[a-z0-9/-]{25,}$"
-  },
-  "html_op": {
-   "url": "https://observer.co.uk/",
-   "re": "^/(comment|opinion|columnists?)/[a-z0-9/-]{20,}$"
-  }
  },
  {
   "key": "w-liberation",
