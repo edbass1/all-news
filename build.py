@@ -54,10 +54,87 @@ def fetch(url):
     print(f"{len(items):4d} {url}")
     return items
 
-def gather(urls, sport):
+# ---------- scraping dai siti ufficiali (per testate senza feed RSS) ----------
+from bs4 import BeautifulSoup
+from urllib.parse import urljoin
+SCF = "data/scrape_cache.json"
+SC = json.load(open(SCF)) if os.path.exists(SCF) else {}
+BUA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36", "Accept-Language": "it,en;q=0.8"}
+
+def pdate(v):
+    try:
+        dt = datetime.datetime.fromisoformat(v.strip().replace("Z", "+00:00"))
+        return (dt if dt.tzinfo else dt.replace(tzinfo=TZ)).astimezone(TZ)
+    except Exception: return None
+
+def get(url):
+    r = requests.get(url, headers=BUA, timeout=25); r.raise_for_status(); return r
+
+def from_sitemap(sp):
+    out = []
+    xml = get(sp["sitemap"]).content.decode("utf-8", "replace")
+    for blk in re.findall(r"<url>(.*?)</url>", xml, re.S):
+        g = lambda t: (re.search(rf"<{t}>(.*?)</{t}>", blk, re.S) or [None, ""])[1]
+        l = clean(g("loc")); t = clean(g("news:title"), 300)
+        if not l or (sp.get("match") and not re.search(sp["match"], l)) or (sp.get("exclude") and re.search(sp["exclude"], l)): continue
+        out.append({"t": t, "s": "", "l": l, "d": pdate(clean(g("news:publication_date") or g("lastmod")))})
+    return out
+
+def from_page(sp):
+    out, seen = [], set()
+    soup = BeautifulSoup(get(sp["page"]).content, "html.parser")
+    for a in soup.find_all("a", href=True):
+        l = urljoin(sp["page"], a["href"]).split("#")[0]
+        if not re.search(sp["match"], l) or (sp.get("exclude") and re.search(sp["exclude"], l)) or l in seen: continue
+        h = a.find(["h1", "h2", "h3", "h4"]) or (a.parent.find(["h1", "h2", "h3", "h4"]) if a.parent else None)
+        t = clean(h.get_text(" ") if h and len(h.get_text(strip=True)) > 20 else a.get_text(" "), 300)
+        if len(t) < 25: continue
+        seen.add(l); out.append({"t": t, "s": "", "l": l, "d": None})
+    return out
+
+def meta(url):
+    """Sommario e data dall'articolo (og:description, article:published_time, JSON-LD). In cache."""
+    if url in SC: return SC[url]
+    s, d, t = "", None, ""
+    try:
+        soup = BeautifulSoup(get(url).content, "html.parser")
+        m = lambda *ks: next((x["content"] for k in ks for x in soup.find_all("meta", attrs={"property": k}) + soup.find_all("meta", attrs={"name": k}) if x.get("content")), "")
+        s = clean(m("og:description", "description", "twitter:description"))
+        t = clean(m("og:title", "twitter:title"), 300)
+        d = m("article:published_time", "pubdate", "publish-date", "date")
+        if not d:
+            mm = re.search(r'"datePublished"\s*:\s*"([^"]+)"', str(soup)); d = mm.group(1) if mm else ""
+    except Exception as x:
+        print("meta ERR", url[:80], str(x)[:60])
+    dd = pdate(d) if d else None
+    SC[url] = [s, (dd or NOW).isoformat(), t]  # se manca la data uso il primo momento in cui la vedo
+    return SC[url]
+
+def scrape(specs):
+    res = []
+    for sp in specs:
+        try:
+            L = from_sitemap(sp) if "sitemap" in sp else from_page(sp)
+            print(f"{len(L):4d} [scrape] {sp.get('sitemap') or sp.get('page')}")
+            res += L
+        except Exception as x:
+            print("ERR scrape", sp.get("sitemap") or sp.get("page"), str(x)[:80])
+    seen, uniq = set(), []
+    for i in res:
+        k = i["l"].split("?")[0]
+        if k not in seen: seen.add(k); i["l"] = k if "?" in i["l"] and "corriere" in k else i["l"]; uniq.append(i)
+    uniq = [i for i in uniq if not i["d"] or NOW - i["d"] <= MAXAGE][:MAXN]
+    with ThreadPoolExecutor(6) as ex:
+        for i, (s, d, t) in zip(uniq, ex.map(lambda i: meta(i["l"]), uniq)):
+            i["s"] = s; i["d"] = i["d"] or pdate(d) or NOW
+            if not i["t"]: i["t"] = t
+    return [i for i in uniq if i["t"] and NOW - i["d"] <= MAXAGE and i["d"] <= NOW + datetime.timedelta(hours=2)]
+
+def gather(urls, sport, specs=()):
     seen, res = set(), []
-    with ThreadPoolExecutor(4) as ex:
-        for L in ex.map(fetch, urls):
+    lists = list(ThreadPoolExecutor(4).map(fetch, urls)) + ([scrape(specs)] if specs else [])
+    if True:
+        for L in lists:
             for i in L:
                 k = i["l"].split("?")[0]
                 if k in seen or i["t"].lower() in seen: continue
@@ -135,7 +212,7 @@ def main():
     data = {}
     for o in OUT:
         sp = o["tab"] == "sport"
-        n = gather(o.get("news", []), sp); p = gather(o.get("op", []), sp)
+        n = gather(o.get("news", []), sp, o.get("scrape", [])); p = gather(o.get("op", []), sp, o.get("scrape_op", []))
         for i in n + p: i["src"] = o["label"]
         data[o["key"]] = (n, p)
     foreign = [o for o in OUT if o["tab"] in ("mondo", "sport")]
@@ -146,6 +223,8 @@ def main():
             for i in L:
                 i["t"] = TR.get(key(i["t"]), i["t"]); i["s"] = TR.get(key(i["s"]), i["s"]) if i["s"] else ""
     # prune cache
+    live = {i["l"] for o in OUT for L in data[o["key"]] for i in L}
+    json.dump({k: v for k, v in SC.items() if k in live}, open(SCF, "w"), ensure_ascii=False, indent=0, sort_keys=True)
     used = {key(s) for s in strs}
     json.dump({k: v for k, v in TR.items() if k in used}, open(TRF, "w"), ensure_ascii=False, indent=0, sort_keys=True)
 

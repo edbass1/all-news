@@ -77,6 +77,24 @@
   "tab": "sport"
  },
  {
+  "key": "francefootball",
+  "label": "France Football",
+  "country": "Francia",
+  "tab": "sport",
+  "news": [],
+  "op": [],
+  "scrape": [
+   {
+    "page": "https://www.francefootball.fr/",
+    "match": "francefootball\\.fr/news/(?!Cgu|Mentions).+/\\d+$"
+   },
+   {
+    "page": "https://www.lequipe.fr/France-football/",
+    "match": "/France-football/.+/\\d+$|francefootball\\.fr/news/.+/\\d+$"
+   }
+  ]
+ },
+ {
   "key": "marca",
   "label": "Marca",
   "country": "Spagna",
@@ -113,6 +131,24 @@
    "https://www.mundodeportivo.com/rss/opinion"
   ],
   "tab": "sport"
+ },
+ {
+  "key": "sport",
+  "label": "Sport",
+  "country": "Spagna",
+  "tab": "sport",
+  "news": [],
+  "op": [],
+  "scrape": [
+   {
+    "page": "https://www.sport.es/es/",
+    "match": "sport\\.es/es/noticias/.+-\\d{6,}$"
+   },
+   {
+    "page": "https://www.sport.es/es/futbol/",
+    "match": "sport\\.es/es/noticias/.+-\\d{6,}$"
+   }
+  ]
  },
  {
   "key": "relevo",
@@ -209,7 +245,23 @@
   "op": [
    "https://www.fotomac.com.tr/rss/yazarlar.xml"
   ],
-  "tab": "sport"
+  "tab": "sport",
+  "scrape": [
+   {
+    "sitemap": "https://www.fotomac.com.tr/sitemap/news.xml",
+    "exclude": "/yazarlar/"
+   },
+   {
+    "page": "https://www.fotomac.com.tr/",
+    "match": "fotomac\\.com\\.tr/[a-z-]+/\\d{4}/\\d\\d/\\d\\d/"
+   }
+  ],
+  "scrape_op": [
+   {
+    "page": "https://www.fotomac.com.tr/yazarlar",
+    "match": "/yazarlar/[^/]+/\\d{4}/\\d\\d/\\d\\d/"
+   }
+  ]
  },
  {
   "key": "fatto",
@@ -221,6 +273,48 @@
   ],
   "op": [
    "https://www.ilfattoquotidiano.it/category/blog/feed/"
+  ]
+ },
+ {
+  "key": "corriere",
+  "label": "Corriere della Sera",
+  "country": "Italia",
+  "tab": "italia",
+  "news": [],
+  "op": [],
+  "scrape": [
+   {
+    "sitemap": "https://www.corriere.it/dynamic-sitemap/sitemap-last-100/news.xml",
+    "exclude": "/opinioni/|/cook/|/giochi/"
+   },
+   {
+    "page": "https://www.corriere.it/",
+    "match": "corriere\\.it/[a-z0-9-]+(/[a-z0-9-]+)?/\\d\\d_[a-z]+_\\d+/.+\\.shtml",
+    "exclude": "/opinioni/|/giochi/"
+   }
+  ],
+  "scrape_op": [
+   {
+    "page": "https://www.corriere.it/opinioni/",
+    "match": "corriere\\.it/opinioni/\\d\\d_[a-z]+_\\d+/.+\\.shtml"
+   }
+  ]
+ },
+ {
+  "key": "italiaoggi",
+  "label": "Italia Oggi",
+  "country": "Italia",
+  "tab": "italia",
+  "news": [],
+  "op": [],
+  "scrape": [
+   {
+    "sitemap": "https://www.italiaoggi.it/sitemap/sitemap_news_google.xml"
+   },
+   {
+    "page": "https://www.italiaoggi.it/",
+    "match": "www\\.italiaoggi\\.it/[a-z-]+/.+-[a-z0-9]{8}$"
+   }
   ]
  },
  {
@@ -247,6 +341,23 @@
    "url": "https://ilmanifesto.it/sezioni/commenti",
    "re": "^/(?!buon-compleanno|le-novita|scarica-le-app|dichiarazione-di)[a-z0-9-]{30,}$"
   }
+ },
+ {
+  "key": "mowmag",
+  "label": "MOW Mag",
+  "country": "Italia",
+  "tab": "italia",
+  "news": [],
+  "op": [],
+  "scrape": [
+   {
+    "sitemap": "https://mowmag.com/sitemapnews.xml"
+   },
+   {
+    "page": "https://mowmag.com/",
+    "match": "mowmag\\.com/[a-z-]+/[a-z0-9-]{20,}$"
+   }
+  ]
  },
  {
   "key": "to0",
@@ -341,6 +452,31 @@
    "https://www.thesun.co.uk/news/feed/"
   ],
   "op": []
+ },
+ {
+  "key": "w-observer",
+  "label": "The Observer",
+  "country": "Regno Unito",
+  "tab": "mondo",
+  "news": [],
+  "op": [],
+  "scrape": [
+   {
+    "sitemap": "https://observer.co.uk/news-sitemap.xml",
+    "exclude": "/opinion-and-ideas/|/columnists/"
+   },
+   {
+    "page": "https://observer.co.uk/",
+    "match": "observer\\.co\\.uk/news/(?!opinion-and-ideas|columnists)[a-z-]+/article/",
+    "exclude": "/opinion-and-ideas/|/columnists/"
+   }
+  ],
+  "scrape_op": [
+   {
+    "sitemap": "https://observer.co.uk/news-sitemap.xml",
+    "match": "/opinion-and-ideas/|/columnists/"
+   }
+  ]
  },
  {
   "key": "w-liberation",
