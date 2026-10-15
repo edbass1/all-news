@@ -30,11 +30,27 @@ jobs:
         env:
           ALLNEWS_PASS: ${{ secrets.ALLNEWS_PASS }}
       - name: Salva cache traduzioni
+        continue-on-error: true
         run: |
           git config user.name "all-news-bot"
           git config user.email "all-news-bot@users.noreply.github.com"
           git add -A data
-          git diff --cached --quiet || (git commit -m "Aggiornamento $(TZ=Europe/Rome date '+%d/%m %H:%M')" && git push)
+          if git diff --cached --quiet; then
+            echo "Nessuna modifica alla cache"
+            exit 0
+          fi
+          git commit -m "Aggiornamento $(TZ=Europe/Rome date '+%d/%m %H:%M')"
+          for i in 1 2 3; do
+            if git pull --rebase origin main && git push; then
+              echo "Cache salvata"
+              exit 0
+            fi
+            echo "Push fallito, tentativo $i/3..."
+            sleep 5
+            git rebase --abort 2>/dev/null || true
+          done
+          echo "Push cache fallito dopo 3 tentativi (non blocca il deploy)"
+          exit 1
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
