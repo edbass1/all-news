@@ -70,18 +70,24 @@ from deep_translator import GoogleTranslator
 import time
 DEADLINE = time.time() + 12 * 60  # massimo 12 minuti di traduzioni per esecuzione
 FAILS = [0]
-def tr_batch(L, depth=0):
-    """Traduce un gruppo di stringhe in una sola richiesta (una per riga)."""
+def tr_batch(L):
+    """Traduce un gruppo di stringhe: endpoint gratuito Google (più testi per richiesta), poi deep-translator."""
     if time.time() > DEADLINE or FAILS[0] >= 4: return [None] * len(L)
     try:
-        r = GoogleTranslator(source="auto", target="it").translate("\n".join(L))
-        FAILS[0] = 0
+        r = requests.post("https://clients5.google.com/translate_a/t?client=dict-chrome-ex&sl=auto&tl=it",
+                          data=[("q", x) for x in L], headers=UA, timeout=30)
+        r.raise_for_status(); j = r.json()
+        out = [(x[0] if isinstance(x, list) else x) for x in j]
+        if len(out) == len(L): FAILS[0] = 0; return [html.unescape(x) if x else None for x in out]
     except Exception as x:
-        FAILS[0] += 1; print("TR fail", str(x)[:80], flush=True); time.sleep(10); return [None] * len(L)
-    out = [x.strip() for x in (r or "").split("\n")]
-    if len(out) == len(L): return out
-    if len(L) > 1 and depth < 3:
-        h = len(L) // 2; return tr_batch(L[:h], depth + 1) + tr_batch(L[h:], depth + 1)
+        print("TR fail (gtx)", str(x)[:80], flush=True)
+    try:
+        r = GoogleTranslator(source="auto", target="it").translate("\n".join(L))
+        out = [x.strip() for x in (r or "").split("\n")]
+        if len(out) == len(L): FAILS[0] = 0; return out
+    except Exception as x:
+        print("TR fail (deep)", str(x)[:80], flush=True)
+    FAILS[0] += 1; time.sleep(5)
     return [None] * len(L)
 
 def translate(items_all):
@@ -89,7 +95,7 @@ def translate(items_all):
     print("da tradurre:", len(todo))
     batches, cur, n = [], [], 0
     for s in todo:
-        if cur and n + len(s) > 4000: batches.append(cur); cur, n = [], 0
+        if cur and (n + len(s) > 4000 or len(cur) >= 40): batches.append(cur); cur, n = [], 0
         cur.append(s); n += len(s) + 1
     if cur: batches.append(cur)
     ok = 0
