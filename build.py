@@ -330,7 +330,7 @@ def main():
              f'<input id="q" type="search" placeholder="CERCA" autocomplete="off" aria-label="Cerca nelle notizie"><span class="d">Aggiornato il {NOW:%d/%m/%Y %H:%M}</span>'
              f'<span class="fzb"><button onclick="fz(-1)" aria-label="Riduci testo">A−</button><button onclick="fz(1)" aria-label="Ingrandisci testo">A+</button></span></div></div>'
              f'<main>{body}<div id="sr"></div></main><footer>ALL NEWS · Aggiornamento automatico ogni ora · Solo articoli gratuiti, testo completo in lingua originale</footer>'
-             '<div id="rd" hidden><div class="rin"><button class="rx" onclick="cr()" aria-label="Chiudi">✕ Chiudi</button><article id="ra"></article></div></div>'
+             '<div id="rd" hidden><div class="rin"><div class="rbar"><span class="fzb rfz"><button type="button" onclick="fz(-1)" aria-label="Riduci testo articolo">A−</button><button type="button" onclick="fz(1)" aria-label="Ingrandisci testo articolo">A+</button></span><button class="rx" onclick="cr()" aria-label="Chiudi">✕ Chiudi</button></div><article id="ra"></article></div></div>'
              '<button id="up" aria-label="Torna su">↑ Su</button>')
     pw = os.environ.get("ALLNEWS_PASS")
     if not pw: raise SystemExit("ALLNEWS_PASS mancante")
