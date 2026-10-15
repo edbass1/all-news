@@ -1,0 +1,13 @@
+<!doctype html><html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>ALL NEWS</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&display=swap"><link rel="stylesheet" href="style.css"></head><body>
+<form id="pw" onsubmit="go(event)"><div class="top" style="border:0;background:none"><span class="logo" style="justify-content:center;border:0;padding:0;display:flex;font:700 30px 'Space Grotesk',Arial"><span style="background:#ff2d55;padding:2px 8px;border-radius:3px;margin-right:6px">ALL</span>NEWS</span></div>
+<input type="password" id="pp" placeholder="Password" autocomplete="current-password" autofocus><div class="er" id="er"></div>
+<label><input type="checkbox" id="rm" checked> ricorda</label><br><br><button>Entra</button></form>
+<script>
+var B="__BLOB__";
+function u8(b){return Uint8Array.from(atob(b),c=>c.charCodeAt(0))}
+async function dec(p){var d=u8(B),s=d.slice(0,16),iv=d.slice(16,28),ct=d.slice(28);var k=await crypto.subtle.importKey('raw',new TextEncoder().encode(p),'PBKDF2',false,['deriveKey']);var key=await crypto.subtle.deriveKey({name:'PBKDF2',salt:s,iterations:100000,hash:'SHA-256'},k,{name:'AES-GCM',length:256},false,['decrypt']);var pt=await crypto.subtle.decrypt({name:'AES-GCM',iv:iv},key,ct);var gz=u8(new TextDecoder().decode(pt));var txt=await new Response(new Blob([gz]).stream().pipeThrough(new DecompressionStream('gzip'))).text();return JSON.parse(txt)}
+async function open_(p,rem){var D=await dec(p);if(rem)localStorage.setItem('anpw',p);document.title='ALL NEWS – Italia, Mondo, Sport, Torino';document.body.innerHTML=D.html;window.IT=D.items;(0,eval)(D.js)}
+async function go(e){e.preventDefault();var p=document.getElementById('pp').value;try{await open_(p,document.getElementById('rm').checked)}catch(x){document.getElementById('er').textContent='Password errata'}}
+var sp=localStorage.getItem('anpw');if(sp)open_(sp,true).catch(()=>localStorage.removeItem('anpw'));
+</script></body></html>

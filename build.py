@@ -184,19 +184,25 @@ def translate(items_all):
     print("tradotte:", ok, "in", len(batches), "richieste")
     return len(todo), ok
 
+from fulltext import get_text
+from encrypt_page import encrypt
+import gzip, base64
+ARTF = "cache/articles.json"; os.makedirs("cache", exist_ok=True)
+ART = json.load(open(ARTF)) if os.path.exists(ARTF) else {}
+
 def fd(dt): return f"{dt.day} {M[dt.month-1]} · {dt:%H:%M}"
 
 def card(i, src, first, op):
     cls = ("q" if first else "") + (" op" if op else "")
     s = f"<p>{e(i['s'])}</p>" if i["s"] else ""
-    return (f'<a class="card {cls}" href="{e(i["l"])}" target="_blank" rel="noopener"><div class="meta">{fd(i["d"])}<span class="srcb">{e(src)}</span></div>'
-            f'<h3>{e(i["t"])}</h3>{s}<span class="ext">Leggi su {e(src)} ↗</span></a>')
+    return (f'<a class="card {cls}" href="#" data-i="{i["id"]}"><div class="meta">{fd(i["d"])}<span class="srcb">{e(src)}</span></div>'
+            f'<h3>{e(i["t"])}</h3>{s}<span class="ext">Leggi l\'articolo completo →</span></a>')
 
 def block(items, op, color):
     cards, briefs = [], []
     for i in items:
         if LIVE.search(i["t"]):
-            briefs.append(f'<a class="brief" href="{e(i["l"])}" target="_blank" rel="noopener"><span class="tag">{i["d"]:%H:%M}</span>{e(i["t"])}<span class="srcb">{e(i["src"])}</span></a>')
+            briefs.append(f'<a class="brief" href="#" data-i="{i["id"]}"><span class="tag">{i["d"]:%H:%M}</span>{e(i["t"])}<span class="srcb">{e(i["src"])}</span></a>')
         else:
             cards.append(card(i, i["src"], not cards, op))
     bx = '<div class="briefs"><h4>Dirette e risultati in breve</h4>' + "".join(briefs) + "</div>" if briefs else ""
@@ -222,8 +228,80 @@ def main():
         for L in data[o["key"]]:
             for i in L:
                 i["t"] = TR.get(key(i["t"]), i["t"]); i["s"] = TR.get(key(i["s"]), i["s"]) if i["s"] else ""
+    # ---- testo completo: solo articoli gratuiti ----
+    allit = {i["l"]: i for o in OUT for L in data[o["key"]] for i in L}
+    todo = [u for u in allit if u not in ART or ART[u][0] == "err"]
+    print("testi da scaricare:", len(todo), flush=True)
+    t0 = time.time(); done = [0]
+    def save_art():
+        json.dump({u: v for u, v in ART.items()}, open(ARTF, "w"), ensure_ascii=False)
+    def job(u):
+        if time.time() - t0 > 10 * 60: return u, None
+        return u, get_text(u)
+    with ThreadPoolExecutor(8) as ex:
+        for u, r in ex.map(job, todo):
+            if r:
+                ART[u] = list(r); done[0] += 1
+                if done[0] % 40 == 0: save_art(); print(f"  cache articoli {done[0]}/{len(todo)}", flush=True)
+    save_art()
+    excl = {"pay": 0, "short": 0, "err": 0, "pending": 0}
+    foreign_keys = {o["key"] for o in OUT if o["tab"] in ("mondo", "sport")}
+    for o in OUT:
+        kept = []
+        for L in data[o["key"]]:
+            K = []
+            for i in L:
+                st = ART.get(i["l"], ["pending"])[0]
+                if st == "ok":
+                    i["xo"] = ART[i["l"]][1]; i["id"] = key(i["l"]); i["fx"] = o["key"] in foreign_keys; K.append(i)
+                else: excl[st] = excl.get(st, 0) + 1
+            kept.append(K)
+        data[o["key"]] = tuple(kept)
+    # ---- traduci testi completi esteri (paragrafo per paragrafo, in cache) ----
+    BTRF = "cache/body_tr.json"
+    BTR = json.load(open(BTRF)) if os.path.exists(BTRF) else {}
+    paras = []
+    for o in OUT:
+        if o["key"] not in foreign_keys: continue
+        for L in data[o["key"]]:
+            for i in L:
+                for p in i["xo"].split("\n\n"):
+                    p = p.strip()
+                    if p and key(p) not in BTR: paras.append(p)
+    paras = list(dict.fromkeys(paras))
+    print("paragrafi da tradurre:", len(paras), flush=True)
+    FAILS[0] = 0; DEADLINE_BODY = time.time() + 8 * 60
+    batches, cur, n = [], [], 0
+    for p in paras:
+        if cur and (n + len(p) > 3500 or len(cur) >= 25): batches.append(cur); cur, n = [], 0
+        cur.append(p); n += len(p) + 1
+    if cur: batches.append(cur)
+    bok = 0
+    for bi, bt in enumerate(batches):
+        if time.time() > DEADLINE_BODY or FAILS[0] >= 4:
+            print("traduzione corpi interrotta, riprendo al prossimo giro", flush=True); break
+        for p, r in zip(bt, tr_batch(bt)):
+            if r: BTR[key(p)] = r; bok += 1
+        time.sleep(0.6)
+        if (bi + 1) % 10 == 0:
+            json.dump(BTR, open(BTRF, "w"), ensure_ascii=False)
+            print(f"  body tr {bok}/{len(paras)}", flush=True)
+    json.dump(BTR, open(BTRF, "w"), ensure_ascii=False)
+    tr_stats = {"paragrafi": len(paras), "ok": bok, "cache": len(BTR)}
+    for o in OUT:
+        for L in data[o["key"]]:
+            for i in L:
+                if i.get("fx"):
+                    parts = []
+                    for p in i["xo"].split("\n\n"):
+                        p = p.strip()
+                        if not p: continue
+                        parts.append(BTR.get(key(p), p))
+                    i["x"] = "\n\n".join(parts)
+                else:
+                    i["x"] = i["xo"]
     # prune cache
-    live = {i["l"] for o in OUT for L in data[o["key"]] for i in L}
+    live = set(allit)
     json.dump({k: v for k, v in SC.items() if k in live}, open(SCF, "w"), ensure_ascii=False, indent=0, sort_keys=True)
     used = {key(s) for s in strs}
     json.dump({k: v for k, v in TR.items() if k in used}, open(TRF, "w"), ensure_ascii=False, indent=0, sort_keys=True)
@@ -246,14 +324,23 @@ def main():
         body += "</div>"
     empty = [o["label"] for o in OUT if not data[o["key"]][0]]
     bar = "".join(f'<button data-t="{k}" onclick="sh(\'{k}\')">{n}</button>' for k, n in TABS)
-    page = (f'<!doctype html><html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>ALL NEWS – Italia, Mondo, Sport, Torino</title>'
-            f'<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&display=swap"><link rel="stylesheet" href="style.css"></head><body>'
-            f'<div class="top h3"><div class="in"><a class="logo" href="index.html"><span>ALL</span>NEWS</a><nav class="bar">{bar}</nav><span class="d">Aggiornato il {NOW:%d/%m/%Y %H:%M}</span><span class="fzb"><button onclick="fz(-1)" aria-label="Riduci testo">A−</button><button onclick="fz(1)" aria-label="Ingrandisci testo">A+</button></span></div></div><main>'
-            + body + '</main><footer>ALL NEWS · Aggiornamento automatico ogni ora · Titoli e sommari dai feed delle testate, tradotti automaticamente · Ogni notizia rimanda all\'articolo originale</footer>'
-            '<button id="up" onclick="scrollTo({top:0,behavior:\'smooth\'})" aria-label="Torna su">↑ Su</button><script>' + open("site/app.js").read() + "</script></body></html>")
+    items = {i["id"]: {"t": i["t"], "s": i["s"], "x": i["x"], "xo": i["xo"], "fx": bool(i.get("fx")), "l": i["l"], "src": i["src"], "d": fd(i["d"])} for o in OUT for L in data[o["key"]] for i in L}
+    inner = (f'<div class="top h3"><div class="in"><a class="logo" href="#"><span>ALL</span>NEWS</a><nav class="bar">{bar}</nav>'
+             f'<input id="q" type="search" placeholder="CERCA" autocomplete="off" aria-label="Cerca nelle notizie"><span class="d">Aggiornato il {NOW:%d/%m/%Y %H:%M}</span>'
+             f'<span class="fzb"><button onclick="fz(-1)" aria-label="Riduci testo">A−</button><button onclick="fz(1)" aria-label="Ingrandisci testo">A+</button></span></div></div>'
+             f'<main>{body}<div id="sr"></div></main><footer>ALL NEWS · Aggiornamento automatico ogni ora · Solo articoli gratuiti, testo completo in lingua originale</footer>'
+             '<div id="rd" hidden><div class="rin"><button class="rx" onclick="cr()" aria-label="Chiudi">✕ Chiudi</button><article id="ra"></article></div></div>'
+             '<button id="up" aria-label="Torna su">↑ Su</button>')
+    pw = os.environ.get("ALLNEWS_PASS")
+    if not pw: raise SystemExit("ALLNEWS_PASS mancante")
+    payload = base64.b64encode(gzip.compress(json.dumps({"html": inner, "items": items, "js": open("site/app.js").read()}, ensure_ascii=False).encode())).decode()
+    blob = encrypt(pw, payload)
+    shell = open("site/shell.html").read().replace("__BLOB__", blob)
     shutil.rmtree("docs", ignore_errors=True); os.makedirs("docs")
-    open("docs/index.html", "w").write(page); shutil.copy("site/style.css", "docs/style.css"); open("docs/.nojekyll", "w").close()
-    print(json.dumps({"stats": stats, "vuoti": empty, "traduzioni": {"nuove": ntodo, "ok": nok, "cache": len(used)}}, ensure_ascii=False, indent=1))
+    open("docs/index.html", "w").write(shell); shutil.copy("site/style.css", "docs/style.css"); open("docs/.nojekyll", "w").close()
+    stats["fulltext"] = {o["label"]: len(data[o["key"]][0]) + len(data[o["key"]][1]) for o in OUT}
+    stats["esclusi"] = excl
+    print(json.dumps({"stats": stats, "vuoti": empty, "traduzioni": {"nuove": ntodo, "ok": nok, "cache": len(used)}, "body_tr": tr_stats}, ensure_ascii=False, indent=1))
 
 if __name__ == "__main__":
     main()

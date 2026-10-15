@@ -65,3 +65,13 @@ footer{text-align:center;color:#666;font:12px Arial,sans-serif;padding:30px;bord
 .bg .card .meta,.bg .card .ext{font-size:calc(11px*var(--z))}.briefs .brief{font-size:calc(14px*var(--z))}
 .fzb{align-self:center;display:flex;gap:6px;margin-left:12px}.fzb button{background:#18181c;color:#ddd;border:1px solid #333;border-radius:4px;padding:4px 9px;font:700 13px Arial,sans-serif;cursor:pointer}.fzb button:hover{color:#fff;border-color:#ff2d55}
 @media(max-width:640px){.fzb{position:absolute;right:10px;top:10px;margin:0}.top .in{position:relative}.bg .card.q h3{font-size:calc(22px*var(--z))}}
+#q{align-self:center;margin-left:14px;width:180px;background:#18181c;border:1px solid #333;border-radius:999px;color:#fff;padding:6px 14px;font:600 13px 'Space Grotesk',Arial,sans-serif;letter-spacing:1px}#q:focus{outline:0;border-color:#ff2d55;width:240px}
+body.srch .tab.on{display:none}#sr .bg{margin-top:10px}
+#rd{position:fixed;inset:0;z-index:40;background:#0a0a0cf5;overflow-y:auto}#rd[hidden]{display:none}.rin{max-width:780px;margin:0 auto;padding:16px 20px 80px}
+.rx{position:sticky;top:10px;float:right;background:#ff2d55;color:#fff;border:0;border-radius:999px;padding:8px 14px;font:700 13px Arial,sans-serif;cursor:pointer;z-index:2}
+#ra h1{color:#fff;font:800 calc(32px*var(--z))/1.2 Arial,sans-serif;margin:14px 0}#ra p{font-size:calc(17px*var(--z));line-height:1.7;color:#ddd}#ra .lede{font-size:calc(19px*var(--z));color:#bbb}#ra .meta{font-size:calc(11px*var(--z));margin-top:30px}
+#ra .org a{font:600 13px Arial,sans-serif;color:#64d2ff}body.rdo{overflow:hidden}#up{z-index:60}
+@media(max-width:640px){#q{order:5;width:100%;margin:0 0 8px}#q:focus{width:100%}}
+#pw{max-width:360px;margin:18vh auto;text-align:center;font-family:Arial,sans-serif}#pw input[type=password]{width:100%;padding:12px;border-radius:8px;border:1px solid #333;background:#18181c;color:#fff;font-size:16px;margin:14px 0 8px}#pw button{background:#ff2d55;color:#fff;border:0;border-radius:8px;padding:11px 20px;font-weight:700;cursor:pointer;width:100%}#pw .er{color:#ff6b6b;min-height:20px}#pw label{color:#aaa;font-size:14px}
+
+.otg{margin-left:10px;background:#18181c;color:#ddd;border:1px solid #444;border-radius:999px;padding:2px 10px;font:600 10.5px Arial,sans-serif;cursor:pointer;text-transform:none;letter-spacing:.3px}.otg:hover{border-color:#64d2ff;color:#fff}
