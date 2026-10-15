@@ -58,3 +58,10 @@ footer{text-align:center;color:#666;font:12px Arial,sans-serif;padding:30px;bord
 @media(max-width:560px){.bg{grid-template-columns:1fr}.bg .card.q,.bg .card.q.small{grid-column:auto}.onm{font-size:21px}.ot{min-width:0}.osw{gap:10px}}
 
 .card{cursor:pointer}.ext{font:11px Arial,sans-serif;color:#888;margin-top:8px;display:block}.fn{max-width:760px;margin:0 auto}
+/* dimensione testo dei blocchi notizie regolabile (A− / A+) */
+:root{--z:1.1}
+.bg .card h3{font-size:calc(17px*var(--z))}.bg .card p{font-size:calc(14.5px*var(--z))}
+.bg .card.q h3{font-size:calc(28px*var(--z))}.bg .card.q p{font-size:calc(16px*var(--z))}.bg .card.q.small h3{font-size:calc(22px*var(--z))}
+.bg .card .meta,.bg .card .ext{font-size:calc(11px*var(--z))}.briefs .brief{font-size:calc(14px*var(--z))}
+.fzb{align-self:center;display:flex;gap:6px;margin-left:12px}.fzb button{background:#18181c;color:#ddd;border:1px solid #333;border-radius:4px;padding:4px 9px;font:700 13px Arial,sans-serif;cursor:pointer}.fzb button:hover{color:#fff;border-color:#ff2d55}
+@media(max-width:640px){.fzb{position:absolute;right:10px;top:10px;margin:0}.top .in{position:relative}.bg .card.q h3{font-size:calc(22px*var(--z))}}
