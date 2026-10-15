@@ -8,7 +8,7 @@ BUA = {
 }
 # Solo URL chiaramente riservati agli abbonati
 URLPAY = re.compile(
-    r"corriere\.it/.*/(abbonati|_premium)(/|$)|nytimes\.com/athletic/.*/subscriber|/abonnement/offres",
+    r"corriere\.it/.*/(abbonati|_premium)(/|$)|/abonnement/offres",
     re.I,
 )
 FREE = re.compile(r'"isAccessibleForFree"\s*:\s*"?(true|false)', re.I)
@@ -21,7 +21,7 @@ MARK = re.compile(
 )
 MINLEN = 400
 # Domini che spesso richiedono un browser reale (Cloudflare / privacy gate)
-BROWSER_HINT = ("sofoot.com", "kicker.de", "volkskrant.nl", "derstandard.at", "francefootball.fr")
+BROWSER_HINT = ("sofoot.com", "volkskrant.nl", "derstandard.at")
 _BLOCK = re.compile(r"Access Denied|Just a moment|enable JS|Verifying your device|Privacy Gate|cf-browser-verification|Attention Required", re.I)
 
 _lock = threading.Lock()
@@ -133,6 +133,9 @@ def get_text(url, timeout=20):
     """
     if URLPAY.search(url):
         return "pay", ""
+    if "lequipe.fr" in url:
+        r = _lequipe(url)
+        if r: return r
     status, html = 0, ""
     err = ""
     try:
@@ -180,3 +183,31 @@ def close_browser():
             pass
         _pw["browser"] = _pw["page"] = None
         _pw["pw"] = None
+
+def _lequipe(url):
+    """L'Équipe: API pubblica dell'app (dwh.lequipe.fr). Solo is_premium=false."""
+    import html as H
+    m = re.search(r"lequipe\.fr/.+/(\d{5,})(?:[#?].*)?$", url)
+    if not m: return None
+    from curl_cffi import requests as cr
+    try:
+        j = cr.get(f"https://dwh.lequipe.fr/api/edito/news/{m.group(1)}", impersonate="chrome131", timeout=20).json()
+    except Exception as x:
+        return "err", str(x)[:80]
+    s = __import__("json").dumps(j)
+    if re.search(r'"is_premium"\s*:\s*true', s): return "pay", ""
+    paras = []
+    def walk(o):
+        if isinstance(o, dict):
+            if isinstance(o.get("paragraphs"), list):
+                for pp in o["paragraphs"]:
+                    c = pp.get("content") if isinstance(pp, dict) else None
+                    if c: paras.append(re.sub(r"\s+", " ", H.unescape(re.sub(r"<[^>]+>", "", c))).strip())
+            for v in o.values(): walk(v)
+        elif isinstance(o, list):
+            for v in o: walk(v)
+    walk(j)
+    t = "\n\n".join(dict.fromkeys(p for p in paras if p))
+    if len(t) >= MINLEN: return "ok", t[:40000]
+    return ("short", t) if t else ("err", "empty")
+

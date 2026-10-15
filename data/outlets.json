@@ -13,17 +13,6 @@
   "tab": "sport"
  },
  {
-  "key": "athletic",
-  "label": "The Athletic",
-  "country": "USA/Regno Unito",
-  "news": [
-   "https://www.nytimes.com/athletic/rss/football/",
-   "https://www.nytimes.com/athletic/rss/news/"
-  ],
-  "op": [],
-  "tab": "sport"
- },
- {
   "key": "cbs",
   "label": "CBS Sports",
   "country": "USA",
@@ -75,24 +64,6 @@
   ],
   "op": [],
   "tab": "sport"
- },
- {
-  "key": "francefootball",
-  "label": "France Football",
-  "country": "Francia",
-  "tab": "sport",
-  "news": [],
-  "op": [],
-  "scrape": [
-   {
-    "page": "https://www.francefootball.fr/",
-    "match": "francefootball\\.fr/news/(?!Cgu|Mentions).+/\\d+$"
-   },
-   {
-    "page": "https://www.lequipe.fr/France-football/",
-    "match": "/France-football/.+/\\d+$|francefootball\\.fr/news/.+/\\d+$"
-   }
-  ]
  },
  {
   "key": "marca",
@@ -156,17 +127,6 @@
   "country": "Spagna",
   "news": [
    "https://www.relevo.com/rss/"
-  ],
-  "op": [],
-  "tab": "sport"
- },
- {
-  "key": "kicker",
-  "label": "Kicker",
-  "country": "Germania",
-  "news": [
-   "https://newsfeed.kicker.de/news/aktuell",
-   "https://newsfeed.kicker.de/news/fussball"
   ],
   "op": [],
   "tab": "sport"
@@ -443,17 +403,6 @@
   "op": []
  },
  {
-  "key": "w-sun",
-  "label": "The Sun",
-  "country": "Regno Unito",
-  "tab": "mondo",
-  "news": [
-   "https://www.thesun.co.uk/news/worldnews/feed/",
-   "https://www.thesun.co.uk/news/feed/"
-  ],
-  "op": []
- },
- {
   "key": "w-observer",
   "label": "The Observer",
   "country": "Regno Unito",
@@ -476,18 +425,6 @@
     "sitemap": "https://observer.co.uk/news-sitemap.xml",
     "match": "/opinion-and-ideas/|/columnists/"
    }
-  ]
- },
- {
-  "key": "w-liberation",
-  "label": "Libération",
-  "country": "Francia",
-  "tab": "mondo",
-  "news": [
-   "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml"
-  ],
-  "op": [
-   "https://www.liberation.fr/arc/outboundfeeds/rss/category/idees-et-debats/?outputType=xml"
   ]
  },
  {
@@ -558,18 +495,6 @@
   ],
   "op": [
    "https://politiken.dk/rss/debat.rss"
-  ]
- },
- {
-  "key": "w-nyt",
-  "label": "The New York Times",
-  "country": "USA",
-  "tab": "mondo",
-  "news": [
-   "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
-  ],
-  "op": [
-   "https://rss.nytimes.com/services/xml/rss/nyt/Opinion.xml"
   ]
  }
 ]
