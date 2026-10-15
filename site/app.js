@@ -9,3 +9,4 @@ addEventListener('keydown',function(e){if(e.target.tagName=='INPUT')return;if(e.
 function so(o){sh(cur().dataset.k,'n',o);scrollTo(0,0)}
 function rh(){var h=location.hash.slice(1),op=/-opinioni$/.test(h);h=h.replace(/-opinioni$/,'');var t=h.split('-')[0];if(!['italia','mondo','sport','torino'].includes(t))t='italia';var o=h.slice(t.length+1)||null;sh(t,op?'o':'n',o)}rh();addEventListener('hashchange',rh);scrollTo(0,0)
 var U=document.getElementById('up');addEventListener('scroll',function(){U.classList.toggle('on',scrollY>600)})
+var ZS=[0.9,1,1.1,1.2,1.35,1.5,1.7],ZI=+(localStorage.getItem('anz')||2);function az(){document.documentElement.style.setProperty('--z',ZS[ZI])}function fz(d){ZI=Math.min(ZS.length-1,Math.max(0,ZI+d));localStorage.setItem('anz',ZI);az()}az()

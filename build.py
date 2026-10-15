@@ -248,7 +248,7 @@ def main():
     bar = "".join(f'<button data-t="{k}" onclick="sh(\'{k}\')">{n}</button>' for k, n in TABS)
     page = (f'<!doctype html><html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>ALL NEWS – Italia, Mondo, Sport, Torino</title>'
             f'<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&display=swap"><link rel="stylesheet" href="style.css"></head><body>'
-            f'<div class="top h3"><div class="in"><a class="logo" href="index.html"><span>ALL</span>NEWS</a><nav class="bar">{bar}</nav><span class="d">Aggiornato il {NOW:%d/%m/%Y %H:%M}</span></div></div><main>'
+            f'<div class="top h3"><div class="in"><a class="logo" href="index.html"><span>ALL</span>NEWS</a><nav class="bar">{bar}</nav><span class="d">Aggiornato il {NOW:%d/%m/%Y %H:%M}</span><span class="fzb"><button onclick="fz(-1)" aria-label="Riduci testo">A−</button><button onclick="fz(1)" aria-label="Ingrandisci testo">A+</button></span></div></div><main>'
             + body + '</main><footer>ALL NEWS · Aggiornamento automatico ogni ora · Titoli e sommari dai feed delle testate, tradotti automaticamente · Ogni notizia rimanda all\'articolo originale</footer>'
             '<button id="up" onclick="scrollTo({top:0,behavior:\'smooth\'})" aria-label="Torna su">↑ Su</button><script>' + open("site/app.js").read() + "</script></body></html>")
     shutil.rmtree("docs", ignore_errors=True); os.makedirs("docs")
