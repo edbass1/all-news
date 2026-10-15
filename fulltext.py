@@ -1,33 +1,182 @@
-"""Estrazione testo completo + rilevamento paywall."""
-import re, requests, trafilatura
-BUA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36", "Accept-Language": "it,en;q=0.8"}
-# Solo URL chiaramente premium (non generici corriere.it)
-URLPAY = re.compile(r"corriere\.it/.*/(abbonati|_premium)(/|$)|/premium/|nytimes\.com/athletic|/exklusiv", re.I)
+"""Estrazione testo completo + rilevamento paywall (soft)."""
+import re, threading, trafilatura
+
+BUA = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "it-IT,it;q=0.9,en;q=0.8,fr;q=0.7,de;q=0.6,nl;q=0.5,es;q=0.4",
+}
+# Solo URL chiaramente riservati agli abbonati
+URLPAY = re.compile(
+    r"corriere\.it/.*/(abbonati|_premium)(/|$)|nytimes\.com/athletic/.*/subscriber|/abonnement/offres",
+    re.I,
+)
 FREE = re.compile(r'"isAccessibleForFree"\s*:\s*"?(true|false)', re.I)
-MARK = re.compile(r"riservato agli abbonati|articolo riservato|Per continuare a leggere|riservato ai nostri abbonati|réservé aux abonnés|article réservé|Il vous reste \d+|Subscribe to continue|subscribe to read|This article is for subscribers|exklusiv für Abonnent|alleen voor abonnees|Kun for abonnenter|exclusivo para suscriptores|exclusivo para assinantes|premium-article-paywall|is-premium-article", re.I)
-MINLEN = 900
+MARK = re.compile(
+    r"riservato agli abbonati|articolo riservato|Per continuare a leggere|riservato ai nostri abbonati|"
+    r"réservé aux abonnés|article réservé|Il vous reste \d+|Subscribe to continue|subscribe to read|"
+    r"This article is for subscribers|exklusiv für Abonnent|alleen voor abonnees|Kun for abonnenter|"
+    r"exclusivo para suscriptores|exclusivo para assinantes|premium-article-paywall|is-premium-article",
+    re.I,
+)
+MINLEN = 400
+# Domini che spesso richiedono un browser reale (Cloudflare / privacy gate)
+BROWSER_HINT = ("sofoot.com", "kicker.de", "volkskrant.nl", "derstandard.at", "francefootball.fr")
+_BLOCK = re.compile(r"Access Denied|Just a moment|enable JS|Verifying your device|Privacy Gate|cf-browser-verification|Attention Required", re.I)
+
+_lock = threading.Lock()
+_pw = {"browser": None, "page": None, "n": 0, "max": 80}
+
+
+def _curl(url, timeout=25):
+    from curl_cffi import requests as cr
+    r = cr.get(url, impersonate="chrome131", timeout=timeout, headers=BUA, allow_redirects=True)
+    return r.status_code, r.text or ""
+
+
+def _need_browser(url, status, html):
+    host = re.sub(r"^https?://(www\.)?", "", url).split("/")[0].lower()
+    if any(h in host for h in BROWSER_HINT):
+        return True
+    if status in (401, 402, 403, 429):
+        return True
+    if status == 200 and (len(html) < 8000 and _BLOCK.search(html[:4000])):
+        return True
+    if status == 200 and "DPG Media Privacy Gate" in html:
+        return True
+    return False
+
+
+def _accept_cookies(page):
+    sels = [
+        "button:has-text('Alles accepteren')",
+        "button:has-text('Accepteren')",
+        "button:has-text('Accept all')",
+        "button:has-text('Accept All')",
+        "button:has-text('J'accepte')",
+        "button:has-text('Accepter')",
+        "button:has-text('Agree')",
+        "button:has-text('I agree')",
+        "button:has-text('Alle akzeptieren')",
+        "#didomi-notice-agree-button",
+        "button[id*='accept' i]",
+    ]
+    for sel in sels:
+        try:
+            b = page.locator(sel).first
+            if b.count() and b.is_visible(timeout=400):
+                b.click(timeout=1200)
+                page.wait_for_timeout(1200)
+                return
+        except Exception:
+            pass
+    for fr in page.frames:
+        for sel in sels[:8]:
+            try:
+                b = fr.locator(sel).first
+                if b.count() and b.is_visible(timeout=300):
+                    b.click(timeout=1000)
+                    page.wait_for_timeout(1000)
+                    return
+            except Exception:
+                pass
+
+
+def _browser(url, timeout=45):
+    """Fetch via headless Chromium (seriaizzato)."""
+    from playwright.sync_api import sync_playwright
+    with _lock:
+        if _pw["n"] >= _pw["max"]:
+            return 0, ""
+        try:
+            if _pw["browser"] is None:
+                pw = sync_playwright().start()
+                try:
+                    browser = pw.chromium.launch(headless=True, channel="chrome")
+                except Exception:
+                    browser = pw.chromium.launch(headless=True)
+                ctx = browser.new_context(
+                    locale="it-IT",
+                    user_agent=BUA["User-Agent"],
+                    extra_http_headers={"Accept-Language": BUA["Accept-Language"]},
+                )
+                page = ctx.new_page()
+                page.add_init_script("Object.defineProperty(navigator,'webdriver',{get:()=>undefined})")
+                _pw["browser"] = browser
+                _pw["page"] = page
+                _pw["pw"] = pw
+            page = _pw["page"]
+            page.goto(url, wait_until="domcontentloaded", timeout=timeout * 1000)
+            page.wait_for_timeout(2000)
+            _accept_cookies(page)
+            page.wait_for_timeout(800)
+            html = page.content()
+            _pw["n"] += 1
+            return 200, html
+        except Exception as x:
+            return 0, str(x)[:80]
+
+
+def _extract(url, html):
+    t = trafilatura.extract(
+        html, url=url, include_comments=False, include_tables=False,
+        favor_precision=True, deduplicate=True,
+    ) or ""
+    return re.sub(r"\n{3,}", "\n\n", t).strip()
+
 
 def get_text(url, timeout=20):
     """-> (stato, testo). stato: ok | pay | short | err
-    Soft paywall: se trafilatura estrae un articolo completo (>= MINLEN)
-    senza marker espliciti nel testo, lo teniamo anche se lo schema JSON-LD
-    dice isAccessibleForFree:false (falso positivo tipico di Corriere).
+
+    Soft paywall: se estraiamo un corpo sufficiente senza marker espliciti
+    nel testo, lo teniamo anche se lo schema dice isAccessibleForFree:false.
     """
-    if URLPAY.search(url): return "pay", ""
+    if URLPAY.search(url):
+        return "pay", ""
+    status, html = 0, ""
+    err = ""
     try:
-        r = requests.get(url, headers=BUA, timeout=timeout)
-        if r.status_code in (401, 402): return "pay", ""
-        r.raise_for_status(); h = r.text
+        status, html = _curl(url, timeout=timeout)
     except Exception as x:
-        return "err", str(x)[:80]
-    t = trafilatura.extract(h, url=url, include_comments=False, include_tables=False, favor_precision=True, deduplicate=True) or ""
-    t = re.sub(r"\n{3,}", "\n\n", t).strip()
-    # Marker espliciti nel corpo estratto → paywall duro
-    if t and MARK.search(t[-500:]): return "pay", ""
+        err = str(x)[:80]
+    if (not html or _need_browser(url, status, html)) and _pw["n"] < _pw["max"]:
+        st2, h2 = _browser(url)
+        if h2 and len(h2) > len(html or ""):
+            status, html = (st2 or 200), h2
+            err = ""
+    if not html:
+        if status in (401, 402):
+            return "pay", ""
+        return "err", err or f"http {status}"
+    # Bot-wall / access denied pages
+    if len(html) < 8000 and _BLOCK.search(html[:4000]) and "trafilatura" not in html:
+        t0 = _extract(url, html)
+        if len(t0) < MINLEN:
+            return "err", "blocked"
+    t = _extract(url, html)
+    if t and MARK.search(t[-500:]):
+        return "pay", ""
     if len(t) >= MINLEN:
         return "ok", t[:40000]
-    # Corpo corto/assente: controlla schema e marker di pagina
-    fr = [m.group(1).lower() for m in FREE.finditer(h)]
-    if "false" in fr or MARK.search(h): return "pay", ""
-    if not t: return "err", "empty"
+    # Corpo corto: paywall solo se marker di pagina o schema false CON poco testo
+    fr = [m.group(1).lower() for m in FREE.finditer(html)]
+    if MARK.search(html) and len(t) < MINLEN:
+        return "pay", ""
+    if "false" in fr and len(t) < MINLEN // 2:
+        return "pay", ""
+    if not t:
+        return "err", "empty"
     return "short", t
+
+
+def close_browser():
+    with _lock:
+        try:
+            if _pw.get("browser"):
+                _pw["browser"].close()
+            if _pw.get("pw"):
+                _pw["pw"].stop()
+        except Exception:
+            pass
+        _pw["browser"] = _pw["page"] = None
+        _pw["pw"] = None

@@ -5,3 +5,5 @@ beautifulsoup4
 trafilatura
 cryptography
 lxml_html_clean
+curl_cffi
+playwright

@@ -23,6 +23,17 @@ jobs:
       - run: pip install -r requirements.txt
       - uses: actions/cache@v4
         with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+          restore-keys: playwright-${{ runner.os }}-
+      - name: Installa Chrome
+        uses: browser-actions/setup-chrome@v2
+        with:
+          chrome-version: stable
+      - name: Installa Chromium Playwright (fallback)
+        run: playwright install chromium --with-deps
+      - uses: actions/cache@v4
+        with:
           path: cache
           key: articles-${{ github.run_id }}
           restore-keys: articles-

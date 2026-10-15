@@ -184,7 +184,7 @@ def translate(items_all):
     print("tradotte:", ok, "in", len(batches), "richieste")
     return len(todo), ok
 
-from fulltext import get_text
+from fulltext import get_text, close_browser
 from encrypt_page import encrypt
 import gzip, base64
 ARTF = "cache/articles.json"; os.makedirs("cache", exist_ok=True)
@@ -230,13 +230,13 @@ def main():
                 i["t"] = TR.get(key(i["t"]), i["t"]); i["s"] = TR.get(key(i["s"]), i["s"]) if i["s"] else ""
     # ---- testo completo: solo articoli gratuiti ----
     allit = {i["l"]: i for o in OUT for L in data[o["key"]] for i in L}
-    todo = [u for u in allit if u not in ART or ART[u][0] == "err" or (ART[u][0] == "pay" and "corriere.it" in u)]
+    todo = [u for u in allit if ART.get(u, ["err"])[0] != "ok"]
     print("testi da scaricare:", len(todo), flush=True)
     t0 = time.time(); done = [0]
     def save_art():
         json.dump({u: v for u, v in ART.items()}, open(ARTF, "w"), ensure_ascii=False)
     def job(u):
-        if time.time() - t0 > 10 * 60: return u, None
+        if time.time() - t0 > 18 * 60: return u, None
         return u, get_text(u)
     with ThreadPoolExecutor(8) as ex:
         for u, r in ex.map(job, todo):
@@ -244,6 +244,7 @@ def main():
                 ART[u] = list(r); done[0] += 1
                 if done[0] % 40 == 0: save_art(); print(f"  cache articoli {done[0]}/{len(todo)}", flush=True)
     save_art()
+    close_browser()
     excl = {"pay": 0, "short": 0, "err": 0, "pending": 0}
     foreign_keys = {o["key"] for o in OUT if o["tab"] in ("mondo", "sport")}
     for o in OUT:
