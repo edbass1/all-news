@@ -230,7 +230,7 @@ def main():
                 i["t"] = TR.get(key(i["t"]), i["t"]); i["s"] = TR.get(key(i["s"]), i["s"]) if i["s"] else ""
     # ---- testo completo: solo articoli gratuiti ----
     allit = {i["l"]: i for o in OUT for L in data[o["key"]] for i in L}
-    todo = [u for u in allit if u not in ART or ART[u][0] == "err"]
+    todo = [u for u in allit if u not in ART or ART[u][0] == "err" or (ART[u][0] == "pay" and "corriere.it" in u)]
     print("testi da scaricare:", len(todo), flush=True)
     t0 = time.time(); done = [0]
     def save_art():
