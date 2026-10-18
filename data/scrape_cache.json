@@ -4,11 +4,6 @@
 "2026-10-18T07:50:20+02:00",
 "Giordano, la rinascita del senzatetto. Trova lavoro, ma per avere i documenti la burocrazia vuole che torni a dormire per strada"
 ],
-"https://corrieredeltrentino.corriere.it/notizie/cronaca/26_ottobre_17/rifugio-espone-bandiera-della-palestina-la-societa-degli-alpinista-annulla-la-cerimonia-ufficiale-per-i-120-anni-della-struttura-573d957c-5626-4b4b-a31b-1ada425eaxlk.shtml": [
-"La Società alpinisti tridentini ha deciso di annullare la cerimonia dopo che, a richiesta, il gestore del rifugio Prospero Marchetti su monte Stivo in Trentino si è rifiutato di rimuovere la bandiera",
-"2026-10-17T16:53:01+02:00",
-"Rifugio espone bandiera della Palestina, la Società degli alpinisti annulla la cerimonia ufficiale per i 120 anni della struttura. «Ma noi festeggeremo lo stesso»"
-],
 "https://milano.corriere.it/cronaca/diretta-live/26_ottobre_18/milano-timore-per-nuovi-scontri-migliaia-di-giovani-si-concentrano-in-piazza-duomo-forze-dell-ordine-schierate-apprensione-fra-i.shtml": [
 "I gruppi di ragazzi, alcuni dei quali incappucciati, si spostano in maniera disordinata, a volte di corsa, tra piazza Duomo, via Torino e Cordusio",
 "2026-10-18T16:18:33+02:00",
@@ -43,6 +38,11 @@
 "Il grande avvocato è morto a 86 anni. Dalla laurea in Statale alle passeggiate in corso Venezia, la città del re delle Opa. A teatro trovava rifugio intellettuale, amava mangiare da Giacomo in via Sottocorno",
 "2026-10-18T07:00:00+02:00",
 "Sergio Erede e la «sua Milano»: una città discreta per l'avvocato che amava la Scala (e Napoleone)"
+],
+"https://milano.corriere.it/notizie/lombardia/26_ottobre_18/morta-la-mamma-di-lidia-macchi-paola-bassani-aveva-83-anni-se-n-e-andata-senza-sapere-chi-ha-ucciso-sua-figlia-47c1d9a8-edf9-49a1-9825-996163b8bxlk.shtml": [
+"La mamma di Lidia si è spenta sabato dopo una lunga malattia. Lascia i figli Stefania e Alberto. Per il delitto, avvenuto 40 anni fa, è stato condannato all'ergastolo e poi assolto l'ex compagno di classe Stefano Binda",
+"2026-10-18T18:24:05+02:00",
+"Morta la mamma di Lidia Macchi, Paola Bassani: aveva 83 anni, se n'è andata senza sapere chi ha ucciso sua figlia"
 ],
 "https://mowmag.com/attualita/bmw-mercedes-e-volkswagen-i-numeri-fanno-paura-e-arrivato-il-grande-gelo-per-le-auto-tedesche": [
 "La crisi dell'auto tedesca si aggrava mese dopo mese. BMW, Mercedes e Volkswagen continuano a perdere quote di mercato, vendite e profitti. Soprattutto in Cina, il vecchio Eden dorato diventato adesso un preoccupante buco nero. Ecco che cosa sta…",
@@ -194,30 +194,40 @@
 "2026-10-17T20:59:00+02:00",
 "Seat of power – the London art fair that tips its hat to ..."
 ],
-"https://observer.co.uk/culture/books/article/intan-paramadithas-suicide-bomber-sister-act": [
-"Night of a Thousand Hells blends the boisterous and the brutal as two women make sense of their younger sibling’s terrorist act",
-"2026-10-17T06:00:00+02:00",
-"Night of a Thousand Hells by Intan Paramaditha review: my sister the suicide bomber"
-],
 "https://observer.co.uk/culture/books/article/the-sunday-poem-turn-by-keith-jarrett": [
 "of sweating out the gay anthem. chanting it in a club for the first time. gi wi fiyah mek wi bun dem! with a full buss of lung. of joy-rage. dancing away the call to bloodshed. of numbing its power with a stomp and a dip. of a shirt pulled over…",
 "2026-10-18T06:00:00+02:00",
 "The Sunday Poem: turn by Keith Jarrett | The Observer"
-],
-"https://observer.co.uk/culture/books/article/what-to-read-to-understand-jamaica": [
-"Three books that explore subcultures and sexuality in the Caribbean island community",
-"2026-10-17T06:00:00+02:00",
-"What to read to understand Jamaica | The Observer"
 ],
 "https://observer.co.uk/culture/dance/article/the-royal-ballet-turns-100-with-a-lesson-in-ageing-gracefully": [
 "The school’s fabled history was hard to condense into three hours, but this stunning show did its utmost with a range of works past and present",
 "2026-10-17T06:00:00+02:00",
 "The Royal Ballet turns 100 with a lesson in ageing gracef..."
 ],
-"https://observer.co.uk/culture/in-real-life/article/steve-mcqueens-wild-new-work": [
-"The British artist’s new installation at the Guggenheim in Bilbao unites the voices of Nina Simone and David Bowie",
+"https://observer.co.uk/culture/film/article/the-devils-uncensored-inside-mark-kermodes-mission-to-restore-ken-russells-heretical-masterpiece": [
+"Russell’s 1971 film is one of the most controversial in cinema history, its ‘blasphemous’ orgy scene cut from the original edit. More than half a century later it has been reconstructed in full – and is set to shock viewers all over again",
 "2026-10-17T06:00:00+02:00",
-"Steve McQueen’s wild new work | The Observer"
+"The Devils uncensored: inside Mark Kermode’s mission to r..."
+],
+"https://observer.co.uk/culture/film/article/wendy-ides-pick-of-other-films-forgotten-island-naza-street-fighter-case-137": [
+"A gloriously anarchic paean to female friendship is one of the best animated films of the year",
+"2026-10-17T06:00:00+02:00",
+"Wendy Ide’s pick of other films: Forgotten Island, NAZA, ..."
+],
+"https://observer.co.uk/culture/in-real-life/article/inside-londons-wartime-spy-tunnels": [
+"A subterranean labyrinth once frequented by James Bond creator Ian Fleming is being developed as a tourist attraction",
+"2026-10-17T06:00:00+02:00",
+"Inside London’s wartime spy tunnels | The Observer"
+],
+"https://observer.co.uk/culture/in-real-life/article/pagan-poetry": [
+"Could a high priest in tiny horns and a teal overcoat help us invoke the triple moon goddess?",
+"2026-10-17T06:00:00+02:00",
+"Pagan poetry | The Observer"
+],
+"https://observer.co.uk/culture/in-real-life/article/survival-of-the-kippers": [
+"L Robson & Sons, a traditional smokehouse in Northumberland, has seen the oily fish fall in and out of fashion for 120 years",
+"2026-10-17T06:00:00+02:00",
+"Survival of the kippers | The Observer"
 ],
 "https://observer.co.uk/culture/photography/article/all-that-goes-unnoticed-william-egglestons-everyday-epiphanies": [
 "A thrilling exhibition shows how the visionary photographer captured the strange glow of ordinary America – and shaped the last 50 years of photography",
@@ -284,11 +294,6 @@
 "2026-10-18T06:00:00+02:00",
 "Faber’s withdrawal of Sally Rooney’s novels exposes the i..."
 ],
-"https://observer.co.uk/news/international/article/israelis-will-vote-for-security-but-no-one-agrees-on-what-that-means": [
-"Welcome to my second diary entry in the lead-up to the crucial vote. Politicians of all stripes are promising protection. From what depends on whether you are for or against Netanyahu",
-"2026-10-17T06:00:00+02:00",
-"Israelis will vote for security, but no one agrees on wha..."
-],
 "https://observer.co.uk/news/international/article/israels-far-right-hard-men-ride-a-wave-of-support-among-the-young": [
 "Extreme policies once considered fringe are now mainstream as a younger generation, traumatised by October 7, sign up to an ultranationalist agenda ahead of the coming election",
 "2026-10-18T06:00:00+02:00",
@@ -303,11 +308,6 @@
 "More than 1,800 people have been arrested following chaos on Saturday that left hundreds injured and historic buildings destroyed",
 "2026-10-18T14:09:00+02:00",
 "Looting, tear gas and burning cars: France reels after pr..."
-],
-"https://observer.co.uk/news/international/article/my-musk-film-is-a-terrifying-portrait-of-21st-century-power-and-he-hates-it": [
-"Alex Gibney’s epic documentary about the tech billionaire arrives in cinemas in time for the US midterms. He and Trump are increasingly defining our futures, the director explains",
-"2026-10-17T06:00:00+02:00",
-"My Musk film is a terrifying portrait of 21st-century pow..."
 ],
 "https://observer.co.uk/news/international/article/trumps-easing-of-russia-sanctions-deepens-rift-with-zelensky-and-european-allies": [
 "Ukrainian leader attacks the White House move to exempt Moscow from measures as restrictions on Starlink hamper war effort",
@@ -378,11 +378,6 @@
 "With fewer than half of Americans supporting capital punishment, Donald Trump’s hardliners look increasingly like dinosaurs in their last throes",
 "2026-10-17T20:00:00+02:00",
 "Botched injections, TV executions: rightwing misfires are..."
-],
-"https://observer.co.uk/news/opinion-and-ideas/article/history-in-a-hurry-heres-what-we-dont-know-now": [
-"Things are happening chaotically and fast. History is in a hurry. Here are some questions we need answering",
-"2026-10-16T18:00:00+02:00",
-"History in a hurry – here’s what we don’t know now"
 ],
 "https://observer.co.uk/news/opinion-and-ideas/article/the-french-fridge-hack-shows-how-far-we-have-drifted-into-digital-dependence": [
 "When aircraft malfunction, investigations follow, yet we fail to take the same measures against insecure software even when it risks our food supply",
@@ -504,6 +499,11 @@
 "2026-10-18T01:01:00+02:00",
 "Sudoku Classic (18 October) | The Observer"
 ],
+"https://observer.co.uk/style/drink/article/the-rise-of-the-expensively-scruffy-british-dive-bar": [
+"A new wave of bars is embracing a deliberately unpolished aesthetic, offering a welcome antidote to the minimalist trend",
+"2026-10-17T06:00:00+02:00",
+"The rise of the expensively scruffy British dive bar"
+],
 "https://observer.co.uk/style/homes/article/a-sprawling-cambridge-house-where-the-artists-are-taking-over": [
 "A newly established artist residency in Cambridge offers free rein for creatives, transforming a family home into a hub of experimentation and inspiration",
 "2026-10-17T06:00:00+02:00",
@@ -513,11 +513,6 @@
 "The architect and interior designer, whose latest book, A Year in the Parsonage, is published this month, revisits the foundational buildings in his life",
 "2026-10-17T06:00:00+02:00",
 "All the homes I’ve lived in: Ben Pentreath | The Observer"
-],
-"https://observer.co.uk/style/homes/article/the-enduring-appeal-of-prouves-pavilions": [
-"Jean Prouvé’s innovative prefabricated homes, designed for rapid assembly and sustainability, are finding new relevance with collectors and architects today",
-"2026-10-17T06:00:00+02:00",
-"The enduring appeal of Prouvé’s pavilions | The Observer"
 ],
 "https://observer.co.uk/style/homes/article/the-happiness-index-charlotte-and-angus-buchanan-on-not-being-too-fussy": [
 "The designers behind Buchanan Studio reveal why a home comes to life if you are confident and quirky",
@@ -549,11 +544,6 @@
 "2026-10-17T22:48:10+02:00",
 "L’abbraccio tra Conte e Schlein. «Ci sentiamo 8 volte al giorno»"
 ],
-"https://roma.corriere.it/notizie/politica/26_ottobre_18/poliziotto-antimafia-verdetto-caso-shalabayeva-0202f7f7-46fb-4a22-a233-e1882277bxlk.shtml": [
-"Martedì la Cassazione decide su Cortese e altri quattro",
-"2026-10-18T07:39:23+02:00",
-"Il poliziotto antimafia e la mannaia del verdetto per il caso Shalabayeva"
-],
 "https://roma.corriere.it/notizie/politica/26_ottobre_18/stipendi-dei-magistrati-meloni-annuncia-non-firmero-il-dpcm-per-l-aumento-il-nuovo-fronte-della-premier-dopo-la-decisione-del-3890a25b-c795-47f0-8c35-a328dc7dexlk.shtml": [
 "La premier non sottoscriverà l'aumento che vale quasi un miliardo di euro: «Se il Consiglio di Stato lo riterrà opportuno, nomini pure il commissario. Ciascuno si assumerà le proprie responsabilità»",
 "2026-10-18T16:30:06+02:00",
@@ -574,10 +564,10 @@
 "2026-10-17T19:10:04+02:00",
 "Corteo contro il carovita, scontri a Brescia"
 ],
-"https://www.corriere.it/cook/news/26_ottobre_18/cook-fest-2026-il-gran-finale-il-programma-completo-di-domenica-18-ottobre-9345d32f-c806-4847-b189-be01bd64exlk.shtml": [
-"Una colazione milanese contemporanea con Edoardo Tizzani, chef di «Da Vittorio Cafè Louis Vuitton», un pranzo della domenica con Enrico Buonocore, Mauro Uliassi, Davide Oldani, Giorgio Locatelli e Carlo Cracco, accompagnati dai loro famigliari e -…",
-"2026-10-18T00:12:03+02:00",
-"Cook Fest 2026, il gran finale: il programma completo di domenica 18 ottobre"
+"https://www.corriere.it/cook/26_ottobre_18/domenica-da-chef-enrico-buonocore-mauro-uliassi-carlo-cracco-davide-oldani-e-giorgio-locatelli-raccontano-i-loro-pranzi-in-2143f349-920d-4071-b7bf-f3af5f444xlk.shtml": [
+"Domenica, alle Cavallerizze del Museo della Scienza di Milano, cinque grandi nomi della cucina italiana si sono seduti intorno a un tavolo e hanno condiviso uno spaccato della loro quotidianità",
+"2026-10-18T18:13:41+02:00",
+"Domenica da chef: Enrico Buonocore, Mauro Uliassi, Carlo Cracco, Davide Oldani e Giorgio Locatelli raccontano i loro pranzi in famiglia"
 ],
 "https://www.corriere.it/cook/news/26_ottobre_18/il-ricettario-delle-meraviglie-e-la-cucina-che-fa-bene-alla-seconda-giornata-del-cook-fest-268b91db-17ae-4139-8203-39a2e871cxlk.shtml": [
 "Cannavacciuolo, de Bortoli, Locatelli sul palco a sostegno della ricerca scientifica. In programma domenica 18 lo spettacolo inedito sulla «fame» delle scrittrici",
@@ -824,6 +814,11 @@
 "2026-10-18T14:51:02+02:00",
 "Perché i droni rivoluzionano il nostro mondo?"
 ],
+"https://www.fotomac.com.tr/basketbol/2026/10/18/aliaga-petkimspor-fenerbahce-tarfini-maglup-etti": [
+"Türkiye Sigorta Basketbol Süper Ligi 4. Hafta maçında Aliağa Petkimspor deplasmanda Fenerbahçe Tarfin’i mağlup etti.",
+"2026-10-18T17:53:31+02:00",
+"Aliağa Petkimspor, Fenerbahçe Tarfin’i mağlup etti!"
+],
 "https://www.fotomac.com.tr/basketbol/2026/10/18/besiktas-galatasaray-mct-technic-maci-saat-kacta-hangi-kanalda": [
 "Basketbol Süper Ligi’nde Beşiktaş ile Galatasaray MCT Technic karşı karşıya geliyor. Turkcell Basketbol Gelişim Merkezi’nde oynanacak mücadele 18 Ekim Pazar günü saat 20.30’da başlayacak. beIN SPORTS 5’ten canlı yayınlanacak derbide Galatasaray’ın…",
 "2026-10-18T11:05:15+02:00",
@@ -869,20 +864,10 @@
 "2026-10-18T14:35:52+02:00",
 "Alagöz Holding Iğdır FK tek golle galip"
 ],
-"https://www.fotomac.com.tr/birincilig/2026/10/18/arti-deger-vanspor-eminevim-umraniyespor-maci-saat-kacta-ve-hangi-kanalda-izlenir": [
-"Artı Değer Vanspor-Eminevim Ümraniyespor maçı saat kaçta, hangi kanalda canlı yayınlanacak? Mücadele hangi statta oynanacak ve takımların son durumu nasıl? Detaylar haberin devamında...",
-"2026-10-18T07:46:17+02:00",
-"Artı Değer Vanspor - Eminevim Ümraniyespor maçı ne zaman, saat kaçta, canlı yayın var mı?"
-],
 "https://www.fotomac.com.tr/birincilig/2026/10/18/kayseride-kazanan-cikmadi": [
 "Trendyol 1’inci Lig’in 11’inci haftasında lider Kayserispor sahasında konuk ettiği Batman Pertrolspor ile 2-2 berabere kaldı",
 "2026-10-18T17:20:46+02:00",
 "Kayseri’de kazanan çıkmadı!"
-],
-"https://www.fotomac.com.tr/birincilig/2026/10/18/metro-holding-kayserispor-batman-petrolspor-maci-ne-zaman-saat-kacta": [
-"Metro Holding Kayserispor - Batman Petrolspor maçı saat kaçta, hangi kanalda? Liderin kritik sınavında hakem ve canlı yayın bilgileri neler? Detaylar haberin devamında...",
-"2026-10-18T08:06:46+02:00",
-"Kayserispor - Batman Petrolspor maçı saat kaçta, hangi kanalda?"
 ],
 "https://www.fotomac.com.tr/birincilig/2026/10/18/umraniyespor-deplasmanda-van-spor-fkyi-maglup-etti": [
 "Trendyol 1’inci Lig’de düşme hattında yer alan Van Spor FK, Akhisar’da ağırladığı Ümraniyespor’a 2-0 mağlup oldu.",
@@ -939,11 +924,6 @@
 "2026-10-18T15:39:56+02:00",
 "Rennes’in genç yıldızından flaş transfer kararı! Beşiktaş ve Fenerbahçe..."
 ],
-"https://www.fotomac.com.tr/fenerbahce/2026/10/18/spor-yazarlari-fenerbahce-corendon-alanyaspor-macini-degerlendirdi": [
-"Trendyol Süper Lig’de heyecan 8. hafta karşılaşmalarıyla devam ederken Fenerbahçe, Corendon Alanyaspor karşısında 3-0’lık galibiyet elde etti. Chobani Stadı’nda oynanan mücadelede rakibini mağlup eden sarı-lacivertliler, taraftarına galibiyet…",
-"2026-10-18T07:41:41+02:00",
-"Spor yazarları Fenerbahçe-Corendon Alanyaspor maçını değerlendirdi"
-],
 "https://www.fotomac.com.tr/futbol/2026/10/18/peruda-kesfedilen-bir-bitkiye-lionel-messinin-adi-verildi": [
 "Arjantinli dünya yıldızı Lionel Messi’nin adı Peru’da soyu tükenme tehlikesiyle karşı karşıya olan nadir bir bitki türüne verildi.",
 "2026-10-18T14:42:25+02:00",
@@ -969,15 +949,15 @@
 "2026-10-18T11:32:47+02:00",
 "Rafael Leao Fenerbahçe maçında oynayacak mı, derbiye yetişecek mi?"
 ],
-"https://www.fotomac.com.tr/galatasaray/2026/10/18/spor-yazarlari-genclerbirligi-galatasaray-macini-degerlendirdi": [
-"Galatasaray, Trendyol Süper Lig’in 8. haftasında deplasmanda karşılaştığı Gençlerbirliği’ni 1-0 mağlup ederek zirvedeki yerini korudu. Eryaman Stadyumu’nda oynanan mücadelede alınan sonucun ardından gözler spor yazarlarının yorumlarına çevrildi.…",
-"2026-10-18T07:46:41+02:00",
-"Usta yazarlardan Gençlerbirliği-Galatasaray maçı yorumları: Kör topal yoluna devam ediyor!"
-],
 "https://www.fotomac.com.tr/goztepe/2026/10/18/kocaelide-kazanan-goztepe": [
 "Trendyol Süper Lig’in 8. haftasında Göztepe, deplasmanda Kocaelispor’u 2-1 mağlup etti.",
 "2026-10-18T16:54:55+02:00",
 "Kocaeli’de kazanan Göztepe!"
+],
+"https://www.fotomac.com.tr/goztepe/2026/10/18/stanimir-stoilov-dogru-bir-yolda-ilerledigimizi-soyleyebilirim": [
+"Göztepe Teknik Direktörü Stanimir Stoilov, Kocaelispor maçının ardından, ’Doğru bir yolda ilerlediğimizi söyleyebilirim’ dedi.",
+"2026-10-18T17:57:12+02:00",
+"Stanimir Stoilov: Doğru bir yolda ilerlediğimizi söyleyebilirim"
 ],
 "https://www.fotomac.com.tr/gures/2026/10/18/ahmet-yagan-u23-dunya-gures-sampiyonasinda-ikinci-oldu": [
 "ABD’de düzenlenen U23 Dünya Güreş Şampiyonası’nda mücadele eden milli sporcu Ahmet Yağan, gümüş madalya kazandı.",
@@ -1003,11 +983,6 @@
 "Yeni haftayla birlikte gökyüzündeki hareketlilik burç yorumlarının gündemine taşınıyor. 18-25 Ekim haftasında bazı burçlar aşk hayatında yeni gelişmelere odaklanırken bazıları iş, kariyer ve maddi konularda önemli kararları gözden geçirebilir.…",
 "2026-10-18T13:39:16+02:00",
 "Bu hafta burçları neler bekliyor? 18-25 Ekim aşk, para ve kariyer yorumları"
-],
-"https://www.fotomac.com.tr/haberler/2026/10/18/istanbulda-19-ekim-okullar-tatil-edildi-mi-yarin-okul-var-mi": [
-"İstanbul’da etkili olan sağanak yağışın ardından 15 ve 16 Ekim tarihlerinde okullarda eğitime ara verilmişti. Öğrenciler ve veliler, 19 Ekim Pazartesi günü okulların tatil edilip edilmediğini araştırmaya başladı. İstanbul Valisi Davut Gül, yeni…",
-"2026-10-18T07:57:48+02:00",
-"19 Ekim okullar tatil mi? Yarın okul var mı? Valilik açıklaması!"
 ],
 "https://www.fotomac.com.tr/haberler/2026/10/18/leeds-united-manchester-united-maci-canli-yayin-bilgileri-ve-mac-saati": [
 "Premier Lig’de Leeds United-Manchester United mücadelesi öncesi heyecan artıyor. Maç bugün saat kaçta, hangi kanalda canlı yayınlanacak? Kadrolar ve maç detayları haberin devamında...",
@@ -1079,6 +1054,11 @@
 "2026-10-18T17:15:45+02:00",
 "İtalyanlardan sürpriz iddia! Montella’nın yeni adresi..."
 ],
+"https://www.fotomac.com.tr/superlig/2026/10/18/basaksehir-gaziantep-fk-canli": [
+"Trendyol Süper Lig’in 8. haftasında Başakşehir, evinde Gaziantep FK’yı konuk ediyor. Geride kalan yedi haftada hanesine 8 puan yazdıran Başakşehir, taraftarının da desteğiyle 3 puana ulaşmak istiyor. Gaziantep FK ise dış sahada galibiyet arıyor.…",
+"2026-10-18T17:54:01+02:00",
+"Başakşehir-Gaziantep FK maçı CANLI TAKİP ET! Trendyol Süper Lig / 8. Hafta"
+],
 "https://www.fotomac.com.tr/superlig/2026/10/18/kasimpasa-evinde-zorlanmadi": [
 "Trendyol Süper Lig’in 8. haftasında Kasımpaşa, konuk ettiği Samsunspor’u 4-1 mağlup etti. İşte detaylar...",
 "2026-10-18T12:16:57+02:00",
@@ -1104,10 +1084,10 @@
 "2026-10-18T17:02:02+02:00",
 "Trabzonspor deplasmanda kazandı!"
 ],
-"https://www.fotomac.com.tr/trabzonspor/2026/10/18/trabzonspora-derbi-oncesi-sakatlik-soku": [
-"Trendyol Süper Lig’in 8. haftasında Beşiktaş ile karşılaşacak olan Trabzonspor’a derbi öncesi milli oyuncudan kötü haber geldi. İşte detaylar.",
-"2026-10-18T17:28:08+02:00",
-"Trabzonspor’a derbi öncesi sakatlık şoku!"
+"https://www.fotomac.com.tr/video-haber/videoizle/besiktas-baskani-serdal-adalidan-trabzonspor-maci-icin-galibiyet-primi": [
+"Trendyol Süper Lig’in 8. haftasında Beşiktaş, Trabzonspor ile deplasmanda karşılaşacak. Dev derbi öncesi Başkan Serdal Adalı takıma galibiyet primi sözü verdi.",
+"2026-10-18T18:23:48+02:00",
+"Beşiktaş Başkanı Serdal Adalı’dan Trabzonspor maçı için galibiyet primi!"
 ],
 "https://www.fotomac.com.tr/video-haber/videoizle/fenerbahceden-asensio-aciklamasi-izle": [
 "Fenerbahçe’den Marco Asensio’nun sağlık durumuna ilişkin resmi açıklama geldi. Sarı-lacivertli kulüp, İspanyol yıldızın ameliyat olacağını duyururken İsmail Kartal ile Asensio arasındaki ilişkilerin bozulduğuna yönelik servis edilen haberleri kesin…",
@@ -1118,6 +1098,11 @@
 "Manchester United’ın Faslı oyuncusu Noussair Mazraoui’nin Kur’an-ı Kerim tilaveti sosyal medyada betopladı.",
 "2026-10-18T14:07:38+02:00",
 "Manchester United futbolcusu Noussair Mazraoui’den Kur’an-ı Kerim tilaveti"
+],
+"https://www.fotomac.com.tr/video-haber/videoizle/trabzonspora-derbi-oncesi-sakatlik-soku": [
+"Trendyol Süper Lig’in 8. haftasında Beşiktaş ile karşılaşacak olan Trabzonspor’a derbi öncesi milli oyuncudan kötü haber geldi. İşte detaylar.",
+"2026-10-18T18:39:26+02:00",
+"Trabzonspor’a derbi öncesi sakatlık şoku!"
 ],
 "https://www.fotomac.com.tr/yazarlar/emre_bol/2026/10/18/yerliler-hareketlenince": [
 "Yerliler hareketlenince...",
@@ -1484,11 +1469,6 @@
 "2026-10-18T15:46:20+02:00",
 "Ángel Gaitán carga duramente contra Carlos Alcaraz: 'Me falló'"
 ],
-"https://www.sport.es/es/noticias/actualidad/irene-montero-casa-galapagar-financiada-135471023": [
-"La eurodiputada y Pablo Iglesias anunciaron en 2018 una hipoteca conjunta de 540.000 euros a 30 años, una operación que vuelve a poner el foco en las dificultades para acceder a una vivienda",
-"2026-10-18T17:00:47+02:00",
-"Irene Montero, sobre su casa de Galapagar, financiada con una hipoteca de 540.000 euros: 'Es para vivir, no para especular'"
-],
 "https://www.sport.es/es/noticias/actualidad/juanma-lorente-abogado-laboralista-vuelves-baja-medica-135470870": [
 "El experto en derecho compartió un nuevo consejo a través de su cuenta personal de TikTok",
 "2026-10-18T16:38:33+02:00",
@@ -1499,15 +1479,10 @@
 "2026-10-18T11:54:46+02:00",
 "Mateu Alemany se pone serio con el futuro de Marc Pubill: 'Hay situaciones que se tienen en cuenta continuamente'"
 ],
-"https://www.sport.es/es/noticias/baloncesto/carles-marco-entrenador-leyma-coruna-135472256": [
-"El técnico catalán hace autocrítica después de caer con dureza en Fontajau: 'Ellos acabaron con 20 triples, un 48% de acierto, algunos de mérito y otros de demérito de nuestra defensa'",
-"2026-10-18T17:08:09+02:00",
-"Carles Marco, entrenador del Leyma Coruña, tras la derrota en Girona: 'Es difícil ganar en la Liga ACB si recibes puntos con tanta facilidad'"
-],
-"https://www.sport.es/es/noticias/baloncesto/jassel-perez-40-puntos-firma-135471635": [
-"El alero dominicano destroza los récords de puntos (40) y de triples (9) del FIATC Girona en Liga Endesa con una exhibición histórica en la que se han superado otras cuatro plusmarcas de club. Solo Hezonja ha anotado tanto en 2026",
-"2026-10-18T16:49:50+02:00",
-"Jassel Pérez (40 puntos) firma una de las mayores anotaciones del siglo con el FIATC GIrona"
+"https://www.sport.es/es/noticias/baloncesto/clasificacion-valencia-basket-liga-endesa-135474290": [
+"",
+"2026-10-18T18:35:35+02:00",
+"Clasificación: Así está Valencia Basket en Liga Endesa"
 ],
 "https://www.sport.es/es/noticias/baloncesto/superman-jassel-perez-impulsa-victoria-135468590": [
 "El dominicano realizó toda una exhibición, con 40 puntos y 42 de valoración, para liderar al FIATC Girona a una cómoda victoria final (110-90) ante el Leyma Coruña",
@@ -1524,15 +1499,10 @@
 "2026-10-18T11:18:20+02:00",
 "La abuela de Fermín López: 'Mi niño, mira que esta niña viene de Huelva, dale una camiseta'"
 ],
-"https://www.sport.es/es/noticias/barca/audio-var-gol-anulado-betis-135460259": [
-"La RFEF publica el vídeo que explica por qué el tanto de Lo Celso en los últimos compases de la primera mitad fue invalidado",
-"2026-10-18T08:48:01+02:00",
-"El audio del VAR del gol anulado al Betis: 'El Barça nunca tiene el control del balón'"
-],
-"https://www.sport.es/es/noticias/barca/bojan-krkic-frenkie-jong-esencial-135450839": [
-"Bojan Krkic para SPORT analiza el papel de De Jong en el tercer proyecto blaugrana de Hansi Flick",
-"2026-10-18T08:10:19+02:00",
-"Bojan Krkic: 'Frenkie de Jong es esencial para ganar títulos'"
+"https://www.sport.es/es/noticias/barca/eric-garcia-jules-kounde-lesionados-135473214": [
+"Hansi Flick afronta los compromisos ante el PSG y el Real Madrid con una defensa en cuadro",
+"2026-10-18T18:02:15+02:00",
+"Eric Garcia y Jules Kounde, lesionados: comunicado médico oficial del Barça, qué tienen y cuántos partidos se perderán"
 ],
 "https://www.sport.es/es/noticias/barca/escandalo-gabriel-jesus-barca-unico-135456973": [
 "El atacante brasileño está respondiendo a las oportunidades que le brinda Flick con goles y rendimiento extraordinario inmediato",
@@ -1569,10 +1539,15 @@
 "2026-10-18T14:39:39+02:00",
 "El Barça cae ante una gran Real Sociedad en un partido marcado por la polémica arbitral"
 ],
-"https://www.sport.es/es/noticias/barca/kounde-pendiente-pruebas-llegar-cojeando-135469705": [
-"El francés ha acudido directamente al centro médico del club sin pasar por el vestuario y está siendo examinado para conocer el alcance de sus molestias",
-"2026-10-18T15:26:45+02:00",
-"Koundé, pendiente de pruebas tras llegar cojeando a Barcelona"
+"https://www.sport.es/es/noticias/barca/futbol-femenino/cata-coll-vicky-pina-reaccion-polemica-penalti-real-sociedad-barcelona-135473472": [
+"Las futbolistas azulgranas han mostrado su incredulidad en redes sociales tras la decisión de la colegiada de anular el penalti señalado sobre Esmee Brugts en la derrota ante la Real Sociedad (2-1)",
+"2026-10-18T18:13:42+02:00",
+"'Nah, si se ha tirado...': Cata Coll, Vicky, Pina y Aleixandri estallan contra el polémico penalti de Zubieta"
+],
+"https://www.sport.es/es/noticias/barca/futbol-femenino/clasico-filiales-acaba-3-3-135474107": [
+"El Barça B se adelantó dos veces, pero el Real Madrid remontó tras el descanso y Aissatou rescató un punto para las azulgranas en el tramo final",
+"2026-10-18T18:36:56+02:00",
+"El clásico de filiales acaba con un 3-3 en Valdebebas"
 ],
 "https://www.sport.es/es/noticias/barca/maldini-analiza-victoria-barca-jugadas-135462484": [
 "El comentarista de Movistar Plus examinó el triunfo del conjunto de Hansi Flick en su canal de YouTube",
@@ -1583,11 +1558,6 @@
 "El conjunto blaugrana solo ha ganado un partido dirigido por el colegiado inglés",
 "2026-10-18T11:04:44+02:00",
 "Michael Oliver arbitrará el PSG - FC Barcelona de Champions"
-],
-"https://www.sport.es/es/noticias/barca/olmo-rompe-sequia-momento-clave-135456340": [
-"El de Terrassa firmó el quinto gol en La Cartuja tras entrar desde el banquillo y llega en plena forma a una semana clave, en la que su sana competencia con Fermín por la mediapunta es una gran noticia para Flick",
-"2026-10-18T11:48:24+02:00",
-"Olmo rompe su sequía en un momento clave: vuelve a marcar 40 partidos después"
 ],
 "https://www.sport.es/es/noticias/barca/paris-plena-tension-social-recibir-135467447": [
 "Francia, en llamas por las protestas de los 'chalecos amarillos' contra el encarecimiento de la vida y la pérdida de poder adquisitivo",
@@ -1609,11 +1579,6 @@
 "2026-10-18T08:00:44+02:00",
 "Lo que no se vio en el Betis-Barça: la 'terapia' de Flick, el asombro de Rakitic y el cónclave Gordon-Adeyemi"
 ],
-"https://www.sport.es/es/noticias/betis/dura-sancion-expone-facundo-bernal-135465407": [
-"De Burgos Bengoetxea recogió en su acta los dos cabezazos que el uruguayo propinó al '10' del Barça en La Cartuja tras el gol de Abde para el 2-3",
-"2026-10-18T12:43:50+02:00",
-"La dura sanción a la que se expone Facundo Bernal por 'sujetar del cuello y propinarle dos cabezazos en el rostro' a Lamine Yamal"
-],
 "https://www.sport.es/es/noticias/celta-de-vigo/drama-borja-iglesias-celta-135439055": [
 "La temporada del delantero español está siendo un auténtico suplicio",
 "2026-10-18T08:52:26+02:00",
@@ -1629,10 +1594,20 @@
 "2026-10-17T09:31:13+02:00",
 "Álex Usieto, el español más joven en debutar en ONE Championship: “Tenía que noquear sí o sí; mi sueño es el cinturón”"
 ],
+"https://www.sport.es/es/noticias/futbol-femenino/espana-mexico-horario-ver-gratis-135471822": [
+"A qué hora juega España contra México en el Mundial femenino sub-17 2026 y dónde ver en directo y gratis el debut de la selección española",
+"2026-10-18T17:59:42+02:00",
+"España - México: horario y dónde ver gratis el Mundial femenino sub-17 por TV y online"
+],
 "https://www.sport.es/es/noticias/futbol-internacional/bundesliga/bayern-pasea-bundesliga-luis-diaz-135452420": [
 "Le tocó pagar al Leipzig en la Bundesliga los platos rotos en la Champions del Bayern , que venía de ceder dos puntos en el último minuto ante el modesto Viking en Noruega. Esta vez Olise, en lugar de hacerse el harakiri , hizo lo que mejor sabe…",
 "2026-10-17T20:29:16+02:00",
 "El Bayern se pasea en la Bundesliga con un Luis Díaz mastodóntico"
+],
+"https://www.sport.es/es/noticias/futbol-internacional/calcio/olvida-derrota-champions-ahonda-crisis-135472403": [
+"El conjunto 'viola' se mantiene en la zona de descenso tras caer por 1-3 ante el Como de Cesc, que se rehizo de la derrota en Champions",
+"2026-10-18T17:48:29+02:00",
+"El Como olvida la derrota en Champions y ahonda la crisis de la Fiorentina"
 ],
 "https://www.sport.es/es/noticias/futbol-internacional/carlos-augusto-revoluciona-inter-135453971": [
 "El brasileño entró en el minuto 68, marcó en el primer balón que tocó y asistió después a Bonny para cerrar la remontada frente al Boloni",
@@ -1643,6 +1618,11 @@
 "El delantero del Inter de Miami habló de ello en una entrevista para LUZU TV",
 "2026-10-18T13:09:12+02:00",
 "Leo Messi: 'Sé hablar inglés pero me siento raro y no me gusta hacerlo en público, prefiero hablarlo en privado con mis hijos'"
+],
+"https://www.sport.es/es/noticias/futbol-internacional/lio-caso-jj-gabriel-parece-135441633": [
+"El futuro el joven futbolista inglés se acerca a una resolución definitiva ante el interés de varios clubes europeos de primer nivel",
+"2026-10-17T12:41:02+02:00",
+"Más lío en el caso JJ Gabriel: 'Me parece ridículo que el United considere emprender acciones legales'"
 ],
 "https://www.sport.es/es/noticias/futbol-internacional/locura-ver-messi-oviedo-16-135464322": [
 "Más de 16.000 personas llegaron a coincidir en la cola virtual habilitada este domingo para conseguir una entrada para asistir al acto que Leo Messi protagonizará el jueves en Oviedo, en el marco de los Premios Princesa de Asturias 2026",
@@ -1664,30 +1644,55 @@
 "2026-10-18T09:18:36+02:00",
 "Las 'fiestas' de Dembélé, un peligro real para el Barça ante el PSG"
 ],
+"https://www.sport.es/es/noticias/futbol/2-3-depor-abanca-impone-135474217": [
+"El partido contó con dos descuentos de más de 15 minutos cada uno tras una multitud de revisiones en el FVS",
+"2026-10-18T18:30:44+02:00",
+"2-3 | El Dépor Abanca se impone en la locura de Ipurua"
+],
+"https://www.sport.es/es/noticias/futbol/deportivo-eibar-lucia-pardo-gobierna-135474543": [
+"La lucense comandó al equipo coruñés con dos asistencias y un gol",
+"2026-10-18T18:47:05+02:00",
+"El uno a uno del Deportivo ante el Eibar: Lucía Pardo gobierna con dos asistencias y un gol"
+],
+"https://www.sport.es/es/noticias/futbol/segunda-rfef/hercules-vuelve-fallar-defensa-play-135474108": [
+"El conjunto alicantino solo ha pasado 12 jornadas en promoción de ascenso a Segunda División desde 2024",
+"2026-10-18T18:28:31+02:00",
+"El Hércules vuelve a fallar en su defensa del 'play-off'"
+],
+"https://www.sport.es/es/noticias/futbol/segunda/girona-andorra-directo-partido-laliga-135455011": [
+"El Girona recibe al Andorra en la décima jornada de LaLiga Hypermotion",
+"2026-10-18T18:00:06+02:00",
+"Girona - Andorra, en directo: partido de LaLiga Hypermotion hoy en vivo"
+],
+"https://www.sport.es/es/noticias/getafe/carvajal-getafe-lanza-excapitan-real-135473477": [
+"El presidente del Getafe, Ángel Torres, quiere dar otro golpe sobre la mesa haciéndose con los servicios de otra leyenda del Real Madrid",
+"2026-10-18T18:24:34+02:00",
+"¡Tras Carvajal, el Getafe se lanza a por otro excapitán del Real Madrid!"
+],
 "https://www.sport.es/es/noticias/laliga/atletico-pendiente-cuti-romero-135465861": [
 "Tras derrotar al Espanyol a domicilio, el Atlético de Madrid volvió al trabajo pensando en el próximo duelo de Champions",
 "2026-10-18T14:10:46+02:00",
 "El Atlético, pendiente del 'Cuti' Romero"
-],
-"https://www.sport.es/es/noticias/laliga/bordalas-deja-aire-debut-carvajal-135465790": [
-"Bordalás aseguró, en la previa del duelo entre Getafe y Rayo Vallecano, que el flamante nuevo fichaje del equipo azulón está preparado para debutar",
-"2026-10-18T13:48:46+02:00",
-"Bordalás deja en el aire el debut de Carvajal y no da pistas con Sancho"
 ],
 "https://www.sport.es/es/noticias/laliga/osasuna-vuelve-sonreir-arrasate-135470991": [
 "El retorno de Jagoba Arrasate a Pamplona llegó acompañado de victoria. Osasuna derrotó 2-0 al Racing y se aleja de la zona baja",
 "2026-10-18T16:16:19+02:00",
 "Osasuna vuelve a sonreír con Arrasate"
 ],
+"https://www.sport.es/es/noticias/las-palmas/palmas-atletico-domina-premio-cae-135474462": [
+"El filial amarillo mereció mucho más en el debut de José Robaina en el banquillo, pero acabó sucumbiendo ante los dos zarpazos del cuadro andaluz",
+"2026-10-18T18:42:46+02:00",
+"Las Palmas Atlético domina sin premio y cae ante el Puente Genil en el Anexo (1-2)"
+],
+"https://www.sport.es/es/noticias/motor/fiesta-circuit-barcelona-catalunya-dominio-135474198": [
+"El Mundial de Resistencia (WEC) desata la locura en el Circuit con 55.000 amantes de las carreras más cerca que nunca de los coches",
+"2026-10-18T18:41:47+02:00",
+"Fiesta en el Circuit de Barcelona-Catalunya y dominio de Toyota"
+],
 "https://www.sport.es/es/noticias/motor/moto-gp/fermin-aldeguer-perdera-gp-australia-135471533": [
 "El piloto murciano pasó por el quirófano tras su caída en el GP de Indonesia y necesitará unas semanas de recuperación",
 "2026-10-18T16:47:44+02:00",
 "Fermín Aldeguer se perderá el GP de Australia"
-],
-"https://www.sport.es/es/noticias/motor/xavier-artigas-primer-campeon-mundial-135468785": [
-"Al barcelonés le ha valido acabar octavo en la segunda y última carrera del fin de semana con su máximo rival, David Salvador, cuarto",
-"2026-10-18T14:53:29+02:00",
-"Xavier Artigas, primer campeón mundial de la historia de Sportbike"
 ],
 "https://www.sport.es/es/noticias/opinion/barca-felicidad-absoluta-135456938": [
 "El actual Barcelona es lo más parecido al éxtasis deportivo. Es un ganar y ganar sin parar. Sus cifras actuales son incontestables: en once partidos ya suma la friolera de 50 goles que se dice pronto. El golpe de efecto en La Cartuja es…",
@@ -1724,35 +1729,25 @@
 "2026-10-17T08:00:54+02:00",
 "Rodri y otras casualidades decisivas"
 ],
-"https://www.sport.es/es/noticias/outdoor/emelie-forsberg-pareja-kilian-jornet-desafio-ultra-135384416": [
-"La corredora sueca, pareja de Kilian Jornet, habla de su regreso a las ultras tras su tercera maternidad, de las dificultades físicas que ha encontrado y de los dos grandes retos que quiere afrontar antes de retirarse: UTMB y Hardrock",
-"2026-10-18T17:00:48+02:00",
-"Emelie Forsberg, pareja de Kilian Jornet, sobre su próximo desafío tras ser madre por tercera vez: 'Quiero ver hasta dónde puedo llegar. Me queda un último capítulo como atleta'"
-],
-"https://www.sport.es/es/noticias/outdoor/sebastian-rosa-experto-longevidad-beneficios-135467651": [
-"Según el especialista, la idea no es forzarse todos los días, sino encontrar la dosis mínima efectiva de actividad física",
-"2026-10-18T17:00:47+02:00",
-"Sebastián La Rosa, experto en longevidad: 'Los beneficios del ejercicio no suben de forma infinita; no siempre significan más salud'"
-],
-"https://www.sport.es/es/noticias/padel/ari-sanchez-andrea-ustero-triunfo-135472202": [
-"La pareja catalana protagonizó una gran remontada y acabó ganando a Bea González y Paula Josemaría por 7-6 (3) y 6-3",
-"2026-10-18T17:39:22+02:00",
-"Ari Sánchez y Andrea Ustero: triunfo de actitud en Milán y el número uno, más cerca"
+"https://www.sport.es/es/noticias/premier-league/united-alarga-declive-carrick-cuerdas-135472776": [
+"Los 'red devils' no pudieron pasar del empate en Elland Road ante el Leeds",
+"2026-10-18T17:53:39+02:00",
+"El United alarga su declive y Carrick ya está contra las cuerdas"
 ],
 "https://www.sport.es/es/noticias/real-madrid/doble-guerra-real-madrid-laliga-sevilla-135448743": [
 "Tras la agónica remontada frente a la Roma, el conjunto blanco recibe al Sevilla en plena batalla contra Tebas y los estamentos del fútbol español, obligado a ganar antes del clásico",
 "2026-10-18T06:30:06+02:00",
 "La doble guerra del Real Madrid por y contra LaLiga"
 ],
+"https://www.sport.es/es/noticias/real-madrid/florentino-sustituto-falla-plan-mourinho-real-madrid-deschamps-135473100": [
+"El nombre de Deschamps, que ya fue recurrente en la última temporada , vuelve a salir a la palestra en caso de que el portugués no sea capaz de sacar adelante los objetivos marcados",
+"2026-10-18T18:10:55+02:00",
+"Florentino ya tiene sustituto por si falla el 'plan Mourinho': Deschamps, candidato"
+],
 "https://www.sport.es/es/noticias/shopping/mejores-ofertas-diarias-amazon-134112031": [
 "He aquí las mejores ofertas del día que, ahora mismo, todavía estás a tiempo de conseguir en Amazon y las plataformas mencionadas. Estas han dispuesto sus productos estrella a precio de ganga",
 "2026-10-16T12:50:00+02:00",
 "De 600 a 129 euros: Amazon desploma el precio de esta cinta de correr plegable con casi un 80% de descuento"
-],
-"https://www.sport.es/es/noticias/tenis/alejandro-davidovich-ganador-shanghai-tenis-135449352": [
-"El tenista malagueño se hizo con su primer Masters 1000 en una final histórica para el tenis español",
-"2026-10-18T17:31:00+02:00",
-"Alejandro Davidovich (27 años), ganador en Shanghái: 'Parezco guiri, pero me siento muy español. La gente hasta me habla en inglés'"
 ],
 "https://www.sport.es/es/noticias/tenis/davidovich-alcanza-gloria-shanghai-final-135466276": [
 "Alejandro Davidovich ha conquistado el Masters 1000 de Shanghái, el primero de su carrera, en una final épica ante un Rafa Jódar que empezó arrasando y acabó sufriendo (1-6, 7-6 (5) y 6-4)",
