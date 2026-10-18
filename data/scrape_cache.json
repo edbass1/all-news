@@ -14,11 +14,6 @@
 "2026-10-17T16:56:57+02:00",
 "Manifestazione a Bologna, scontri e guerriglia durante il corteo degli studenti. Assalto alla stazione con fumogeni e bombe carta, la polizia risponde con lacrimogeni e idranti"
 ],
-"https://milano.corriere.it/cronaca/diretta-live/26_ottobre_17/milano-gli-scontri-in-duomo-al-corteo-sul-carovita-in-diretta-sassaiola-contro-la-polizia-bombe-carta-e-barricate.shtml": [
-"In cinquemila al corteo di «Italia in piazza»: sale la tensione dopo una prima sassaiola contro la polizia. Le forze dell'ordine hanno sparato lacrimogeni per disperdere i manifestanti, danni alle vetrine. Scontri violenti in pieno centro, fuggono i…",
-"2026-10-17T17:48:32+02:00",
-"Milano, gli scontri in Duomo al corteo sul carovita in diretta | Sassaiola contro la polizia, bombe carta e barricate. Numerosi feriti, dieci fermati"
-],
 "https://milano.corriere.it/notizie/cronaca/26_ottobre_17/cassano-magnago-muore-nel-frontale-contro-l-auto-dell-ex-compagno-non-si-esclude-l-ipotesi-di-un-gesto-volontario-b5278e0c-4750-4af7-abbb-a2175dcfexlk.shtml": [
 "La donna, 69 anni, è rimasta intrappolata tra le lamiere. Alla guida dell’altra vettura c’era l’ex compagno, Fulvio Iemini, 73 anni, con cui la relazione si era chiusa nei mesi scorsi. I familiari hanno presentato denuncia. Si stringe il cerchio,…",
 "2026-10-17T12:07:56+02:00",
@@ -38,6 +33,11 @@
 "Era i massimi esperti in Italia in materia di diritto societario, fusioni e acquisizioni. Nel 1999 ha fondato, insieme con Franco Bonelli e Aurelio Pappalardo, lo studio legale Bonelli Erede Pappalardo",
 "2026-10-17T12:00:55+02:00",
 "Sergio Erede, morto a 86 anni il decano degli avvocati d'affari di Milano: dalla scalata di Olivetti su Telecom alle privatizzazioni di Enel, Alitalia e Autostrade"
+],
+"https://milano.corriere.it/notizie/cronaca/26_ottobre_18/bombe-carta-scontri-vetrine-sfondate-i-poliziotti-presi-a-calci-e-aggrediti-un-giorno-di-battaglia-a-milano-7cf4687b-4a22-455c-a639-db8078949xlk.shtml": [
+"Circa 500 persone, quasi tutte giovani, si sono staccate dal corteo contro il carovita e per la scuola, per devastare il centro. Estintore vola verso un blindato",
+"2026-10-18T02:29:34+02:00",
+"Bombe carta, scontri, vetrine sfondate, i poliziotti presi a calci e colpiti con le pietre: il sabato di battaglia a Milano"
 ],
 "https://mowmag.com/attualita/bmw-mercedes-e-volkswagen-i-numeri-fanno-paura-e-arrivato-il-grande-gelo-per-le-auto-tedesche": [
 "La crisi dell'auto tedesca si aggrava mese dopo mese. BMW, Mercedes e Volkswagen continuano a perdere quote di mercato, vendite e profitti. Soprattutto in Cina, il vecchio Eden dorato diventato adesso un preoccupante buco nero. Ecco che cosa sta…",
@@ -694,25 +694,20 @@
 "2026-10-17T14:19:24+02:00",
 "Zelensky al Corriere della Sera: «Pronti a negoziati ovunque in qualsiasi formato. L'Europa abbia con la Russia una propria direzione»"
 ],
-"https://www.corriere.it/esteri/diretta-live/26_ottobre_17/iran-usa-news-diretta-1.shtml": [
-"Le notizie sul conflitto tra Israele, Usa e Iran di sabato 17 ottobre, in diretta",
-"2026-10-17T00:33:10+02:00",
-"Guerra Iran-Usa, le notizie in diretta dal Medio Oriente | Ferita una reporter del Washington Post in Cisgiordania per documentare le violenze dei coloni: «Presa a calci e bastonate da uomini mascherati»"
+"https://www.corriere.it/esteri/diretta-live/26_ottobre_18/guerra-iran-usa-le-notizie-in-diretta-dal-medio-oriente-la-fotoreporter-aggredita-dai-coloni-derubata-e-picchiata-temevo-di-morire.shtml": [
+"Le notizie sul conflitto tra Israele, Usa e Iran di domenica 18 ottobre, in diretta",
+"2026-10-18T02:49:17+02:00",
+"Guerra Iran-Usa, le notizie in diretta dal Medio Oriente | La fotoreporter aggredita dai coloni: «Derubata e picchiata, temevo di morire»"
 ],
-"https://www.corriere.it/esteri/diretta-live/26_ottobre_17/ucraina-russia-news-guerra-1.shtml": [
-"Le notizie sul conflitto tra Ucraina e Russia di sabato 17 ottobre, in diretta",
-"2026-10-17T00:29:15+02:00",
-"Guerra Ucraina-Russia, le notizie in diretta | Zelensky: «Se cadiamo ci saranno 20 milioni di profughi in Europa». Mosca contro Roma: «Agisce per conto dei padroni a Bruxelles»"
+"https://www.corriere.it/esteri/diretta-live/26_ottobre_18/guerra-ucraina-russia-le-notizie-in-diretta-ancora-missili-russi-su-kharkiv.shtml": [
+"Le notizie sul conflitto tra Ucraina e Russia di domenica 18 ottobre, in diretta",
+"2026-10-18T01:45:03+02:00",
+"Guerra Ucraina-Russia, le notizie in diretta | Nuovi attacchi russi su Kharkiv, Kherson e Zaporizhzhia: almeno due vittime"
 ],
 "https://www.corriere.it/frammenti-ferruccio-de-bortoli/26_ottobre_16/quando-una-banca-e-troppo-grande-per-un-paese-2ee21ce3-0605-480c-987e-49e4ad967xlk.shtml": [
 "Se una banca è troppo grande per il proprio Paese: perché non ci si fa la stessa domanda anche per Intesa Sanpaolo?",
 "2026-10-16T12:16:04+02:00",
 "Quando una banca è troppo grande per un Paese?"
-],
-"https://www.corriere.it/il-punto/america-cina/26_ottobre_15/zelensky-riprenderemo-i-raid-sulle-raffinerie-russe.shtml": [
-"",
-"2026-10-15T12:58:08+02:00",
-"Zelensky: «Riprenderemo i raid sulle raffinerie russe»"
 ],
 "https://www.corriere.it/il-punto/america-cina/26_ottobre_16/la-guerra-di-starlink-f7a91841-3955-4454-9c07-0826c6966xlk.shtml": [
 "",
@@ -724,20 +719,10 @@
 "2026-10-16T15:25:01+02:00",
 "Robert Pattinson reporter d’assalto, Napoli blues con Pino Daniele, Fatherland da Oscar, Sophie Marceau mamma e nonna e tanto altro / La Cinebussola"
 ],
-"https://www.corriere.it/il-punto/la-rassegna/26_ottobre_15/la-guerra-infinita-del-congo-a-gaza-si-muore-ancora-6293461d-a3b4-46ca-8329-757d887c1xlk.shtml": [
-"",
-"2026-10-15T14:24:27+02:00",
-"La guerra infinita del Congo, a Gaza si muore ancora, boss in libertà, la scommessa di Lula, il paradosso Svizzera"
-],
 "https://www.corriere.it/il-punto/la-rassegna/26_ottobre_16/il-caso-sally-rooney-il-canuto-impero-bateson-e-la-bomba-si-rivede-stranamore-adieu-grandeur-pinocchio-2-0-b8fb81c1-53fe-449d-b8fb81c1-53fe-449d-aeed-4ff7c7fcbxlk.shtml": [
 "",
 "2026-10-16T19:46:07+02:00",
 "Il caso Sally Rooney, il Canuto Impero, Bateson e la Bomba, si rivede Stranamore, adieu grandeur, Pinocchio 2.0"
-],
-"https://www.corriere.it/il-punto/prima-ora/26_ottobre_15/meloni-contro-trump-sul-gasolio-russo-come-sta-il-papa-i-pirati-della-microcar.shtml": [
-"",
-"2026-10-15T02:29:30+02:00",
-"Meloni contro Trump sul gasolio russo, come sta il Papa, i «pirati» della microcar"
 ],
 "https://www.corriere.it/il-punto/prima-ora/26_ottobre_16/l-ue-divisa-sull-energia-musk-contro-zelensky-i-contorni-della-manovra-la-rivolta-dei-tir-df5acbdc-08fe-44ea-8e3e-a982e0c7exlk.shtml": [
 "",
@@ -754,10 +739,10 @@
 "2026-10-17T20:32:16+02:00",
 "Sapessi com’è strano caricare il cellulare a Milano"
 ],
-"https://www.corriere.it/newsletter/futura/26_ottobre_15/15-ott-2026-a7b3e576-163e-4fa0-a52e-9312ba317xlk.shtml": [
-"",
-"2026-10-15T22:58:46+02:00",
-"Di che senso sei?"
+"https://www.corriere.it/motori/26_ottobre_16/tesla-roadster-elon-musk-presenta-la-prima-auto-volante-con-i-razzi-di-spacex-a2050fc4-6872-4bfc-9573-3c6c78dd1xlk.shtml": [
+"Dopo nove anni di rinvii Musk svela la Roadster: per prenotarla servono fino a 250mila dollari, senza prezzo finale né data di consegna garantita. Ecco come fa a volare",
+"2026-10-16T09:03:48+02:00",
+"Tesla Roadster, Elon Musk presenta la prima auto volante con i razzi di SpaceX. Il video"
 ],
 "https://www.corriere.it/newsletter/la-lettura/26_ottobre_16/che-cos-e-l-identita-b596bb27-020e-489f-a509-543f7d5b4xlk.shtml": [
 "",
@@ -768,11 +753,6 @@
 "",
 "2026-10-16T20:26:14+02:00",
 "Quanto una banca è troppo grande per un Paese? Buste paga leggere (e la colpa è anche del Fiscal drag). La strada per decarbonizzare"
-],
-"https://www.corriere.it/newsletter/mondo-capovolto/26_ottobre_15/le-due-anime-del-brasile-e-il-peso-degli-evangelici.shtml": [
-"",
-"2026-10-15T04:58:24+02:00",
-"Le due anime del Brasile (e il peso degli evangelici)"
 ],
 "https://www.corriere.it/opinioni/26_ottobre_15/civilta-degli-applausi-bipartisan-48ac0210-62a2-4d26-95ff-69159bd0cxlk.shtml": [
 "Le parole della premier Meloni sull’ultimo atto Trump-Putin apprezzate dai riformisti",
@@ -839,10 +819,25 @@
 "2026-10-17T09:31:44+02:00",
 "L'America che spende a gogò e si lamenta"
 ],
+"https://www.corriere.it/podcast/severgnini-radioitalians/26_ottobre_17/ragazzi-che-preoccupano-radio-italians-beppe-severgnini-risponde-vostri-vocali-77d6f996-c973-11f1-80ac-dc958688505e.shtml": [
+"La domenica di «Giorno per giorno», con Beppe Severgnini",
+"2026-10-18T00:16:15+02:00",
+"Ragazzi che preoccupano: «Radio Italians» | Il podcast"
+],
 "https://www.corriere.it/politica/26_ottobre_16/schlein-replica-a-salis-l-alleanza-progressista-e-finalmente-in-grado-di-vincere-2297426c-e634-4761-b225-6f6cec832xlk.shtml": [
 "La leader dem: «In questi anni abbiamo lavorato moltissimo su due obiettivi: l’unità del Pd, che non è mai stato così unito, e l’unità di una coalizione che nel 2022 non c’era più»",
 "2026-10-16T18:22:02+02:00",
 "Schlein replica a Salis: «L'alleanza progressista è finalmente in grado di vincere»"
+],
+"https://www.corriere.it/salute/26_ottobre_16/malattie-infiammatorie-croniche-intestinali-mici-terapie-sempre-piu-efficaci-per-vivere-meglio-741ae2aa-b149-414f-aaa0-f7e04af59xlk.shtml": [
+"Oggi, per molti pazienti, l'obiettivo non è solo ridurre le recidive e i sintomi, ma riportare alla normalità il tessuto intestinale per una reale remissione di malattia di Crohn e colite ulcerosa",
+"2026-10-16T09:29:53+02:00",
+"Malattie infiammatorie croniche intestinali (Mici), terapie sempre più efficaci per vivere meglio"
+],
+"https://www.corriere.it/salute/26_ottobre_17/menopausa-si-parla-ancora-poco-dei-sintomi-tra-i-piu-sottovalutati-i-disturbi-del-sonno-267135d1-5cbe-4a02-9a26-d1ab5a2eexlk.shtml": [
+"Sono circa 17 milioni in Italia le donne in menopausa e ogni anno sono 450mila coloro che entrano in questa fase. Oggi se ne parla di più, ma resta il silenzio sui sintomi: il 76% delle donne tra i 45 e i 55 anni soffre di insonnia e vampate di…",
+"2026-10-17T06:20:00+02:00",
+"Menopausa: si parla ancora poco dei sintomi. Tra i più sottovalutati i disturbi del sonno"
 ],
 "https://www.corriere.it/sette/26_ottobre_16/silvia-salis-intervista-46d25ad9-61a5-4374-bfdc-024ae1bbaxlk.shtml": [
 "La politica, il libro, la famiglia: la sindaca di Genova si racconta a 7. «Sono cresciuta in una casa di 60 metri quadrati, in affitto. Il papà, l’addio allo sport: i dolori della vita. Il centrosinistra? Manca un leader riconosciuto e manca una…",
@@ -858,6 +853,11 @@
 "Indignato per l’approvazione della “buona morte”, annuncia a 7 che riconsegnerà il titolo «Ho raccontato gli “incel” prima che si usasse questo termine, ma come profeta sono sopravvalutato. Forse ha ragione Musk quando pensa a una guerra civile in…",
 "2026-10-17T09:18:06+02:00",
 "Michel Houellebecq: «Tra eutanasia e immigrazione non riconosco più la Francia. E ridarò indietro la Legione d'onore»"
+],
+"https://www.corriere.it/sport/26_ottobre_16/hypersail-prima-barca-a-vela-ferrari-9110051a-c146-40cb-b37a-51090b0e5xlk.shtml": [
+"Nel cantiere tra Pisa e Livorno prende forma il monoscafo volante di Maranello, tra venti brevetti e un equipaggio chiuso in un cockpit di sopravvivenza: «O dormi o navighi, su Hypersail non si farà altro»",
+"2026-10-16T12:00:24+02:00",
+"Dentro Hypersail, la prima barca a vela Ferrari: così nasce l’astronave che volerà sull’Oceano a cento all’ora"
 ],
 "https://www.fotomac.com.tr/almanyabundesliga/2026/10/17/bayern-munih-farkli-kazandi": [
 "Almanya Bundesliga’nın 6. haftasında Bayern Münih evinde RB Leipzig’i mağlup etti. İşte detaylar...",
@@ -1499,6 +1499,11 @@
 "2026-10-17T21:39:15+02:00",
 "Bogdan Karaicic, entrenador serbio, sobre Valencia Basket: 'Si hicieras algo así en Serbia o Grecia, lo más probable es que dejaras de ser el director general del club'"
 ],
+"https://www.sport.es/es/noticias/baloncesto/bruno-savignani-entrenador-cb-gran-135458245": [
+"El responsable del banquillo claretiano admite que en su triunfo ante el Albacete pudo rotar pensando en la Copa de España",
+"2026-10-18T01:17:35+02:00",
+"Bruno Savignani, entrenador del CB Gran Canaria: «Impusimos nuestro físico y una defensa agresiva»"
+],
 "https://www.sport.es/es/noticias/barca/baloncesto/seguridad-social-impide-mohamed-dabone-135423602": [
 "La gran perla de la cantera azulgrana no puede disputar partidos ni de Liga Endesa ni de Euroliga",
 "2026-10-17T09:00:26+02:00",
@@ -1659,15 +1664,15 @@
 "2026-10-17T18:41:46+02:00",
 "Al Villarreal se le hace bola el Elche y no pasa del empate en La Cerámica"
 ],
+"https://www.sport.es/es/noticias/laliga/pichichi-laliga-2026-27-lamine-135450827": [
+"Consulta cómo está la clasificación de máximos goleadores de LaLiga durante la jornada 9 y cuántos goles han marcado Raphinha, Lamine Yamal, Mbappé, Camello, Zabiri, Roberto y el resto de aspirantes",
+"2026-10-17T18:50:25+02:00",
+"Así está el Pichichi de LaLiga 2026/27: Lamine Yamal supera a Mbappé"
+],
 "https://www.sport.es/es/noticias/laliga/valencia-cf-estrella-mediocridad-sigue-135457313": [
 "El equipo de Javier Aguirre, de dos caras, mejora en el segundo acto, pero es incapaz de batir a un gran Unai Simón",
 "2026-10-17T23:09:46+02:00",
 "El Valencia se estrella contra su mediocridad: sigue en descenso y sin ganar en Mestalla"
-],
-"https://www.sport.es/es/noticias/las-palmas/catatonica-ud-palmas-rastro-efecto-135457126": [
-"Ridículo amarillo en el Gran Canaria ante un Castellón que se recrea en la 'noche de los horrores' (0-3). Una victoria en ocho partidos y la afición abandona el recinto en el 55'. Kirian fue retirado al descanso y gritos de ira al palco",
-"2026-10-17T22:54:34+02:00",
-"Catatónica UD Las Palmas, ni rastro del 'efecto Juan Manuel' y bronca con el '¡Ramírez vete ya!'"
 ],
 "https://www.sport.es/es/noticias/las-palmas/cero-aprobados-noche-terrorifica-notas-135457530": [
 "Los amarillos vuelven a caer en casa en un choque marcado por la horrible imagen ofrecida y por una goleada que evidencia los problemas de un equipo muerto en este momento",
