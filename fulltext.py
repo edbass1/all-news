@@ -25,6 +25,14 @@ BROWSER_HINT = ("sofoot.com", "volkskrant.nl", "derstandard.at")
 _BLOCK = re.compile(r"Access Denied|Just a moment|enable JS|Verifying your device|Privacy Gate|cf-browser-verification|Attention Required", re.I)
 
 _lock = threading.Lock()
+IMG = {}
+_OG = re.compile(r"""<meta[^>]+(?:property|name)=["'](?:og:image|og:image:url|twitter:image)["'][^>]*content=["']([^"']+)|<meta[^>]+content=["']([^"']+)["'][^>]*(?:property|name)=["'](?:og:image|twitter:image)["']""", re.I)
+
+def og_image(html):
+    import html as H
+    m = _OG.search(html[:400000] if html else "")
+    u = H.unescape((m.group(1) or m.group(2)).strip()) if m else ""
+    return u if u.startswith("http") else ""
 _pw = {"browser": None, "page": None, "n": 0, "max": 80}
 
 
@@ -58,6 +66,9 @@ def _accept_cookies(page):
         "button:has-text('Agree')",
         "button:has-text('I agree')",
         "button:has-text('Alle akzeptieren')",
+        "button:has-text('Einverstanden')",
+        "button:has-text('Zustimmen')",
+        "button:has-text('Akzeptieren')",
         "#didomi-notice-agree-button",
         "button[id*='accept' i]",
     ]
@@ -71,7 +82,7 @@ def _accept_cookies(page):
         except Exception:
             pass
     for fr in page.frames:
-        for sel in sels[:8]:
+        for sel in sels:
             try:
                 b = fr.locator(sel).first
                 if b.count() and b.is_visible(timeout=300):
@@ -82,8 +93,8 @@ def _accept_cookies(page):
                 pass
 
 
-def _browser(url, timeout=45):
-    """Fetch via headless Chromium (seriaizzato)."""
+def _browser_impl(url, timeout=45):
+    """Fetch via headless Chromium: gira SEMPRE nel thread dedicato _BEX."""
     from playwright.sync_api import sync_playwright
     with _lock:
         if _pw["n"] >= _pw["max"]:
@@ -156,6 +167,7 @@ def get_text(url, timeout=20):
         t0 = _extract(url, html)
         if len(t0) < MINLEN:
             return "err", "blocked"
+    IMG[url] = og_image(html)
     t = _extract(url, html)
     if t and MARK.search(t[-500:]):
         return "pay", ""
@@ -172,7 +184,20 @@ def get_text(url, timeout=20):
     return "short", t
 
 
-def close_browser():
+from concurrent.futures import ThreadPoolExecutor as _TPE
+_BEX = _TPE(max_workers=1)  # playwright sync non è thread-safe: un solo thread proprietario
+
+
+def _browser(url, timeout=45):
+    if _pw["n"] >= _pw["max"]:
+        return 0, ""
+    try:
+        return _BEX.submit(_browser_impl, url, timeout).result(timeout=timeout + 30)
+    except Exception as x:
+        return 0, str(x)[:80]
+
+
+def _close_impl():
     with _lock:
         try:
             if _pw.get("browser"):
@@ -211,3 +236,9 @@ def _lequipe(url):
     if len(t) >= MINLEN: return "ok", t[:40000]
     return ("short", t) if t else ("err", "empty")
 
+
+def close_browser():
+    try:
+        _BEX.submit(_close_impl).result(timeout=30)
+    except Exception:
+        pass

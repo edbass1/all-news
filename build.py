@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """ALL NEWS - aggregatore gratuito: legge i feed RSS, traduce titoli e sommari, genera docs/."""
-import json, html, os, re, shutil, datetime, hashlib, calendar
+import json, html, os, sys, re, shutil, datetime, hashlib, calendar
 from concurrent.futures import ThreadPoolExecutor
 from zoneinfo import ZoneInfo
 import feedparser, requests, socket
@@ -33,6 +33,24 @@ def ptdate(s):
     z = int(m.group(7)); off = datetime.timedelta(hours=abs(z)//100, minutes=abs(z)%100) * (1 if z > 0 else -1)
     return datetime.datetime(int(m.group(3)), PT[m.group(2).lower()], int(m.group(1)), int(m.group(4)), int(m.group(5)), tzinfo=datetime.timezone(off)).astimezone(TZ)
 
+def feed_img(it):
+    """Immagine principale dal feed (media:content, thumbnail, enclosure, <img> nel sommario)."""
+    best, bw = "", -1
+    for m in (it.get("media_content") or []) + (it.get("media_thumbnail") or []):
+        u = m.get("url", "")
+        if not u or (m.get("medium") and m.get("medium") != "image") or re.search(r"\.(mp4|mp3|m3u8)(\?|$)", u): continue
+        w = int(m.get("width") or 0) if str(m.get("width") or "").isdigit() else 0
+        if w > bw: best, bw = u, w
+    if best: return best
+    for en in it.get("enclosures") or []:
+        if (en.get("type") or "").startswith("image") or re.search(r"\.(jpe?g|png|webp)(\?|$)", en.get("href", ""), re.I):
+            return en.get("href", "")
+    for l in it.get("links") or []:
+        if l.get("rel") == "enclosure" and (l.get("type") or "").startswith("image"): return l.get("href", "")
+    h = (it.get("summary") or "") + "".join(c.get("value", "") for c in it.get("content") or [])
+    m = re.search(r"<img[^>]+src=[\"']([^\"']+)", h)
+    return html.unescape(m.group(1)) if m and m.group(1).startswith("http") else ""
+
 def fetch(url):
     try:
         r = requests.get(url, headers=UA, timeout=25)
@@ -50,7 +68,7 @@ def fetch(url):
         if dt > NOW + datetime.timedelta(hours=2) or NOW - dt > MAXAGE: continue
         t = clean(it.get("title", ""), 300); l = it.get("link", "")
         if not t or not l.startswith("http"): continue
-        items.append({"t": t, "s": clean(it.get("summary", "") or it.get("description", "")), "l": l, "d": dt})
+        items.append({"t": t, "s": clean(it.get("summary", "") or it.get("description", "")), "l": l, "d": dt, "img": feed_img(it)})
     print(f"{len(items):4d} {url}")
     return items
 
@@ -94,20 +112,22 @@ def from_page(sp):
 
 def meta(url):
     """Sommario e data dall'articolo (og:description, article:published_time, JSON-LD). In cache."""
-    if url in SC: return SC[url]
-    s, d, t = "", None, ""
+    if url in SC and len(SC[url]) >= 4: return SC[url]
+    if url in SC: _old = SC.pop(url)
+    s, d, t, img = "", None, "", ""
     try:
         soup = BeautifulSoup(get(url).content, "html.parser")
         m = lambda *ks: next((x["content"] for k in ks for x in soup.find_all("meta", attrs={"property": k}) + soup.find_all("meta", attrs={"name": k}) if x.get("content")), "")
         s = clean(m("og:description", "description", "twitter:description"))
         t = clean(m("og:title", "twitter:title"), 300)
+        img = m("og:image", "og:image:url", "twitter:image")
         d = m("article:published_time", "pubdate", "publish-date", "date")
         if not d:
             mm = re.search(r'"datePublished"\s*:\s*"([^"]+)"', str(soup)); d = mm.group(1) if mm else ""
     except Exception as x:
         print("meta ERR", url[:80], str(x)[:60])
     dd = pdate(d) if d else None
-    SC[url] = [s, (dd or NOW).isoformat(), t]  # se manca la data uso il primo momento in cui la vedo
+    SC[url] = [s, (dd or NOW).isoformat(), t, img]  # se manca la data uso il primo momento in cui la vedo
     return SC[url]
 
 def scrape(specs):
@@ -125,8 +145,8 @@ def scrape(specs):
         if k not in seen: seen.add(k); i["l"] = k if "?" in i["l"] and "corriere" in k else i["l"]; uniq.append(i)
     uniq = [i for i in uniq if not i["d"] or NOW - i["d"] <= MAXAGE][:MAXN]
     with ThreadPoolExecutor(6) as ex:
-        for i, (s, d, t) in zip(uniq, ex.map(lambda i: meta(i["l"]), uniq)):
-            i["s"] = s; i["d"] = i["d"] or pdate(d) or NOW
+        for i, (s, d, t, *rest) in zip(uniq, ex.map(lambda i: meta(i["l"]), uniq)):
+            i["s"] = s; i["d"] = i["d"] or pdate(d) or NOW; i["img"] = rest[0] if rest else ""
             if not i["t"]: i["t"] = t
     return [i for i in uniq if i["t"] and NOW - i["d"] <= MAXAGE and i["d"] <= NOW + datetime.timedelta(hours=2)]
 
@@ -145,11 +165,11 @@ def gather(urls, sport, specs=()):
 def key(s): return hashlib.sha1(s.encode()).hexdigest()[:16]
 from deep_translator import GoogleTranslator
 import time
-DEADLINE = time.time() + 12 * 60  # massimo 12 minuti di traduzioni per esecuzione
+DEADLINE = [time.time() + 12 * 60]  # massimo 12 minuti di traduzioni per esecuzione
 FAILS = [0]
 def tr_batch(L):
     """Traduce un gruppo di stringhe: endpoint gratuito Google (più testi per richiesta), poi deep-translator."""
-    if time.time() > DEADLINE or FAILS[0] >= 4: return [None] * len(L)
+    if time.time() > DEADLINE[0] or FAILS[0] >= 4: return [None] * len(L)
     try:
         r = requests.post("https://clients5.google.com/translate_a/t?client=dict-chrome-ex&sl=auto&tl=it",
                           data=[("q", x) for x in L], headers=UA, timeout=30)
@@ -177,7 +197,7 @@ def translate(items_all):
     if cur: batches.append(cur)
     ok = 0
     for bt in batches:
-        if time.time() > DEADLINE or FAILS[0] >= 4: print("traduzioni interrotte, riprendo al prossimo giro"); break
+        if time.time() > DEADLINE[0] or FAILS[0] >= 4: print("traduzioni interrotte, riprendo al prossimo giro"); break
         for s, r in zip(bt, tr_batch(bt)):
             if r: TR[key(s)] = r; ok += 1
         time.sleep(0.5)
@@ -258,6 +278,49 @@ def main():
                 else: excl[st] = excl.get(st, 0) + 1
             kept.append(K)
         data[o["key"]] = tuple(kept)
+    # ---- foto (solo URL, hotlink) ----
+    import fulltext as FT
+    IMGF = "cache/img.json"
+    IMC = json.load(open(IMGF)) if os.path.exists(IMGF) else {}
+    kept_all = [i for o in OUT for L in data[o["key"]] for i in L]
+    for i in kept_all:
+        if not i.get("img"): i["img"] = FT.IMG.get(i["l"]) or IMC.get(i["l"], "")
+    need = [i for i in kept_all if not i["img"] and i["l"] not in IMC]
+    print("foto da cercare:", len(need), flush=True)
+    t1 = time.time()
+    def ogj(i):
+        if time.time() - t1 > 5 * 60: return i, None
+        try:
+            st, h = FT._curl(i["l"], timeout=12)
+            return i, FT.og_image(h) if st == 200 else ""
+        except Exception: return i, ""
+    with ThreadPoolExecutor(12) as ex:
+        for i, u in ex.map(ogj, need):
+            if u is not None: IMC[i["l"]] = u; i["img"] = u
+    for i in kept_all:
+        if i["img"]: IMC[i["l"]] = i["img"]
+    live_u = {i["l"] for i in kept_all}
+    json.dump({k: v for k, v in IMC.items() if k in live_u}, open(IMGF, "w"))
+    img_cov = sum(1 for i in kept_all if i["img"]), len(kept_all)
+    # ---- ordine e rilievo come sulla homepage originale ----
+    from homeorder import ranks, order
+    t2 = time.time(); FT._pw["n"] = 0
+    jobs = [(o["key"], kind, o.get(kind)) for o in OUT for kind in ("home", "home_op") if o.get(kind) and data[o["key"]][0 if kind == "home" else 1]]
+    RK = {}
+    with ThreadPoolExecutor(8) as ex:
+        for (k, kind, pages), R in zip(jobs, ex.map(lambda j: ranks(j[2], False), jobs)):
+            RK[(k, kind)] = R
+    for k, kind, pages in jobs:  # pagine bloccate: riprova con il browser (thread principale)
+        if len(RK[(k, kind)]) < 10 and time.time() - t2 < 4 * 60:
+            R2 = ranks(pages, True)
+            if len(R2) > len(RK[(k, kind)]): RK[(k, kind)] = R2
+    home_stats = {}
+    for o in OUT:
+        n, p = data[o["key"]]
+        n2, hn = order(n, RK.get((o["key"], "home"), {})); p2, hp = order(p, RK.get((o["key"], "home_op"), {}))
+        data[o["key"]] = (n2, p2); home_stats[o["key"]] = (hn, hp)
+    close_browser()
+    print(f"ordine homepage in {time.time()-t2:.0f}s", flush=True)
     # ---- traduci testi completi esteri (paragrafo per paragrafo, in cache) ----
     BTRF = "cache/body_tr.json"
     BTR = json.load(open(BTRF)) if os.path.exists(BTRF) else {}
@@ -271,7 +334,7 @@ def main():
                     if p and key(p) not in BTR: paras.append(p)
     paras = list(dict.fromkeys(paras))
     print("paragrafi da tradurre:", len(paras), flush=True)
-    FAILS[0] = 0; DEADLINE_BODY = time.time() + 14 * 60
+    FAILS[0] = 0; DEADLINE_BODY = time.time() + 14 * 60; DEADLINE[0] = DEADLINE_BODY
     batches, cur, n = [], [], 0
     for p in paras:
         if cur and (n + len(p) > 3500 or len(cur) >= 25): batches.append(cur); cur, n = [], 0
@@ -307,31 +370,33 @@ def main():
     used = {key(s) for s in strs}
     json.dump({k: v for k, v in TR.items() if k in used}, open(TRF, "w"), ensure_ascii=False, indent=0, sort_keys=True)
 
-    stats = {}; body = ""
+    stats = {}; S = {"tabs": [], "upd": f"{NOW:%d/%m/%Y %H:%M}"}; items = {}
+    def put(i, op=False):
+        items[i["id"]] = {"t": i["t"], "s": i["s"], "x": i["x"], "xo": i["xo"], "fx": bool(i.get("fx")), "l": i["l"], "src": i["src"],
+                          "d": fd(i["d"]), "img": i.get("img") or "", "op": op, "lv": bool(LIVE.search(i["t"]))}
+        return i["id"]
     for k, name in TABS:
         OK = [o for o in OUT if o["tab"] == k and data[o["key"]][0]]
-        body += f'<div class="tab" data-k="{k}">'
+        outs = []
         if k == "torino":
-            allits = sorted([i for o in OK for i in data[o["key"]][0] + data[o["key"]][1]], key=lambda i: i["d"], reverse=True)
-            body += group("all", allits, [])
-            stats[k] = {"Torino (vista unica)": len(allits)} | {o["label"]: len(data[o["key"]][0]) for o in OK}
+            mix = [(pos, -i["d"].timestamp(), i) for o in OK for L in data[o["key"]] for pos, i in enumerate(L)]
+            mix.sort(key=lambda x: (x[0], x[1]))
+            outs.append({"o": "all", "name": "", "news": [put(x[2]) for x in mix], "ops": []})
+            stats[k] = {"Torino (vista unica)": len(mix)} | {o["label"]: len(data[o["key"]][0]) for o in OK}
         else:
-            body += (f'<div class="osw"><button class="ar" onclick="st(-1)" aria-label="Giornale precedente">‹</button><div class="ot"><b class="onm">{e(OK[0]["label"])}</b>'
-                     f'<button class="ocn" onclick="tl()"><span class="oi">1</span> / {len(OK)} · tutti i giornali ▾</button></div><button class="ar" onclick="st(1)" aria-label="Giornale successivo">›</button></div><div class="ol">'
-                     + "".join(f'<button data-o="{o["key"]}" data-n="{e(o["label"])}" onclick="so(\'{o["key"]}\')">{e(o["label"])}<small>{e(o["country"])}</small></button>' for o in OK) + "</div>")
             for o in OK:
-                body += group(o["key"], *data[o["key"]])
+                n, p = data[o["key"]]
+                outs.append({"o": o["key"], "name": o["label"], "news": [put(i) for i in n], "ops": [put(i, True) for i in p]})
             stats[k] = {o["label"]: f'{len(data[o["key"]][0])}+{len(data[o["key"]][1])} op' for o in OK}
-        body += "</div>"
+        S["tabs"].append({"k": k, "label": name, "outlets": outs})
     empty = [o["label"] for o in OUT if not data[o["key"]][0]]
-    bar = "".join(f'<button data-t="{k}" onclick="sh(\'{k}\')">{n}</button>' for k, n in TABS)
-    items = {i["id"]: {"t": i["t"], "s": i["s"], "x": i["x"], "xo": i["xo"], "fx": bool(i.get("fx")), "l": i["l"], "src": i["src"], "d": fd(i["d"])} for o in OUT for L in data[o["key"]] for i in L}
-    inner = (f'<div class="top h3"><div class="in"><a class="logo" href="#"><span>ALL</span>NEWS</a><nav class="bar">{bar}</nav>'
-             f'<input id="q" type="search" placeholder="CERCA" autocomplete="off" aria-label="Cerca nelle notizie"><span class="d">Aggiornato il {NOW:%d/%m/%Y %H:%M}</span>'
-             f'<span class="fzb"><button onclick="fz(-1)" aria-label="Riduci testo">A−</button><button onclick="fz(1)" aria-label="Ingrandisci testo">A+</button></span></div></div>'
-             f'<main>{body}<div id="sr"></div></main><footer>ALL NEWS · Aggiornamento automatico ogni ora · Solo articoli gratuiti, testo completo in lingua originale</footer>'
-             '<div id="rd" hidden><div class="rin"><div class="rbar"><span class="fzb rfz"><button type="button" onclick="fz(-1)" aria-label="Riduci testo articolo">A−</button><button type="button" onclick="fz(1)" aria-label="Ingrandisci testo articolo">A+</button></span><button class="rx" onclick="cr()" aria-label="Chiudi">✕ Chiudi</button></div><article id="ra"></article></div></div>'
-             '<button id="up" aria-label="Torna su">↑ Su</button>')
+    inner = '<script type="application/json" id="S">' + json.dumps(S, ensure_ascii=False).replace("</", "<\\/") + "</script>"
+    shown = [o for o in OUT if data[o["key"]][0]]
+    hp_on = [o["label"] for o in shown if home_stats.get(o["key"], (0, 0))[0] >= 3]
+    hp_off = [o["label"] for o in shown if o["label"] not in hp_on]
+    stats["ordine"] = {"homepage": len(hp_on), "feed": len(hp_off), "feed_lista": hp_off,
+                       "dettaglio": {o["label"]: home_stats.get(o["key"], (0, 0)) for o in shown}}
+    stats["foto"] = {"con_foto": img_cov[0], "totale": img_cov[1], "perc": round(100 * img_cov[0] / max(1, img_cov[1]), 1)}
     pw = os.environ.get("ALLNEWS_PASS")
     if not pw: raise SystemExit("ALLNEWS_PASS mancante")
     payload = base64.b64encode(gzip.compress(json.dumps({"html": inner, "items": items, "js": open("site/app.js").read()}, ensure_ascii=False).encode())).decode()
@@ -344,4 +409,10 @@ def main():
     print(json.dumps({"stats": stats, "vuoti": empty, "traduzioni": {"nuove": ntodo, "ok": nok, "cache": len(used)}, "body_tr": tr_stats}, ensure_ascii=False, indent=1))
 
 if __name__ == "__main__":
-    main()
+    import traceback
+    try:
+        main(); rc = 0
+    except BaseException:
+        traceback.print_exc(); rc = 1
+    sys.stdout.flush(); sys.stderr.flush()
+    os._exit(rc)  # evita blocchi all'uscita dovuti al thread di Playwright

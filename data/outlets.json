@@ -10,7 +10,13 @@
   "op": [
    "https://www.theguardian.com/sport/blog/rss"
   ],
-  "tab": "sport"
+  "tab": "sport",
+  "home": [
+   "https://www.theguardian.com/uk/sport"
+  ],
+  "home_op": [
+   "https://www.theguardian.com/uk/sport"
+  ]
  },
  {
   "key": "cbs",
@@ -20,7 +26,10 @@
    "https://www.cbssports.com/rss/headlines/soccer/"
   ],
   "op": [],
-  "tab": "sport"
+  "tab": "sport",
+  "home": [
+   "https://www.cbssports.com/soccer/"
+  ]
  },
  {
   "key": "bbc",
@@ -31,7 +40,10 @@
    "https://feeds.bbci.co.uk/sport/football/rss.xml"
   ],
   "op": [],
-  "tab": "sport"
+  "tab": "sport",
+  "home": [
+   "https://www.bbc.com/sport"
+  ]
  },
  {
   "key": "independent",
@@ -42,7 +54,10 @@
    "https://www.independent.co.uk/sport/rss"
   ],
   "op": [],
-  "tab": "sport"
+  "tab": "sport",
+  "home": [
+   "https://www.independent.co.uk/sport"
+  ]
  },
  {
   "key": "lequipe",
@@ -53,7 +68,10 @@
    "https://dwh.lequipe.fr/api/edito/rss?path=/Football/"
   ],
   "op": [],
-  "tab": "sport"
+  "tab": "sport",
+  "home": [
+   "https://www.lequipe.fr/"
+  ]
  },
  {
   "key": "sofoot",
@@ -63,7 +81,10 @@
    "https://www.sofoot.com/rss"
   ],
   "op": [],
-  "tab": "sport"
+  "tab": "sport",
+  "home": [
+   "https://www.sofoot.com/"
+  ]
  },
  {
   "key": "marca",
@@ -76,7 +97,13 @@
   "op": [
    "https://e00-marca.uecdn.es/rss/opinion.xml"
   ],
-  "tab": "sport"
+  "tab": "sport",
+  "home": [
+   "https://www.marca.com/"
+  ],
+  "home_op": [
+   "https://www.marca.com/opinion.html"
+  ]
  },
  {
   "key": "as",
@@ -88,7 +115,13 @@
   "op": [
    "https://feeds.as.com/mrss-s/pages/as/site/as.com/section/opinion/portada/"
   ],
-  "tab": "sport"
+  "tab": "sport",
+  "home": [
+   "https://as.com/"
+  ],
+  "home_op": [
+   "https://as.com/opinion/"
+  ]
  },
  {
   "key": "md",
@@ -101,7 +134,13 @@
   "op": [
    "https://www.mundodeportivo.com/rss/opinion"
   ],
-  "tab": "sport"
+  "tab": "sport",
+  "home": [
+   "https://www.mundodeportivo.com/"
+  ],
+  "home_op": [
+   "https://www.mundodeportivo.com/opinion"
+  ]
  },
  {
   "key": "sport",
@@ -119,6 +158,9 @@
     "page": "https://www.sport.es/es/futbol/",
     "match": "sport\\.es/es/noticias/.+-\\d{6,}$"
    }
+  ],
+  "home": [
+   "https://www.sport.es/es/"
   ]
  },
  {
@@ -129,7 +171,10 @@
    "https://www.relevo.com/rss/"
   ],
   "op": [],
-  "tab": "sport"
+  "tab": "sport",
+  "home": [
+   "https://www.relevo.com/"
+  ]
  },
  {
   "key": "sportbild",
@@ -139,7 +184,10 @@
    "https://www.bild.de/rss-feeds/rss-16725492,feed=sport.bild.html"
   ],
   "op": [],
-  "tab": "sport"
+  "tab": "sport",
+  "home": [
+   "https://sportbild.bild.de/"
+  ]
  },
  {
   "key": "abola",
@@ -149,7 +197,10 @@
    "https://www.abola.pt/rss-articles.xml"
   ],
   "op": [],
-  "tab": "sport"
+  "tab": "sport",
+  "home": [
+   "https://www.abola.pt/"
+  ]
  },
  {
   "key": "record",
@@ -159,7 +210,10 @@
    "https://www.record.pt/rss"
   ],
   "op": [],
-  "tab": "sport"
+  "tab": "sport",
+  "home": [
+   "https://www.record.pt/"
+  ]
  },
  {
   "key": "ole",
@@ -172,7 +226,13 @@
   "op": [
    "https://www.ole.com.ar/rss/opinion/"
   ],
-  "tab": "sport"
+  "tab": "sport",
+  "home": [
+   "https://www.ole.com.ar/"
+  ],
+  "home_op": [
+   "https://www.ole.com.ar/opinion"
+  ]
  },
  {
   "key": "ge",
@@ -183,7 +243,10 @@
    "https://ge.globo.com/rss/ge/futebol/"
   ],
   "op": [],
-  "tab": "sport"
+  "tab": "sport",
+  "home": [
+   "https://ge.globo.com/"
+  ]
  },
  {
   "key": "uol",
@@ -193,7 +256,10 @@
    "https://rss.uol.com.br/feed/esporte.xml"
   ],
   "op": [],
-  "tab": "sport"
+  "tab": "sport",
+  "home": [
+   "https://www.uol.com.br/esporte/"
+  ]
  },
  {
   "key": "fotomac",
@@ -221,6 +287,12 @@
     "page": "https://www.fotomac.com.tr/yazarlar",
     "match": "/yazarlar/[^/]+/\\d{4}/\\d\\d/\\d\\d/"
    }
+  ],
+  "home": [
+   "https://www.fotomac.com.tr/"
+  ],
+  "home_op": [
+   "https://www.fotomac.com.tr/yazarlar"
   ]
  },
  {
@@ -233,6 +305,12 @@
   ],
   "op": [
    "https://www.ilfattoquotidiano.it/category/blog/feed/"
+  ],
+  "home": [
+   "https://www.ilfattoquotidiano.it/"
+  ],
+  "home_op": [
+   "https://www.ilfattoquotidiano.it/blog/"
   ]
  },
  {
@@ -258,6 +336,12 @@
     "page": "https://www.corriere.it/opinioni/",
     "match": "corriere\\.it/opinioni/\\d\\d_[a-z]+_\\d+/.+\\.shtml"
    }
+  ],
+  "home": [
+   "https://www.corriere.it/"
+  ],
+  "home_op": [
+   "https://www.corriere.it/opinioni/"
   ]
  },
  {
@@ -275,6 +359,9 @@
     "page": "https://www.italiaoggi.it/",
     "match": "www\\.italiaoggi\\.it/[a-z-]+/.+-[a-z0-9]{8}$"
    }
+  ],
+  "home": [
+   "https://www.italiaoggi.it/"
   ]
  },
  {
@@ -286,7 +373,10 @@
    "https://www.internazionale.it/sitemaps/rss.xml"
   ],
   "op": [],
-  "op_match": "/opinione/"
+  "op_match": "/opinione/",
+  "home": [
+   "https://www.internazionale.it/"
+  ]
  },
  {
   "key": "manifesto",
@@ -300,7 +390,10 @@
   "html_op": {
    "url": "https://ilmanifesto.it/sezioni/commenti",
    "re": "^/(?!buon-compleanno|le-novita|scarica-le-app|dichiarazione-di)[a-z0-9-]{30,}$"
-  }
+  },
+  "home": [
+   "https://ilmanifesto.it/"
+  ]
  },
  {
   "key": "mowmag",
@@ -317,6 +410,9 @@
     "page": "https://mowmag.com/",
     "match": "mowmag\\.com/[a-z-]+/[a-z0-9-]{20,}$"
    }
+  ],
+  "home": [
+   "https://mowmag.com/"
   ]
  },
  {
@@ -327,7 +423,10 @@
   "news": [
    "https://www.lastampa.it/torino/rss"
   ],
-  "op": []
+  "op": [],
+  "home": [
+   "https://www.lastampa.it/torino/"
+  ]
  },
  {
   "key": "to1",
@@ -337,7 +436,10 @@
   "news": [
    "https://www.lasentinella.it/feed/"
   ],
-  "op": []
+  "op": [],
+  "home": [
+   "https://www.lasentinella.it/"
+  ]
  },
  {
   "key": "to2",
@@ -347,7 +449,10 @@
   "news": [
    "https://www.torinotoday.it/rss"
   ],
-  "op": []
+  "op": [],
+  "home": [
+   "https://www.torinotoday.it/"
+  ]
  },
  {
   "key": "to3",
@@ -357,7 +462,10 @@
   "news": [
    "https://www.torinoggi.it/rss.xml"
   ],
-  "op": []
+  "op": [],
+  "home": [
+   "https://www.torinoggi.it/"
+  ]
  },
  {
   "key": "to4",
@@ -367,7 +475,10 @@
   "news": [
    "https://www.quotidianopiemontese.it/feed/"
   ],
-  "op": []
+  "op": [],
+  "home": [
+   "https://www.quotidianopiemontese.it/"
+  ]
  },
  {
   "key": "to5",
@@ -377,7 +488,10 @@
   "news": [
    "https://www.iltorinese.it/feed/"
   ],
-  "op": []
+  "op": [],
+  "home": [
+   "https://www.iltorinese.it/"
+  ]
  },
  {
   "key": "w-guardian",
@@ -389,6 +503,12 @@
   ],
   "op": [
    "https://www.theguardian.com/uk/commentisfree/rss"
+  ],
+  "home": [
+   "https://www.theguardian.com/world"
+  ],
+  "home_op": [
+   "https://www.theguardian.com/uk/commentisfree"
   ]
  },
  {
@@ -400,7 +520,10 @@
    "https://www.mirror.co.uk/news/world-news/?service=rss",
    "https://www.mirror.co.uk/news/?service=rss"
   ],
-  "op": []
+  "op": [],
+  "home": [
+   "https://www.mirror.co.uk/news/world-news/"
+  ]
  },
  {
   "key": "w-observer",
@@ -425,6 +548,9 @@
     "sitemap": "https://observer.co.uk/news-sitemap.xml",
     "match": "/opinion-and-ideas/|/columnists/"
    }
+  ],
+  "home": [
+   "https://observer.co.uk/"
   ]
  },
  {
@@ -437,6 +563,12 @@
   ],
   "op": [
    "https://www.independent.co.uk/voices/rss"
+  ],
+  "home": [
+   "https://www.independent.co.uk/news/world"
+  ],
+  "home_op": [
+   "https://www.independent.co.uk/voices"
   ]
  },
  {
@@ -449,6 +581,12 @@
   ],
   "op": [
    "https://www.lemonde.fr/idees/rss_full.xml"
+  ],
+  "home": [
+   "https://www.lemonde.fr/"
+  ],
+  "home_op": [
+   "https://www.lemonde.fr/idees/"
   ]
  },
  {
@@ -461,6 +599,12 @@
   ],
   "op": [
    "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/opinion/portada"
+  ],
+  "home": [
+   "https://elpais.com/"
+  ],
+  "home_op": [
+   "https://elpais.com/opinion/"
   ]
  },
  {
@@ -472,7 +616,10 @@
    "https://www.derstandard.at/rss"
   ],
   "op": [],
-  "op_match": "/kommentar|/userkommentar|/meinung"
+  "op_match": "/kommentar|/userkommentar|/meinung",
+  "home": [
+   "https://www.derstandard.at/"
+  ]
  },
  {
   "key": "w-volkskrant",
@@ -483,7 +630,10 @@
    "https://www.volkskrant.nl/voorpagina/rss.xml"
   ],
   "op": [],
-  "op_match": "columns-opinie|/opinie/"
+  "op_match": "columns-opinie|/opinie/",
+  "home": [
+   "https://www.volkskrant.nl/"
+  ]
  },
  {
   "key": "w-politiken",
@@ -495,6 +645,12 @@
   ],
   "op": [
    "https://politiken.dk/rss/debat.rss"
+  ],
+  "home": [
+   "https://politiken.dk/"
+  ],
+  "home_op": [
+   "https://politiken.dk/debat/"
   ]
  }
 ]
