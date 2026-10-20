@@ -278,30 +278,7 @@ def main():
                 else: excl[st] = excl.get(st, 0) + 1
             kept.append(K)
         data[o["key"]] = tuple(kept)
-    # ---- foto (solo URL, hotlink) ----
-    import fulltext as FT
-    IMGF = "cache/img.json"
-    IMC = json.load(open(IMGF)) if os.path.exists(IMGF) else {}
-    kept_all = [i for o in OUT for L in data[o["key"]] for i in L]
-    for i in kept_all:
-        if not i.get("img"): i["img"] = FT.IMG.get(i["l"]) or IMC.get(i["l"], "")
-    need = [i for i in kept_all if not i["img"] and i["l"] not in IMC]
-    print("foto da cercare:", len(need), flush=True)
-    t1 = time.time()
-    def ogj(i):
-        if time.time() - t1 > 5 * 60: return i, None
-        try:
-            st, h = FT._curl(i["l"], timeout=12)
-            return i, FT.og_image(h) if st == 200 else ""
-        except Exception: return i, ""
-    with ThreadPoolExecutor(12) as ex:
-        for i, u in ex.map(ogj, need):
-            if u is not None: IMC[i["l"]] = u; i["img"] = u
-    for i in kept_all:
-        if i["img"]: IMC[i["l"]] = i["img"]
-    live_u = {i["l"] for i in kept_all}
-    json.dump({k: v for k, v in IMC.items() if k in live_u}, open(IMGF, "w"))
-    img_cov = sum(1 for i in kept_all if i["img"]), len(kept_all)
+    import fulltext as FT  # foto rimosse dal sito: nessun recupero di og:image
     # ---- ordine e rilievo come sulla homepage originale ----
     from homeorder import ranks, order
     t2 = time.time(); FT._pw["n"] = 0
@@ -373,7 +350,7 @@ def main():
     stats = {}; S = {"tabs": [], "upd": f"{NOW:%d/%m/%Y %H:%M}"}; items = {}
     def put(i, op=False):
         items[i["id"]] = {"t": i["t"], "s": i["s"], "x": i["x"], "xo": i["xo"], "fx": bool(i.get("fx")), "l": i["l"], "src": i["src"],
-                          "d": fd(i["d"]), "img": i.get("img") or "", "op": op, "lv": bool(LIVE.search(i["t"]))}
+                          "d": fd(i["d"]), "op": op, "lv": bool(LIVE.search(i["t"]))}
         return i["id"]
     for k, name in TABS:
         OK = [o for o in OUT if o["tab"] == k and data[o["key"]][0]]
@@ -396,7 +373,6 @@ def main():
     hp_off = [o["label"] for o in shown if o["label"] not in hp_on]
     stats["ordine"] = {"homepage": len(hp_on), "feed": len(hp_off), "feed_lista": hp_off,
                        "dettaglio": {o["label"]: home_stats.get(o["key"], (0, 0)) for o in shown}}
-    stats["foto"] = {"con_foto": img_cov[0], "totale": img_cov[1], "perc": round(100 * img_cov[0] / max(1, img_cov[1]), 1)}
     pw = os.environ.get("ALLNEWS_PASS")
     if not pw: raise SystemExit("ALLNEWS_PASS mancante")
     payload = base64.b64encode(gzip.compress(json.dumps({"html": inner, "items": items, "js": open("site/app.js").read()}, ensure_ascii=False).encode())).decode()
