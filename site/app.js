@@ -9,7 +9,7 @@ function ini(s){return esc(String(s||'').replace(/^(the|il|la|le|el|de|der)\s+/i
 var SZ=['xl','tall','w','','','w','',''];
 function tile(i,id,s,c){
  if(i.op)return'<a class="t op'+(s?' '+s:'')+'" href="#" data-i="'+id+'"><span class="tag">OPINIONE</span>'+meta(i)+'<h3>«'+esc(i.t)+'»</h3></a>';
- return'<a class="t '+(s||'')+' ni c'+c+'" href="#" data-i="'+id+'"><div class="tx">'+(i.lv?'<span class="tag lv">● LIVE</span>':'')+meta(i)+'<h3>'+esc(i.t)+'</h3>'+(i.s&&(s=='xl'||s=='tall')?'<p>'+esc(i.s)+'</p>':'')+'</div></a>'}
+ return'<a class="t '+(s||'')+' ni c'+c+'" href="#" data-i="'+id+'"><div class="tx">'+(i.lv?'<span class="tag lv">● LIVE</span>':'')+meta(i)+'<h3>'+esc(i.t)+'</h3>'+(i.s?'<p>'+esc(i.s)+'</p>':'')+'</div></a>'}
 function bento(news,ops){var h='',j=0,k=0;
  news.forEach(function(id,x){if(x>=2&&(x-2)%4==0&&ops[j]){h+=tile(IT[ops[j]],ops[j],j==0?'tall':'',0);j++}
   var s=x<SZ.length?SZ[x]:(x%9==4?'w':'');h+=tile(IT[id],id,s,k++%6)});
