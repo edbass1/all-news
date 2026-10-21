@@ -23,12 +23,6 @@
 "Fedez contro Marracash e Ghali, il messaggio ai ragazzi di Milano: «Dentro le vetrine distrutte ci sono anche gli artisti ricchi che vi sostengono»",
 "https://dimages2.corriereobjects.it/files/og_thumbnail/files/fp/uploads/2026/10/20/6ad77351a7b61.r_d.656-492-9146.jpeg"
 ],
-"https://milano.corriere.it/notizie/cronaca/26_ottobre_21/mandava-agli-inquisiti-la-foto-del-registro-segreto-degli-indagati-autista-dell-ufficio-gip-di-milano-arrestato-con-un-avvocato-05fe1831-4208-4002-9dae-cb7640b55xlk.shtml": [
-"Individuata una «banca» informale di ‘ndrangheta. Fra le 30 misure anche l’operatore giudiziario indagato questa estate per come gestiva i beni sequestrati",
-"2026-10-21T08:26:56+02:00",
-"Mandava agli inquisiti la foto del registro segreto degli indagati. Autista dell’Ufficio Gip di Milano arrestato con un avvocato",
-"https://dimages2.corriereobjects.it/files/og_thumbnail/files/fp/uploads/2026/10/08/6ac74d2ea4677.r_d.256-130-0.jpeg"
-],
 "https://milano.corriere.it/notizie/cronaca/26_ottobre_21/milano-giudice-scontri-e4ce2037-88a3-45bf-9acb-1b7e5b799xlk.shtml": [
 "Prime misure per i violenti fermati durante le rivolte. Oggi altri 41 (tra cui 35 minorenni) finiscono davanti al gip",
 "2026-10-21T07:47:51+02:00",
@@ -214,12 +208,6 @@
 "2026-10-21T15:04:53+02:00",
 "Omicidio David Rossi: Ma perché alcuni azzurri del Calcio Storico sono sotto inchiesta per una spedizione punitiva a Siena nel 2017? - MOW - Mowmag.com",
 "https://crm-img.stcrm.it/images/52528195/HOR_WIDE/2000x/rissa-storica-davanti-alla-basilica.png?quality=75&format=webp&width=1300"
-],
-"https://mowmag.com/attualita/paolo-giordano-teme-che-il-suo-romanzo-possa-sembrare-scritto-dalla-ia-un-motivo-ci-sara": [
-"Paolo Giordano teme che il suo prossimo romanzo venga scambiato per un testo scritto dall’intelligenza artificiale. Una provocazione sullo stile, sulla narrativa commerciale, su Federico Moccia e su un’editoria che vuole libri standardizzati, ma…",
-"2026-10-18T18:57:54+02:00",
-"Paolo Giordano teme che il suo romanzo possa sembrare scritto dalla IA. Un motivo ci sarà - MOW - Mowmag.com",
-"https://crm-img.stcrm.it/images/52482290/HOR_WIDE/2000x/paolo-giordano-ia.jpg?quality=75&format=webp&width=1300"
 ],
 "https://mowmag.com/attualita/pierina-buffon-morta-dopo-il-frontale-con-la-jaguar-dellex-ma-chi-ci-crede-allincidente-il-femminicidio-e-la-possibile-scappatoia-dellinfermita-mentale": [
 "Un’invasione di corsia con la Jaguar, il rifiuto di accettare la fine della storia e una raffica di episodi di stalking sottovalutati. A Cassano Magnago la Procura contesta sì il femminicidio, ma spunta già l'ipotesi della perizia psichiatrica",
@@ -461,6 +449,12 @@
 "Frank Cottrell-Boyce: The ‘childhood lottery’ is stealing...",
 "https://cdn.slowdownwiseup.co.uk/media/original_images/WEB_2YCFM08_1.jpg"
 ],
+"https://observer.co.uk/news/politics/article/the-jackdaw-gasfield-decision-ranks-heating-homes-over-global-heating": [
+"The government’s pragmatic decision is about ensuring people can keep themselves fed and warm, rather than tackling global heating",
+"2026-10-21T18:17:00+02:00",
+"The Jackdaw gasfield decision ranks heating homes over gl...",
+"https://cdn.slowdownwiseup.co.uk/media/original_images/WEB_GettyImages-2298241100.jpg"
+],
 "https://observer.co.uk/news/sport/article/im-a-season-ticket-holder-why-do-i-feel-like-a-bed-blocker-for-the-canape-crowd": [
 "Football clubs’ drive to upsell ‘premium’ experiences is making loyal fans feel more and more like they’re being sidelined",
 "2026-10-21T17:11:00+02:00",
@@ -496,6 +490,12 @@
 "2026-10-21T07:23:00+02:00",
 "The kids aren’t all right – disorder in France is part of...",
 "https://cdn.slowdownwiseup.co.uk/media/original_images/WEB_213427-2300206572_2198e2b70a5929f90569c786c22863cdcdd886e6.jpg"
+],
+"https://observer.co.uk/profile/obituary/article/ronald-lancaster-the-master-blaster-pastor-who-lit-the-skies-with-fireworks": [
+"Enchanted by pyrotechnics since watching the coronation of George VI in 1937, the clergyman chemist provided displays for the handover of Hong Kong and the 2012 London Olympics",
+"2026-10-21T18:30:00+02:00",
+"Ronald Lancaster: the ‘Master Blaster Pastor’ who lit the...",
+"https://cdn.slowdownwiseup.co.uk/media/original_images/WEB_c0275745-50mb.jpg"
 ],
 "https://observer.co.uk/style/fashion/article/we-love-fashion-fixes-for-the-week-ahead-4e5c": [
 "Retro dance vibes, iconic heritage style and John Lewis’s biggest fashion collab yet",
@@ -599,12 +599,6 @@
 "Scaffali vuoti nei supermercati: blocco dei Tir ma anche crollo della produzione agricola",
 "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/21/6ad8978553484.jpeg"
 ],
-"https://www.corriere.it/economia/finanza/26_ottobre_21/cavo-sottomarino-canada-europa-usa-53e04c66-7125-4c0c-8d61-3992fafffxlk.shtml": [
-"La società Bulk Infrastructure ha proposto di realizzare un cavo che colleghi Canada e Norvegia ed è alla ricerca un partner canadese",
-"2026-10-21T16:10:21+02:00",
-"Cavo sottomarino Europa-Canada, il progetto norvegese da 620 milioni di dollari per aggirare gli Stati Uniti",
-"https://dimages2.corriereobjects.it/files/og_thumbnail/files/fp/uploads/2026/10/21/6ad8ac9405782.r_d.973-685-0.png"
-],
 "https://www.corriere.it/economia/finanza/26_ottobre_21/draghi-in-europa-comandano-gli-anziani-i-giovani-non-si-sentono-ascoltati-e-sulla-francia-non-vediamo-contagio-bcc84267-9aee-4575-a301-f11711c81xlk.shtml": [
 "L’ex presidente della Bce: dietro le proteste le «aspettative bloccate» di una generazione che fatica a trovare lavoro. Sui titoli francesi: gli spread riflettono il rischio fiscale e politico, per ora Francoforte non interverrà",
 "2026-10-21T07:30:49+02:00",
@@ -623,23 +617,17 @@
 "«Chi rompe, paga»: ecco chi risarcisce i danni di negozi saccheggiati e panchine distrutte (e quanto coprono davvero le assicurazioni)",
 "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/20/6ad717bb14dc4.jpeg"
 ],
-"https://www.corriere.it/economia/lavoro/26_ottobre_21/piu-smart-working-per-i-dipendenti-pubblici-contro-il-caro-carburanti-zangrillo-respinge-la-richiesta-dell-opposizione-f4b6c674-bbfb-4713-b339-5a39e3c32xlk.shtml": [
-"Il ministro della Pa risponde a una interrogazione dei Cinquestelle: «Non potete chiedere che sia il ministro a decidere per i 3,4 milioni di dipendenti pubblici, non avete idea di come funziona un’organizzazione»",
-"2026-10-21T17:06:25+02:00",
-"Più smart working per i dipendenti pubblici contro il caro carburanti, Zangrillo respinge la richiesta dell’opposizione",
-"https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/07/18/6a5bb6118ee97.jpeg"
+"https://www.corriere.it/economia/lavoro/26_ottobre_21/sciopero-generale-cisl-contro-cgil-5ec1466a-83ef-45f0-8e9e-10f490e89xlk.shtml": [
+"Lo scontro dei due sindacati non è nuovo ma questa volta avviene in un contesto di tensioni sociali e di campagna elettorale già lanciata",
+"2026-10-21T17:56:48+02:00",
+"Sciopero generale, la Cisl contro la Cgil: «Iniziativa che rischia di essere ideologica»",
+"https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/17/6ad3a31cb499a.jpeg"
 ],
 "https://www.corriere.it/economia/pensioni/26_ottobre_21/pensione-piu-lontana-dal-2027-e-assegni-piu-leggeri-quanto-si-perde-e-chi-e-penalizzato-le-simulazioni-8cf5eb37-8c53-48dc-bb63-824535bdaxlk.shtml": [
 "Dal prossimo anno cambiano i coefficienti di trasformazione per il calcolo delle pensioni e aumenta l’età per lasciare il lavoro con l’adeguamento alla speranza di vita. Ma rinviare il pensionamento può far crescere l'assegno. I calcoli fatti per voi",
 "2026-10-21T07:18:10+02:00",
 "Pensione più lontana dal 2027 (e assegni più leggeri): quanto si perde e chi è penalizzato, le simulazioni",
 "https://dimages2.corriereobjects.it/files/og_thumbnail/files/fp/uploads/2026/10/20/6ad72913cedc6.r_d.560-518-10695.png"
-],
-"https://www.corriere.it/economia/risparmio/26_ottobre_19/btp-valore-in-banca-in-posta-o-con-l-home-banking-dove-e-come-si-possono-comprare-i-titoli-di-stato-gemelli.shtml": [
-"",
-"2026-10-19T07:24:47+02:00",
-"In banca, in posta o con l’home banking, dove e come si possono comprare i titoli di Stato «gemelli»",
-"https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/16/6ad22443ca763.jpeg"
 ],
 "https://www.corriere.it/esteri/26_ottobre_20/da-pio-a-francesco-i-papi-sul-corriere-2a09bf45-f403-40fd-b7a8-f58117c2cxlk.shtml": [
 "I momenti più importanti dell’ultimo secolo e mezzo della Santa Sede: l’elezione di Giovanni Paolo II, il passo indietro di Benedetto XVI, la scomparsa dei pontefici più amati. Con la prima uscita il raccoglitore in omaggio",
@@ -682,6 +670,12 @@
 "2026-10-21T13:36:43+02:00",
 "Stephen Hubbard, chi è il 74enne insegnate e veterano statunitense liberato dalla Russia",
 "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/21/6ad898eb4e864.jpeg"
+],
+"https://www.corriere.it/esteri/diretta-live/26_ottobre_21/guerra-iran-usa-le-notizie-in-diretta-dal-medio-oriente.shtml": [
+"Le notizie sul conflitto tra Israele, Usa e Iran di mercoledì 21 ottobre, in diretta. Ft: Netanyahu voleva attaccare Teheran a inizio ottobre, il presidente Usa si è opposto.",
+"2026-10-21T01:12:34+02:00",
+"Guerra Iran-Usa, le notizie in diretta dal Medio Oriente | Cisgiordania, due italiani arrestati a Masafer Yatta, saranno espulsi: vigilavano sulla raccolta delle olive. Rubio: «Difficile raggiungere un accordo con l'Iran»",
+"https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/21/6ad85509d4bda.jpeg"
 ],
 "https://www.corriere.it/esteri/diretta-live/26_ottobre_21/guerra-ucraina-russia-le-notizie-in-diretta-zelensky-dopo-l-incontro-con-witkoff-a-oslo-abbiamo-idee-chiare-su-come-raggiungere.shtml": [
 "Le notizie sul conflitto tra Ucraina e Russia di mercoledì 21 ottobre, in diretta.",
@@ -839,6 +833,12 @@
 "La pace di Leone passa anche dall'opera d'arte",
 "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/20/6ad76005a89d3.jpeg"
 ],
+"https://www.corriere.it/opinioni/26_ottobre_21/la-lezione-del-sessantotto-87ed29fa-5e47-4d36-840e-cdb0424e0xlk.shtml": [
+"Il vero interrogativo ora è: oltre ad essere «anti», qual è il «pro» del Movimento?",
+"2026-10-21T18:08:04+02:00",
+"La lezione del Sessantotto",
+"https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/21/6ad8e34dde20e.jpeg"
+],
 "https://www.corriere.it/opinioni/26_ottobre_21/no-la-germania-non-e-la-francia-70bc6a54-87ab-40e4-8186-c37ed2fe8xlk.shtml": [
 "Che la Francia sia in difficoltà straordinarie — finanziarie, sociali, politiche — e che non si veda come possa uscirne in tempi ragionevoli è un dato di fatto. La Germania ha parti notevoli del suo modello — energia a basso costo, export — a…",
 "2026-10-21T17:58:59+02:00",
@@ -869,11 +869,23 @@
 "Fiorello, appello durante La Pennicanza: «Invece di \"Compro oro\", \"Compro lattuga\" a 10 euro. La gente non può aspettare: il mangiare è sacro»",
 "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/21/6ad8c8b54de3c.png"
 ],
+"https://www.corriere.it/spettacoli/26_ottobre_21/scontri-a-milano-madame-invece-di-condannare-e-basta-provate-a-capirci-vasco-una-canzone-puo-dare-voce-al-disagio-6cbef7b5-3186-46dd-88fc-eba6a255dxlk.shtml": [
+"La cantautrice e il rocker hanno commentato sui social le proteste e le violenze del weekend",
+"2026-10-21T18:19:26+02:00",
+"Scontri a Milano, Madame: «Invece di condannare e basta, provate a capirci». Vasco: «Una canzone può dare voce al disagio»",
+"https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/21/6ad8e557e4485.jpeg"
+],
 "https://www.corriere.it/sport/26_ottobre_21/anna-mellano-basket-leucemia-91411952-5159-40d3-a72d-770417a0fxlk.shtml": [
 "Alta un metro e novanta, per tutti era Annina: seguiva Polonara come esempio dopo la scoperta della malattia. Aveva convinto il papà a lasciarla giocare, è arrivata fino alle Nazionali Under: «Aveva la pallacanestro addosso»",
 "2026-10-21T07:58:52+02:00",
 "Anna Mellano, promessa del basket uccisa dalla leucemia a 17 anni: il dolore alla schiena a inizio gennaio, poi la spossatezza e l’ultima convocazione con l'Under 16",
 "https://dimages2.corriereobjects.it/files/og_thumbnail/files/fp/uploads/2026/10/21/6ad84fbe8bbbf.r_d.511-512-11741.jpeg"
+],
+"https://www.corriere.it/sport/calcio/26_ottobre_21/dove-vedere-tv-como-manchester-united-inter-shakthar-95055362-5ff8-4d20-b1ab-198761fbfxlk.shtml": [
+"La squadra di Fabregas rinfrancata dopo il successo in campionato. I nerazzurri di Chivu cercano la prima vittoria in Europa",
+"2026-10-21T07:12:44+02:00",
+"Dove vedere Como-Manchester United e Inter-Shakthar per la Champions, in tv e in streaming",
+"https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/20/6ad773957ebb1.jpeg"
 ],
 "https://www.corriere.it/tecnologia/26_ottobre_21/maria-ressa-nobel-ai-intervista-833ae91b-ad76-4c02-84d2-0bcfeed7dxlk.shtml": [
 "La giornalista premio Nobel 2021: «Chi rilascia modelli di AI di frontiera deve essere sottoposto a monitraggi indipendenti come per il nucleare. Rischiamo di capire troppo tardi quello che sta accadendo»",
@@ -1174,6 +1186,12 @@
 "2026-10-21T13:15:54+02:00",
 "Liverpool’da Rio Ngumoha tarihe geçti",
 "https://iaftm.tmgrup.com.tr/7d1985/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/10/21/liverpoolda-rio-ngumoha-tarihe-gecti-1792581342133.jpeg"
+],
+"https://www.fotomac.com.tr/sampiyonlarligi/2026/10/21/okan-buruktan-mac-oncesi-flas-aciklama-aslinda-o-kokuyu-almistim": [
+"Galatasaray, UEFA Şampiyonlar Ligi lig aşamasının 3. haftasında Fransız temsilcisi Lille ile deplasmanda karşılaşacak. Sarı-kırmızılı ekipte mücadele öncesi Teknik Direktör Okan Buruk, dikkat çeken açıklamalarda bulundu. İşte o sözler... | Son…",
+"2026-10-21T18:13:43+02:00",
+"Okan Buruk’tan maç öncesi flaş açıklama: Aslında o kokuyu almıştım",
+"https://iaftm.tmgrup.com.tr/a2d2d0/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/10/21/okan-buruktan-mac-oncesi-flas-aciklama-aslinda-o-kokuyu-almistim-1792599753259.jpeg"
 ],
 "https://www.fotomac.com.tr/sampiyonlarligi/2026/10/21/real-betis-feyenoord-maci-hangi-kanalda-sampiyonlar-ligi-karsilasmasi-detaylari": [
 "Real Betis-Feyenoord maçı öncesinde heyecan artıyor. Peki, Şampiyonlar Ligi mücadelesi ne zaman, saat kaçta ve hangi kanalda yayınlanacak? Detaylar haberimizde...",
@@ -1655,17 +1673,17 @@
 "La novia de Lamine Yamal ya no puede más: 'Estoy desesperada'",
 "https://estaticos-cdn.prensaiberica.es/clip/adcdcb3b-51e0-407a-baf6-9a8c1d472d86_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
-"https://www.sport.es/es/noticias/atletico-de-madrid/gimenez-cierra-definitivamente-puerta-atletico-135582650": [
-"El central uruguayo, cedido en el Dépor, aseguró que su etapa en el club rojiblanco ya ha terminado, pese a que todavía le restarán dos años más de contrato",
-"2026-10-21T14:28:31+02:00",
-"Giménez cierra definitivamente la puerta al Atlético de Madrid: 'No me va a tocar volver allí, es la realidad'",
-"https://estaticos-cdn.prensaiberica.es/clip/146a7295-ebac-4438-80a4-8aafe4d27957_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
+"https://www.sport.es/es/noticias/baloncesto/centenario-barca-baloncesto-ilustracion-oficial-135596392": [
+"El exjugador azulgrana ha entregado la ilustración conmemorativa a Joan Laporta y a la primera plantilla antes de su viaje a Milán",
+"2026-10-21T18:21:00+02:00",
+"El centenario del Barça de baloncesto ya tiene su ilustración oficial",
+"https://estaticos-cdn.prensaiberica.es/clip/942d9c2a-bb1e-4441-b77c-60f65d366afa_16-9-discover-aspect-ratio_default_0_x600y250.jpg"
 ],
-"https://www.sport.es/es/noticias/baloncesto/tyrese-martin-paso-adelante-ofensivamente-135559408": [
-"El norteamericano va adaptándose poco a poco al baloncesto europeo y sus números en ataque lo resaltan",
-"2026-10-21T06:30:11+02:00",
-"Tyrese Martin, un paso adelante ofensivamente",
-"https://estaticos-cdn.prensaiberica.es/clip/06e4f0f2-5a88-4091-975b-1694b43946e9_16-9-discover-aspect-ratio_default_0_x408y150.jpg"
+"https://www.sport.es/es/noticias/baloncesto/escandalo-arbitral-baloncesto-arrestada-arbitra-135596216": [
+"Vasiliki Tsaroucha figura entre las personas detenidas en Grecia dentro de una investigación por presuntos sobornos y manipulación de encuentros que afecta al baloncesto heleno",
+"2026-10-21T18:07:53+02:00",
+"Escándalo arbitral en el baloncesto: Arrestada la árbitra del Valencia Basket-Maccabi y otros implicados por presunto amaño de partidos",
+"https://estaticos-cdn.prensaiberica.es/clip/d268f215-afa6-40eb-8a0e-0bcf9ae1b86b_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
 "https://www.sport.es/es/noticias/barca/aviso-xavi-espart-real-madrid-135590462": [
 "Xavi Espart también habló tras marcar ante el PSG de la comparación con Philipp Lahm",
@@ -1679,11 +1697,29 @@
 "La baja de Olmo mueve el tablero de Flick",
 "https://estaticos-cdn.prensaiberica.es/clip/4e555bda-8f71-46dc-84dc-d4123bb06e23_16-9-discover-aspect-ratio_default_0_x1000y444.jpg"
 ],
+"https://www.sport.es/es/noticias/barca/baloncesto/cara-cruz-nuevo-willy-hernangomez-135568791": [
+"El pívot de Unicaja destaca en la BCL, mientras que su protagonismo en la Liga Endesa va decayendo a medida que avanzan las jornadas",
+"2026-10-21T10:00:39+02:00",
+"La cara y la cruz del 'nuevo' Willy Hernangómez",
+"https://estaticos-cdn.prensaiberica.es/clip/5aa8462f-bc3e-459b-a734-0af476f628a8_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
+],
 "https://www.sport.es/es/noticias/barca/baloncesto/rajada-felix-fernandez-director-deportivo-135591321": [
 "El director deportivo del equipo vitoriano cargó contra la actitud del técnico italiano y resaltó que las relaciones con el Barça son excelentes",
 "2026-10-21T17:02:57+02:00",
 "Rajada de Félix Fernández, director deportivo de Baskonia, contra Galbiati: 'Fue él quien nos dice que quiere ser entrenador del Barça'",
 "https://estaticos-cdn.prensaiberica.es/clip/8bd86158-243d-4efa-aa5c-036bcabd542b_16-9-discover-aspect-ratio_default_0_x1024y431.jpg"
+],
+"https://www.sport.es/es/noticias/barca/barca-estrena-horario-frente-villarreal-135594307": [
+"LaLiga ha confirmado los horarios oficiales para una jornada 13 que destaca por el duelo entre el Fútbol Club Barcelona y el Villarreal, además del derbi sevillano en el Sánchez Pizjuán",
+"2026-10-21T18:13:50+02:00",
+"El Barça estrena horario frente al Villarreal en la jornada 13",
+"https://estaticos-cdn.prensaiberica.es/clip/f4afc897-a71c-489f-86c2-9454a334a6f0_16-9-discover-aspect-ratio_default_1439971.jpg"
+],
+"https://www.sport.es/es/noticias/barca/barca-raphinha-lideran-visitas-frente-135593349": [
+"El Barcelona lidera el interés mundial en la plataforma Flashscore con 10,60 millones de consultas, superando al Real Madrid antes del enfrentamiento directo previsto para el próximo domingo 25",
+"2026-10-21T17:59:37+02:00",
+"El Barça y Raphinha lideran en visitas frente al Madrid y Mbappé",
+"https://estaticos-cdn.prensaiberica.es/clip/4240b60d-1853-47b5-aec9-39b33642e77e_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
 "https://www.sport.es/es/noticias/barca/barcelona-real-madrid-fecha-horario-donde-ver-clasico-135558573": [
 "A qué hora juega el Barça su próximo partido y en qué canal de TV ver el clásico contra el Real Madrid de LaLiga por TV y en directo",
@@ -1715,18 +1751,6 @@
 "Dani Olmo estará cuatro semanas de baja por una rotura del adductor",
 "https://estaticos-cdn.prensaiberica.es/clip/eb650ca8-200d-43fe-a13b-dd1cfc31c6be_16-9-discover-aspect-ratio_default_1521168.jpg"
 ],
-"https://www.sport.es/es/noticias/barca/francia-sangre-futbolistas-barca-135567916": [
-"Las notas a los jugadores barcelonistas en el prestigioso diario 'L'Equipe' son muy duras con fuertes palos a varios futbolistas",
-"2026-10-21T09:02:54+02:00",
-"En Francia hacen sangre con los futbolistas del Barça",
-"https://estaticos-cdn.prensaiberica.es/clip/0b612c9e-9ccc-4398-a37d-b7e1bf4ca25d_16-9-discover-aspect-ratio_default_0_x1000y444.jpg"
-],
-"https://www.sport.es/es/noticias/barca/futbol-femenino/lorena-cubo-regreso-pivote-llamada-135559456": [
-"La centrocampista de 19 años, que lleva una década en La Masia, ha vuelto a competir con el Barça B tras casi 16 meses de baja por una rotura del ligamento cruzado",
-"2026-10-21T06:30:10+02:00",
-"Lorena Cubo, el regreso de una pivote llamada a dar el salto",
-"https://estaticos-cdn.prensaiberica.es/clip/bbb7dcd2-b476-4a00-81e0-b444c9b7615d_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
-],
 "https://www.sport.es/es/noticias/barca/gordon-senala-diferencia-decisiva-psg-135571773": [
 "El inglés admite la superioridad del PSG y apunta a la capacidad física de los parisinos para mantener la presión y la intensidad durante más tiempo",
 "2026-10-21T10:58:57+02:00",
@@ -1745,18 +1769,6 @@
 "Josep Maria, abuelo de Xavi Espart: 'A los 18 años, me fui a Barcelona a trabajar en la industria textil y aquí sigo después de dedicarme toda la vida a esto, pero yo me siento muy unido a Mollerussa. En la familia el Barça es una religión y mi nieto Xavi es un orgullo'",
 "https://estaticos-cdn.prensaiberica.es/clip/0d74070b-93c5-46ed-961e-5d03cd067394_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
-"https://www.sport.es/es/noticias/barca/kounde-dificil-imposible-clasico-135582086": [
-"Esperan en el Barça que pueda entrar en la lista de convocados, aunque está prácticamente descartado para ser titular",
-"2026-10-21T15:44:49+02:00",
-"Kounde, difícil pero no imposible para el Clásico",
-"https://estaticos-cdn.prensaiberica.es/clip/60e2924a-e445-4792-bc5f-276cf0e57768_16-9-discover-aspect-ratio_default_1496577.jpg"
-],
-"https://www.sport.es/es/noticias/barca/llueve-mojado-psg-135572401": [
-"El Barça volvió a ser víctima ante el PSG de un arbitraje que no estuvo a la altura",
-"2026-10-21T11:55:59+02:00",
-"Llueve sobre mojado con el PSG",
-"https://estaticos-cdn.prensaiberica.es/clip/ad82b84b-b8da-409a-b079-8ffe56f2175f_16-9-discover-aspect-ratio_default_1521057.jpg"
-],
 "https://www.sport.es/es/noticias/barca/maldini-da-credito-decision-tactica-135567165": [
 "El comentarista de Movistar Plus analizó la victoria del Paris Saint-Germain ante el conjunto de Hansi Flick en su canal de YouTube",
 "2026-10-21T07:33:25+02:00",
@@ -1769,11 +1781,11 @@
 "¿Tiene La Masia laterales de primer nivel si Flick necesita un plan B?",
 "https://estaticos-cdn.prensaiberica.es/clip/fef9a9ad-5585-43e3-a592-982cd75c8893_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
-"https://www.sport.es/es/noticias/barca/mensaje-esperanzador-henry-barca-derrota-135568716": [
-"El exdelantero azulgrana elogió en 'CBS Sports' el nivel del equipo de Hansi Flick antes de enfrentarse al PSG y también destacó el extraordinario momento de Désiré Doué.",
-"2026-10-21T08:47:43+02:00",
-"El mensaje esperanzador de Thierry Henry sobre el Barça tras la derrota: 'Que se preparen los demás'",
-"https://estaticos-cdn.prensaiberica.es/clip/2bcd4e14-ae69-4efd-a4d2-8c2d16671a43_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
+"https://www.sport.es/es/noticias/barca/polemica-reacciones-actualidad-deportiva-barca-135567711": [
+"Sigue toda la actualidad del deporte con la información y la última hora de las radios españolas",
+"2026-10-21T07:49:11+02:00",
+"Polémica y reacciones de la actualidad deportiva de Barça y Real Madrid, en directo: sigue toda la radio deportiva",
+"https://estaticos-cdn.prensaiberica.es/clip/a5cb1786-079d-4b5f-b842-06602d8992df_16-9-discover-aspect-ratio_default_1520969.jpg"
 ],
 "https://www.sport.es/es/noticias/barca/protagonista-inesperado-psg-barca-misterioso-135589441": [
 "Hansi Flick expuso su reloj inteligente durante el saludo inicial ante Luis Enrique, un accesorio que el técnico del FC Barcelona suele evitar mostrar en sus ruedas de prensa",
@@ -1787,11 +1799,17 @@
 "La arenga de capitán de Raphinha al vestuario del Barça tras la derrota contra el PSG: 'Es la sensación con la que se van'",
 "https://estaticos-cdn.prensaiberica.es/clip/eb2c5ba4-1c21-4b6b-83d6-442159218e95_16-9-discover-aspect-ratio_default_0_x1000y444.jpg"
 ],
-"https://www.sport.es/es/noticias/barca/recuento-danos-barca-psg-clasico-135583759": [
-"El Barça volvió a los entrenamientos a la Ciutat Esportiva Joan Gamper con la vista puesta en el Clásico",
-"2026-10-21T14:25:12+02:00",
-"Recuento de daños del Barça tras el PSG antes del clásico",
-"https://estaticos-cdn.prensaiberica.es/clip/35ec6849-9d15-4fcf-9854-aecda480f1ab_16-9-discover-aspect-ratio_default_0_x514y207.jpg"
+"https://www.sport.es/es/noticias/barca/reaccion-barca-derrota-psg-tranquilidad-135571538": [
+"El sentir en la expediciÃģn de regreso a Barcelona es que el equipo afrontarÃĄ el partido contra el Real Madrid con un punto de solidez mayor que ante el PSG",
+"2026-10-21T18:35:30+02:00",
+"El vestuario del BarÃ§a reacciona: 'La derrota nos va bien para el clÃĄsico'",
+"https://estaticos-cdn.prensaiberica.es/clip/b64b9fad-f2d0-4e57-a2e3-c11ce6356432_16-9-discover-aspect-ratio_default_0_x1000y444.jpg"
+],
+"https://www.sport.es/es/noticias/betis/ultras-feyenoord-causan-altercados-centro-135586034": [
+"Los aficionados radicales neerlandeses han causado daños en el centro de Sevilla y protagonizado incidentes con la acampada por la vivienda antes del Betis-Feyenoord",
+"2026-10-21T14:47:11+02:00",
+"Ultras del Feyenoord causan altercados en el centro de Sevilla antes del partido contra el Betis en Champions",
+"https://estaticos-cdn.prensaiberica.es/clip/578bbd07-315c-41ea-bdc3-43670f47fefe_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
 "https://www.sport.es/es/noticias/champions/increible-rendimiento-goleador-araujo-135564512": [
 "El central uruguayo ha encontrado en su nueva aventura lejos del FC Barcelona el impulso que necesitaba",
@@ -1804,6 +1822,12 @@
 "2026-10-21T17:42:20+02:00",
 "Julián se vuelve a ganar el cariño de los atléticos: 'Es nuestro mejor jugador'",
 "https://estaticos-cdn.prensaiberica.es/clip/0f3ab86a-a5b6-41bd-a09c-ab5638e5e8c4_16-9-discover-aspect-ratio_default_0_x1000y444.jpg"
+],
+"https://www.sport.es/es/noticias/champions/manchester-united-directo-partido-champions-135590877": [
+"El Como recibe al Manchester United en el Giuseppe Sinigaglia en la segunda jornada de la fase Liga de la Champions",
+"2026-10-21T18:05:40+02:00",
+"Como - Manchester United, en directo: partido de la Champions League hoy en vivo",
+"https://estaticos-cdn.prensaiberica.es/clip/b5506eeb-3018-4e66-9f84-ac0ea474f79a_16-9-discover-aspect-ratio_default_0_x579y156.jpg"
 ],
 "https://www.sport.es/es/noticias/champions/resurgir-foden-mejores-135575395": [
 "El inglés firmó tres goles y una asistencia en el partido del City contra el AEK Atenas. El equipo inglés goleó 5-1 y sube hasta la sexta posición de la clasificación",
@@ -1847,18 +1871,6 @@
 "Escándalo en Ecuador: un jugador manda al árbitro al hospital por una pedrada",
 "https://estaticos-cdn.prensaiberica.es/clip/6b8b9025-df47-40f2-9a11-19f47c9e3eda_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
-"https://www.sport.es/es/noticias/futbol-internacional/luis-enrique-psg-barca-cule-135571046": [
-"El entrenador asturiano analizó la victoria del Paris Saint-Germain en zona mixta",
-"2026-10-21T10:52:25+02:00",
-"Luis Enrique, tras el PSG - Barça: 'Soy culé, pero soy un profesional y disfruto con las victorias de mi equipo. La primera trampa sería si pensamos que somos mejores o especiales'",
-"https://estaticos-cdn.prensaiberica.es/clip/30f50b6d-3a58-4d0f-92c2-698c7fa14b2f_16-9-discover-aspect-ratio_default_1521011.jpg"
-],
-"https://www.sport.es/es/noticias/futbol-internacional/psg/alarma-total-psg-kvaratskhelia-perderse-135569043": [
-"Las primeras exploraciones médicas en el cuadro galo han encendido las alarmas ante una posible lesión grave del extremo georgiano",
-"2026-10-21T09:16:03+02:00",
-"¡Alarma total en el PSG! Kvaratskhelia podría perderse toda la temporada",
-"https://estaticos-cdn.prensaiberica.es/clip/93b5611e-7cf1-45a6-8c85-912fba5b26cd_16-9-discover-aspect-ratio_default_1520982.jpg"
-],
 "https://www.sport.es/es/noticias/futbol-internacional/psg/incendio-paris-lesion-dembele-barca-135571330": [
 "El delantero francés, dosificado por Luis Enrique en este primer tramo de temporada, abandonó lesionado en el minuto 18 el partido de Champions contra el cuadro culé",
 "2026-10-21T11:56:28+02:00",
@@ -1883,11 +1895,11 @@
 "España, candidata a organizar la Eurocopa de fútbol sala de 2030",
 "https://estaticos-cdn.prensaiberica.es/clip/a828f4c0-9b9e-42b2-9ed9-8d151430e485_16-9-discover-aspect-ratio_default_0_x990y372.jpg"
 ],
-"https://www.sport.es/es/noticias/futbol/castellon-premonicion-fallida-ibai-llanos-135594707": [
-"El presidente de Porcinos recuerda el carácter tímido del actual técnico albinegro en la Kings League y se rinde a su trayectoria en los banquillos",
-"2026-10-21T17:31:45+02:00",
-"Castellón | La premonición fallida de Ibai Llanos con Pablo Hernández: «Era cero entrenador, pero cero»",
-"https://estaticos-cdn.prensaiberica.es/clip/1e2652b2-7cf3-4df4-b1d6-adb57c1a9b17_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
+"https://www.sport.es/es/noticias/futbol/ayuntamiento-bluebay-reunen-nueva-rosaleda-135597712": [
+"Jamal Satli Iglesias, tajante sobre el estadio en Martiricos, se abre al traslado a Teatinos siempre y cuando el proyecto pueda darle beneficios al club",
+"2026-10-21T18:40:35+02:00",
+"El Ayuntamiento y BlueBay se reúnen por la Nueva Rosaleda del Málaga CF",
+"https://estaticos-cdn.prensaiberica.es/clip/70e89f9d-f940-4401-8a3f-e35c899917ea_16-9-discover-aspect-ratio_default_0_x638y314.jpg"
 ],
 "https://www.sport.es/es/noticias/futbol/dieta-luis-enrique-alimentacion-huevos-nutrientes-salud-nutricion-135593525": [
 "El entrenador del PSG ha revelado algunos de sus hábitos alimentarios, entre los que destacan el consumo de huevos, las verduras y el ayuno intermitente",
@@ -1895,23 +1907,41 @@
 "La dieta de Luis Enrique (56 años): 'He llegado a cenar seis huevos. Es uno de los alimentos con más nutrientes, nunca falta en mi dieta'",
 "https://estaticos-cdn.prensaiberica.es/clip/d20b8073-53a4-47d7-85e5-7a0b3cb53133_16-9-discover-aspect-ratio_default_1497275.jpg"
 ],
-"https://www.sport.es/es/noticias/futbol/jokin-gabilondo-jugador-real-zaragoza-135595154": [
-"El jugador vasco valora el rendimiento del equipo tras dos empates y la búsqueda de una nueva victoria contra el CE Europa",
-"2026-10-21T17:40:32+02:00",
-"Jokin Gabilondo, jugador del Real Zaragoza: “Debemos y tenemos que salir a ganar cada partido”",
-"https://estaticos-cdn.prensaiberica.es/clip/2f5af112-540d-4b33-81d2-64f8b4573217_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
+"https://www.sport.es/es/noticias/futbol/gimenez-futuro-deportivo-coruna-ciudad-135584532": [
+"'Mi etapa en el club ya terminó', afirma sobre el Atlético, con el que tiene dos temporadas más de contrato",
+"2026-10-21T14:19:57+02:00",
+"Giménez y su futuro en el Deportivo: 'A Coruña es una ciudad que me enamoró'",
+"https://estaticos-cdn.prensaiberica.es/clip/f6be5583-c42b-4ee6-b56b-302e05f0d2b6_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
-"https://www.sport.es/es/noticias/las-palmas/jese-o-jefte-juan-manuel-135595569": [
-"El técnico debe decidir cuál de sus dos delanteros va a ser titular este sábado en un duelo vital: el 'Bichito' o el ariete de Las Chumberas",
-"2026-10-21T17:50:59+02:00",
-"Jesé o Jefté; Juan Manuel Rodríguez busca la fórmula de la mejor versión ofensiva de la UD Las Palmas",
-"https://estaticos-cdn.prensaiberica.es/clip/6d1a0b04-11ff-4fb4-9d3f-6aa7c273fe8e_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
+"https://www.sport.es/es/noticias/futbol/mikel-goti-ex-cordoba-cf-135597466": [
+"El Oviedo, equipo en el que vuelve a estar cedido esta temporada, tiene un enfrentamiento trascendental en la próxima jornada contra la UD Almería",
+"2026-10-21T18:39:23+02:00",
+"Mikel Goti, ex del Córdoba CF, jugador de septiembre en la Liga Hypermotion",
+"https://estaticos-cdn.prensaiberica.es/clip/bcb7f5a6-1185-4bfe-bee6-dd8df63ceaad_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
-"https://www.sport.es/es/noticias/motor/formula1/christian-horner-jefazo-empezo-haciendo-135578218": [
-"El británico, uno de los jefes de equipo más exitosos de la Fórmula 1, sigue en paro tras su despido hace año y medio de Red Bull",
-"2026-10-21T15:54:54+02:00",
-"Christian Horner, el jefazo que empezó “haciendo sandwiches”, esquiva a Aston Martin",
-"https://estaticos-cdn.prensaiberica.es/clip/086fdb57-70ba-4884-94c9-4289347f48d4_16-9-discover-aspect-ratio_default_0.jpg"
+"https://www.sport.es/es/noticias/futbol/real-zaragoza-jugara-estadio-lleno-135597465": [
+"El estadio Can Dragó, del CE Europa, recibirá al conjunto zaragozano con todas las entradas vendidas",
+"2026-10-21T18:39:11+02:00",
+"El Real Zaragoza jugará en un estadio lleno hasta la bandera",
+"https://estaticos-cdn.prensaiberica.es/clip/9ed010cc-d5c9-4119-9a76-5f0188c7f4ad_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
+],
+"https://www.sport.es/es/noticias/futbol/segunda-rfef/cd-tenerife-estrena-copa-rey-135597129": [
+"Los blanquiazules visitan al CD Badajoz el miércoles 28 de octubre en una eliminatoria a partido único que llegará después de su desplazamiento liguero a Sabadell",
+"2026-10-21T18:30:01+02:00",
+"El CD Tenerife se estrena en la Copa del Rey: rival, horario y todas las claves del partido",
+"https://estaticos-cdn.prensaiberica.es/clip/d490653e-10fd-47bd-aff2-51ca6283b6b4_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
+],
+"https://www.sport.es/es/noticias/futbol/segunda-rfef/cuarto-primeras-cinco-jornadas-decimoctavo-135596419": [
+"El representativo ha pasado de sumar 10 de los primeros 15 puntos en juego a solo 3 en los siguientes cinco partidos, un 46% menos en el mismo periodo de tiempo",
+"2026-10-21T18:11:44+02:00",
+"Cuarto en las primeras cinco jornadas y decimoctavo en las cinco últimas: las dos caras del CD Tenerife",
+"https://estaticos-cdn.prensaiberica.es/clip/6176ae38-538a-4dff-a512-6b395813d264_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
+],
+"https://www.sport.es/es/noticias/las-palmas/ud-palmas-regresa-trabajo-mente-135597132": [
+"Los amarillos retornan a la Ciudad Deportiva con la intención de conseguir su primera victoria en más de un mes este sábado",
+"2026-10-21T18:27:30+02:00",
+"La UD Las Palmas regresa al trabajo con la mente puesta en la Real B",
+"https://estaticos-cdn.prensaiberica.es/clip/6b8a4e19-0aef-4e83-9c4f-8093e4e246a0_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
 "https://www.sport.es/es/noticias/motor/formula1/fernando-alonso-45-anos-explica-135571660": [
 "El piloto de Aston Martin ha modificado sus rutinas de entrenamiento para combatir la pérdida de masa muscular y seguir compitiendo en la Fórmula 1",
@@ -1919,11 +1949,11 @@
 "Fernando Alonso (45 años) explica el secreto de su preparación física: 'Mucho menos cardio y muchas más pesas. El cuello es la parte más importante'",
 "https://estaticos-cdn.prensaiberica.es/clip/88a7e53d-27de-48e4-a8f3-71008f7799c6_16-9-discover-aspect-ratio_default_1521008.jpg"
 ],
-"https://www.sport.es/es/noticias/motor/peugeot-208-lider-segmento-b-fabricado-espana-para-mercados-europeos-135594927": [
-"Heredero del mítico Peugeot 205, el Peugeot 208 apuesta por un estilo exterior inconfundiblemente deportivo",
-"2026-10-21T17:40:10+02:00",
-"Peugeot 208, un líder en el segmento B que se fabrica en España para los mercados europeos",
-"https://estaticos-cdn.prensaiberica.es/clip/c8fd717d-a793-4cae-b5f8-c3679aadb220_16-9-discover-aspect-ratio_default_0_x340y155.jpg"
+"https://www.sport.es/es/noticias/motor/moto-gp/ultimo-baile-decisivo-phillip-island-135594980": [
+"Jorge Martín lidera la clasificación general con apenas dos puntos de ventaja sobre Marc Márquez en una temporada que se decidirá en las cinco últimas carreras del calendario",
+"2026-10-21T18:29:20+02:00",
+"Último baile decisivo en Phillip Island: 'Este campeonato se decidirá entre los tres primeros'",
+"https://estaticos-cdn.prensaiberica.es/clip/db84ea28-9ee5-405b-a3dd-7ec8866ff389_16-9-discover-aspect-ratio_default_1521363.jpg"
 ],
 "https://www.sport.es/es/noticias/opinion/barca-pierde-partido-confianza-135564283": [
 "Flick decidió dar descanso a Rodri y Lamine Yamal no estuvo inspirado durante la primera parte. Este sería, a grandes rasgos, el resumen de unos primeros 45 minutos en los que los azulgranas cometieron demasiados errores y fueron incapaces de…",
@@ -1973,11 +2003,11 @@
 "Alineaciones probables del Real Madrid - RB Leipzig en el partido de la jornada 3 de la Champions League",
 "https://estaticos-cdn.prensaiberica.es/clip/3435edf2-8a54-4aa7-92a5-34de200bc427_16-9-discover-aspect-ratio_default_0_x1000y444.jpg"
 ],
-"https://www.sport.es/es/noticias/real-madrid/mourinho-dara-pistas-clasico-partido-135577501": [
-"El conjunto blanco afronta la jornada 3 de Champions con el objetivo de conseguir la victoria y llegar fresco al domingo",
-"2026-10-21T13:06:26+02:00",
-"Mourinho dará pistas sobre el clásico en su partido ante el Leipzig",
-"https://estaticos-cdn.prensaiberica.es/clip/27846ed7-fd57-4b71-8116-26764f3c932f_16-9-discover-aspect-ratio_default_0_x1000y444.jpg"
+"https://www.sport.es/es/noticias/real-madrid/senalado-arda-guler-cambia-135512377": [
+"La reestructuración táctica del equipo blanco permite al futbolista turco mayor libertad creativa mientras desplaza a Fede Valverde hacia una banda para mejorar el orden estructural del conjunto",
+"2026-10-21T18:04:53+02:00",
+"El 'señalado' Arda Güler lo cambia todo",
+"https://estaticos-cdn.prensaiberica.es/clip/34ea4201-5303-4382-a6bc-9c7aa1619df2_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
 "https://www.sport.es/es/noticias/shopping/mejores-ofertas-diarias-amazon-134112031": [
 "He aquí las mejores ofertas del día que, ahora mismo, todavía estás a tiempo de conseguir en Amazon y las plataformas mencionadas. Estas han dispuesto sus productos estrella a precio de ganga",
