@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Sans:wght@400;600&family=Lora:ital,wght@0,400;0,600;1,400&family=Merriweather:ital,wght@0,400;0,700;1,400&family=Nunito:wght@400;700&family=Libre+Franklin:wght@400;600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
 *{box-sizing:border-box}html{color-scheme:dark}body{margin:0;background:#000;color:#f2f0ff;font:16px/1.5 Inter,Arial,sans-serif}a{color:inherit;text-decoration:none}
 :root{--z:1.1}
@@ -68,3 +69,25 @@ body,#rd{background:#161616}.t,.t.ni,.t.op{background:transparent!important}
 .t.op h3{font-size:calc(22px*var(--z))}
 @media(max-width:900px){.bento{grid-template-columns:repeat(2,minmax(0,1fr))}.t h3,.t.xl h3,.t.tall h3,.t.w h3{font-size:calc(26px*var(--z))}}
 @media(max-width:700px){.bento{grid-template-columns:1fr}.t.xl{grid-column:auto}.t h3,.t.xl h3,.t.tall h3,.t.w h3{font-size:calc(26px*var(--z))}.t.op h3{font-size:calc(20px*var(--z))}}
+
+/* --- crema su grigio scuro --- */
+body,#rd{background:#1e1e1e;color:#e6dccb}
+.t,.t.ni,.t.ni.c0,.t.ni.c1,.t.ni.c2,.t.ni.c3,.t.ni.c4,.t.ni.c5,.t.op{color:#e6dccb!important;background:transparent!important;border:0;border-radius:0;box-shadow:none;text-shadow:none;overflow:visible;justify-content:flex-start;padding:16px 0;min-height:0}
+.t:hover{transform:none;opacity:1}.t:hover h3{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:4px;text-decoration-color:#7d7464}
+.bento{grid-auto-rows:auto;gap:0 32px}
+.t h3,.t.xl h3,.t.tall h3,.t.w h3,.t.op h3{display:block;-webkit-line-clamp:unset;overflow:visible;text-overflow:clip;text-transform:none;letter-spacing:0;font-size:calc(21px*var(--z));line-height:1.32;font-weight:600;color:#e6dccb;margin:6px 0 0}
+.t p{display:block;-webkit-line-clamp:unset;overflow:visible;color:#b3aa9b;opacity:1;font-size:calc(15px*var(--z));line-height:1.55;margin:8px 0 0}
+.t .mt,.t.ni .mt,.t.op .mt{color:#958c7e;opacity:1}.t .pill,.t.ni .pill,.t.op .pill{background:none;border:1px solid #57524a;color:#cbbfa9;text-transform:none}
+.tag,.t.op .tag{color:#c9b48a}.tag.lv{color:#d08f80}
+.hd{background:#252525;border-bottom:1px solid #3a3732;box-shadow:none}.logo{color:#e6dccb}.logo span{color:#c9b48a}
+.tabs{background:#2b2b2b}.tabs button{color:#cfc5b3}.tabs button.on{background:#3d382f;color:#f0e6d4}
+#q{background:#2b2b2b;color:#e6dccb;border:1px solid #3a3732}#q::placeholder{color:#958c7e}#q:focus{border-color:#8a7d64}
+.upd{color:#958c7e}.fz button{background:#2f2d2a;color:#e6dccb;border:1px solid #48443d}.fz button:hover{background:#3d382f;color:#f0e6d4}
+.ar{background:#2b2b2b;color:#d6c7a6}.ar:hover{background:#35332f}.nm b{color:#e6dccb}.nm small{color:#958c7e}
+#up{background:#3d382f;color:#f0e6d4;box-shadow:none}.rx{background:#3d382f;color:#f0e6d4}
+.rbar{background:linear-gradient(#1e1e1e 70%,#1e1e1e00)}#ra h1{color:#ede3d2}#ra .lede{color:#c9bfae}#ra .rb p{color:#ddd3c2}#ra .org a{color:#c9b48a}
+.otg{background:#2b2b2b;color:#e6dccb;border-color:#48443d}footer{color:#8a8274;border-top-color:#3a3732}.sr{color:#c9b48a}
+#pw button{background:#5e5140;color:#f0e6d4}#pw input[type=password]{background:#262626;border-color:#444;color:#e6dccb}
+@media(max-width:700px){.bento{grid-template-columns:1fr!important;column-count:1!important}.t h3,.t.xl h3,.t.tall h3,.t.w h3{font-size:calc(20px*var(--z))}.t.op h3{font-size:calc(19px*var(--z))}}
+/* c2 */
+.t h3,.t.xl h3,.t.tall h3,.t.w h3,#ra h1,.nm b{font-family:Literata,Georgia,serif}.t p,#ra .rb p,#ra .lede{font-family:Literata,Georgia,serif}.t .mt,.pill,.tabs button,#q,.logo,.fz button{font-family:'Atkinson Hyperlegible',Arial,sans-serif}.t{border-bottom:1px solid #3a3732!important}main{max-width:780px}.bento{display:block}.t{padding:22px 0}.t h3{font-size:calc(24px*var(--z))!important}.t .pill{border-color:#8a7650;color:#d2b98a}.t.op{border-left:3px solid #8a7650!important;padding-left:18px}.t.op h3{font-style:italic;font-weight:400}

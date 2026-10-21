@@ -296,6 +296,59 @@
   ]
  },
  {
+  "key": "tuttosport",
+  "label": "Tuttosport",
+  "country": "Italia",
+  "tab": "sport",
+  "news": [
+   "https://www.tuttosport.com/rss/calcio"
+  ],
+  "op": [],
+  "scrape": [
+   {
+    "sitemap": "https://www.tuttosport.com/site_map_news.xml"
+   }
+  ],
+  "home": [
+   "https://www.tuttosport.com/"
+  ]
+ },
+ {
+  "key": "cds",
+  "label": "Corriere dello Sport",
+  "country": "Italia",
+  "tab": "sport",
+  "news": [
+   "https://www.corrieredellosport.it/rss/calcio"
+  ],
+  "op": [],
+  "scrape": [
+   {
+    "sitemap": "https://www.corrieredellosport.it/site_map_news.xml"
+   }
+  ],
+  "home": [
+   "https://www.corrieredellosport.it/"
+  ]
+ },
+ {
+  "key": "sportmediaset",
+  "label": "Sportmediaset",
+  "country": "Italia",
+  "tab": "sport",
+  "news": [],
+  "op": [],
+  "scrape": [
+   {
+    "sitemap": "https://www.sportmediaset.mediaset.it/sitemap/sitemap_news.xml",
+    "exclude": "/video/"
+   }
+  ],
+  "home": [
+   "https://www.sportmediaset.mediaset.it/"
+  ]
+ },
+ {
   "key": "fatto",
   "label": "Il Fatto Quotidiano",
   "country": "Italia",

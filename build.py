@@ -141,7 +141,7 @@ def scrape(specs):
             print("ERR scrape", sp.get("sitemap") or sp.get("page"), str(x)[:80])
     seen, uniq = set(), []
     for i in res:
-        k = i["l"].split("?")[0]
+        k = i["l"].split("?")[0].rstrip("/")
         if k not in seen: seen.add(k); i["l"] = k if "?" in i["l"] and "corriere" in k else i["l"]; uniq.append(i)
     uniq = [i for i in uniq if not i["d"] or NOW - i["d"] <= MAXAGE][:MAXN]
     with ThreadPoolExecutor(6) as ex:
@@ -156,7 +156,7 @@ def gather(urls, sport, specs=()):
     if True:
         for L in lists:
             for i in L:
-                k = i["l"].split("?")[0]
+                k = i["l"].split("?")[0].rstrip("/")
                 if k in seen or i["t"].lower() in seen: continue
                 if sport and USSPORT.search(i["t"] + " " + i["s"]): continue
                 seen |= {k, i["t"].lower()}; res.append(i)
