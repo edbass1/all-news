@@ -1,10 +1,4 @@
 {
-"https://bari.corriere.it/notizie/cronaca/26_ottobre_22/un-selfie-alla-partia-della-juve-in-champions-league-crolla-l-alibi-del-killer-per-l-omicidio-di-ivan-lopez-d115e6b1-a180-4611-9902-a8be16a69xlk.shtml": [
-"Antonio Manzari e Francesco Martiradonna, arrestati per l'omicidio di Ivan Lopez del 2021 commesso a Bari, avevano messo in piedi un sistema per dimostrare che al momento del delitto erano allo Juventus Stadium",
-"2026-10-22T17:53:32+02:00",
-"Un biglietto e un selfie alla partita della Juve a Torino: così il clan di Bari fabbricava l'alibi per il killer. Com'è stato scoperto",
-"https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/22/6ada2e9596f80.png"
-],
 "https://corrieredibologna.corriere.it/notizie/cronaca/26_ottobre_22/manager-whatsapp-bloccato-164e222a-e3f5-4f9d-8690-992e89482xlk.shtml": [
 "Gian Paolo Crasta, segretario generale di Federmacchine e direttore generale di Acimac e Ucima racconta la disavventura al rientro da Chicago: «Sono spesso all'estero e mi sono collegato a dei wi-fi pubblici ricevendo spam ma avevo rimosso tutto.…",
 "2026-10-22T16:42:45+02:00",
@@ -797,17 +791,23 @@
 "Wade Wilson, storia del killer col sorriso del Joker. «Ho usato il mio fascino per fare sesso con loro, ma pensavo soltanto a una cosa: uccidere, uccidere, uccidere»",
 "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/14/6acf927987ac7.jpeg"
 ],
-"https://www.corriere.it/esteri/diretta-live/26_ottobre_22/ucraina-russia-news-guerra.shtml": [
-"Le notizie sul conflitto tra Ucraina e Russia di giovedì 22 ottobre, in diretta",
-"2026-10-22T01:46:39+02:00",
-"Guerra Ucraina-Russia, le notizie in diretta | Kiev: missili balistici su abitazioni, ci sono feriti. Mosca: «Ci stiamo avviando alla fine del conflitto»",
-"https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/21/6ad8f99cb501e.jpeg"
+"https://www.corriere.it/esteri/26_ottobre_23/terremoto-di-magnitudo-7-colpisce-il-tibet-sedici-morti-e-46-feriti-f60c23f1-ff8a-4f21-9f2e-b6811fd15xlk.shtml": [
+"",
+"2026-10-23T04:43:19+02:00",
+"Terremoto di magnitudo 7 colpisce il Tibet. Sedici morti e 46 feriti, oltre 300 le abitazioni crollate",
+"https://dimages2.corriereobjects.it/files/og_thumbnail/files/fp/uploads/2026/10/23/6adac982c37c3.r_d.339-226-19911.jpeg"
 ],
 "https://www.corriere.it/esteri/diretta-live/26_ottobre_23/guerra-iran-usa-le-notizie-in-diretta-dal-medio-oriente.shtml": [
 "Le notizie sul conflitto tra Israele, Usa e Iran di venerdì 23 ottobre, in diretta.",
 "2026-10-23T03:36:37+02:00",
 "Guerra Iran-Usa, le notizie in diretta dal Medio Oriente | Trump: «Finiremo l'Iran molto presto, in un modo o nell'altro». Cinque attiviste italiane fermate in Cisgiordania.",
 "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/22/6ada5742c0910.jpeg"
+],
+"https://www.corriere.it/esteri/diretta-live/26_ottobre_23/guerra-ucraina-russia-le-notizie-in-diretta.shtml": [
+"Le notizie sul conflitto tra Ucraina e Russia di venerdì 23 ottobre, in diretta.",
+"2026-10-23T03:55:45+02:00",
+"Guerra Ucraina-Russia, le notizie in diretta | Trump: «Importante che Musk abbia ripristinato Starlink». Kiev smentisce. Zelensky: «Meno Patriot avremo, più i russi lanceranno missili»",
+"https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/22/6ada5595d6a53.jpeg"
 ],
 "https://www.corriere.it/il-punto/america-cina/26_ottobre_21/il-voto-si-avvicina-e-i-repubblicani-usa-sono-sempre-piu-preoccupati-6f5ce62a-634c-4b5c-b476-2b034f17dxlk.shtml": [
 "",
@@ -1781,12 +1781,6 @@
 "Manovra 2027, Tajani chiede un contributo da tutta la finanza, anche da Cdp. Il nodo sui fondi alla sanità - ItaliaOggi.it",
 "https://images.class.atexcloud.io/view/acePublic/alias/contentid/002637ec-f31f-47f0-876b-fdb48fbf5d91/0/20261017_191547_f4dfb6b1-jpg.webp"
 ],
-"https://www.italiaoggi.it/economia-e-politica/opinioni/-m8qy4yl5": [
-"Con i cittadini ridiventati sudditi senza nessun potere di controllo",
-"2026-10-20T06:00:00+02:00",
-"Dove andrà il mondo lo decidono i magnati - ItaliaOggi.it",
-"https://static.italiaoggi.it/IOBlazor/images/cover.jpg"
-],
 "https://www.italiaoggi.it/economia-e-politica/opinioni/gli-usa-erano-alleati-di-kiev-ora-di-putin-wed1gazw": [
 "Trump ha stravolto gli antichi rapporti dell’America",
 "2026-10-21T06:00:00+02:00",
@@ -1815,6 +1809,12 @@
 "Potabilizzandolo e rendendolo credibile. Ecco i risultati",
 "2026-10-21T07:00:00+02:00",
 "La sinistra ha a lungo sostenuto il linguaggio rivoluzionario - ItaliaOggi.it",
+"https://static.italiaoggi.it/IOBlazor/images/cover.jpg"
+],
+"https://www.italiaoggi.it/economia-e-politica/opinioni/un-giustificazionismo-che-e-devastatore-wp7j9os4": [
+"Si dicono molto preoccupati dalla violenza giovanile, “ma”…",
+"2026-10-21T17:51:05+02:00",
+"Un giustificazionismo che è devastatore - ItaliaOggi.it",
 "https://static.italiaoggi.it/IOBlazor/images/cover.jpg"
 ],
 "https://www.italiaoggi.it/economia-e-politica/opinioni/via-le-stelle-michelin-e-largo-ai-frullati-wxhrovl1": [
@@ -2099,6 +2099,12 @@
 "Almudena Cid, Theresa Zabell y Jennifer Pareja abanderan el liderazgo femenino en el deporte español",
 "https://estaticos-cdn.prensaiberica.es/clip/d640caaa-a3d1-4dce-a68d-e083efc42823_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
+"https://www.sport.es/es/noticias/deportes/balonmano/asobal-tine-rosa-jornada-7-135635165": [
+"La ASOBAL se suma a la lucha contra el cáncer de mama con la implementación de brazaletes rosas y la adaptación visual de sus canales digitales durante la séptima jornada",
+"2026-10-22T16:29:37+02:00",
+"ASOBAL se tiñe de rosa en la Jornada 7 contra el cáncer de mama",
+"https://estaticos-cdn.prensaiberica.es/clip/766cf3fa-1d42-416b-8b28-c2429c668413_16-9-discover-aspect-ratio_default_0_x625y238.jpg"
+],
 "https://www.sport.es/es/noticias/deportes/danila-lucia-prades-lideran-exhibicion-135640115": [
 "Ocho goles de la hispanolusa y 13 paradas de la castellonenses ejecutaron a Japón a mes y medio del Europeo",
 "2026-10-22T19:55:57+02:00",
@@ -2140,12 +2146,6 @@
 "2026-10-22T22:17:31+02:00",
 "Los tres nombres que suenan en Inglaterra para sustituir a Carrick en el United",
 "https://estaticos-cdn.prensaiberica.es/clip/013ff4ba-3b3f-4a35-8bc2-0f0170f2b0d0_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
-],
-"https://www.sport.es/es/noticias/futbol/borja-jimenez-tercer-entrenador-cadiz-135651788": [
-"El abulense, hasta ahora en el Al-Ahli, ya ha preparado a distancia el duelo del domingo ante el Ceuta como nuevo preparador del equipo cadista, que recibirá al Córdoba CF a finales de noviembre",
-"2026-10-22T22:10:56+02:00",
-"Borja Jiménez, tercer entrenador del Cádiz: fichado desde Catar para una LaLiga Hypermotion candente",
-"https://estaticos-cdn.prensaiberica.es/clip/c02dcec5-de31-481c-8205-e1b5005881b5_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
 "https://www.sport.es/es/noticias/futbol/conference-league/lugano-pasa-getafe-135641539": [
 "El conjunto de la liga suiza goleó al equipo de Bordalás en un partido sin acierto por parte de los locales",
