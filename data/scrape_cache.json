@@ -1,10 +1,4 @@
 {
-"https://corrieredibologna.corriere.it/notizie/cronaca/26_ottobre_28/fakir-frasi-choc-responsabilita-poliziotti-soccorritori-91801699-23e5-455e-8993-be355575dxlk.shtml": [
-"Nella perizia dei consulenti medico legali della Procura le registrazioni della bodycam con le parole dei due agenti. Contenimento, cocaina e problemi cardiaci hanno contribuito al decesso",
-"2026-10-28T08:57:53+01:00",
-"«Se schiatta ci divertiamo»: la morte di Fakir e le frasi choc. Le responsabilità di poliziotti e soccorritori: «C'era il 15% di possibilità di salvarlo»",
-"https://dimages2.corriereobjects.it/files/og_thumbnail/files/fp/uploads/2026/10/28/6ae152d373c5d.r_d.328-246-0.jpeg"
-],
 "https://corrieredibologna.corriere.it/notizie/cronaca/26_ottobre_28/padre-andrea-delogu-intervista-1941a3f6-6c72-4a98-8521-c2430653exlk.shtml": [
 "Evan Delogu morì a 17 anni in un incidente il 29 ottobre 2025: «Fu una botta devastante, io andai dallo psicologo, mia moglie si buttò sul lavoro e mia figlia ha vinto \"Ballando con le stelle\". Due giorni dopo è arrivata l'auto per la quale aveva…",
 "2026-10-28T06:30:00+01:00",
@@ -29,11 +23,11 @@
 "Milano, prof di inglese licenziata: «Parlava agli alunni solo in italiano. A lezione anche un video di Lady Gaga sulle violenze (ma senza spiegare il testo)»",
 "https://dimages2.corriereobjects.it/files/og_thumbnail/files/fp/uploads/2026/10/27/6ae0b73b31ca9.r_d.597-263-11308.jpeg"
 ],
-"https://milano.corriere.it/notizie/cronaca/26_ottobre_28/youssef-siher-tace-davanti-al-gip-di-milano-oggi-la-decisione-sul-carcere-chiamata-alla-piazza-e-seguaci-violenti-online-di-cosa-57e58e76-0859-4982-a643-238430d1exlk.shtml": [
-"Il 30enne ricercatore pro Pal ha scelto di non rispondere al gip. È accusato, tra l'altro, di «istigazione a delinquere» aggravata dalla «finalità di terrorismo». Per i suoi avvocati ha gestito la pagina del «Movimento 17 ottobre» esercitando…",
-"2026-10-28T07:28:08+01:00",
-"Youssef Siher in silenzio davanti al gip di Milano: oggi la decisione sul carcere. I legali: «Non è un terrorista»",
-"https://dimages2.corriereobjects.it/files/og_thumbnail/files/fp/uploads/2026/10/26/6adefc442cf44.r_d.467-288-0.jpeg"
+"https://milano.corriere.it/notizie/cronaca/26_ottobre_28/youssef-siher-la-giudice-non-convalida-l-arresto-non-c-erano-gravi-indizi-per-fermarlo-ordine-di-scarcerazione-immediata-7d09dc0c-9cc2-4be7-a802-e92134a92xlk.shtml": [
+"Disattesa la richiesta della Procura, la gip boccia le contestazioni di «istigazione a delinquere» aggravata dalla «finalità di terrorismo», e di «violenza organizzata nelle manifestazioni pubbliche» tipizzata nel nuovo reato. L’attivista lascerà…",
+"2026-10-28T12:57:19+01:00",
+"Youssef Siher, la giudice non convalida l’arresto: «Non c’erano gravi indizi per fermarlo». Ordine di scarcerazione immediata",
+"https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/27/6ae07a3f7b6c4.jpeg"
 ],
 "https://mowmag.com/attualita/abbiamo-vinto-dopo-gli-articoli-e-la-lotta-degli-avvocati-il-gip-di-firenze-dispone-una-nuova-perizia-su-lorenzo-innocenti-ma-intanto-il-sindaco-di-rufina-manda-una-lettera-di-allarme-al-prefetto": [
 "Svolta nel caso Eleonora Guidi: il giudice valuta una nuova perizia sull'assassino Lorenzo Innocenti, ma resta aperta la questione della libertà vigilata. Dopo gli avvistamenti a Rufina, ora il sindaco ha scritto una lettera d'allarme al prefetto e…",
@@ -154,6 +148,12 @@
 "2026-10-28T11:38:28+01:00",
 "Siamo messi male se a neanche 24 ore dalla vittoria di Lula Flavio Bolsonaro, che ha perso, deve fuggire dal Brasile. Ecco perché il candidato appoggiato da Trump è scappato negli Usa - MOW - Mowmag.com",
 "https://crm-img.stcrm.it/images/52599223/HOR_WIDE/2000x/crmmoto2-20261028112900797-74754c002df26587fb695e32e863b10f.jpg?quality=75&format=webp&width=1300"
+],
+"https://mowmag.com/attualita/stellantis-e-volkswagen-hanno-due-anni-per-salvare-le-auto-europee-dalla-cina": [
+"Secondo AlixPartners l'industria automobilistica europea ha due anni di tempo per recuperare competitività e arginare l'avanzata dei costruttori cinesi. Stellantis e Volkswagen stanno seguendo strategie diverse ma il divario con i rivali asiatici è…",
+"2026-10-28T12:24:51+01:00",
+"Stellantis e Volkswagen hanno due anni per salvare le auto europee dalla Cina - MOW - Mowmag.com",
+"https://crm-img.stcrm.it/images/52600077/HOR_WIDE/2000x/crmmoto2-20261028121352429-256a5e7f8a5755b5d1f889f983c23054.jpg?quality=75&format=webp&width=1300"
 ],
 "https://mowmag.com/attualita/youssef-siher-ha-il-nome-straniero-e-tutte-le-idee-cretine-per-essere-il-capro-espiatorio-della-destra-ma-il-terrorismo-psicologico-ve-lo-stanno-facendo-altri": [
 "Youssef Siher, nome perfetto per un terrorista no? Soprattutto se serve a mortificare le piazze degli ultimi due weekend, soprattutto se, in assenza di altro, è l’unica pista che non tanto la Procura ma la stessa politica può perseguire per dare un…",
@@ -353,6 +353,12 @@
 "Winners off the pitch: the Ballon d’Or red carpet wasn’t ...",
 "https://cdn.slowdownwiseup.co.uk/media/original_images/WEB_201851-2301691088_5759e98b50d050a2d5f153a38d8bc14f5c21c5dc.jpg"
 ],
+"https://observer.co.uk/news/technology/article/chatgpt-promised-a-suicidal-man-that-human-help-was-coming-it-wasnt": [
+"The exchange is quoted in a series of lawsuits against OpenAI, and is one of the cases I examine in my new podcast series Spiral, investigating how chatbots are warping our minds, and what AI companies are doing about it",
+"2026-10-28T13:00:00+01:00",
+"ChatGPT promised a suicidal man that human help was comin...",
+"https://cdn.slowdownwiseup.co.uk/media/original_images/WEB_spiral_comp_1.jpg"
+],
 "https://observer.co.uk/news/technology/article/how-to-turn-5300-ants-into-millionaires": [
 "As Anthropic prepares for a gargantuan $1.5tn float, its founders preach philanthropy while thousands of staff prepare to join the super-rich",
 "2026-10-28T06:00:00+01:00",
@@ -424,6 +430,12 @@
 "2026-10-28T10:07:38+01:00",
 "Davide Iacopini ha ripreso conoscenza, l'attore è vigile e interagisce con i medici. Vicina l'uscita dalla Terapia intensiva",
 "https://dimages2.corriereobjects.it/files/og_thumbnail/files/fp/uploads/2026/10/14/6acf5bec352ab.r_d.1536-1024-0.jpeg"
+],
+"https://roma.corriere.it/notizie/cronaca/26_ottobre_28/mattarella-contro-i-no-vax-contrastare-chi-avvelena-l-opinione-sui-vaccini-sono-posizioni-sconcertanti-ce4435aa-449a-449c-a45f-7f8ac1e73xlk.shtml": [
+"Durante i «Giorni della ricerca» al Quirinale, il capo dello Stato punta un faro sulle conseguenze devastanti, «adulti o bambini che rischiano o addirittura perdono la vita che avrebbero potuto facilmente difendere»",
+"2026-10-28T12:35:35+01:00",
+"Mattarella contro i no vax: «Contrastare chi avvelena l'opinione sui vaccini. Sono posizioni sconcertanti»",
+"https://dimages2.corriereobjects.it/files/og_thumbnail/files/fp/uploads/2026/10/21/6ad89a3c98d6f.r_d.1536-904-0.jpeg"
 ],
 "https://roma.corriere.it/notizie/politica/26_ottobre_27/reintegro-medici-no-vax-si-camera-scontro-c47e6a4f-e01d-4fda-b317-fe49591c7xlk.shtml": [
 "Azzurri divisi. FnV: noi decisivi. I sì sono 126 e i no 113",
@@ -545,12 +557,6 @@
 "Bolsonaro, la latitanza dorata in Texas per sfuggire alla condanna: così il fratello Eduardo ha tracciato la via americana",
 "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/27/6ae12202a12a5.jpeg"
 ],
-"https://www.corriere.it/esteri/26_ottobre_27/voto-israele-ascesa-partiti-arabi-2ada39c7-f403-4130-b1c8-2db279b60xlk.shtml": [
-"Passano da 10 a 16 seggi: possono essere l’ago della bilancia",
-"2026-10-27T23:43:42+01:00",
-"L'ascesa vertiginosa dei partiti arabi: in Israele passano da 10 a 16 seggi e possono essere decisivi. «Al voto in massa per dire che contiamo»",
-"https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/27/6ae12849c07b9.jpeg"
-],
 "https://www.corriere.it/esteri/26_ottobre_28/anno-orribile-treni-spagnoli-1165d4be-e5cf-4bec-ac91-542338bd9xlk.shtml": [
 "Il grave incidente verificatosi oggi a Toledo non è il primo del 2026. La rete ferroviaria spagnola è da tempo in sofferenza, a causa della mancanza di investimenti e della coesistenza fra vecchi e nuovi treni",
 "2026-10-28T11:19:39+01:00",
@@ -562,12 +568,6 @@
 "2026-10-28T09:17:46+01:00",
 "Belgrado, allerta rossa per terrorismo: accoltellata una guardia dell'ambasciata di Israele, ucciso l'assalitore minorenne",
 "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/28/6ae1af10c85f4.jpeg"
-],
-"https://www.corriere.it/esteri/26_ottobre_28/bibi-il-premier-piu-longevo-e-divisivo-della-storia-di-israele-e-ottimista-dobbiamo-formare-un-ampio-governo-nazionale-di-destra-73602824-55a7-4656-b50e-f06905bdexlk.shtml": [
-"La carta della paura per restare al potere e continuare la guerra permanente «Dobbiamo finire la nostra missione»",
-"2026-10-28T07:33:18+01:00",
-"«Oy Gevalt, che paura»: così Netanyahu, il premier più longevo e divisivo della storia di Israele, ha messo a segno la rimonta",
-"https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/28/6ae15a5f8fbbb.jpeg"
 ],
 "https://www.corriere.it/esteri/26_ottobre_28/brasile-bolsonaro-e-fuggito-negli-stati-uniti-trump-pronto-a-garantirgli-l-asilo-47eb7d4f-3b51-483c-b01c-6405a2da8xlk.shtml": [
 "Flavio Bolsonaro è indagato per corruzione. Lula: «Scappare è vergognoso». Voci su un ruolo di Rubio",
@@ -581,17 +581,29 @@
 "David Miliband: «La Brexit è stata dannosa sia per Regno Unito che Ue. Con Putin inutili le lusinghe»",
 "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/27/6ae1155582a69.jpeg"
 ],
-"https://www.corriere.it/esteri/26_ottobre_28/gadi-eisenkot-ricorda-il-figlio-morto-e-sogna-di-progettare-il-dopoguerra-gli-israeliani-non-si-fidano-piu-di-netanyahu-2a74fe4b-54c4-438c-86e1-0c183b904xlk.shtml": [
-"In raccoglimento sulla tomba del figlio e quel sogno di progettare il dopoguerra. «Gli israeliani non si fidano più di Bibi»",
-"2026-10-28T07:45:28+01:00",
-"Eisenkot, l'alleanza «impossibile» con gli arabi e quella frase dopo gli exit poll: «Gli israeliani non si fidano più di Bibi»",
-"https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/28/6ae168f50d307.jpeg"
+"https://www.corriere.it/esteri/26_ottobre_28/gran-bretagna-sottomarini-deterrente-nucleare-ed91690b-b942-49c3-877d-42a2990e2xlk.shtml": [
+"Tre dei quattro sottomarini del deterrente nucleare britannico - almeno uno dei quali armato con missili atomici - si trovano ora in mare. Gli esperti militari invitano alla calma, ma solo una settimana fa il governo aveva ammonito a «fare scorte»…",
+"2026-10-28T12:55:51+01:00",
+"Gran Bretagna, tre sottomarini su 4 del «deterrente nucleare» schierati in mare. «Mossa inusuale, i motivi non sono noti»",
+"https://dimages2.corriereobjects.it/files/og_thumbnail/files/fp/uploads/2026/10/28/6ae1e27f60adf.r_d.980-1445-9146.jpeg"
+],
+"https://www.corriere.it/esteri/26_ottobre_28/israele-scenari-netanyahu-1ae1af14-4d0e-4784-bcc2-5122aec32xlk.shtml": [
+"Isaac Herzog. il presidente israeliano, riceverà i partiti uno per uno: ascolterà i nomi che fanno, e affiderà l’incarico a chi ha più probabilità di farcela",
+"2026-10-28T12:20:20+01:00",
+"Cosa succede ora in Israele? Nuovo governo Netanyahu, un esecutivo di minoranza o premier «a tempo»: i 3 scenari possibili",
+"https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2025/12/29/6952b31fdcdd4.jpeg"
 ],
 "https://www.corriere.it/esteri/26_ottobre_28/mamdani-festa-italiani-b631ad80-5a63-408f-a941-c82ab527dxlk.shtml": [
 "Nell'annuale ricevimento della comunità di origine italiana, il riferimento alle lasagne «da crisi esistenziale» e ai nuovi bidet installati a Gracie Mansion",
 "2026-10-28T09:12:21+01:00",
 "Mamdani e la festa per gli italoamericani a casa sua: «Buonasera, everyone». Le parole sul lavoro di «migliaia di famiglie» (e sulle lasagne da «crisi esistenziale»)",
 "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/28/6ae19688e1aae.jpeg"
+],
+"https://www.corriere.it/esteri/26_ottobre_28/spagna-incidente-treni-racconto-passeggero-246469a0-18a2-40a3-b44f-2e6349c95xlk.shtml": [
+"",
+"2026-10-28T12:28:17+01:00",
+"«Come una bomba, continuano ad arrivare cadaveri. I vagoni sono volati per 5 secondi»: il racconto del passeggero a bordo del Madrid-Siviglia",
+"https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/28/6ae1dba872719.jpeg"
 ],
 "https://www.corriere.it/esteri/26_ottobre_28/spagna-scontro-treni-99549d1e-328e-4767-81ab-71e69663exlk.shtml": [
 "Incidente tra treni in Spagna, oggi, dove due treni ad alta velocità si sono scontrati nei pressi di Toledo, a sud di Madrid. Morti e feriti",
@@ -627,6 +639,12 @@
 "I dati del Rapporto Asvis 2026 sullo sviluppo sostenibile e il malessere che attraversa intere comunità di giovani ai quali si sottrae costantemente una «quota di futuro»",
 "2026-10-27T11:54:52+01:00",
 "Quanto futuro neghiamo, senza volerlo, ai nostri figli?",
+"https://dimages2.corriereobjects.it/files/image_1200_900/assets/editor/frammenti_fdb.png"
+],
+"https://www.corriere.it/frammenti-ferruccio-de-bortoli/26_ottobre_28/quando-votano-gli-altri-e-pensiamo-di-votare-noi-a89429e1-55fc-4672-8d6a-3631bfccaxlk.shtml": [
+"Brasile, Israele e Stati Uniti: è un errore pensare che i votanti si comportino come ci comporteremmo noi se fossimo al loro posto",
+"2026-10-28T12:01:59+01:00",
+"Quando votano gli altri (e pensiamo di votare noi)",
 "https://dimages2.corriereobjects.it/files/image_1200_900/assets/editor/frammenti_fdb.png"
 ],
 "https://www.corriere.it/il-punto/america-cina/26_ottobre_26/lula-e-il-gran-rifiuto-di-bolsonaro-jr-benedetto-da-trump-49125ae3-33e8-4914-97e2-43bdc4479xlk.shtml": [
@@ -779,12 +797,6 @@
 "I disoccupati di «Striscia»: da Jimmy Ghione a Moreno Morello ecco dove sono finiti",
 "https://dimages2.corriereobjects.it/files/og_thumbnail/files/fp/uploads/2026/10/27/6ae0eb0fc8def.r_d.172-221-0.jpeg"
 ],
-"https://www.corrieredellosport.it/news/altre-notizie/2026/10/27-152192325/andreea_chiritescu_il_palcoscenico_come_vocazione_linterpretazione_come_arte_totale": [
-"Ventidue anni di teatro e dieci di cinema e televisione al servizio di una sola, grande passione",
-"2026-10-27T15:29:32+01:00",
-"Andreea Chiritescu: il palcoscenico come vocazione, l’interpretazione come arte totale",
-"https://cdn.corrieredellosport.it/images/2026/10/27/142925266-5ee86f64-7d55-43ef-9e3d-2a318d4f792a.jpg"
-],
 "https://www.corrieredellosport.it/news/altri-sport/2026/10/28-115682280/kitefoil_open_2026_a_gallipoli_il_campionato_italiano": [
 "Al via la manifestazione davanti alle acque dell'Ecoresort Le Sirene",
 "2026-10-28T11:00:00+01:00",
@@ -803,17 +815,11 @@
 "Walking football, l'Italia è pronta per l'Euro Nations Cup",
 "https://cdn.corrieredellosport.it/images/2026/10/28/095651138-be1363d1-8685-4920-990e-b07273387803.jpeg"
 ],
-"https://www.corrieredellosport.it/news/altri-sport/running/2026/10/27-152191951/apertura_iscrizioni_bologna_city_run_2027_una_corsa_per_sostenere_la_ricerca": [
-"Bologna City Run 5Km al via con il prezioso supporto del main partner Emil Banca Accendi luce & gas entra al fianco di Bologna Marathon come Presenting Partner L’evento al via con la Termal Bologna Marathon di domenica 7 marzo 2027 Rinnovata la…",
-"2026-10-27T14:42:36+01:00",
-"Apertura iscrizioni Bologna City Run 2027, una corsa per sostenere la ricerca",
-"https://cdn.corrieredellosport.it/images/2026/10/27/134100224-9e44b76f-07b5-4ab5-bf03-d1bae5443ac7.jpg"
-],
-"https://www.corrieredellosport.it/news/altri-sport/running/2026/10/27-152191961/premio_vittoria_quanto_guadagna_il_vincitore_della_maratona_di_new_york": [
-"Svelato il guadagno dei vincitori della maratona di New York di questa domenica 1 novembre. Dalle ore 14 diretta in esclusiva e in chiaro su corrieredellosport.it",
-"2026-10-27T16:06:05+01:00",
-"Premio vittoria: quanto guadagna il vincitore della maratona di New York",
-"https://cdn.corrieredellosport.it/images/2026/10/27/140958823-82bf8577-bb80-44f3-aca9-22ba0fe00d95.jpg"
+"https://www.corrieredellosport.it/news/altri-sport/equitazione/2026/10/28-152220914/global_champions_e_federazione_equestre_egiziana_insieme_per_i_cavalli_di_giza": [
+"In occasione della tappa in Egitto, il più famoso circuito di salto ostacoli mondiale scende in campo per il benessere animale: un piano quinquennale con interventi strutturali, assistenza veterinaria, formazione e monitoraggio per migliorare le…",
+"2026-10-28T12:09:25+01:00",
+"Global Champions e Federazione Equestre Egiziana insieme per i cavalli di Giza",
+"https://cdn.corrieredellosport.it/images/2026/10/28/102445330-bce5c392-3ef4-42be-a510-8ff3ece487fa.jpg"
 ],
 "https://www.corrieredellosport.it/news/altri-sport/running/2026/10/28-152216684/presentata_la_fiat_torino_city_marathon_2026_punta_dritta_ai_10_000_iscritti": [
 "A più di quattro settimane dal via, le iscrizioni volano verso quota 8.000, spinte da una forte componente internazionale. Domenica 29 novembre si corre maratona e mezza maratona, e sabato 28 – prima novità di questa edizione – la non competitiva di…",
@@ -845,18 +851,6 @@
 "BC Roma-Bosna Sarajevo 80-85, crollo capitolino al PalaTiziano: Magro spreca tutto nel finale",
 "https://cdn.corrieredellosport.it/images/2026/10/27/215948680-334d6aeb-5905-403e-a089-fd84af41c8ea.jpg"
 ],
-"https://www.corrieredellosport.it/news/calcio/calcio-estero/bundesliga/bayern-monaco/2026/10/27-152192707/il_vice_del_bayern_fa_chiarezza_sulle_condizioni_di_kompany_sembra_migliorare_ma_": [
-"Le parole di Aaron Danks sull'allenatore belga, collassato la settimana scorsa al termine di una seduta di allenamento",
-"2026-10-27T16:14:23+01:00",
-"Il vice del Bayern fa chiarezza sulle condizioni di Kompany: \"Sembra migliorare, ma...\"",
-"https://cdn.corrieredellosport.it/images/2026/10/27/150458298-22298cb1-913f-467c-b03a-1810eceadd11.jpg"
-],
-"https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/27-152193226/sassuolo-lazio_diretta_serie_a_segui_la_sfida_tra_aquilani_e_gattuso_il_risultato_live": [
-"Al Mapei Stadium Gattuso travolge Aquilani nella nona giornata di Serie A e vola momentaneamente a +3 sull'Inter seconda: gol di Taylor, Thorstvedt, Isaksen, Floriani, Esposito, Zaccagni e doppietta di Noslin. Dal 31' Sassuolo in dieci: rosso…",
-"2026-10-27T17:10:06+01:00",
-"Una Lazio da sogno vola in testa da sola: Sassuolo demolito, finisce 6-2!",
-"https://cdn.corrieredellosport.it/images/2026/10/27/200240750-5a19ea54-02ab-4595-bbac-6dfd258ef9e9.jpg"
-],
 "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/27-152199826/roma-cagliari_diretta_serie_a_segui_la_partita_live": [
 "All'Olimpico la sfida infrasettimanale valida per la nona giornata di campionato: aggiornamenti in tempo reale",
 "2026-10-27T19:29:14+01:00",
@@ -869,29 +863,29 @@
 "Atalanta in piena emergenza: infortunio anche per Scamacca, i tempi di recupero",
 "https://cdn.corrieredellosport.it/images/2026/10/27/163757505-0f04003d-d74a-4334-a7a8-8037de38bf3c.jpg"
 ],
-"https://www.corrieredellosport.it/news/calcio/serie-a/fiorentina/2026/10/27-152192516/la_fiorentina_perde_pongracic_c_la_lesione_al_bicipite_femorale_quando_torna": [
-"Il difensore non sarà a disposizione di Vanoli a partire dalla prossima sfida contro l'Atalanta: i dettagli",
-"2026-10-27T15:59:22+01:00",
-"La Fiorentina perde Pongracic: c'è la lesione al bicipite femorale. Quando torna",
-"https://cdn.corrieredellosport.it/images/2026/10/27/145511698-a7fe45d3-5ef3-4e41-97a3-a68e4c7186c7.jpg"
+"https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/10/27-152199834/gattuso_la_classifica_fa_venire_il_mal_di_testa_ci_manca_ancora_una_legnata_sui_denti": [
+"Il tecnico biancoceleste applaude la squadra dopo il 6-2 al Sassuolo, ma predica sempre calma: \"C'è una squadra da seguire\"",
+"2026-10-27T21:10:37+01:00",
+"Gattuso: \"La classifica fa venire il mal di testa. Ci manca ancora una legnata sui denti”",
+"https://cdn.corrieredellosport.it/images/2026/10/27/182845038-71d1b7eb-04cd-47f4-9363-4dcbfa1fe9fa.jpg"
 ],
-"https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/10/27-152192509/la_juve_di_spalletti_contro_la_vena_di_de_rossi_il_genoa_tosto_ha_il_suo_spirito_combattivo": [
-"Le parole dell'allenatore bianconero in conferenza stampa alla vigilia della sfida di campionato",
-"2026-10-27T16:16:42+01:00",
-"La Juve di Spalletti contro la vena di De Rossi: \"Il Genoa è tosto, ha il suo spirito combattivo\"",
-"https://cdn.corrieredellosport.it/images/2026/10/27/145202273-4ff0ddbd-0af6-471e-81ab-6a010e41b8b3.jpg"
+"https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/10/27-152203777/i_tifosi_regalano_un_coro_a_gattuso_lui_dalla_panchina_reagisce_cos_la_scena_che_dice_tutto_della_lazio_di_oggi": [
+"Omaggio speciale per il tecnico dei biancocelesti capolista, accompagnati da diecimila sostenitori nella trasferta in casa del Sassuolo (battuto 6-2): i dettagli",
+"2026-10-27T20:43:48+01:00",
+"I tifosi regalano un coro a Gattuso, lui dalla panchina reagisce così: la scena che dice tutto della Lazio di oggi",
+"https://cdn.corrieredellosport.it/images/2026/10/27/194015239-0fa7ebba-420f-4eac-ae17-5fcfb68ceb78.jpg"
+],
+"https://www.corrieredellosport.it/news/calcio/serie-b/2026/10/27-152194615/il_catanzaro_riacciuffa_il_benevento_in_extremis_subito_un_punto_per_mignani_paura_nel_prepartita_per_arditi": [
+"Primo turno infrasettimanale in Serie B aperto dalla sfida al Vigorito tra i giallorossi campani e sanniti",
+"2026-10-27T21:15:41+01:00",
+"Il Catanzaro riacciuffa il Benevento in extremis: subito un punto per Mignani, paura nel prepartita per Arditi. Belotti non si ferma più",
+"https://cdn.corrieredellosport.it/images/2026/10/27/212052649-3c16b41a-d474-4254-a890-a7141c726782.jpg"
 ],
 "https://www.corrieredellosport.it/news/formula-1/2026/10/28-152217837/allerta_in_formula_1_per_i_gp_mediorientali_cosa_cambia_con_una_gara_in_meno_per_antonelli_e_cosa_centra_imola": [
 "Dal Regno Unito la nota governativa per evitare le trasferte: è il segnale che Liberty aspettava",
 "2026-10-28T10:01:37+01:00",
 "Allerta in Formula 1 per i Gp mediorientali: cosa cambia con una gara in meno per Antonelli e cosa c’entra Imola",
 "https://cdn.corrieredellosport.it/images/2026/10/28/081640887-bf3a2301-aece-4d5b-b332-330ebe179002.jpg"
-],
-"https://www.corrieredellosport.it/news/on-air/2026/10/27-152193225/roma_serie_a_napoli_e_juve_le_ultimissime": [
-"Dybala non convocato. Riunione informale tra i club. Allegri rinuncia al ricorso. Le parole di Spalletti",
-"2026-10-27T16:57:12+01:00",
-"Roma, Serie A, Napoli e Juve: le ultimissime",
-"https://cdn.corrieredellosport.it/images/2026/10/27/155514799-3d922135-b0a0-411b-9790-3615e1de5971.jpg"
 ],
 "https://www.corrieredellosport.it/news/on-air/2026/10/28-152220142/milan-bologna_venezia-inter_genoa-juve_e_monza-napoli_le_ultimissime": [
 "Le possibili scelte dei tecnici per a giornata di oggi",
@@ -923,6 +917,24 @@
 "Pronostico Genoa-Juventus, altro esame per De Rossi e Spalletti",
 "https://cdn.corrieredellosport.it/images/2026/10/28/074401993-09f6348b-7bf4-4755-b162-ee38b5840189.jpg"
 ],
+"https://www.corrieredellosport.it/news/scommesse/2026/10/28-152219040/milan_pisa_e_monza_una_terzina_per_cercare_un_x4_": [
+"Il successo dei rossoneri contro il Bologna, una rete per parte nella sfida tra Pisa e Palermo e almeno tre gol in Monza-Napoli compongono la proposta del mercoledì",
+"2026-10-28T12:08:51+01:00",
+"Milan, Pisa e Monza una terzina per cercare un x4!",
+"https://cdn.corrieredellosport.it/images/2026/10/28/110536509-53b174f2-c9ad-4ce1-a10f-1a03a7ca7209.jpg"
+],
+"https://www.corrieredellosport.it/news/scommesse/2026/10/28-152219307/tre_esiti_gol_in_b_per_una_terzina_da_x4_61": [
+"Pisa-Palermo, Carrarese-Arezzo e Juve Stabia-Verona compongono una proposta interamente dedicata al campionato cadetto, con entrambe le squadre a segno in ogni incontro",
+"2026-10-28T12:10:13+01:00",
+"Tre esiti Gol in B per una terzina da x4,61",
+"https://cdn.corrieredellosport.it/images/2026/10/28/110921542-a3356faa-ca8b-4669-abb6-2bc2bf4e12f0.jpg"
+],
+"https://www.corrieredellosport.it/news/scommesse/analisi/2026/10/28-152190660/la_miglior_giocata_fa_tappa_a_marassi_per_genoa_e_juve_obiettivo_continuit": [
+"Tanti i motivi di interesse: dalla sfida tra De Rossi e Spalletti al contest di Planetwin365.news che permette di vincere ricchi premi",
+"2026-10-28T12:44:00+01:00",
+"\"La Miglior Giocata\" fa tappa a Marassi: per Genoa e Juve obiettivo continuità",
+"https://cdn.corrieredellosport.it/images/2026/10/27/124517861-0b254f80-876d-4ef7-84b8-6191ecf87f2a.jpg"
+],
 "https://www.corrieredellosport.it/news/tennis/2026/10/27-152208457/atp_vienna_cobolli_parte_col_piede_giusto_sconfitto_in_tre_set_dimitrov": [
 "L'azzurro esce vittorioso da una battaglia di oltre due ore e raggiunge il secondo turno nel 500 austriaco: sarà derby con Matteo Berrettini",
 "2026-10-27T23:45:33+01:00",
@@ -940,6 +952,12 @@
 "2026-10-28T10:37:28+01:00",
 "Il caso Berrettini-Musetti fa il giro d'Europa. L'ex di Matteo furiosa, i gossip sulle nozze e i silenzi degli amici: i retroscena",
 "https://cdn.corrieredellosport.it/images/2026/10/28/092958142-339b0fc8-23c6-4ae7-98a6-5a1a4a4df373.jpg"
+],
+"https://www.corrieredellosport.it/news/tennis/2026/10/28-152221605/musetti-tiafoe_primo_turno_atp_500_vienna_orario_quando_si_gioca_e_dove_vederla_in_tv": [
+"Dopo il titolo di Lione, il carrarino proverà a ripetersi anche sul cemento indoor austriaco, dove lo scorso anno raggiunse la semifinale",
+"2026-10-28T12:42:33+01:00",
+"Musetti-Tiafoe, primo turno Atp 500 Vienna: orario, quando si gioca e dove vederla in tv",
+"https://cdn.corrieredellosport.it/images/2026/10/28/114401544-4d26c818-9573-417e-8791-58c68ef20131.jpg"
 ],
 "https://www.corrieredellosport.it/news/volley/a2-maschile/2026/10/27-152193823/ravenna-lagonegro_antipasto_della_3a_giornata": [
 "Domani alle 19.00 al Pala De Andrè andrà in scena l'anticipo di un turno che proseguirà con le altre sfide Il turno che proseguirà con gli incontri distribuiti tra sabato 31 ottobre e martedì 3 novembre.",
@@ -1061,12 +1079,6 @@
 "Kojo Oppong geçer not aldı",
 "https://iaftm.tmgrup.com.tr/676cba/1200/675/0/9/800/459?u=https://iftm.tmgrup.com.tr/2026/10/28/kojo-oppong-gecer-not-aldi-1793137862125.jpeg"
 ],
-"https://www.fotomac.com.tr/fenerbahce/2026/10/28/kulupten-resmi-aciklama-geldi": [
-"Fenerbahçe İsmail Kartal’ın istifa ettiğini KAP’a bildirdi.",
-"2026-10-28T04:50:13+01:00",
-"Kulüpten resmi açıklama geldi",
-"https://iaftm.tmgrup.com.tr/0401c7/1200/675/0/38/800/488?u=https://iftm.tmgrup.com.tr/2026/10/28/kulupten-resmi-aciklama-geldi-1793140456547.jpeg"
-],
 "https://www.fotomac.com.tr/fenerbahce/2026/10/28/pfdk-sevkleri-aciklandi-abdulkerim-bardakci-ve-archie-brown": [
 "Galatasaray-Fenerbahçe derbisi sonrası PFDK sevkleri açıklandı. Maç sonunda kavga eden Abdülkerim Bardakcı ve Archie Brown’ın Futbol Disiplin Talimatı’nın 44. maddesinde yer alan ’saldırı’ eylemi nedeniyle tedbirli olarak sevk edildiği belirtildi.…",
 "2026-10-28T06:10:49+01:00",
@@ -1139,12 +1151,6 @@
 "Corendon Alanyaspor 4-1 12 Bingölspor | MAÇTAN KARELER - Son dakika Türkiye Kupası haberleri, fotoğrafları - Fotomaç",
 "https://iaftm.tmgrup.com.tr/351482/1200/675/0/30/800/480?u=https://iftm.tmgrup.com.tr/album/2026/10/28/corendon-alanyaspor-4-1-12-bingolspor-mactan-kareler-1793166087408.jpg"
 ],
-"https://www.fotomac.com.tr/galeri/turkiye-kupasi/kocaelispor-3-0-eti-gubre-mazdagi-fosfat-spor-mactan-kareler": [
-"Ziraat Türkiye Kupası 3. Eleme Turu mücadelesinde Kocaelispor ile Eti Gübre Mazdağı Fosfat Spor karşı karşıya geldi. Mücadelenin sonucunda Kocaelispor sahadan 3-0’lık üstünlükle ayrılarak adını bir üst tura yazdırdı. İşte maçtan kareler...",
-"2026-10-28T06:43:04+01:00",
-"Kocaelispor 3-0 Eti Gübre Mazdağı Fosfat Spor | MAÇTAN KARELER - Son dakika Türkiye Kupası haberleri, fotoğrafları - Fotomaç",
-"https://iaftm.tmgrup.com.tr/8e12a9/1200/675/0/131/2047/1282?u=https://iftm.tmgrup.com.tr/album/2026/10/28/kocaelispor-3-0-eti-gubre-mazdagi-fosfat-spor-mactan-kareler-1793166173997.jpg"
-],
 "https://www.fotomac.com.tr/genclerbirligi/2026/10/28/genclerbirligi-dususe-gecti": [
 "Trendyol Süper Lig’e çok iyi başlangıç yapan ve liderliğe kadar yükselmeyi başaran Gençlerbirliği, 7 haftalık galibiyet hasretiyle düşme hattına geriledi.",
 "2026-10-28T04:50:13+01:00",
@@ -1198,6 +1204,12 @@
 "2026-10-28T05:06:17+01:00",
 "28 Ekim hastaneler açık mı? 29 Ekim 2026 sağlık ocakları çalışıyor mu?",
 "https://iaftm.tmgrup.com.tr/fced31/1200/675/0/0/944/531?u=https://iftm.tmgrup.com.tr/2026/10/28/28-29-ekim-2026-hastaneler-acik-mi-saglik-ocaklari-calisiyor-mu-1793160283770.jpg"
+],
+"https://www.fotomac.com.tr/haberler/2026/10/28/28-ekim-borsa-acik-mi-borsa-istanbul-bugun-saat-kacta-kapaniyor": [
+"29 Ekim Cumhuriyet Bayramı öncesinde yatırımcılar, 28 Ekim borsa kapalı mı, bugün borsada işlem yapılabiliyor mu? sorularına yanıt arıyor. Borsa İstanbul 28 Ekim Çarşamba günü yarım gün açık olacak. İşte hisse senedi işlem saatleri ve takvim…",
+"2026-10-28T12:44:45+01:00",
+"Borsa bugün açık mı, kapalı mı? 28 Ekim Borsa işlem saatleri",
+"https://iaftm.tmgrup.com.tr/8990f8/1200/675/0/0/944/531?u=https://iftm.tmgrup.com.tr/2026/10/28/28-ekim-borsa-acik-mi-borsa-istanbul-bugun-saat-kacta-kapaniyor-1793187653328.jpg"
 ],
 "https://www.fotomac.com.tr/haberler/2026/10/28/28-ekim-ek-mesai-ucreti-2026-yarim-gun-calisma-kac-tl": [
 "28 Ekim yarım gün mesai ücreti kaç TL? 29 Ekim’de çalışanlar ne kadar ek ödeme alacak? 28 Ekim öğleden sonra çalışanlara ek mesai ücreti ödeniyor mu? 2026 yarım gün tatil mesaisi ve asgari ücret üzerinden hesaplama detayları…",
@@ -1265,17 +1277,23 @@
 "Aliağa Pazarspor’u Emrehan’la geçti",
 "https://iaftm.tmgrup.com.tr/af90e2/1200/675/0/0/646/363?u=https://iftm.tmgrup.com.tr/2026/10/27/aliaga-pazarsporu-emrehanla-gecti-1793130774066.jpeg"
 ],
+"https://www.fotomac.com.tr/turkiye-kupasi/2026/10/28/antalyaspor-kars-36-sporu-maglup-ederek-ust-tura-yukseldi-ziraat-turkiye-kupasi": [
+"Ziraat Türkiye Kupası 3. tur maçında Antalyaspor deplasmanda Kars 36 Spor'u 2-0 mağlup etti ve üst tura yükseldi. İşte maçın golleri...",
+"2026-10-28T10:49:24+01:00",
+"Antalyaspor Kars'tan tur biletiyle döndü!",
+"https://iaftm.tmgrup.com.tr/48b439/1200/675/0/0/2048/1151?u=https://iftm.tmgrup.com.tr/2026/10/28/antalyaspor-kars-36-sporu-maglup-ederek-ust-turda-ziraat-turkiye-kupasi-1793188589366.jpg"
+],
+"https://www.fotomac.com.tr/turkiye-kupasi/2026/10/28/canli-52-orduspor-1461-trabzon-maci-saat-kacta-hangi-kanalda": [
+"Ziraat Türkiye Kupası 3. Eleme Turu’nda 52 Orduspor, 1461 Trabzon’u konuk ediyor. 28 Ekim Çarşamba günü saat 20.30’da başlayacak mücadele A Spor’dan canlı...",
+"2026-10-28T12:21:19+01:00",
+"52 ORDUSPOR - 1461 TRABZON MAÇI CANLI İZLE | Saat kaçta, hangi kanalda?",
+"https://iaftm.tmgrup.com.tr/f111d2/1200/675/0/0/943/530?u=https://iftm.tmgrup.com.tr/2026/10/28/canli-52-orduspor-1461-trabzon-maci-saat-kacta-hangi-kanalda-1793186403394.jpg"
+],
 "https://www.fotomac.com.tr/turkiye-kupasi/2026/10/28/fethiyespor-eyupspor-maci-saat-kacta-hangi-kanalda": [
 "Fethiyespor-Eyüpspor maçı saat kaçta, hangi kanalda? Ziraat Türkiye Kupası 3. Eleme Turu karşılaşması saat 15.30’da A Spor’da şifresiz yayınlanacak. İşte...",
 "2026-10-28T09:10:24+01:00",
 "Fethiyespor-Eyüpspor maçı canlı izle: Saat kaçta, hangi kanalda? | Türkiye Kupası",
 "https://iaftm.tmgrup.com.tr/6cde8a/1200/675/0/0/943/530?u=https://iftm.tmgrup.com.tr/2026/10/28/fethiyespor-eyupspor-maci-saat-kacta-hangi-kanalda-1793174805384.jpg"
-],
-"https://www.fotomac.com.tr/turkiye-kupasi/2026/10/28/kars-36-spor-antalyaspor-maci-canli-izle-ziraat-turkiye-kupasi-canli-mac": [
-"Ziraat Türkiye Kupası 3. Tur maçında Kars 36 Spor ile Antalyaspor karşı karşıya geliyor. Kars 36 Spor-Antalyaspor maçını haberimizden canlı olarak...",
-"2026-10-28T10:49:24+01:00",
-"Kars 36 Spor-Antalyaspor | CANLI",
-"https://iaftm.tmgrup.com.tr/ef2222/1200/675/0/130/659/500?u=https://iftm.tmgrup.com.tr/2026/10/28/kars-36-spor-antalyaspor-maci-canli-izle-ziraat-turkiye-kupasi-canli-mac-1793180633736.jpg"
 ],
 "https://www.fotomac.com.tr/turkiye-kupasi/2026/10/28/kars-36-spor-antalyaspor-maci-saat-kacta-hangi-kanalda": [
 "Kars 36 Spor - Antalyaspor maçı ne zaman, saat kaçta ve hangi kanalda? Ziraat Türkiye Kupası 3. Tur karşılaşması A Spor ekranlarında canlı ve şifresiz...",
@@ -1733,6 +1751,12 @@
 "Ferran Torres confirma su romance con Sara Sampaio con un mensaje picante",
 "https://estaticos-cdn.prensaiberica.es/clip/90c1307b-1622-42b6-ba04-92356ffb7abe_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
+"https://www.sport.es/es/noticias/actualidad/jordi-quintana-pasajero-iryo-accidentado-135838112": [
+"Dos pasajeros, Jordi y uno de cada tren afectado, señalan cómo se ha vivido desde dentro el brutal choque entre el AVE y el Iryo",
+"2026-10-28T12:44:15+01:00",
+"Jordi Quintana, pasajero del Iryo accidentado: 'Hay dos vagones completamente destrozados atrás y nadie nos ha preguntado nada. Ahora mismo veo dos cadáveres en bolsas blancas'",
+"https://estaticos-cdn.prensaiberica.es/clip/0e91f12a-6529-463d-9e35-7b3d9a2ef75a_16-9-discover-aspect-ratio_default_0_x800y300.jpg"
+],
 "https://www.sport.es/es/noticias/actualidad/marcos-llorente-accidente-tren-toledo-135834554": [
 "El jugador del Atlético de Madrid ha compartido un duro mensaje en su cuenta de Instagram en contra del Ministro de Transportes del Gobierno",
 "2026-10-28T10:50:51+01:00",
@@ -1751,18 +1775,6 @@
 "'La '10' de Messi con Argentina se la daría a Julián'",
 "https://estaticos-cdn.prensaiberica.es/clip/80a0db9c-ae0d-4b67-8ecb-94882da5cb44_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
-"https://www.sport.es/es/noticias/baloncesto/aday-mara-reacciona-hugo-gonzalez-135790229": [
-"Doble-doble de Aday Mara en la victoria de Oklahoma City y buen partido de Hugo González en el triunfo de los Celtcis ante los Bulls",
-"2026-10-27T11:38:15+01:00",
-"Aday Mara reacciona, Hugo González brilla y De Larrea se lesiona",
-"https://estaticos-cdn.prensaiberica.es/clip/51b8f9c6-4bc9-4153-8846-a251572f115d_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
-],
-"https://www.sport.es/es/noticias/baloncesto/fc-barcelona-valencia-basket-horario-135838634": [
-"El calendario no da tregua al equipo valenciano, que tendrá que gestionar el esfuerzo físico y mental tras medirse a uno de los grandes aspirantes al título continental",
-"2026-10-28T11:41:47+01:00",
-"FC Barcelona-Valencia Basket: horario y dónde ver por televisión y online el partido de la Euroliga",
-"https://estaticos-cdn.prensaiberica.es/clip/64c1cfbd-31c9-4913-a5a8-52686f4d9803_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
-],
 "https://www.sport.es/es/noticias/baloncesto/kids-us-manresa-le-basta-135822456": [
 "Los de Diego Ocampo se impusieron al débil Balkan Bovtegrado búlgaro (65-76) para mantenerse entre los cuatro primeros del grupo D de la Eurocup",
 "2026-10-27T20:41:58+01:00",
@@ -1774,12 +1786,6 @@
 "2026-10-27T23:27:10+01:00",
 "El Real Madrid acaba con Baskonia y el Buesa dice basta",
 "https://estaticos-cdn.prensaiberica.es/clip/90c78e2d-123f-49a3-a015-073364b0df53_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
-],
-"https://www.sport.es/es/noticias/baloncesto/tj-shorts-problema-europa-valencia-135839664": [
-"El base se ha convertido en la gran estrella del equipo de Xavi Albert con unos números ofensivos que están entre los mejores de la Euroliga",
-"2026-10-28T12:00:47+01:00",
-"TJ Shorts también es un 'problema' para Europa con el Valencia Basket",
-"https://estaticos-cdn.prensaiberica.es/clip/64c1cfbd-31c9-4913-a5a8-52686f4d9803_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
 "https://www.sport.es/es/noticias/barca/baloncesto/kevin-punter-desatado-numeros-disparan-135826463": [
 "El capitán azulgrana firmó un gran partido en Múnich y va camino de firmar su mejor Euroliga",
@@ -1798,12 +1804,6 @@
 "2026-10-28T06:30:16+01:00",
 "El Barça Atlètic, a por otra 'machada' en la Copa del Rey ante un rival de ASOBAL",
 "https://estaticos-cdn.prensaiberica.es/clip/ba14d280-85b7-454b-a365-28fbe43a495c_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
-],
-"https://www.sport.es/es/noticias/barca/bernardo-silva-acuso-lamine-yamal-135830633": [
-"La cámara del árbitro del clásico captó las protestas del centrocampista portugués del Real Madrid",
-"2026-10-28T08:31:38+01:00",
-"Bernardo Silva acusó a Lamine Yamal de provocar a Cucurella en el clásico",
-"https://estaticos-cdn.prensaiberica.es/clip/3a3748d3-710f-49b3-a4d9-02a6719046be_16-9-discover-aspect-ratio_default_1523064.jpg"
 ],
 "https://www.sport.es/es/noticias/barca/derrota-clasico-genera-dudas-barca-135836791": [
 "El conjunto azulgrana busca el equilibrio táctico tras las dificultades sufridas ante el Real Madrid",
@@ -1835,12 +1835,6 @@
 "Flick aprieta para fichar a Jeltsch para el Barça",
 "https://estaticos-cdn.prensaiberica.es/clip/6019275d-93b7-4c83-8225-ba2f53409ab7_16-9-discover-aspect-ratio_default_0_x277y184.jpg"
 ],
-"https://www.sport.es/es/noticias/barca/futbol-femenino/bruna-quintana-desborde-brilla-mundial-135812404": [
-"La atacante del Barça, capitana habitual en las categorías inferiores, fue elegida MVP tras marcar un doblete con España en el Mundial sub-17",
-"2026-10-28T06:30:10+01:00",
-"Bruna Quintana, el desborde que brilla en el Mundial sub-17",
-"https://estaticos-cdn.prensaiberica.es/clip/425048bf-08e8-4f24-8eb1-27947f9b8865_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
-],
 "https://www.sport.es/es/noticias/barca/junior-kroupi-barcelona-verano-no-se-esconde-135825618": [
 "El delantero francés del Bournemouth, que estuvo en la agenda del Barça en verano antes de su lesión, habla de sus ambiciones de futuro",
 "2026-10-28T06:30:15+01:00",
@@ -1858,6 +1852,18 @@
 "2026-10-28T10:37:48+01:00",
 "Kroos señala la clave de la derrota del Barça: 'A Pedri y Raphinha se les notaba incómodos'",
 "https://estaticos-cdn.prensaiberica.es/clip/71b960ed-79a4-452d-9d68-e6f747116ecc_16-9-discover-aspect-ratio_default_0_x1000y372.jpg"
+],
+"https://www.sport.es/es/noticias/barca/lamine-yamal-barca-ambicion-infancia-futbol-135837747": [
+"El delantero del Barça reivindica la ambición y el afán de superación como claves de su carrera y asegura que no tiene prisa, aunque siempre quiere seguir creciendo",
+"2026-10-28T12:09:17+01:00",
+"Lamine Yamal (19 años): 'Prefiero jugar menos pero con los mejores, que jugar todo el tiempo y que sea demasiado fácil, eso ya era así en las categorías inferiores. No tengo prisa, pero siempre quiero más'",
+"https://estaticos-cdn.prensaiberica.es/clip/e296f010-053d-453a-b76b-c119e5d412ec_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
+],
+"https://www.sport.es/es/noticias/barca/nueva-oportunidad-ebrima-tunkara-135838936": [
+"Tunkara vuelve a ejercitarse con la primera plantilla de la mano de Hansi Flick",
+"2026-10-28T12:05:40+01:00",
+"La gran oportunidad para Ebrima Tunkara",
+"https://estaticos-cdn.prensaiberica.es/clip/a99b9f95-6cfc-4bf6-95dd-3dc9a59a0452_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
 "https://www.sport.es/es/noticias/barca/rocafonda-lamine-yamal-barrio-mataro-familias-comercios-vecinos-135799185": [
 "Rocío Escandell reivindica la identidad del barrio de Mataró y reclama mejoras en los espacios públicos para ofrecer más oportunidades a los jóvenes",
@@ -1883,12 +1889,6 @@
 "La tercera vía empieza en Salamanca: el Celta arranca la Copa del Rey",
 "https://estaticos-cdn.prensaiberica.es/clip/b59eec50-a8ea-4b31-9890-b8bc02cb9781_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
-"https://www.sport.es/es/noticias/deportes/balonmano/primer-partido-aplazado-consecuencia-accidente-135835433": [
-"El encuentro que enfrentaba este miércoles a Anaitasuna y Proin Sevilla ha sido aplazado debido al accidente ferroviario ocurrido en la provincia de Toledo",
-"2026-10-28T11:28:22+01:00",
-"Primer partido aplazado a consecuencia del accidente ferroviario de Toledo",
-"https://estaticos-cdn.prensaiberica.es/clip/33c2ceb9-d265-4aca-96fa-7fe2fe36a3f9_16-9-discover-aspect-ratio_default_0_x1000y444.jpg"
-],
 "https://www.sport.es/es/noticias/deportes/espana-seguir-creciendo-europeo-curling-135828226": [
 "El equipo masculino está encuadrado en un durísimo Grupo B y debuta este miércoles contra Suiza y ante Suecia",
 "2026-10-28T06:30:16+01:00",
@@ -1913,12 +1913,6 @@
 "Y en pleno caos... el Espanyol 'celebra' su 126 aniversario: de la Champions al descenso y a la deriva en la Copa en tan solo un año",
 "https://estaticos-cdn.prensaiberica.es/clip/5b356e13-b4b4-4454-8890-01a5f1d26185_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
-"https://www.sport.es/es/noticias/espanyol/tres-anos-ridiculos-copa-140-135830117": [
-"El club blanquiazul, poseedor de cuatro títulos en la Copa del Rey, cayó eliminado por tercer año consecutivo frente a otro rival de Segunda RFEF y con todos los titulares y habituales siendo goleados en Las Llanas",
-"2026-10-28T08:29:04+01:00",
-"Tres años de ridículos en la Copa: 140 millones de diferencia no fueron suficientes para el Espanyol",
-"https://estaticos-cdn.prensaiberica.es/clip/48f32b29-58df-4ec0-977b-8248b9f922dd_16-9-discover-aspect-ratio_default_1524057.jpg"
-],
 "https://www.sport.es/es/noticias/futbol-catalan/reus-fc-reddis-quiere-carrera-135815070": [
 "El equipo rojinegro busca la gesta ante el Barakaldo CF arropado por una afición volcada que convertirá el feudo roig-i-negre en una caldera",
 "2026-10-28T06:30:15+01:00",
@@ -1931,17 +1925,29 @@
 "Ander Herrera carga contra el Manchester City: “No era normal lo que pasaba, todos nos dábamos cuenta”",
 "https://estaticos-cdn.prensaiberica.es/clip/bcdbf7be-87fd-480d-a946-7387ea88c96f_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
+"https://www.sport.es/es/noticias/futbol-internacional/luis-enrique-gran-killer-paris-135835819": [
+"El delantero maliense se ha consolidado como uno de los arietes más prolíficos de Europa tras firmar un inicio de Ligue 1 fulgurante",
+"2026-10-28T13:01:19+01:00",
+"Luis Enrique no tiene al gran 'killer' de París: Lassine Sinayoko supera a Ferran Torres",
+"https://estaticos-cdn.prensaiberica.es/clip/e39b939c-6edc-4d74-8dc4-febbf71d98d7_16-9-discover-aspect-ratio_default_1524190.jpg"
+],
 "https://www.sport.es/es/noticias/futbol-sala/catela-previa-debut-europeo-champions-135763756": [
 "El gaditano es una de las figuras clave del Barça de Javi Rodríguez que este miércoles arranca su presencia en la Champions League 2026/2027 tras dos años de ausencia en la competición. El ala azulgrana atendió a Sport antes de la Main Round para…",
 "2026-10-28T06:30:12+01:00",
 "Catela, en la previa del debut europeo: 'La Champions es diferente, todo el mundo tiene muchas ganas de volver a jugar esta competición'",
 "https://estaticos-cdn.prensaiberica.es/clip/dde6da79-810c-4680-b2b2-62ebdcfa816c_16-9-discover-aspect-ratio_default_0_x1000y456.jpg"
 ],
-"https://www.sport.es/es/noticias/futbol/ander-herrera-jugador-real-zaragoza-135828466": [
-"El centrocampista repasada en 'El Camino de Mario' alguno de sus momentos más importantes de su carrera como sus inicios en el club de su vida hasta sus experiencias en Manchester United, PSG o Boca Juniors",
-"2026-10-28T05:30:27+01:00",
-"Ander Herrera, jugador del Real Zaragoza, en el canal de Mario Suárez: 'Fue muy duro ver el descenso a Primera Federación, pero llevaban años comprando papeletas'",
-"https://estaticos-cdn.prensaiberica.es/clip/bcdbf7be-87fd-480d-a946-7387ea88c96f_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
+"https://www.sport.es/es/noticias/futbol/auriense-espera-deportivo-brazos-abiertos-135842901": [
+"Dani Prado, entrenador del conjunto ourensano: “Es un premio para los chicos y para el club, pero queremos salir al máximo”",
+"2026-10-28T12:54:02+01:00",
+"El Auriense espera al Deportivo con los brazos abiertos en la Copa del Rey: “Me haría ilusión la camiseta de Bil Nsongo”",
+"https://estaticos-cdn.prensaiberica.es/clip/3afa25e6-39d3-45bf-b509-105ee767bdbe_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
+],
+"https://www.sport.es/es/noticias/futbol/copa-rey/suspendida-jornada-copa-rey-135840010": [
+"La Copa del Rey pasa a un segundo plano tras el accidente de tren a la altura de Toledo, en el trayecto Madrid-Andalucía; la RFEF confirma la suspensión de los 24 partidos de este miércoles",
+"2026-10-28T12:36:32+01:00",
+"Oficial: ¡Suspendida toda la jornada de hoy de la Copa del Rey!",
+"https://estaticos-cdn.prensaiberica.es/clip/0b9e89a2-5e5c-49b1-b023-81918ab40fbb_16-9-discover-aspect-ratio_default_0_x1024y455.jpg"
 ],
 "https://www.sport.es/es/noticias/futbol/copa-rey/xavi-vilajoana-prat-darle-guerra-135794258": [
 "Xavi Vilajoana, vicepresidente económico y deportivo del AE Prat, relata cómo el club pratense se prepara para vivir un día histórico en la Copa del Rey",
@@ -1949,17 +1955,35 @@
 "Xavi Vilajoana: 'El Prat va a darle mucha guerra al Athletic'",
 "https://estaticos-cdn.prensaiberica.es/clip/6869ca9f-5ad1-4b20-9409-f09a2c7ebc24_16-9-discover-aspect-ratio_default_0_x720y319.jpg"
 ],
-"https://www.sport.es/es/noticias/futbol/emotivo-mensaje-lalo-debut-hijo-135837924": [
-"El director deportivo blanquillo publica en sus redes sociales una foto con el lateral en Tudela y le dedica unas bonitas palabras",
-"2026-10-28T11:33:39+01:00",
-"El emotivo mensaje de Lalo tras el debut de su hijo con el Real Zaragoza: 'Un día que nunca olvidarás, un día que nunca olvidaré'",
-"https://estaticos-cdn.prensaiberica.es/clip/dbb388de-c797-43be-b1fb-50e5866bbe84_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
+"https://www.sport.es/es/noticias/futbol/cumbre-sporting-analizar-situacion-ojo-135842899": [
+"Orlegi Sports mantiene su respaldo al proyecto de Nicolás Larcamón tras el primer tramo de temporada, en el que el equipo ha logrado sumar 19 de los 33 puntos disputados",
+"2026-10-28T12:50:23+01:00",
+"Cumbre en el Sporting para analizar la situación con un ojo puesto en el mercado",
+"https://estaticos-cdn.prensaiberica.es/clip/ac9a0792-c642-405e-a9b6-cc589c54c197_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
-"https://www.sport.es/es/noticias/futbol/sant-andreu-echa-natxo-gonzalez-135837392": [
-"El exentrenador blanquillo técnico vitoriano deja el conjunto catalán tras un irregular inicio de temporada en Primera Federación",
-"2026-10-28T11:22:20+01:00",
-"El Sant Andreu echa a Natxo González y el técnico no se reencontrará con el Real Zaragoza",
-"https://estaticos-cdn.prensaiberica.es/clip/99b6009c-12a1-47b7-83d3-c6230e6109b8_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
+"https://www.sport.es/es/noticias/futbol/segunda-rfef/aplazado-partido-copa-rey-cd-135843145": [
+"La Real Federación Española de Fútbol suspende las 24 eliminatorias programadas para este miércoles por el accidente ferroviario ocurrido en la provincia de Toledo.",
+"2026-10-28T12:55:46+01:00",
+"Aplazado el partido de Copa del Rey del CD Tenerife ante el Badajoz en el Vivero",
+"https://estaticos-cdn.prensaiberica.es/clip/9bff045f-ab9d-4c1d-a7ba-072b4ec37e7c_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
+],
+"https://www.sport.es/es/noticias/futbol/segunda-rfef/suspendido-alcoyano-mallorca-resto-jornada-135843505": [
+"La RFEF ha tomado la decisión tras la tragedia ferroviaria, con el duelo que iba a disputarse en El Collao como uno de los afectados",
+"2026-10-28T12:56:30+01:00",
+"Suspendido el Alcoyano-Mallorca y el resto de la jornada de Copa de este miércoles por el accidente de trenes en Toledo",
+"https://estaticos-cdn.prensaiberica.es/clip/819db2b1-618e-45e7-88d6-2175dc68eb6a_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
+],
+"https://www.sport.es/es/noticias/futbol/segunda-rfef/suspendidos-minera-fc-cartagena-cieza-135842609": [
+"La RFEF cancela la jornada de Copa del Rey prevista para hoy",
+"2026-10-28T12:48:31+01:00",
+"Suspendidos el Minera - FC Cartagena y el Cieza - Granada por el accidente ferroviario",
+"https://estaticos-cdn.prensaiberica.es/clip/d86e0fa7-c4cf-43f7-bca1-c2993b58bb88_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
+],
+"https://www.sport.es/es/noticias/motor/moto-gp/catar-motogp-ven-impedimento-corra-135829907": [
+"Ya se ha tenido que suspender el Gran Premio de Australia y sería muy llamativo, demasiado preocupante, que se suspenda, por fuerza mayor, bueno, por la Guerra de Irán, el Gran Premio de Catar, que debe disputarse, la semana que viene, en Doha",
+"2026-10-28T12:17:09+01:00",
+"Ni Catar ni MotoGP ven impedimento para que se corra en Doha",
+"https://estaticos-cdn.prensaiberica.es/clip/19db2504-51c5-4683-a525-7e64a2dc9df5_16-9-discover-aspect-ratio_default_0_x582y219.jpg"
 ],
 "https://www.sport.es/es/noticias/opinion/balon-oro-blaugrana-hizo-justicia-135788813": [
 "No ganó Lamine Yamal y me parece una injusticia. Ha sido el mejor futbolista de la temporada, el que más partidos ha decidido, el que más jugadas estratosféricas se ha inventado y el que más veces ha conseguido que el fútbol parezca un espectáculo…",
@@ -2009,12 +2033,6 @@
 "Riera y Bidahorria dan la campanada en Kuwait y dejan fuera a Salazar y Osoro",
 "https://estaticos-cdn.prensaiberica.es/clip/2af05eeb-1c7d-41ac-8be3-f0be89fabb22_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
-"https://www.sport.es/es/noticias/premier-league/araujo-vuelve-araujo-lejos-barca-135826343": [
-"Diseccionamos las claves de la resurrección del charrúa en Anfield de la mano del analista Albert Blaya",
-"2026-10-28T08:00:33+01:00",
-"Por qué Araujo vuelve a ser Araujo lejos del Barça: 'Tenía un bloqueo mental importante, no estaba bien aquí'",
-"https://estaticos-cdn.prensaiberica.es/clip/974acdc4-ddf6-48db-ba1b-704a520c9c4d_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
-],
 "https://www.sport.es/es/noticias/real-madrid/carvajal-rompe-silencio-salida-real-135830967": [
 "El ahora lateral del Getafe aseguró que siempre respetó 'todas las decisiones del entrenador' y que nunca se rebotó por no jugar",
 "2026-10-28T09:14:08+01:00",
@@ -2033,35 +2051,11 @@
 "Cucurella desvela con qué jugador se pegaría en 'La Velada del Año': 'Saca lo peor de mí'",
 "https://estaticos-cdn.prensaiberica.es/clip/61bbb6af-00fd-4139-bc57-9bed9f6c304f_16-9-discover-aspect-ratio_default_0_x1000y444.jpg"
 ],
-"https://www.sport.es/es/noticias/real-madrid/dani-carvajal-contundente-elecciones-29-135831543": [
-"El exmadridista pide que haya una gran participación para solucionar los problemas que más preocupan al país",
-"2026-10-28T11:30:04+01:00",
-"Dani Carvajal, contundente sobre las elecciones del 29-N: “A todos nos preocupa el estado actual de España, es una pena cómo está el tema de la vivienda, tenemos un país maravilloso. Espero que la gente vaya a votar y ojalá se solucionen los problemas”",
-"https://estaticos-cdn.prensaiberica.es/clip/ff8df1a2-b3b3-431c-8602-6a03a5cea5b9_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
-],
-"https://www.sport.es/es/noticias/real-madrid/javier-tebas-reune-embajador-china-135838436": [
-"LaLiga mueve ficha al más alto nivel institucional tras el veto televisivo en el gigante asiático, mientras el Real Madrid se suma a las disculpas institucionales",
-"2026-10-28T11:51:00+01:00",
-"Tebas se reúne con el embajador de China en España para reconducir la crisis de Mbappé",
-"https://estaticos-cdn.prensaiberica.es/clip/484c30d5-71e6-4865-80b9-4144379caf78_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
-],
-"https://www.sport.es/es/noticias/real-madrid/mbappe-ozil-messi-alto-precio-china-135821812": [
-"El jugador del Real Madrid y de la selección francesa es el último de los deportistas contra los que el país asiático ha tomado medidas por sus gestos o manifestaciones",
-"2026-10-28T06:30:17+01:00",
-"Mbappé, Cristiano, Messi, Özil... El alto precio de enfadar a China",
-"https://estaticos-cdn.prensaiberica.es/clip/350d2c9a-ebfe-461a-ab62-25d6647a7821_16-9-discover-aspect-ratio_default_0_x1000y444.jpg"
-],
 "https://www.sport.es/es/noticias/real-madrid/polemica-reacciones-actualidad-deportiva-barca-135829320": [
 "Sigue toda la actualidad del deporte con la información y la última hora de las radios españolas",
 "2026-10-28T07:19:33+01:00",
 "Polémica y reacciones de la actualidad deportiva de Barça y Real Madrid, en directo: sigue toda la radio deportiva",
 "https://estaticos-cdn.prensaiberica.es/clip/059cbbf9-d6d9-4729-b042-663fda1937a9_16-9-discover-aspect-ratio_default_1516798.jpg"
-],
-"https://www.sport.es/es/noticias/real-madrid/siro-lopez-crisis-laliga-china-135830228": [
-"Las palabras de Mbappé sobre sus memes han abierto una brecha en la relación entre LaLiga y China que puede tener graves consecuencias económicas",
-"2026-10-28T08:45:29+01:00",
-"Siro López, sobre la crisis de LaLiga con China: 'Poderoso caballero es don dinero, Tebas y Mbappé se han bajado los pantalones hasta las rodillas'",
-"https://estaticos-cdn.prensaiberica.es/clip/150db2a9-cb11-4468-80e7-3a52e3598577_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
 "https://www.sport.es/es/noticias/real-sociedad/paciencia-hector-fort-empieza-dar-135835961": [
 "El lateral catalán abandonó Barcelona en verano a cambio de 8 millones de euros por el 50% de sus derechos. El equipo culé tiene una opción de recompra y un porcentaje de futura venta",
@@ -2075,6 +2069,18 @@
 "De 150 a 68 euros: Amazon desploma el precio de estos auriculares Sony con cancelación de ruido ¡y más!",
 "https://estaticos-cdn.prensaiberica.es/clip/741beda7-b6bf-4d39-a834-cc7fb1f850a5_16-9-discover-aspect-ratio_default_0_x600y266.jpg"
 ],
+"https://www.sport.es/es/noticias/tenis/badosa-paso-cerrar-ano-top50-135841080": [
+"La española supera los octavos de final en Guangzhou y aspira a cerrar el año con un último gran empujón en el ranking",
+"2026-10-28T12:47:58+01:00",
+"Badosa, a un paso de cerrar el año en el Top50",
+"https://estaticos-cdn.prensaiberica.es/clip/c333aad8-1f45-423d-80e6-c8e4e4eaa378_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
+],
+"https://www.sport.es/es/noticias/tenis/sinner-sincera-lesion-dice-basta-135836867": [
+"El italiano reconoce que debe tener paciencia durante la recuperación de su lesión",
+"2026-10-28T12:10:00+01:00",
+"Sinner se sincera sobre su lesión: 'Cuando te dice basta debes aceptarlo'",
+"https://estaticos-cdn.prensaiberica.es/clip/e8cdacc1-742c-47b4-87ea-560cb6defd4e_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
+],
 "https://www.sport.es/es/noticias/tenis/toni-nadal-entrenador-tio-rafa-135799111": [
 "'No entrenaría a ninguno de ellos ni a ningún otro jugador', afirma el mallorquín",
 "2026-10-28T09:00:20+01:00",
@@ -2086,6 +2092,12 @@
 "2026-10-27T22:41:23+01:00",
 "Zverev salva cuatro bolas de partido ante Landaluce y deja el Nº1 a dos pasos",
 "https://estaticos-cdn.prensaiberica.es/clip/ca0df8ce-12ed-4bb2-a702-7c4898758fcd_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
+],
+"https://www.sport.es/es/noticias/videojuegos/expresidente-nintendo-dudo-empleados-temen-135834428": [
+"Satoru Iwata habló en su momento acerca de las consecuencias de la incertidumbre en el sector",
+"2026-10-28T13:00:13+01:00",
+"El expresidente de Nintendo: 'Dudo mucho que los empleados que temen perder su trabajo puedan desarrollar juegos que impresionen a la gente de todo el mundo'",
+"https://estaticos-cdn.prensaiberica.es/clip/fe8bb751-0799-4252-ba66-4e3c04be4dd8_16-9-discover-aspect-ratio_default_0_x950y356.jpg"
 ],
 "https://www.sportmediaset.mediaset.it/basket/eurolega-milano-lotta-ma-crolla-ancora-il-panathinaikos-vince-80-75_118230117-202602k.shtml": [
 "L’Olimpia resiste per tutti e 40 i minuti, ma all’ultimo cede e incappa nella settima sconfitta in Europa",
@@ -2123,6 +2135,18 @@
 "Caso Mbappé, la Cina chiude il caso: \"Prendiamo sul serio le sue scuse\"",
 "https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118238845?r=11"
 ],
+"https://www.sportmediaset.mediaset.it/calcio/calcioestero/liga/spagna-incidente-calciatori-ministro-attacco_118243101-202602k.shtml": [
+"Durissima presa di posizione di Marcos Llorente contro il ministro Óscar Puente dopo lo scontro tra treni a Toledo",
+"2026-10-28T12:15:34+01:00",
+"Spagna scossa dall'incidente ferroviario a Toledo: i calciatori contro il Ministro dei Trasporti",
+"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118243103?r=7"
+],
+"https://www.sportmediaset.mediaset.it/calcio/calcioestero/premier-league/il-manchester-united-conferma-per-ora-carrick-ma-i-tifosi-contestano-i-giocatori_118243267-202602k.shtml": [
+"L'allenatore resta alla guida del club in vista della partita con il Chelsea",
+"2026-10-28T12:17:01+01:00",
+"Il Manchester United conferma per ora Carrick, ma i tifosi contestano i giocatori",
+"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118243266?r=5"
+],
 "https://www.sportmediaset.mediaset.it/calcio/caso-mbappe-cina-arriva-la-nota-del-real-profondo-rispetto-per-il-vostro-popolo_118241358-202602k.shtml": [
 "Sul caso Mbappe-Cina arrivano anche le attese scuse del Real Madrid. Il club della Liga \"desidera esprimere le sue scuse al popolo cinese per il...",
 "2026-10-28T11:17:47+01:00",
@@ -2134,6 +2158,12 @@
 "2026-10-27T23:29:45+01:00",
 "Como, Fabregas: \"Obiettivo scudetto? Non so quanti punti abbiamo e non mi interessa\"",
 "https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118233230?r=5"
+],
+"https://www.sportmediaset.mediaset.it/calcio/fifa-l-asia-sostiene-infantino-si-dimette-il-n-2-del-calcio-giapponese_118242926-202602k.shtml": [
+"L'Asia si allinea con Gianni Infantino e il n.2 del calcio giapponese si dimette. Il vicepresidente della Federazione nipponica, Takeshi Okada, ha...",
+"2026-10-28T12:15:00+01:00",
+"Fifa: l'Asia sostiene Infantino, si dimette il n.2 del calcio giapponese",
+"https://img-api.cloud.mediaset.net/api/images/cu/v2/-/1200/675/aHR0cHM6Ly93d3cuc3BvcnRtZWRpYXNldC5tZWRpYXNldC5pdC9hc3NldHMvbWlzYy9zcG9ydG1lZGlhc2V0LWJhY2tncm91bmQucG5n?r=-1"
 ],
 "https://www.sportmediaset.mediaset.it/calcio/follia-all-aeroporto-per-il-padre-di-yamal-sputo-a-una-cameriera-prima-del-pallone-d-oro_118240829-202602k.shtml": [
 "Un brutto episodio di cronaca avrebbe visto protagonista Mounir Nasraoui, padre di Lamine Yamal, poco prima di imbarcarsi per Londra in occasione della...",
@@ -2159,6 +2189,12 @@
 "Inter, Esposito e Bonny insieme dall'inizio col Venezia? Il precedente non fa sorridere Chivu",
 "https://img-api.cloud.mediaset.net/api/images/cu/v2/-/1200/675/aHR0cHM6Ly93d3cuc3BvcnRtZWRpYXNldC5tZWRpYXNldC5pdC9hc3NldHMvbWlzYy9zcG9ydG1lZGlhc2V0LWJhY2tncm91bmQucG5n?r=-1"
 ],
+"https://www.sportmediaset.mediaset.it/calcio/inter/venezia-inter-incrocio-fili-aleksandar-stankovic_118241573-202602k.shtml": [
+"Venezia-Inter non e una partita banale per i fratelli Stankovic. Per la prima volta, Aleksandar e Filip si troveranno uno contro l'altro al Penzo.",
+"2026-10-28T12:39:10+01:00",
+"Venezia-Inter è anche Aleksandar contro Filip Stankovic: duello tra fratelli in laguna",
+"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118241578?r=34"
+],
 "https://www.sportmediaset.mediaset.it/calcio/lazio-primo-gol-in-a-di-floriani-mussolini_118220062-202602k.shtml": [
 "Prima rete in serie A di Romano Floriani Mussolini, con la maglia della Lazio. Il 23enne ha siglato il 3-1 per i biancocelesti nella gara con il Sassuolo.",
 "2026-10-27T19:04:25+01:00",
@@ -2183,17 +2219,17 @@
 "Zero sogni e solida realtà: attenzione a sottovalutare la Lazio di Gattuso",
 "https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118236325?r=15"
 ],
-"https://www.sportmediaset.mediaset.it/calcio/lecce-ilic-operato-con-successo-in-finlandia-a-retto-femorale_118216249-202602k.shtml": [
-"Il Lecce comunica che \"il calciatore Ivan Ilic e stato sottoposto nella mattinata odierna ad intervento chirurgico a seguito della lesione miotendinea...",
-"2026-10-27T17:51:51+01:00",
-"Lecce, Ilic operato con successo in Finlandia a retto femorale",
-"https://img-api.cloud.mediaset.net/api/images/cu/v2/-/1200/675/aHR0cHM6Ly93d3cuc3BvcnRtZWRpYXNldC5tZWRpYXNldC5pdC9hc3NldHMvbWlzYy9zcG9ydG1lZGlhc2V0LWJhY2tncm91bmQucG5n?r=-1"
-],
 "https://www.sportmediaset.mediaset.it/calcio/milan-fullkrug-si-e--trasformato--gol-clamoroso-al-borussia-e-i-numeri-sono-super_118241589-202602k.shtml": [
 "Quasi impalpabile nei sei mesi trascorsi al Milan, Niclas Fullkrug si e letteralmente trasformato in Bundesliga. L'attaccante, in prestito al Werder...",
 "2026-10-28T11:42:20+01:00",
 "Milan, Fullkrug si è 'trasformato': gol clamoroso al Borussia. E i numeri sono super",
 "https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118241588?r=6"
+],
+"https://www.sportmediaset.mediaset.it/calcio/nuovo-san-siro-presentazione-progetto-costi-posti_118244286-202602k.shtml": [
+"Serviranno oltre 700 milioni solo per lo stadio, i due club si aspettano 60 milioni in piu di ricavi l'anno",
+"2026-10-28T12:41:09+01:00",
+"Inter e Milan pronte a svelare il nuovo San Siro: come sarà, quando sarà pronto e quanto costerà",
+"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118244288?r=10"
 ],
 "https://www.sportmediaset.mediaset.it/calcio/pagelle-roma-lulli-e-rodrigo-mora-gioventu-al-potere-castro-spreca-la-sua-grande-occasione_118224559-202602k.shtml": [
 "Ottime parate di Gollini soprattutto nel secondo tempo, De Roon e Cristante sicurezze a centrocampo",
@@ -2237,6 +2273,12 @@
 "Secondo intervento alle gambe per Zambrotta: operazione riuscita, presto potrà camminare normalmente",
 "https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118240856?r=16"
 ],
+"https://www.sportmediaset.mediaset.it/calcio/serie-a-le-partite-di-questa-sera-e-la-classifica-aggiornata_118242904-202602k.shtml": [
+"Si giocano oggi cinque partite della nona giornata di serie A. Questo il programma e le classifiche: Nona giornata: Sassuolo-Lazio 2-6, Roma-Cagliari...",
+"2026-10-28T12:01:39+01:00",
+"Serie A, le partite di questa sera e la classifica aggiornata",
+"https://img-api.cloud.mediaset.net/api/images/cu/v2/-/1200/675/aHR0cHM6Ly93d3cuc3BvcnRtZWRpYXNldC5tZWRpYXNldC5pdC9hc3NldHMvbWlzYy9zcG9ydG1lZGlhc2V0LWJhY2tncm91bmQucG5n?r=-1"
+],
 "https://www.sportmediaset.mediaset.it/calcio/seriea/l-inter-per-riprendersi-la-vetta-il-milan-la-champions-e-un-mercoledi-di-fuoco-juve-e-napoli-non-possono-sbagliare_118235570-202602k.shtml": [
 "Alle 18,30 riparte il nono turno di Serie A dopo le vittorie di Lazio, Como e Roma negli anticipi",
 "2026-10-28T09:56:12+01:00",
@@ -2278,12 +2320,6 @@
 "2026-10-28T07:42:59+01:00",
 "Una Lamborghini e una Mercedes in un concessionario fantasma",
 "https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118234396?r=4"
-],
-"https://www.sportmediaset.mediaset.it/formula1/antonelli-rinuncia-al-numero-1-terro-il-12-anche-da-campione-del-mondo_118215283-202602k.shtml": [
-"A un passo dal titolo mondiale, il bolognese annuncia di voler restare fedele a... Senna",
-"2026-10-27T17:53:02+01:00",
-"Antonelli rinuncia al numero 1: \"Terrò il 12 anche da campione del mondo\"",
-"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118215468?r=18"
 ],
 "https://www.sportmediaset.mediaset.it/formula1/f1-messico-tre-italiani-libere-record_118240305-202602k.shtml": [
 "Tre italiani in pista nelle prove libere del GP del Messico: Kimi Antonelli per il titolo, Fornaroli e il debuttante Mini. Un evento che mancava dal 2011",
@@ -2387,16 +2423,10 @@
 "Da Torino 2006 alle Atp Finals: la storia dell'Inalpi Arena",
 "https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118229186?r=11"
 ],
-"https://www.sportmediaset.mediaset.it/speciale/eicma-2026/kawasaki-kle650-2027-caratteristiche-versioni_118218635-202602k.shtml": [
-"Kawasaki ridefinisce il segmento adventure di media cilindrata con la nuova KLE650, un modello che punta su versatilita, comfort e tecnologia. Disponibile anche nella piu ricca e dotata versione SE",
-"2026-10-27T18:38:54+01:00",
-"Nuova Kawasaki KLE650: pronta per ogni avventura",
-"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118217732?r=4"
-],
-"https://www.sportmediaset.mediaset.it/sport/iscrizioni-aperte-per-bologna-city-run-2027-corsa-per-finanziare-la-ricerca_118216251-202602k.shtml": [
-"Il 7 marzo 2027 sotto le due Torri si tornera a correre per la ricerca. Sono aperte gia da oggi le iscrizioni per la prossima edizione della Bologna...",
-"2026-10-27T17:53:05+01:00",
-"Iscrizioni aperte per Bologna city run 2027, corsa per finanziare la ricerca",
+"https://www.sportmediaset.mediaset.it/sport/curling-europei-italia-femminile-sconfitta-all-esordio-da-norvegia_118242925-202602k.shtml": [
+"A Ostrava (Rep. Ceca) sono cominciati i Campionati Europei 2026 di curling. Nella serata di martedi 27 ottobre, l'Italia femminile ha effettuato il...",
+"2026-10-28T12:03:27+01:00",
+"Curling: Europei, Italia femminile sconfitta all'esordio da Norvegia",
 "https://img-api.cloud.mediaset.net/api/images/cu/v2/-/1200/675/aHR0cHM6Ly93d3cuc3BvcnRtZWRpYXNldC5tZWRpYXNldC5pdC9hc3NldHMvbWlzYy9zcG9ydG1lZGlhc2V0LWJhY2tncm91bmQucG5n?r=-1"
 ],
 "https://www.sportmediaset.mediaset.it/sport/pallanuoto-pro-recco-bis-in-champions-league-a-genova-battuta-l-oradea_118240567-202602k.shtml": [
@@ -2423,12 +2453,6 @@
 "Tennis, Zverev soffre ma va avanti a Vienna: manca sempre meno al sorpasso su Sinner",
 "https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118228027?r=6"
 ],
-"https://www.sportmediaset.mediaset.it/tennis/tennis-alcaraz-vittoria-vienna-cifre-montepremi-bonus-pool_118216463-202602k.shtml": [
-"Carlos Alcaraz supera Khachanov al debutto nell'ATP 500 di Vienna. Oltre al titolo, lo spagnolo punta a un bottino da 2,2 milioni di euro tra premio, fee e Bonus Pool",
-"2026-10-27T18:05:53+01:00",
-"Alcaraz bagna l'esordio a Vienna con un successo: ma in Austria la posta in palio è milionaria",
-"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118216462?r=9"
-],
 "https://www.sportmediaset.mediaset.it/tennis/tennis-wawrinka-dice-basta-lascio-senza-rimpianti_118241042-202602k.shtml": [
 "Lo svizzero annuncia il suo ritiro dalle competizioni",
 "2026-10-28T11:05:07+01:00",
@@ -2441,11 +2465,11 @@
 "IX Consiglio Nazionale CIP e la cerimonia di consegna delle Stelle d’Oro al Merito Sportivo Paralimpico",
 "https://cdn.tuttosport.com/images/2026/10/28/100837044-fce8fe4f-e2ff-4430-8ca0-8a40d38faec7.jpeg"
 ],
-"https://www.tuttosport.com/news/altri-sport/running/2026/10/27-152191954/apertura_iscrizioni_bologna_city_run_2027_una_corsa_per_sostenere_la_ricerca": [
-"Bologna City Run 5Km al via con il prezioso supporto del main partner Emil Banca Accendi luce & gas entra al fianco di Bologna Marathon come Presenting Partner L’evento al via con la Termal Bologna Marathon di domenica 7 marzo 2027 Rinnovata la…",
-"2026-10-27T14:45:27+01:00",
-"Apertura iscrizioni Bologna City Run 2027, una corsa per sostenere la ricerca",
-"https://cdn.tuttosport.com/images/2026/10/27/134314811-f36c6682-033e-43c0-a65f-ed82feed9445.jpg"
+"https://www.tuttosport.com/news/altri-sport/equitazione/2026/10/28-152220962/global_champions_e_federazione_equestre_egiziana_insieme_per_i_cavalli_di_giza": [
+"In occasione della tappa in Egitto, il più famoso circuito di salto ostacoli mondiale scende in campo per il benessere animale: un piano quinquennale con interventi strutturali, assistenza veterinaria, formazione e monitoraggio per migliorare le…",
+"2026-10-28T12:12:28+01:00",
+"Global Champions e Federazione Equestre Egiziana insieme per i cavalli di Giza",
+"https://cdn.tuttosport.com/images/2026/10/28/111215080-82c2c2d4-15d2-444e-8513-efa1542bd541.jpg"
 ],
 "https://www.tuttosport.com/news/altri-sport/running/2026/10/27-152192315/quanto_guadagna_il_vincitore_della_maratona_di_new_york_": [
 "Svelato il guadagno dei vincitori della maratona di New York di questa domenica 1 novembre. Dalle ore 14 diretta in esclusiva e in chiaro su corrieredellosport.it",
@@ -2465,23 +2489,23 @@
 "Le vittorie italiane alla maratona di New York. Il primo? Pizzo what",
 "https://cdn.tuttosport.com/images/2026/10/28/081825674-73dbcdcc-af8e-4679-b71f-696cb2dbb29d.jpg"
 ],
-"https://www.tuttosport.com/news/calcio/calcio-estero/premier-league/2026/10/27-152192308/carrick_ultimatum_dal_manchester_united_contro_chi_si_gioca_tutto_e_il_punto_su_conte": [
-"Sempre più in bilico la posizione dell'attuale tecnico inglese: tra i possibili sostituti c'è anche l'ex allenatore di Juve, Inter e Napoli",
-"2026-10-27T15:23:44+01:00",
-"Carrick, ultimatum dal Manchester United: contro chi si gioca tutto e il punto su Conte",
-"https://cdn.tuttosport.com/images/2026/10/27/141328240-1fa31098-21bd-4c76-8667-1d0ad88c0e72.jpg"
+"https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/27-152189293/spalletti_il_timore_kolo_muani_e_il_tema_alajbegovic_juve_molto_pi_seria_di_quelle_domande": [
+"L'allenatore bianconero tocca diversi temi in vista della sfida contro il Genoa del turno infrasettimanale: \"La squadra è in salute\"",
+"2026-10-27T16:45:00+01:00",
+"Spalletti, il timore Kolo Muani e il tema Alajbegovic: “Juve molto più seria di quelle domande…”",
+"https://cdn.tuttosport.com/images/2026/10/27/151501166-7cb9fbcb-4871-4039-a1e6-53e5f9809bbe.jpg"
 ],
-"https://www.tuttosport.com/news/calcio/serie-a/napoli/2026/10/27-152190990/allegri_no_al_ricorso_napoli_magari_prendo_4_giornate_frasi_contro_la_roma_al_condizionale_": [
-"Il tecnico del Napoli ha presentato in conferenza stampa la sfida di campionato in casa del Monza",
-"2026-10-27T14:26:59+01:00",
-"Allegri, no al ricorso Napoli: \"Magari prendo 4 giornate. Frasi contro la Roma? Al condizionale...\"",
-"https://cdn.tuttosport.com/images/2026/10/27/133158754-0e105d1f-fa11-4fef-b198-2a1dc360d13c.jpg"
+"https://www.tuttosport.com/news/calcio/serie-a/monza/2026/10/27-152192521/juric_conferenza_monza-napoli_allegri_diverso_rispetto_a_quello_della_juventus_con_la_roma_": [
+"Il tecnico dei biancorossi parla alla vigilia della sfida di campionato contro gli azzurri: \"Dobbiamo essere più aggressivi\"",
+"2026-10-27T15:57:34+01:00",
+"Juric, conferenza Monza-Napoli: \"Allegri diverso rispetto a quello della Juventus. Con la Roma...\"",
+"https://cdn.tuttosport.com/images/2026/10/27/145213491-7c89c4c1-e848-49c2-ad44-b0294d9c5791.jpg"
 ],
-"https://www.tuttosport.com/news/calcio/serie-a/roma/2026/10/27-152191861/dybala_ancora_out_non_convocato_per_roma-cagliari_ecco_quando_pu_tornare_in_campo": [
-"Nonostante l’ottimismo della vigilia l’argentino ex Juventus non recupera e salta la sfida contro i sardi",
-"2026-10-27T14:46:24+01:00",
-"Dybala ancora out, non convocato per Roma-Cagliari: ecco quando può tornare in campo",
-"https://cdn.tuttosport.com/images/2026/10/27/133745473-e32f665d-97b8-4598-b1c6-4454759d08f4.jpg"
+"https://www.tuttosport.com/news/calcio/serie-a/torino/2026/10/28-152218042/adams_4_centro_non_4_vittorie_di_fila": [
+"Il Torino è andato vicino a eguagliare il poker di successi firmato 11 anni fa: fino a 9 minuti dalla fine...",
+"2026-10-28T13:00:00+01:00",
+"Adams, 4° centro. Non 4 vittorie di fila",
+"https://cdn.tuttosport.com/images/2026/10/28/083029308-516bab9f-2f4e-432e-a3e0-0da2f7fa8a68.jpg"
 ],
 "https://www.tuttosport.com/news/formula-1/mercedes/2026/10/27-152206947/antonelli_countdown_mondiale_non_l_ho_ancora_vinto_ma_nel_caso_non_prender_il_numero_1": [
 "Così il 20enne pilota italiano della Mercedes: \"Penso di tenere il 12\"",
@@ -2512,24 +2536,6 @@
 "2026-10-27T23:24:11+01:00",
 "Bergamo vince la maratona contro la Omag",
 "https://cdn.tuttosport.com/images/2026/10/27/221604556-cff6cf5f-5ec9-4291-9e1c-a23faa15566b.jpg"
-],
-"https://www.tuttosport.com/news/piemonte-news/2026/10/27-152191397/baglietto_derthona_con_rostock_alla_nova_arena_per_consolidarsi_in_zona-playoff": [
-"Alle ore 19:30 di domani la formazione allenata da coach Fioretti ospita la squadra tedesca per la quinta giornata di regular season del Girone A di BKT EuroCup",
-"2026-10-27T14:23:14+01:00",
-"Baglietto Derthona: con Rostock alla Nova Arena per consolidarsi in zona-playoff",
-"https://cdn.tuttosport.com/images/2026/10/27/132310725-3d57bdc1-a1f3-4e35-b113-53965d49568d.jpg"
-],
-"https://www.tuttosport.com/news/piemonte-news/2026/10/27-152191600/sci_club_sauze_doulx_halloween_da_brividi_in_arrivo_una_festa_per_tutti": [
-"Maschere mostruose, zucche da intagliare, caccia al tesoro e dolcetti per un pomeriggio di divertimento, amicizia e solidarietà con un pensiero speciale alla Fondazione Matilde Lorenzi",
-"2026-10-27T14:30:19+01:00",
-"Sci Club Sauze d’Oulx, Halloween da brividi: in arrivo una festa per tutti",
-"https://cdn.tuttosport.com/images/2026/10/27/133010385-401fa1d0-59d7-4513-928b-f009288a6907.jpg"
-],
-"https://www.tuttosport.com/news/piemonte-news/2026/10/27-152192309/bea_chieri_esordio_stagionale_per_le_leoparde_in_serie_c_a_ceva": [
-"La Prima Squadra femminile debutta in campionato contro il Club Borsi Ceva, che si impone sulle Arancioni al termine di una gara dai due volti",
-"2026-10-27T15:06:05+01:00",
-"BEA Chieri, esordio stagionale per le Leoparde in Serie C a Ceva",
-"https://cdn.tuttosport.com/images/2026/10/27/140553426-2785c6d9-704d-4b20-993d-d2c92756e32c.jpg"
 ],
 "https://www.tuttosport.com/news/piemonte-news/2026/10/27-152193015/tutto_pronto_per_i_campionati_europei_di_majorette": [
 "Oggi la presentazione nella Sala Trasparenza del Grattacielo della Regione Piemonte. Dal 29 ottobre al 1° novembre il Pala Gianni Asti ospita la kermesse, con 33 titoli in palio e 13 nazioni partecipanti. Quattro giornate di gare, oltre 1500…",
@@ -2584,6 +2590,24 @@
 "2026-10-28T08:47:32+01:00",
 "Genoa-Juventus, De Rossi contro Spalletti: pronostico sull'Under/Over 2,5",
 "https://cdn.tuttosport.com/images/2026/10/28/074539556-3210a706-0e01-42b0-8b5c-fa8de28a92cc.jpg"
+],
+"https://www.tuttosport.com/news/scommesse/2026/10/28-152219309/una_terzina_da_x4_14_con_il_milan_e_due_gol_in_serie_b": [
+"La vittoria del Milan apre una combinazione che prosegue con Pisa-Palermo e Juve Stabia-Verona, due confronti nei quali la scelta è una rete per parte",
+"2026-10-28T12:13:03+01:00",
+"Una terzina da x4,14 con il Milan e due Gol in Serie B",
+"https://cdn.tuttosport.com/images/2026/10/28/111239796-e864514d-e05f-41d5-b681-58effc49fcc5.jpg"
+],
+"https://www.tuttosport.com/news/scommesse/2026/10/28-152219402/over_2_5_e_gol_per_una_terzina_che_supera_x5_": [
+"Le reti guidano la terzina tra Serie B e Serie A, con Carrarese-Arezzo e Juve Stabia-Verona affiancate dall’Over 2,5 di Monza-Napoli",
+"2026-10-28T12:27:04+01:00",
+"Over 2,5 e Gol per una terzina che supera x5!",
+"https://cdn.tuttosport.com/images/2026/10/28/111740266-c0048916-3b05-4831-ad20-9ff4bad9b5ea.jpg"
+],
+"https://www.tuttosport.com/news/scommesse/analisi/2026/10/28-152190981/genoa-juventus_la_miglior_giocata_ecco_chi_pu_regalarla": [
+"Il contest di Planetwin365.news chiama in causa anche il match di Marassi tra gli uomini di De Rossi e quelli di Spalletti",
+"2026-10-28T12:44:00+01:00",
+"Genoa-Juventus, \"La Miglior Giocata\"? Ecco chi può regalarla",
+"https://cdn.tuttosport.com/images/2026/10/27/125840637-2523cf7b-4ffc-4e9a-9713-c6a834ee4a5f.jpg"
 ],
 "https://www.tuttosport.com/news/tennis/2026/10/27-152195372/effetto_sinner_exploit_binaghi_storico_sorpasso_il_tennis_ha_pi_tesserati_del_calcio": [
 "Per la prima volta la Fitp (1.162.477) supera la Figc (1.123.054). Gli straordinari successi di Jannik e gli eccezionali risultati della conduzione manageriale del presidente alla base del travolgente movimento che coinvolge 6,5 milioni e mezzo di…",
