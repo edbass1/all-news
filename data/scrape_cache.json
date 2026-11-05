@@ -329,12 +329,6 @@
 "The Kimi’s way, parla Toto Wolff: “Ha dimostrato come si deve vincere oggi. Serva d’esempio, non solo ai giovani” - MOW - Mowmag.com",
 "https://crm-img.stcrm.it/images/52646463/HOR_WIDE/2000x/kimi-antonelli-toto-wolff-mercedes.jpg?quality=75&format=webp&width=1300"
 ],
-"https://mowmag.com/sport/valentino-rossi-kimi-antonelli-campione-mondiale-f1-ricorda-me-stesso-italia-storia": [
-"Tra i tanti campioni che hanno celebrato il titolo Mondiale di Kimi Antonelli c’è anche Valentino Rossi. Una vittoria che, racconta, l’ha emozionato: “Tantissimo, è stato un grande ed è stato bello seguirlo”. Ma soprattutto, rispondendo ad Alex Del…",
-"2026-11-02T02:26:53+01:00",
-"Sentito Valentino Rossi celebrare Kimi Antonelli? “Mi ricorda me stesso, per l’Italia ora è un eroe. Può diventare uno dei più forti della storia” - MOW - Mowmag.com",
-"https://crm-img.stcrm.it/images/52645856/HOR_WIDE/2000x/kimi-antonelli-podio-messico-mondiale-f1.jpg?quality=75&format=webp&width=1300"
-],
 "https://napoli.corriere.it/notizie/cronaca/26_novembre_04/napoli-cercasi-commessa-senza-vergogna-per-vendere-abbigliamento-sui-social-a-5-euro-l-ora-325cf8b4-33b7-42ae-8367-ee820efb6xlk.shtml": [
 "È polemica sulla proposta di lavoro lanciata da un outlet nella zona di Poggioreale, specialmente per i «requisiti» richiesti alla commessa 2.0",
 "2026-11-04T21:16:56+01:00",
@@ -539,6 +533,12 @@
 "Will Trump be impeached? Here’s how it could happen",
 "https://cdn.slowdownwiseup.co.uk/media/original_images/WEB_065434-2303431102_71f83878b66435514c43a9640d6375037301d67b_AriIyz2.jpg"
 ],
+"https://observer.co.uk/puzzles/goldilocks/article/goldilocks-no-50": [
+"",
+"2026-11-05T01:01:00+01:00",
+"Goldilocks No. 50 | The Observer",
+"https://cdn.slowdownwiseup.co.uk/media/original_images/puzzles_3.2_goldilocks.png"
+],
 "https://observer.co.uk/style/features/article/i-was-abused-by-my-therapist-how-treatment-turned-to-betrayal": [
 "When a vulnerable woman sought healing during lockdown, her therapist slowly and relentlessly groomed her in what he called ‘energy release’. When she finally fled, she found reporting him was not so simple…",
 "2026-11-03T06:00:00+01:00",
@@ -701,17 +701,17 @@
 "Il voto degli americani per i 145 referendum: la California boccia la patrimoniale sui miliardari, Washington dice no al foie gras. E si parla anche di aborto",
 "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/11/04/6aeb34a5b7c10.jpeg"
 ],
-"https://www.corriere.it/esteri/diretta-live/26_novembre_04/guerra-iran-usa-le-notizie-in-diretta-dal-medio-oriente.shtml": [
-"Le notizie sul conflitto tra Israele, Usa e Iran di mercoledì 4 novembre, in diretta.",
-"2026-11-04T00:05:18+01:00",
-"Guerra Iran-Usa, le notizie in diretta dal Medio Oriente | New York Times: «Piano Usa per attaccare l'Iran dopo il voto». Ma Trump smentisce: «Nessun attacco in programma nell'immediato»",
-"https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/11/03/6aea3963f28fd.jpeg"
-],
 "https://www.corriere.it/esteri/diretta-live/26_novembre_04/midterm-2026-risultati-usa-diretta.shtml": [
 "Usa al voto il 3 novembre per le elezioni di metà mandato: i risultati in diretta. In palio ci sono tutti i 435 seggi della Camera e 35 al Senato. Il nuovo Congresso potrebbe limitare la libertà di movimento di Trump, o facilitarla. Ma si vota anche…",
 "2026-11-04T02:56:40+01:00",
 "Midterm, i risultati delle elezioni Usa 2026 in diretta | I Democratici conquistano la maggioranza alla Camera. Strappato seggio-chiave al Senato in North Carolina. Trump: «Pronto a usare poteri formidabili»",
 "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/11/04/6aea8fbc350f2.jpeg"
+],
+"https://www.corriere.it/esteri/diretta-live/26_novembre_05/iran-usa-news-diretta.shtml": [
+"Le notizie sul conflitto tra Israele, Usa e Iran di giovedì 5 novembre, in diretta",
+"2026-11-05T01:34:53+01:00",
+"Guerra Iran-Usa, le notizie in diretta dal Medio Oriente | «Trump chiede a consiglieri parere su rimozione Hegseth». Khamenei: «Guerra molto più ampia se riprenderà». Il Tycoon: «Nessun attacco in programma a breve»",
+"https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/11/04/6aeb5e9450be4.jpeg"
 ],
 "https://www.corriere.it/frammenti-ferruccio-de-bortoli/26_novembre_04/libri-scolastici-ultima-versione-del-populismo-b2766f8a-1e52-492d-aa64-36e5380dfxlk.shtml": [
 "Così le famiglie meno abbienti e poco digitalizzate verranno inevitabilmente penalizzate",
@@ -1529,30 +1529,6 @@
 "E-commerce, addio alla tassa italiana da 2 euro sui pacchi - ItaliaOggi.it",
 "https://images.class.atexcloud.io/view/acePublic/alias/contentid/1e82902e-47ae-44d9-8923-bad2645b448a/0/dogana.webp"
 ],
-"https://www.italiaoggi.it/diritto-e-fisco/fisco/abuso-del-diritto-servono-prove-rigorose-atg83nd2": [
-"Abuso del diritto, servono prove rigorose",
-"2026-11-02T03:15:00+01:00",
-"Abuso del diritto, servono prove rigorose - ItaliaOggi.it",
-"https://images.class.atexcloud.io/view/acePublic/alias/contentid/608be59e-c586-4d92-9481-38387a8b44e2/0/inaugurazione-dell-anno-giudiziario-2022-della-corte-d-appello-di-bari.webp"
-],
-"https://www.italiaoggi.it/diritto-e-fisco/fisco/asd-agevolazioni-salve-anche-senza-rendiconto-fa9agbmb": [
-"Asd, agevolazioni salve anche senza rendiconto",
-"2026-11-02T02:45:00+01:00",
-"Asd, agevolazioni salve anche senza rendiconto - ItaliaOggi.it",
-"https://images.class.atexcloud.io/view/acePublic/alias/contentid/ed6016f3-9a46-4b5a-a357-f2f874937237/0/martelli-vari.webp"
-],
-"https://www.italiaoggi.it/diritto-e-fisco/fisco/atti-digitali-e-essenziale-attestare-la-conformita-n06gvaae": [
-"Atti digitali, è essenziale attestare la conformità",
-"2026-11-02T02:15:00+01:00",
-"Atti digitali, è essenziale attestare la conformità - ItaliaOggi.it",
-"https://images.class.atexcloud.io/view/acePublic/alias/contentid/fa5e9fb7-eb2d-455f-8d26-8d29e00ef5b1/0/posta-elettronica.webp"
-],
-"https://www.italiaoggi.it/diritto-e-fisco/fisco/bollo-auto-dovuto-senza-demolizione-trascritta-y1ozkka7": [
-"Bollo auto dovuto senza demolizione trascritta",
-"2026-11-02T02:30:00+01:00",
-"Bollo auto dovuto senza demolizione trascritta - ItaliaOggi.it",
-"https://images.class.atexcloud.io/view/acePublic/alias/contentid/70187719-5175-4484-b3a4-926e5e01844c/0/happiness.webp"
-],
 "https://www.italiaoggi.it/diritto-e-fisco/fisco/compensazioni-imprese-in-tilt-da-tetto-a-30-mila-e-superbonus-a-rate-liquidita-a-rischio-vtmn8a8l": [
 "Doppio giro di vite nella Manovra. Nulle le cessioni di crediti di partite Iva chiuse d’ufficio",
 "2026-11-03T00:00:00+01:00",
@@ -1565,23 +1541,11 @@
 "Exit tax estesa alle persone fisiche, prelievo del 26% sulle plusvalenze di chi espatria - ItaliaOggi.it",
 "https://images.class.atexcloud.io/view/acePublic/alias/contentid/65cf52cc-23b0-496d-bc93-fe9f2e6bc283/0/leuro-sotto-1-12-dollari.webp"
 ],
-"https://www.italiaoggi.it/diritto-e-fisco/fisco/liti-fiscali-competenti-sedi-periferiche-di-ade-kg0ighp3": [
-"Liti fiscali, competenti sedi periferiche di Ade",
-"2026-11-02T03:00:00+01:00",
-"Liti fiscali, competenti sedi periferiche di Ade - ItaliaOggi.it",
-"https://images.class.atexcloud.io/view/acePublic/alias/contentid/5761b8ef-c45f-415d-91d2-2d85cbb55655/0/convenzione-tra-universita-politecnico-e-agenzia-delle-dogane-e-dei-monopoli.webp"
-],
 "https://www.italiaoggi.it/diritto-e-fisco/fisco/manovra-2027-per-greggio-gas-ed-estrazione-laumento-temporaneo-dellirap-einhhvl3": [
 "Come funziona l’aggravio fiscale previasto per le imprese del settore energetico",
 "2026-11-03T00:00:00+01:00",
 "Manovra 2027, per greggio, gas ed estrazione l’aumento (temporaneo) dell’Irap - ItaliaOggi.it",
 "https://images.class.atexcloud.io/view/acePublic/alias/contentid/c5ac78fd-234c-43a4-a05f-53bd5b94d991/0/irap.webp"
-],
-"https://www.italiaoggi.it/diritto-e-fisco/fisco/prescrizione-sequenza-degli-atti-da-provare-lqzdozr0": [
-"Prescrizione, sequenza degli atti da provare",
-"2026-11-02T03:30:00+01:00",
-"Prescrizione, sequenza degli atti da provare - ItaliaOggi.it",
-"https://images.class.atexcloud.io/view/acePublic/alias/contentid/3c12567c-0085-490d-8d9e-c05936a994a4/0/aula-giallombardo.webp"
 ],
 "https://www.italiaoggi.it/diritto-e-fisco/fisco/prima-casa-due-anni-per-ottenere-o-salvare-la-tassazione-ridotta-e-il-bonus-riacquisto-ihahm6uz": [
 "Con la Manovra 2027 termini uniformati per le agevolazioni fiscali per comprare l’abitazione principale. Anche per gli atti registrati prima della data di entrata in vigore della nuova legge",
@@ -1637,6 +1601,12 @@
 "Manovra, da giochi e scommesse 952 milioni di entrate. Concessioni prorogate - ItaliaOggi.it",
 "https://images.class.atexcloud.io/view/acePublic/alias/contentid/2029c9cd-dfe0-4e31-b571-a964c33f03cb/0/vinti-5-mlioni-di-euro-con-gratta-e-vnci.webp"
 ],
+"https://www.italiaoggi.it/diritto-e-fisco/professioni/lavvocato-cliente-deve-vigilare-sullattivita-del-commercialista-jmpwy64l": [
+"La Corte di cassazione fissa i parametri della responsabilità nei confronti dell’amministrazione finanziaria",
+"2026-11-03T17:22:16+01:00",
+"L’avvocato-cliente deve vigilare sull’attività del commercialista - ItaliaOggi.it",
+"https://images.class.atexcloud.io/view/acePublic/alias/contentid/ae43df7f-e137-4db1-beb7-0cfda933098a/0/pd-m5s-e-avs-presentano-in-cassazione-la-proposta-di-legge-popolare-sul-salario-minimo.webp"
+],
 "https://www.italiaoggi.it/diritto-e-fisco/professioni/manovra-5-miliardi-per-la-sanita-pronti-380-milioni-per-chi-lavora-nei-pronto-soccorso-jqcv87j1": [
 "Fondo sanitario a 146,3 miliardi. Aumentano le indennità del personale e le risorse contro le liste d’attesa. Nuove regole per i frontalieri.",
 "2026-11-03T03:00:00+01:00",
@@ -1655,6 +1625,18 @@
 "Indecisi e giovani, l'ago della bilancia elettorale - ItaliaOggi.it",
 "https://static.italiaoggi.it/IOBlazor/images/cover.jpg"
 ],
+"https://www.italiaoggi.it/economia-e-politica/attualita/le-elezioni-di-midterm-ridisegnano-gli-usa-h1fvntn0": [
+"I risultati delle elezioni di midterm potrebbero influenzare la presidenza di Trump e le dinamiche politiche future. Gli analisti discutono l'impatto sulla democrazia americana e le possibili ripercussioni sulle presidenziali del 2028",
+"2026-11-03T16:35:18+01:00",
+"Le elezioni di midterm ridisegnano gli Usa - ItaliaOggi.it",
+"https://images.class.atexcloud.io/view/acePublic/alias/contentid/7b3c241a-2e3b-4dea-848f-ae7c64af7780/0/trump-dito-p20260416mr-0620-jpg.webp"
+],
+"https://www.italiaoggi.it/economia-e-politica/cyber-attacchi-ai-supermercati-palazzo-chigi-impatto-limitato-lesperto-filiera-vulnerabile-cpcullug": [
+"Il Governo rassicura: poche unità commerciali coinvolte e nessun rischio per la salute dei cittadini. Ma l’esperto di cybersecurity avverte che centraline obsolete, accessi remoti e subfornitori restano i punti deboli della catena del freddo",
+"2026-11-03T14:29:24+01:00",
+"Cyber attacchi ai supermercati, Palazzo Chigi: impatto limitato. L’esperto: filiera vulnerabile - ItaliaOggi.it",
+"https://images.class.atexcloud.io/view/acePublic/alias/contentid/3483dd38-6ec7-477a-ab41-0ee89f3fb3aa/0/digital-italy-summit-2022.webp"
+],
 "https://www.italiaoggi.it/economia-e-politica/economia-e-finanza/dimore-storiche-e-agricoltura-un-legame-che-valorizza-i-territori-b5c5kzdq": [
 "L'edizione 2026 di \"Coltiviamo la Cultura\" celebra il connubio tra dimore storiche e agricoltura. L'iniziativa, sostenuta da Adsi e Confagricoltura, con il 66% delle realtà coinvolte nell'agriturismo, punta a valorizzare il patrimonio rurale…",
 "2026-11-02T16:56:49+01:00",
@@ -1666,6 +1648,12 @@
 "2026-11-02T16:32:07+01:00",
 "Made in Italy e innovazione: il fashion si veste sostenibile - ItaliaOggi.it",
 "https://images.class.atexcloud.io/view/acePublic/alias/contentid/b893ebd5-3907-40f8-9d1f-e69e45ee8382/0/alessandro-bracci-jpg.webp"
+],
+"https://www.italiaoggi.it/economia-e-politica/economia-e-finanza/via-appia-il-digitale-guida-il-turismo-culturale-nel-lazio-t3u4pddy": [
+"La Via Appia si conferma un asset strategico per il turismo, con un impatto significativo sull'economia locale grazie a un'offerta culturale, esperienziale e sostenibile che attira soprattutto i Millennial. Nei territori di Frosinone e Latina è tra…",
+"2026-11-03T16:19:10+01:00",
+"Via Appia, il digitale guida il turismo culturale nel Lazio - ItaliaOggi.it",
+"https://images.class.atexcloud.io/view/acePublic/alias/contentid/65c5b070-c1c3-45b0-a755-027ff3d1a5b3/0/acampora-jpg.webp"
 ],
 "https://www.italiaoggi.it/economia-e-politica/ex-ilva-federacciai-verso-il-no-allofferta-venerdi-il-tavolo-sulla-cassa-integrazione-rmx5txeh": [
 "Cordata vicina al passo indietro dopo la due diligence. Offerte entro l’8 novembre. Venerdì il tavolo al ministero del Lavoro sulla Cassa integrazione per 8.622",
@@ -1745,6 +1733,12 @@
 "Le imprese italiane puntano sulla Libia per sfondare in Africa - ItaliaOggi.it",
 "https://images.class.atexcloud.io/view/acePublic/alias/contentid/e5e63235-f21d-4048-8acf-11478da31fb6/0/tajani-all-inaugurazione-del-nuovo-terminal-container-della-misurata-free-zone.webp"
 ],
+"https://www.italiaoggi.it/economia-e-politica/politica-estera/sace-export-challenge-6000-euro-per-le-idee-contro-i-rischi-dellexport-geopolitica-cyber-e-clima-a0hfaob5": [
+"Sace e Zest lanciano il bando per studenti, neolaureati e specialisti dell’innovazione. Le candidature sono aperte dal 3 novembre al 7 dicembre 2026; fino a 10 team accederanno allo SmartLab",
+"2026-11-03T15:44:33+01:00",
+"Sace Export Challenge, 6.000 euro per le idee contro i rischi dell’export: geopolitica, cyber e clima - ItaliaOggi.it",
+"https://images.class.atexcloud.io/view/acePublic/alias/contentid/29003a4b-ffb5-4371-bfc5-5dd55d3218c3/0/anniversario-aipe.webp"
+],
 "https://www.italiaoggi.it/economia-e-politica/politica-estera/trump-affronta-le-elezioni-di-midterm-in-caduta-libera-th1ji4py": [
 "Con un indice di gradimento al 32%, Trump rischia di perdere la maggioranza alla Camera e forse al Senato. Le elezioni di midterm potrebbero segnare una svolta cruciale per la sua presidenza",
 "2026-11-02T15:45:35+01:00",
@@ -1756,6 +1750,12 @@
 "2026-11-02T19:58:06+01:00",
 "Sace punta sull’Australia: memorandum con la Western Australia su minerali critici, energia e industria avanzata - ItaliaOggi.it",
 "https://images.class.atexcloud.io/view/acePublic/alias/contentid/6db56911-a44a-4a26-8b42-34e781c63386/0/picchisace-jpg.webp"
+],
+"https://www.italiaoggi.it/economia-e-politica/simest-formazione-gratuita-sullexport-per-30-imprese-del-sud-domande-entro-il-16-novembre-jejs3ltq": [
+"Con Luiss Business School e Università di Bari, oltre 100 ore di lezioni e consulenza personalizzata. Avvio il 27 novembre, ricavi richiesti oltre il milione",
+"2026-11-03T14:03:37+01:00",
+"Simest, formazione gratuita sull’export per 30 imprese del Sud: domande entro il 16 novembre - ItaliaOggi.it",
+"https://images.class.atexcloud.io/view/acePublic/alias/contentid/edaa1ec2-7c5a-41d5-81a1-98f943737856/0/trainign-e-formazione-qualificato-baioni-jpg.webp"
 ],
 "https://www.italiaoggi.it/enti-locali-e-pa/lavoro-pubblico/dipendenti-pubblici-incentivi-piu-bassi-la-manovra-scarica-lirap-sui-premi-dei-tecnici-pft1ry6e": [
 "La legge di bilancio 2027 prevede che l'Irap gravi sui dipendenti pubblici destinatari di incentivi tecnici, ribaltando un dibattito decennale e riducendo le risorse disponibili per i lavoratori",
