@@ -53,6 +53,12 @@
 "La nuova stangata sulle auto. Costi di riparazione, prezzo della benzina, assicurazione: preparatevi a un inverno caldissimo - MOW - Mowmag.com",
 "https://crm-img.stcrm.it/images/52689515/HOR_WIDE/2000x/crmmoto2-20261105161021134-de1c253823b1cb53198ece6dcd5b28e9.jpg?quality=75&format=webp&width=1300"
 ],
+"https://mowmag.com/attualita/ma-perche-il-ministro-della-difesa-crosetto-e-il-sottosegretario-mantovano-litigano-sul-ddl-cyber-in-gioco-ce-la-riforma-dei-servizi-segreti": [
+"Crosetto invoca la tregua tra i \"poteri dello Stato\". Ma con chi ce l’ha? Sullo sfondo c’è il braccio di ferro con Alfredo Mantovano: il ministro vuole più autonomia per i militari nelle operazioni cyber, Palazzo Chigi difende il controllo…",
+"2026-11-09T16:23:00+01:00",
+"Attacchi cyber: in Italia è il caos perché Crosetto e Mantovano litigano. Ecco cosa c'è dietro lo scontro alla Camera sul ddl cyber e i servizi segreti - MOW - Mowmag.com",
+"https://crm-img.stcrm.it/images/52727983/HOR_WIDE/2000x/due-uomini-tra-i-palazzi-di-roma.png?quality=75&format=webp&width=1300"
+],
 "https://mowmag.com/attualita/ok-ma-chi-e-gadi-eisenkot-e-perche-siamo-ancora-lontani-dal-capire-cosa-succedera-in-israele-e-a-gaza-e-quale-sara-il-destino-di-netanyahu": [
 "Gadi Eisenkot potrebbe essere il nuovo premier israeliano, ma dovrà formare un governo in meno di un mese, altrimenti Herzog incaricherà Netanyahu (che è da sei anni sotto processo e attende la grazia dal presidente israeliano). Ma sapete chi è…",
 "2026-11-09T13:09:00+01:00",
@@ -82,12 +88,6 @@
 "2026-11-09T12:27:34+01:00",
 "Biancaneve consenziente e l’agonia del pensiero critico. Abbiamo letto “Deficienza artigianale” di Riccardo Maria Bruno, l’antidoto alla cancel culture - MOW - Mowmag.com",
 "https://crm-img.stcrm.it/images/52727096/HOR_WIDE/2000x/copia-di-obiettivo-litalia-e-un-paese-ostaggio-dello-statalismo-e-della-sciatteria-ideologica-il-socialismo-in-varie-sue-forme-si-e-radicato-nella-mentalita-delle-persone-lo-stile-cognitivo-d.jpg?quality=75&format=webp&width=1300"
-],
-"https://mowmag.com/culture/freeda-ha-riaperto-qualcuno-che-finanzia-la-spazzatura-si-trova-sempre-abbiamo-intervistato-glasond-il-rapper-che-lha-quasi-fatta-chiudere-la-prima-volta": [
-"Freeda ha riaperto il sito. E noi di MOW abbiamo pensato di chiedere a Glasond cosa ne pensa. Autore della profezia trap “Faccio chiudere Freeda”, il rapper torna a parlare dopo il reboot della media company. Accuse il sito di pinkwashing e punta il…",
-"2026-11-06T17:13:44+01:00",
-"Freeda ha riaperto? “Qualcuno che finanzia la spazzatura si trova sempre”. Abbiamo intervistato Glasond, il rapper che l’ha (quasi) fatta chiudere la prima volta - MOW - Mowmag.com",
-"https://crm-img.stcrm.it/images/52702225/HOR_WIDE/2000x/0e1a8090.jpg?quality=75&format=webp&width=1300"
 ],
 "https://mowmag.com/culture/il-fatto-che-torni-ciao-darwin-e-un-segno-dei-tempi-e-non-sappiamo-se-augurarceli": [
 "Il possibile ritorno di “Ciao Darwin”, annunciato da Paolo Bonolis, ci costringe a fare i conti con la memoria televisiva e con l'eredità del conduttore: pioniere ante litteram della polarizzazione social. Ma il revival del programma cult oggi…",
@@ -166,6 +166,12 @@
 "2026-11-08T06:00:00+01:00",
 "Now podcasts are live events, having a face for radio is ...",
 "https://cdn.slowdownwiseup.co.uk/media/original_images/39124c9c021f7db3e39ffef883fcd2bec472d387.jpg"
+],
+"https://observer.co.uk/culture/books/article/the-observer-guide-to-the-2026-booker-prize": [
+"Predicting the victor is notoriously difficult. Here’s what to read on the shortlisted books while the judges thrash it out",
+"2026-11-09T17:00:00+01:00",
+"The Observer guide to the 2026 Booker prize | The Observer",
+"https://cdn.slowdownwiseup.co.uk/media/original_images/WEB_BookerShortlist_n3YhV1b.jpg"
 ],
 "https://observer.co.uk/culture/books/article/the-sunday-poem-the-crack-of-light-by-nicholas-murray": [
 "",
@@ -275,12 +281,6 @@
 "Israeli opposition parties wrangle over power as presiden...",
 "https://cdn.slowdownwiseup.co.uk/media/original_images/0669230a1e63b829ddfbc27b098f0c25406044c1.jpg"
 ],
-"https://observer.co.uk/news/international/article/thomas-markle-under-house-arrest-after-child-sexual-abuse-images-allegedly-discovered": [
-"Duchess of Sussex’s father accused of possessing explicit material in two Los Angeles storage units",
-"2026-11-07T17:17:00+01:00",
-"Thomas Markle under house arrest after child sexual abuse...",
-"https://cdn.slowdownwiseup.co.uk/media/original_images/8e5890e213d6ec8aae4f0a1666302074c693093a.jpg"
-],
 "https://observer.co.uk/news/international/article/total-closed-its-gates-as-a-terror-attack-unfolded-two-brothers-now-need-answers": [
 "Questions remain about the death five years ago of a British contractor employed by the oil giant in Mozambique",
 "2026-11-08T06:00:00+01:00",
@@ -335,11 +335,17 @@
 "Rape accusers must not feel on trial, Burnham says after ...",
 "https://cdn.slowdownwiseup.co.uk/media/original_images/80817b4e46a389d038f4d8b8c83c09806c5dd019.jpg"
 ],
-"https://observer.co.uk/news/national/article/russell-brand-sentenced-to-1012-years-for-rape-and-sexual-assault": [
+"https://observer.co.uk/news/national/article/russell-brand-jailed-for-more-than-10-years-for-rape-and-sexual-assault": [
 "The judge called the disgraced comedian a ‘sexual predator’ who had told ‘a series of lies’ during his four-week trial",
 "2026-11-09T16:09:00+01:00",
-"Russell Brand sentenced to 10½ years for rape and sexual ...",
-"https://cdn.slowdownwiseup.co.uk/media/original_images/WEB_143535-2303174417_80817b4e46a389d038f4d8b8c83c09806c5dd019.jpg"
+"Russell Brand jailed for more than 10 years for rape and ...",
+"https://cdn.slowdownwiseup.co.uk/media/original_images/WEB_142352-2303174582_b9f3ad0b9af77bce66ca3fcd3be5220de1f86609.jpg"
+],
+"https://observer.co.uk/news/national/article/russell-brand-sentenced-to-more-than-10-years-for-rape-and-sexual-assault": [
+"The judge called the disgraced comedian a ‘sexual predator’ who had told ‘a series of lies’ during his four-week trial",
+"2026-11-09T16:09:00+01:00",
+"Russell Brand jailed for more than 10 years for rape and ...",
+"https://cdn.slowdownwiseup.co.uk/media/original_images/WEB_142352-2303174582_b9f3ad0b9af77bce66ca3fcd3be5220de1f86609.jpg"
 ],
 "https://observer.co.uk/news/national/article/stockport-husband-used-swingers-site-to-recruit-alleged-abusers-court-told": [
 "Disturbing echoes of Gisèle Pelicot case in trial of nine men accused of abusing unconscious woman at her partner’s invitation",
@@ -436,12 +442,6 @@
 "2026-11-08T07:00:00+01:00",
 "Scoring a hat-trick but failing to win? It’s all the rage...",
 "https://cdn.slowdownwiseup.co.uk/media/original_images/WEB_215148-2303383246_ea76f038ee4081ad077afdd18015bec59f545de4.jpg"
-],
-"https://observer.co.uk/news/sport/article/why-aston-villas-place-in-the-food-chain-works-so-well-for-unai-emery": [
-"Midlands club have a valuable advantage over Manchester United in any tug-of-war for their manager: patience",
-"2026-11-07T17:00:00+01:00",
-"Why Aston Villa’s place in the food chain works so well f...",
-"https://cdn.slowdownwiseup.co.uk/media/original_images/WEB_GettyImages-2277350146_9d06334a9d6c004b9567c09987157f4e1ffa8af8.jpg"
 ],
 "https://observer.co.uk/news/technology/article/he-said-googles-ai-was-conscious-but-what-was-it-doing-to-his-mind": [
 "Four years ago, whistleblower Blake Lemoine became convinced that Google’s AI chatbot had become sentient. Now he’s warning about the mental health risks",
@@ -575,12 +575,6 @@
 "Leone XIV in Argentina, due milioni e mezzo di persone alla messa a Buenos Aires. Ai malati del Piccolo Cottolengo: «Voi ci ricordate ciò che è davvero importante nella vita»",
 "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/11/09/6af1df683e6bf.jpeg"
 ],
-"https://roma.corriere.it/notizie/cronaca/26_novembre_09/report-prima-puntata-lavitola-b29f66de-7df6-482b-a0ae-83fb6c014xlk.shtml": [
-"Piervincenzi e Di Pasquale: «Qualcuno sperava che venissimo cancellati. La squadra di Report è sempre la stessa»",
-"2026-11-09T08:18:23+01:00",
-"Nella prima puntata di Report gli audio di Lavitola. I conduttori: «Non cediamo alle pressioni»",
-"https://dimages2.corriereobjects.it/files/og_thumbnail/files/fp/uploads/2026/11/09/6af1742927973.r_d.281-213-0.png"
-],
 "https://roma.corriere.it/notizie/cronaca/26_novembre_09/roberto-cervellati-morto-a-roma-la-figlia-non-aveva-paura-di-girare-da-solo-ma-questi-monopattini-sono-fuori-controllo-donati-20628b54-2007-4ed7-bcff-f888917bbxlk.shtml": [
 "Maria Cristina Cervellati, figlia del ricercatore Enea investito a Prati da un pirata tuttora ricercato: «Nessun accanimento, ma spero abbia un sussulto di coscienza. Papà stava benissimo, una mente fuori dal comune»",
 "2026-11-09T12:28:53+01:00",
@@ -611,11 +605,11 @@
 "Crosetto: «Hacker, è una sfida epocale. La guerra cognitiva? Sono stato preso in giro, ma dobbiamo renderci tutti conto dei rischi che stiamo correndo»",
 "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/11/08/6af0d517497a1.jpeg"
 ],
-"https://roma.corriere.it/notizie/politica/26_novembre_09/roberto-gualtieri-intervista-6ed1bed4-db3e-410e-92e2-d42c226f3xlk.shtml": [
-"Il primo cittadino di Roma: si ascoltino i sindaci. Le primarie possono rafforzare la coalizione",
-"2026-11-09T07:36:14+01:00",
-"Roberto Gualtieri: «Mi ricandido a sindaco, noi a Roma con M5S e Azione. Schlein e Conte? Possono farcela, ma serve un programma forte»",
-"https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/11/08/6af0cbea60f4f.jpeg"
+"https://roma.corriere.it/notizie/politica/26_novembre_09/mattarella-culture-diverse-non-pregiudicano-l-integrazione-il-pluralismo-e-cardine-della-democrazia-21c50ab4-dcbc-497f-8622-2b52e9aa4xlk.shtml": [
+"Il capo dello Stato incontra il presidente albanese Bajram Begaj e i sindaci delle comunità arbëreshë: l'Italia considera la Ue incompleta senza l'Albania",
+"2026-11-09T16:26:21+01:00",
+"Mattarella: «Culture diverse non pregiudicano l'integrazione, il pluralismo è cardine della democrazia»",
+"https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/11/09/6af1e690b1cfb.jpeg"
 ],
 "https://torino.corriere.it/notizie/cultura/26_novembre_09/giorgetto-giugiaro-io-car-designer-del-secolo-ora-dipingo-angeli-in-chiesa-per-l-ultima-cena-ho-fatto-posare-il-mio-meccanico-37357bdc-f7a9-46f0-8ebb-a7bbbb0c7xlk.shtml": [
 "Eletto nel 1999 car designer del secolo e padre di decine di automobili celeberrime, Giorgetto Giugiaro a giugno completerà anche la cupola di San Giovanni a Garessio",
@@ -695,6 +689,12 @@
 "Banco Bpm, la mossa dei francesi: Crédit Agricole propone una fusione amichevole (con un premio del 20%)",
 "https://dimages2.corriereobjects.it/files/og_thumbnail/files/fp/uploads/2026/05/05/69f9f1645d288.r_d.3066-407-0.jpeg"
 ],
+"https://www.corriere.it/economia/finanza/26_novembre_09/l-ue-ha-attivato-la-clausola-sulla-flessibilita-dell-italia-piu-soldi-per-le-misure-nell-energia-e-difesa-663bcf2f-573a-42e4-9d69-285d193f6xlk.shtml": [
+"La maggiore flessibilità di bilancio concessa all'Italia dal Consiglio Ecofin con l'attivazione della clausola nazionale di salvaguardia (Nec) permetterà di aumentare le spese per la difesa e la sicurezza energetica",
+"2026-11-09T16:15:36+01:00",
+"L’Ue ha attivato la clausola sulla flessibilità dell'Italia: più soldi per le misure nell’energia e difesa",
+"https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/03/28/69c76ac74b353.jpeg"
+],
 "https://www.corriere.it/economia/finanza/26_novembre_09/nvidia-huang-ammette-il-tradimento-con-la-presunta-spia-cinese-indagine-interna-il-titolo-crolla-in-borsa-d7b7c2a9-738e-435c-a1e0-093f86393xlk.shtml": [
 "Il fondatore del colosso dei chip ammette una relazione extraconiugale con una donna sospettata di lavorare per Pechino. A rischio 270 miliardi di capitalizzazione. La Cina nega le accuse, Trump difende il manager",
 "2026-11-09T11:38:14+01:00",
@@ -712,12 +712,6 @@
 "2026-11-09T08:39:54+01:00",
 "Unicredit, nuovo record per i conti: l’utile dei primi 9 mesi del 2026 a 9,4 miliardi (+7,3%)",
 "https://dimages2.corriereobjects.it/files/og_thumbnail/files/fp/uploads/2026/07/01/6a451f9ee7539.r_d.1854-2229-0.jpeg"
-],
-"https://www.corriere.it/economia/lavoro/26_novembre_08/scioperi-novembre-2026-il-calendario-completo-dal-trasporto-locale-ai-treni-e-gli-aerei-le-date-da-segnare-731ca4a3-39f9-4ba9-9a66-5b1bd56bcxlk.shtml": [
-"Tra le mobilitazioni in arrivo c’è quella della Cgil del 20 novembre, che interessa tutti i settori. Revocato invece lo sciopero dei lavoratori di Italo che era previsto per il 9 novembre",
-"2026-11-08T07:50:28+01:00",
-"Scioperi novembre 2026, il calendario completo: dal trasporto locale ai treni e gli aerei, le date da segnare",
-"https://dimages2.corriereobjects.it/files/og_thumbnail/files/fp/uploads/2026/01/08/695f737e4e33c.r_d.588-856-0.jpeg"
 ],
 "https://www.corriere.it/economia/risparmio/26_novembre_09/bond-cosa-fare-dopo-le-elezioni-usa-rendimenti-scadenze-strategie-i-numeri-per-orientarsi.shtml": [
 "",
@@ -917,6 +911,18 @@
 "Per non accettare il bavaglio",
 "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/11/08/6af0b45e7e132.jpeg"
 ],
+"https://www.corriere.it/opinioni/26_novembre_09/il-libro-di-mahvash-scritto-in-prigione-c2b81c7b-7e09-4f91-8d59-842e41551xlk.shtml": [
+"Una poetessa della comunità Bahá’í, la minoranza religiosa perseguitata dal totalitarismo religioso iraniano, avendo espresso le sue idee, è stata arrestata giovanissima nel 2008 e condannata a 10 anni di carcere. Appena uscita, e avendo raccontato…",
+"2026-11-09T16:56:20+01:00",
+"Il libro di Mahvash scritto in prigione",
+"https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/11/09/6af1d4e9c91cc.jpeg"
+],
+"https://www.corriere.it/oriente-occidente-federico-rampini/26_novembre_09/trump-ha-due-anni-e-due-mesi-scenario-guerra-in-trincea-con-il-congresso-c4d28460-65e0-44e5-9c86-bb8ba460dxlk.shtml": [
+"",
+"2026-11-09T16:43:11+01:00",
+"Trump ha due anni e due mesi. Scenario: «guerra in trincea» con il Congresso",
+"https://dimages2.corriereobjects.it/files/image_1200_900/assets/editor/oriente-occidente-federico-rampini.png"
+],
 "https://www.corriere.it/salute/26_novembre_07/gli-esami-gratis-al-tempo-della-salute-dd9868c5-c99c-481a-836a-84c6f5d70xlk.shtml": [
 "",
 "2026-11-07T22:50:00+01:00",
@@ -941,17 +947,23 @@
 "La posta di Gramellini: «Sto con B. dal liceo, ci vogliamo bene. Ma la prima notte con K. è stata sconvolgente. Al lavoro mi propongono 8 mesi nella sua città: che fare?»",
 "https://dimages2.corriereobjects.it/files/og_thumbnail/files/fp/uploads/2026/11/02/6ae875f637c78.r_d.638-752-0.jpeg"
 ],
-"https://www.corriere.it/spettacoli/26_novembre_09/report-una-strada-difficile-con-l-ombra-di-ranucci-f322533b-df06-4284-9c63-96641e18dxlk.shtml": [
-"Non c’è dubbio che la scelta più sorprendente sia stata quella di aprire la stagione con l’inchiesta su Valter Lavitola",
-"2026-11-09T08:23:24+01:00",
-"Report, una strada difficile con l’ombra di Ranucci",
-"https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/31/6ae6642291050.jpeg"
+"https://www.corriere.it/spettacoli/26_novembre_09/russell-brand-condannato-a-oltre-10-anni-per-stupro-e-aggressioni-sessuali-eb2455cc-bc2e-4af0-8b9e-725453cefxlk.shtml": [
+"Secondo il giudice, l'attore, comico e conduttore mostrato un «disprezzo disilvolto e arrogante» nei confronti del diritto di qualsiasi donna",
+"2026-11-09T15:55:27+01:00",
+"Russell Brand condannato a 10 anni e sei mesi di carcere per stupro e aggressioni sessuali",
+"https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/11/09/6af1de5023fd1.jpeg"
 ],
 "https://www.corriere.it/tecnologia/26_novembre_08/il-nobel-hinton-entro-il-2027-una-chernobyl-dell-ai-e-la-bbc-si-prepara-a-resistere-per-72-ore-con-il-piano-black-sky-d8eeee63-ba38-4d0e-87d6-0281a49d3xlk.shtml": [
 "Il padre dell’AI teme un cyberattacco capace di paralizzare la rete elettrica o il sistema finanziario. E accusa i giganti tecnologici di sottovalutare i rischi: «Se ne fregano, preferiscono fare soldi». Intanto la Bbc rivela come garantirà le…",
 "2026-11-08T13:09:45+01:00",
 "Il Nobel Hinton: «Entro il 2027 una Chernobyl dell'AI». E la Bbc si prepara a resistere per 72 ore con il piano Black Sky",
 "https://dimages2.corriereobjects.it/files/og_thumbnail/files/fp/uploads/2024/10/08/67058a37e84b3.r_d.234-187-0.jpeg"
+],
+"https://www.corrieredellosport.it/news/altre-notizie/2026/11/09-152324075/dentro_un_azienda_in_difficolt_come_intervengono_fabio_splendori_e_il_team_di_splendori_partners": [
+"Dalla valutazione iniziale alla gestione operativa, il risanamento aziendale richiede interventi coordinati su finanza, organizzazione e strategia. Il metodo di un team multidisciplinare che affianca proprietà e management nelle fasi più delicate…",
+"2026-11-09T16:25:00+01:00",
+"Dentro un'azienda in difficoltà: come intervengono Fabio Splendori e il team di Splendori & Partners",
+"https://cdn.corrieredellosport.it/images/2026/11/02/153007525-ff7fae04-3a1a-48be-8697-f792850e16a4.jpg"
 ],
 "https://www.corrieredellosport.it/news/altri-sport/ippica/2026/11/09-152486682/roma_champions_day_capannelle_incorona_i_nuovi_re_fast_tracker_love_words_ed_endo_ferrari": [
 "Pubblico, spettacolo e grandi emozioni nella Giornata dei Campioni. Fast Tracker conquista il Premio Roma Italian Champion, Love Words sorprende nel Lydia Tesio ed Endo Ferrari resta imbattuto nel Berardelli, alimentando ambizioni importanti per il…",
@@ -971,6 +983,12 @@
 "Pietrasanta Pharma è partner della Romeo & Giulietta Run Half Marathon",
 "https://cdn.corrieredellosport.it/images/2026/11/09/144407130-0a299bb2-72cf-49e5-b94f-a287ef773af0.jpg"
 ],
+"https://www.corrieredellosport.it/news/altri-sport/sci/2026/11/09-152494280/lindsey_vonn_e_la_nona_operazione_alla_gamba_le_parole_che_mettono_in_dubbio_il_suo_futuro": [
+"La campionessa statunitense dovrà sottoporsi a un nuovo intervento: \"Se tornerò a sciare? Vi dico che...\"",
+"2026-11-09T16:36:01+01:00",
+"Lindsey Vonn e la nona operazione alla gamba: le parole che mettono in dubbio il suo futuro",
+"https://cdn.corrieredellosport.it/images/2026/11/09/152613329-64204d06-4337-4943-9000-a620e51cfe1f.jpg"
+],
 "https://www.corrieredellosport.it/news/attualit/2026/11/09-152492807/non_toccate_il_mio_amico_tony_effe_su_tutte_le_furie_dopo_il_match_di_kickboxing": [
 "Scintille all'Allianz Cloud di Milano al termine dell'incontro tra Fabrizio ‘Pongo’ Ruggiero e Aleksandre Mukbaniani: il rapper perde la testa, cosa è successo",
 "2026-11-09T14:51:04+01:00",
@@ -983,41 +1001,29 @@
 "Stefano De Martino come Pippo Baudo, l'omaggio speciale a Sanremo 2027",
 "https://cdn.corrieredellosport.it/images/2025/04/26/071255539-42f7abee-baf1-4983-9b8f-8741cf0705e5.jpg"
 ],
-"https://www.corrieredellosport.it/news/calcio/calcio-estero/bundesliga/2026/11/08-152470449/friburgo_terza_forza_vincono_anche_leverkusen_e_hoffenheim": [
-"Nei match domenicali della 9ª giornata di Bundesliga, la squadra di Schuster resta nella scia di Bayern e Dortmund",
-"2026-11-08T21:39:24+01:00",
-"Friburgo terza forza, vincono anche Leverkusen e Hoffenheim",
-"https://cdn.corrieredellosport.it/images/2026/11/08/203904657-c0692e9f-3be9-420a-a7c9-291bad354ce3.jpg"
+"https://www.corrieredellosport.it/news/calcio/moviola/2026/11/09-152485843/quel_tocco_di_braccio_di_joao_mario_fa_infuriare_la_juve_male_l_arbitro_colombo": [
+"La moviola del match tra Fiorentina-Juve: alcune decisioni del direttore di gara lasciano perplessi",
+"2026-11-09T08:03:58+01:00",
+"Quel tocco di braccio di Joao Mario fa infuriare la Juve: male l'arbitro Colombo",
+"https://cdn.corrieredellosport.it/images/2026/11/09/070324613-4bd8c36f-81bb-4660-8ffe-ba332346cba2.jpg"
 ],
-"https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/barcellona/2026/11/08-152483670/il_barcellona_ribalta_latletico_madrid_e_si_riprende_la_vetta_solitaria_della_liga": [
-"All’indomani della vittoria del Real Madrid sul Valencia, i blaugrana vincono in rimonta il big match con i colchoneros e rispediscono a 3 punti di distanza i blancos. Dopo l’illusorio vantaggio di Giuliano Simeone, i catalani completano la…",
-"2026-11-08T23:18:21+01:00",
-"Il Barcellona ribalta l’Atletico Madrid e si riprende la vetta solitaria della Liga",
-"https://cdn.corrieredellosport.it/images/2026/11/08/221251738-1b057880-4f73-4b5c-9add-1f46127b304f.jpg"
+"https://www.corrieredellosport.it/news/calcio/serie-a/inter/2026/11/09-152484905/come_linter_non_ce_n": [
+"Leggi il commento del direttore del Corriere dello Sport - Stadio",
+"2026-11-09T07:40:44+01:00",
+"Come l’Inter non ce n’è",
+"https://cdn.corrieredellosport.it/images/2026/11/09/052627365-f246afed-66ba-4aec-aeae-b7eaf443b7d2.jpg"
 ],
-"https://www.corrieredellosport.it/news/calcio/italia/2026/11/08-152483220/mancini_convoca_anche_gatti_per_francia_e_belgio_la_lista_dell_italia_aggiornata": [
-"Dopo la convocazione di Palma al posto dell'infortunato Mancini, il commissario tecnico allarga il reparto difensivo in vista della doppia sfida di Nations League",
-"2026-11-08T23:13:21+01:00",
-"Mancini convoca anche Gatti per Francia e Belgio: la lista dell'Italia aggiornata",
-"https://cdn.corrieredellosport.it/images/2026/11/08/221037605-2f1428a8-008d-4b5a-a682-d56d1a32298f.jpg"
+"https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/11/09-152484907/il_napoli_de_laurentiis_e_allegri_tutti_gli_errori_da_correggere": [
+"Leggi il commento al momento degli azzurri dopo il pareggio casalingo con la Lazio",
+"2026-11-09T07:44:24+01:00",
+"Il Napoli, De Laurentiis e Allegri: tutti gli errori da correggere",
+"https://cdn.corrieredellosport.it/images/2026/11/09/053326698-bcc4c1cb-702d-4818-9a2c-abcd3435621a.jpg"
 ],
-"https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/11/08-152482212/spalletti_non_risponde_sul_possibile_fallo_di_mano_di_joao_mario_non_devo_rivederlo_domanda_di_riserva_": [
-"Le dichiarazioni rilasciate dal tecnico della Juve a margine del pareggio maturato al Franchi contro la Fiorentina di Vanoli: nel finale episodio dubbio nell'area di rigore viola",
-"2026-11-08T23:29:09+01:00",
-"Spalletti non risponde sul possibile fallo di mano di Joao Mario: \"Non devo rivederlo, domanda di riserva?\"",
-"https://cdn.corrieredellosport.it/images/2026/11/08/222426634-bd9cf83b-5cb6-4614-989e-e3a543cdc60a.jpg"
-],
-"https://www.corrieredellosport.it/news/calcio/serie-a/milan/2026/11/08-152481989/rabiot_replica_duramente_a_calvarese_dopo_il_fallo_di_marcandalli_mentire_continuamente_non_vi_far_": [
-"Il centrocampista del Milan torna sul contatto con il difensore del Genoa, giudicato dall'arbitro Massa solo con il giallo",
-"2026-11-08T22:20:44+01:00",
-"Rabiot replica duramente a Calvarese dopo il fallo di Marcandalli: \"Mentire continuamente non vi farà...\"",
-"https://cdn.corrieredellosport.it/images/2026/11/08/211516527-402ff9b9-0811-4ad1-9d0e-68c30337ee0c.jpg"
-],
-"https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/11/08-152481110/gasperini_roma_e_lazio_in_vetta_alla_classifica_una_sorpresa_per_tutti": [
-"Le dichiarazioni rilasciate dal tecnico giallorosso a margine Charity Event 2006 di Stelle nello Sport",
-"2026-11-08T22:10:45+01:00",
-"Gasperini: \"Roma e Lazio in vetta alla classifica? Una sorpresa per tutti\"",
-"https://cdn.corrieredellosport.it/images/2026/11/08/204654328-cef216cd-7ed7-4ee0-99d5-2c1b60aee358.jpeg"
+"https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/11/09-152484910/il_gesto_di_lang_il_caso_lucca_due_casi_spinosi_per_il_napoli_dai_fischi_dei_tifosi_ai_rapporti_logori_con_la_piazza": [
+"Noa e il gesto equivoco della mano all’orecchio verso le Curve. A gennaio il club dovrà prendere una decisione. L'olandese, beccato anche dopo la partita, spiega che voleva solo incitare il pubblico",
+"2026-11-09T07:51:09+01:00",
+"Il gesto di Lang, il caso Lucca: due problemi per il Napoli. Dai fischi dei tifosi ai rapporti logori con la piazza",
+"https://cdn.corrieredellosport.it/images/2026/11/09/065339050-3de7a82a-52ef-4804-b918-033b15b28cdc.jpg"
 ],
 "https://www.corrieredellosport.it/news/formula-1/2026/11/09-152488380/kimi_antonelli_da_bambino_stefano_accorsi_svela_un_segreto_perch_era_diverso_dagli_altri": [
 "Stefano Accorsi racconta a Verissimo il suo primo incontro con Kimi Antonelli e svela un particolare sorprendente sul giovane pilota Mercedes",
@@ -1037,6 +1043,12 @@
 "Giardini, piscine e palestra: la nuova villa di Lamine Yamal è senza senso",
 "https://cdn.corrieredellosport.it/images/2026/11/09/120516751-2b293c49-e1ac-46cf-85a7-1c8b7bbd3f3d.jpg"
 ],
+"https://www.corrieredellosport.it/news/gossip/2026/11/09-152493924/fiocco_azzurro_in_casa_roma_gollini_diventato_pap_benvenuto_al_piccolo_loen": [
+"Il portiere giallorosso e la moglie sono diventati genitori del loro primo figlio",
+"2026-11-09T16:28:26+01:00",
+"Fiocco azzurro in casa Roma, Gollini è diventato papà: benvenuto al piccolo Loen",
+"https://cdn.corrieredellosport.it/images/2026/11/09/151153280-cc5fdcbd-387e-4bca-8940-93833fcd28b0.jpg"
+],
 "https://www.corrieredellosport.it/news/lifestyle/alimentazione/2026/11/09-152489017/bulletproof_coffee_il_caff_amato_da_llorente_dicono_che_faccia_perdere_peso_e_aumenti_il_qi": [
 "Ha conquistato anche Marcos Llorente ed è sempre più popolare tra gli sportivi: il Bulletproof Coffee nasconde degli ingredienti davvero insoliti",
 "2026-11-09T11:01:27+01:00",
@@ -1054,6 +1066,12 @@
 "2026-11-09T09:21:29+01:00",
 "Valentino Rossi durissimo con Marquez: \"Non voleva il Mondiale ma solo farmi perdere\". Poi l'aneddoto con Todt: \"Mi vide in ciabatte, e...\"",
 "https://cdn.corrieredellosport.it/images/2026/11/09/082120498-7605a816-7b7b-411b-bd28-6bc851c135a9.jpg"
+],
+"https://www.corrieredellosport.it/news/on-air/2026/11/09-152494368/italia_juve_e_bundesliga_le_ultimissime": [
+"Le parole di Mancini in conferenza stampa. Lesione per Kalulu. Yildiz svela le tempistiche del ritorno in campo. Il presidente onorario del Bayern Monaco svela la malattia di Musiala",
+"2026-11-09T16:49:28+01:00",
+"Italia, Juve e Bundesliga: le ultimissime",
+"https://cdn.corrieredellosport.it/images/2026/11/09/152414832-2c16ee17-2ef2-4de0-9831-7cdf8f341947.jpg"
 ],
 "https://www.corrieredellosport.it/news/scommesse/2026/11/09-152417624/foggia-barletta_torna_il_derby_allo_zaccheria_dopo_12_anni_il_pronostico": [
 "Posta in palio e onore: i \"Satanelli\" sono avanti di tre punti in classifica",
@@ -1109,23 +1127,11 @@
 "Atp Finals, c'è un po' di Roma a Torino: Cobolli già in campo, allenamento con Venditti in sottofondo. Ecco i possibili avversari",
 "https://cdn.corrieredellosport.it/images/2026/11/09/092545668-1f17b483-aead-4660-976f-c91e76d3c9f2.jpg"
 ],
-"https://www.corrieredellosport.it/news/volley/a2-maschile/2026/11/08-152484062/lagonegro_e_grottazzolina_corrono_a_punteggio_pieno": [
-"Quarta vittoria di fila per gli uomini di Kantor, che superano Napoli, e quelli di Ortenzi, sul campo di Porto Viro. Dietro arrancano ed inseguono a cinque punti. Pineto soffre per battere Macerata al tie break, prima vittoria per Palmi a Brescia,…",
-"2026-11-08T23:41:02+01:00",
-"Lagonegro e Grottazzolina corrono a punteggio pieno",
-"https://cdn.corrieredellosport.it/images/2026/11/08/223549975-d16941ff-b4ca-42f0-9400-2f00ccd2b29d.jpg"
-],
-"https://www.corrieredellosport.it/news/volley/superlega/2026/11/08-152484697/perugia_vince_il_duello_con_trento_civitanova_espugna_milano": [
-"Frizzante 5a giornata con i campioni d'Italia che vincono il big match della BTS Arena. Prova di forza dei cucinieri all'Allianz Cloud. Successi per Padova a Cisterna, Modena a Monza, Piacenza in casa contro Verona e della Tinet su Cuneo",
-"2026-11-09T00:47:20+01:00",
-"Perugia vince il duello con Trento, Civitanova espugna Milano",
-"https://cdn.corrieredellosport.it/images/2026/11/08/234036368-44f3c7c7-6473-4165-a3bc-70b3f4b41537.jpg"
-],
-"https://www.corrieredellosport.it/news/volley/volley-femminile/volley-a1-femminile/2026/11/08-152481988/conegliano_supera_macerata_a_novara_e_bergamo_i_derby": [
-"Pantere senza problemi contro Macerata, le igorine vincono Cuneo, Bergamo passa al tie break a Brescia, La UYBA va a vincere in casa della Omag",
-"2026-11-08T22:17:18+01:00",
-"Conegliano supera Macerata, a Novara e Bergamo i derby",
-"https://cdn.corrieredellosport.it/images/2026/11/08/210518399-0757d2d0-3a1e-4717-86c1-a7566f96fceb.jpg"
+"https://www.corrieredellosport.it/news/volley/sitting-volley/2026/11/09-152495292/d_aniello_e_marchesi_hanno_scelto_i_convocati_per_la_bronze_nations_league": [
+"Gli azzurri del sitting volley si ritroveranno in Friuli Venezia Giulia da mercoledì 18. L'evento sarà in programma a Trieste da venerdì 20 a domenica 22 novembre",
+"2026-11-09T16:53:41+01:00",
+"D'Aniello e Marchesi hanno scelto i convocati per la Bronze Nations League",
+"https://cdn.corrieredellosport.it/images/2026/11/09/154831414-65e33981-a2ce-45cd-959d-45924b6d2424.jpg"
 ],
 "https://www.fotomac.com.tr/basketbol/2026/11/09/hidayet-turkoglundan-a-milli-kadin-basketbol-takimina-tam-destek": [
 "Türkiye Basketbol Federasyonu Başkanı Hidayet Türkoğlu, FIBA 2027 Kadınlar EuroBasket Elemeleri’nde mücadele edeccek olan A Milli Kadın Basketbol Takımı için, ’Yönetim olarak kadınlarımıza her anlamda güveniyoruz’ dedi.",
@@ -1157,12 +1163,6 @@
 "Spor yazarlarından Beşiktaş-Gençlerbirliği maçı hakkında flaş değerlendirmeler",
 "https://iaftm.tmgrup.com.tr/40f7d3/1200/675/0/0/2047/1151?u=https://iftm.tmgrup.com.tr/2026/11/09/spor-yazarlari-besiktas-genclerbirligi-macini-degerlendirdi-1794207194769.jpg"
 ],
-"https://www.fotomac.com.tr/birincilig/2026/11/09/kayserispor-yarali": [
-"Trendyol 1’inci Lig’de zirve mücadelesi veren Kayserispor, Ümraniyespor’a İstanbul’da 2-1 mağlup oldu.",
-"2026-11-09T04:50:11+01:00",
-"Kayserispor yaralı",
-"https://iaftm.tmgrup.com.tr/c5b4e0/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/11/08/kayserispor-yarali-1794166459841.jpeg"
-],
 "https://www.fotomac.com.tr/digermillitakimlar/2026/11/09/demir-ege-tiknaz-umit-milli-takim-aday-kadrosundan-cikarildi": [
 "Ümit Milli Takım’da sakatlığı nedeniyle aday kadrodan çıkarılan Demir Ege Tıknaz’ın yerine Barış Kalaycı kadroya dahil edildi.",
 "2026-11-09T16:00:49+01:00",
@@ -1193,12 +1193,6 @@
 "Liverpool’un yıldızından günler sonra gelen itiraf! Fenerbahçe yenilgisinin sebebini açıkladı",
 "https://iaftm.tmgrup.com.tr/29c4b0/1200/675/0/57/800/506?u=https://iftm.tmgrup.com.tr/2026/11/09/liverpoolun-yildizindan-fenerbahce-itirafi-yenilginin-sebebini-acikladi-1794230295795.jpeg"
 ],
-"https://www.fotomac.com.tr/fenerbahce/2026/11/09/mukemmel-bir-baslangic": [
-"İsmail Kartal’dan boşalan teknik direktörlük koltuğuna getirilen Emre Belözoğlu, yeni dönemindeki ilk maçına farklı başladı. Çorum FK deplasmanında gelen 5-0’lık galibiyet nedeniyle başarılı çalıştırıcı çok mutlu olduğunu söyledi.",
-"2026-11-09T04:50:11+01:00",
-"Mükemmel bir başlangıç",
-"https://iaftm.tmgrup.com.tr/d2780e/1200/675/0/67/800/517?u=https://iftm.tmgrup.com.tr/2026/11/08/mukemmel-bir-baslangic-1794165941444.jpeg"
-],
 "https://www.fotomac.com.tr/fenerbahce/2026/11/09/omer-urundul-arca-corum-fk-fenerbahce-macini-degerlendirdi": [
 "Son dakika Fenerbahçe haberleri: Trendyol Süper Lig’in 11. haftasında Fenerbahçe, deplasmanda Arca Çorum FK’yı 5-0 mağlup ederek milli araya moralli girdi. Usta yazar Ömer Üründü, Arca Çorum FK-Fenerbahçe maçını dikkat çeken ifadelerler…",
 "2026-11-09T08:07:15+01:00",
@@ -1223,6 +1217,12 @@
 "Taraftarlar stada akın etti",
 "https://iaftm.tmgrup.com.tr/263fde/1200/675/0/33/800/483?u=https://iftm.tmgrup.com.tr/2026/11/08/taraftarlar-stada-akin-etti-1794166222919.jpeg"
 ],
+"https://www.fotomac.com.tr/futbol/2026/11/09/2026-golden-boy-odulu-pau-cubarsinin": [
+"21 yaş altı en iyi genç futbolcuya verilen 2026 Golden Boy ödülünü, Barcelona’nın genç yıldızı Pau Cubarsi kazandı.",
+"2026-11-09T17:14:56+01:00",
+"2026 Golden Boy ödülü Pau Cubarsi’nin!",
+"https://iaftm.tmgrup.com.tr/c4178f/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/11/09/2026-golden-boy-odulu-pau-cubarsinin-1794240891561.jpeg"
+],
 "https://www.fotomac.com.tr/futbol/2026/11/09/hakan-calhanoglundan-flas-aciklama-gelecegi-hakkinda-konustu": [
 "Inter ile sözleşmesi sezon sonunda bitecek olan Hakan Çalhanoğlu’ndan geleceği hakkında dikkat çeken açıklamalar geldi. Fenerbahçe ve Galatasaray’ın transfer gündeminde yer alan milli futbolcu, hakkındaki iddialara ve transfer sürecine dair konuştu.…",
 "2026-11-09T12:23:15+01:00",
@@ -1235,29 +1235,23 @@
 "Milli futbolcumuz Kenan Yıldız’dan müjdeli haber! Sahalara döneceği tarihi açıkladı",
 "https://iaftm.tmgrup.com.tr/0c2122/1200/675/0/27/1500/870?u=https://iftm.tmgrup.com.tr/2026/11/09/milli-futbolcumuz-kenan-yildiz-sahalara-ne-zaman-donecegini-acikladi-1794229284836.jpeg"
 ],
-"https://www.fotomac.com.tr/galatasaray/2026/11/09/gabriel-sara-ince-goruyor": [
-"Zaman zaman performansıyla eleştirilen Sara, attığı kritik paslarla maçları çözen isimlerden birisi oluyor.",
-"2026-11-09T04:50:11+01:00",
-"Gabriel Sara ince görüyor",
-"https://iaftm.tmgrup.com.tr/630d1d/1200/675/0/14/800/464?u=https://iftm.tmgrup.com.tr/2026/11/08/gabriel-sara-ince-goruyor-1794165795915.jpeg"
-],
 "https://www.fotomac.com.tr/galatasaray/2026/11/09/galatasaray-aston-villa-maci-ne-zaman-sampiyonlar-liginde-5-hafta": [
 "Galatasaray, Şampiyonlar Ligi’nin 5. haftasında İngiltere Premier Lig ekibi Aston Villa ile karşılaşacak. RAMS Park’taki mücadelenin yayın saati ve kanalı belli olurken sarı-kırmızılı ekip galibiyet serisini sürdürmek istiyor.",
 "2026-11-09T15:50:15+01:00",
 "Galatasaray-Aston Villa maçı ne zaman, hangi kanalda, nerede oynanacak?",
 "https://iaftm.tmgrup.com.tr/2130e0/1200/675/0/0/943/530?u=https://iftm.tmgrup.com.tr/2026/11/09/galatasaray-aston-villa-maci-ne-zaman-sampiyonlar-liginde-5-hafta-1794235874016.png"
 ],
+"https://www.fotomac.com.tr/galatasaray/2026/11/09/galatasaray-haberleri-ingiliz-devlerinden-batrakova-transfer-kancasi": [
+"Galatasaray’da gösterdiği performansla Avrupa kulüplerinin dikkatini çeken Aleksey Batrakov için Premier Lig devleri devreye girdi. İki İngiliz ekibinin 21 yaşındaki yıldızı yakından takip ettiği öne sürülürken, sarı-kırmızılı yönetimin genç…",
+"2026-11-09T17:14:47+01:00",
+"Premier Lig’den Batrakov operasyonu! 2 dev birden talip oldu",
+"https://iaftm.tmgrup.com.tr/e12150/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/11/09/galatasaray-haberleri-ingiliz-devlerinden-batrakova-transfer-kancasi-1794240814274.jpeg"
+],
 "https://www.fotomac.com.tr/galatasaray/2026/11/09/galatasarayda-noa-lang-sesleri-transferi-boyle-duyurdular": [
 "Napoli’de taraftarlarla arasındaki bağlar tamamen kopma noktasına gelen Noa Lang, Ocak ayında takımdan ayrılabilir. Porto karşılaşmasının ardından yaşanan olaylar ve Lazio maçındaki tepkiler nedeniyle hedef tahtasına oturan Hollandalı yıldız için…",
 "2026-11-09T10:03:15+01:00",
 "Galatasaray’da Noa Lang sesleri! Ocak ayında...",
 "https://iaftm.tmgrup.com.tr/a196d0/1200/675/0/25/800/474?u=https://iftm.tmgrup.com.tr/2026/11/09/galatasarayda-noa-lang-sesleri-transferi-boyle-duyurdular-1794214939922.jpeg"
-],
-"https://www.fotomac.com.tr/galatasaray/2026/11/09/galatasarayda-sakatlik-kabusu": [
-"Galatasaray son olarak Trendyol Süper Lig’in 11. haftasında evinde Amedspor’u 4-3’lük skorla mağlup etti. Alınan sonuç sarı-kırmızılı camiada yüzleri güldürürken yaşanan o gelişmeler teknik direktör Okan Buruk’un moralini bozdu. İşte tüm detaylar...",
-"2026-11-09T04:50:11+01:00",
-"Galatasaray’da can sıkan gelişme!",
-"https://iaftm.tmgrup.com.tr/e5b759/1200/675/0/83/800/533?u=https://iftm.tmgrup.com.tr/2026/11/09/galatasarayda-buyuk-kabus-okan-burukun-tum-keyfi-kacti-1794173497893.jpeg"
 ],
 "https://www.fotomac.com.tr/galatasaray/2026/11/09/galatasarayi-rafael-leaodan-uzen-haber-sahalara-geri-donecegi-tarih": [
 "Galatasaray’da Trendyol Süper Lig’in 11. haftasında Amedspor ile oynanan maçta sakatlanan Rafael Leao ile ilgili sıcak gelişmeler yaşanıyor. Son olarak futbolcunun geri döneceği tarih ile ilgili olarak sarı-kırmızılı camiayı üzen haber geldi. İşte…",
@@ -1282,12 +1276,6 @@
 "2026-11-09T13:10:02+01:00",
 "Cevad Prekazi’nin cenazesi ne zaman, hangi, ülkede yapılacak?",
 "https://iaftm.tmgrup.com.tr/bb9c17/1200/675/0/0/1205/678?u=https://iftm.tmgrup.com.tr/2026/11/09/prekazinin-cenaze-toreni-ne-zaman-iste-son-durum-1794226070949.jpeg"
-],
-"https://www.fotomac.com.tr/galatasaray/2026/11/09/yeni-joker-ismail-jakobs": [
-"Teknik direktör Okan Buruk, oyuncuları farklı bölgelerde kullanıp aldığı verimlerle bilinen bir teknik adam. İsmail Jakobs’tan da sol bek dışında stoperde büyük bir verim almaya başladı.",
-"2026-11-09T04:50:11+01:00",
-"Yeni joker Ismail Jakobs",
-"https://iaftm.tmgrup.com.tr/05d6a5/1200/675/0/33/800/483?u=https://iftm.tmgrup.com.tr/2026/11/08/yeni-joker-ismail-jakobs-1794165884807.jpeg"
 ],
 "https://www.fotomac.com.tr/haber-ozel/2026/11/09/10-kasim-okullar-tatil-mi-yarin-okul-var-mi-yarim-gun-mu": [
 "10 Kasım Salı günü okullar tatil mi, yarın ders var mı? Atatürk’ü Anma Günü öncesinde öğrenciler okul ve eğitim takvimine ilişkin ayrıntıları araştırıyor.",
@@ -1343,6 +1331,12 @@
 "Kabine Toplantısı ne zaman? 9 Fon soruşturması gündemde!",
 "https://iaftm.tmgrup.com.tr/43920e/1200/675/0/33/752/456?u=https://iftm.tmgrup.com.tr/2026/11/09/kabine-toplantisi-ne-zaman-bugun-mu-saat-kacta-9-kasim-gundemi-1794201608493.jpeg"
 ],
+"https://www.fotomac.com.tr/haber-ozel/2026/11/09/kasim-meteor-yagmuru-hangi-gun-nasa-tarihleri-acikladi": [
+"NASA’nın Kasım 2026 takviminde iki meteor yağmuru öne çıkıyor. Kuzey Tauridler ve Leonidler için zirve tarihleri belli olurken Türkiye’den en uygun gözlem saatleri de netleşti.",
+"2026-11-09T16:21:06+01:00",
+"Kasım 2026 meteor yağmuru ne zaman, hangi gün, saat kaçta, nereden izlenir?",
+"https://iaftm.tmgrup.com.tr/b5d88c/1200/675/0/0/864/486?u=https://iftm.tmgrup.com.tr/2026/11/09/1794237237166.jpeg"
+],
 "https://www.fotomac.com.tr/haber-ozel/2026/11/09/kastamonu-okullar-tatil-mi-10-kasim-okul-var-mi": [
 "Kastamonu’da kar yağışı nedeniyle 230 köy yolu ulaşıma kapandı. Azdavay ve Pınarbaşı’nda taşımalı eğitime bir gün ara verildi. Peki, 10 Kasım Salı günü Kastamonu’da okullar tatil mi?",
 "2026-11-09T08:52:21+01:00",
@@ -1396,6 +1390,18 @@
 "2026-11-09T08:55:52+01:00",
 "TFF’den Cevad Prekazi için başsağlığı mesajı geldi",
 "https://iaftm.tmgrup.com.tr/a3cb11/1200/675/0/0/864/486?u=https://iftm.tmgrup.com.tr/2026/11/09/tffden-cevad-prekazi-icin-bassagligi-mesaji-geldi-1794210935178.jpg"
+],
+"https://www.fotomac.com.tr/haberler/2026/11/09/uluslar-ligi-maclari-hangi-kanalda-12-17-kasim-yayin-listesi": [
+"Avrupa’nın güçlü milli takımları 12-17 Kasım’da sahaya çıkıyor. Türkiye’nin Belçika ve Fransa karşılaşmaları ATV’de yayınlanırken toplam 21 maç A Spor, A Haber, A2 ve A Para ekranlarında da canlı izlenebilecek.",
+"2026-11-09T17:03:21+01:00",
+"UEFA Uluslar Ligi maçları hangi kanalda, nereden izlenir, şifresiz mi?",
+"https://iaftm.tmgrup.com.tr/712fd1/1200/675/7/0/746/416?u=https://iftm.tmgrup.com.tr/2026/11/09/1794239422452.jpg"
+],
+"https://www.fotomac.com.tr/ispanyalaliga/2026/11/09/ispanya-la-ligada-ekim-ayinin-en-iyi-teknik-direktoru-jose-mourinho": [
+"Real Madrid Teknik Direktörü Jose Mourinho, 2026/27 sezonunda LaLiga ekim ayının en iyi teknik direktörü seçildi.",
+"2026-11-09T16:44:01+01:00",
+"İspanya La Liga’da ekim ayının en iyi teknik direktörü Jose Mourinho!",
+"https://iaftm.tmgrup.com.tr/635cf9/1200/675/0/194/1024/770?u=https://iftm.tmgrup.com.tr/2026/11/09/ispanya-la-ligada-ekim-ayinin-en-iyi-teknik-direktoru-jose-mourinho-1794239016866.jpeg"
 ],
 "https://www.fotomac.com.tr/millitakim/2026/11/09/arda-guler-listeye-damgasini-vurdu-iste-uluslar-liginin-en-degerli-30-futbolcusu": [
 "A Milli Takımımızın UEFA Uluslar Ligi yolculuğu devam ediyor. Türkiye, UEFA Uluslar Ligi’nde A Lig’i 1. Grup 5. maçında 12 Kasım Perşembe günü İzmir’de Belçika’yı konuk edecek. Dev karşılaşma Turkuvaz Medya sayesinde ATV’den canlı olarak…",
@@ -1787,17 +1793,23 @@
 "Concordato preventivo biennale - ItaliaOggi.it",
 "https://images.class.atexcloud.io/view/acePublic/alias/contentid/M2EwMmVmOTQtMjFjMS00/1/concordato-preventivo-biennale.webp"
 ],
-"https://www.italiaoggi.it/economia-e-politica/attualita/ancora-allarmi-bomba-nei-cieli-europei-per-le-compagnie-aeree-danni-tra-i-70mila-e-i-150mila-euro-a05n7aid": [
-"Secondo l'esperto di sicurezza di Deloitte, Fabio Battelli i costi per ogni singola minaccia sono ingenti. Gli allarmi bomba nei voli da e per l'Italia hanno attivato le procure di Milano e Busto Arsizio. La premier Meloni esprime preoccupazione",
-"2026-11-06T17:13:23+01:00",
-"Ancora allarmi bomba nei cieli europei. Per le compagnie aeree danni tra i 70mila e i 150mila euro - ItaliaOggi.it",
-"https://images.class.atexcloud.io/view/acePublic/alias/contentid/8ae6e6c9-7a28-41a0-8213-aa45398d8623/0/aeroporto-di-faro-portogallo.webp"
+"https://www.italiaoggi.it/economia-e-politica/attualita/gualtieri-unito-manovra-da-sei-meno-meno-tagliare-le-pensioni-e-una-vigliaccata-wh1wkdha": [
+"L’economista boccia la legge di bilancio: solo 9 miliardi spendibili su 1.100 di spesa pubblica. Salva detassazione premi e fondo nuovi nati, ma boccia il taglio alle pensioni",
+"2026-11-09T17:15:57+01:00",
+"Gualtieri (UniTo): «Manovra da sei meno meno. Tagliare le pensioni è una vigliaccata» - ItaliaOggi.it",
+"https://images.class.atexcloud.io/view/acePublic/alias/contentid/38b1dd39-037a-46c0-8a2b-45d68f6c84a2/0/whatsapp-image-2026-11-09-at-16-52-46-jpeg.webp"
 ],
 "https://www.italiaoggi.it/economia-e-politica/caro-energia-bollette-sempre-piu-pesanti-per-il-terziario-confcommercio-tetto-al-gas-e-meno-oneri-m3bn6yl7": [
 "Luce a 3,8 miliardi (+46,2%) e gas a 788 milioni (+72,7%) nel terzo trimestre. Per i bar bollette più che raddoppiate. Quotazioni ai massimi dell’anno",
 "2026-11-07T11:20:46+01:00",
 "Caro energia, bollette sempre più pesanti per il terziario. Confcommercio: tetto al gas e meno oneri - ItaliaOggi.it",
 "https://images.class.atexcloud.io/view/acePublic/alias/contentid/230c3d95-53fa-4db2-b0a6-37f41f22eac3/0/caro-bollette.webp"
+],
+"https://www.italiaoggi.it/economia-e-politica/cyber-attacchi-che-cosa-devono-fare-le-pmi-per-difendersi-i-consigli-dellesperto-rftww2gu": [
+"Pierguido Iezzi, di Zenita Group e Assintel, spiega come le Pmi possano ridurre i rischi informatici: analisi, formazione, warning esterni e piani di risposta",
+"2026-11-09T16:38:33+01:00",
+"Cyber attacchi, che cosa devono fare le Pmi per difendersi. I consigli dell’esperto - ItaliaOggi.it",
+"https://images.class.atexcloud.io/view/acePublic/alias/contentid/2bc6c3e4-181d-4fba-8e15-9f31a7148335/0/camera-sala-stampa-presentazione-nuovo-report-l-intelligenza-artificiale-come-arma-l-identikit-della-nuova-minaccia-digitale.webp"
 ],
 "https://www.italiaoggi.it/economia-e-politica/ex-ilva-arvedi-e-jindal-chi-sono-i-due-gruppi-che-si-contendono-lacciaieria-lphf5ax2": [
 "Un campione italiano dei forni elettrici e un gruppo indiano con acciaio dall’Oman: profili, numeri e piani dei due offerenti",
@@ -1810,6 +1822,12 @@
 "2026-11-09T09:53:53+01:00",
 "Ex Ilva, è una gara a due tra Jindal e la sorpresa Arvedi - ItaliaOggi.it",
 "https://images.class.atexcloud.io/view/acePublic/alias/contentid/afdb67c5-ae47-4878-9277-6bdc70079356/0/arcelormittal-ex-ilva.webp"
+],
+"https://www.italiaoggi.it/economia-e-politica/la-filiera-del-legno-tiene-ma-spera-in-piano-casa-e-bonus-edilizia-r94a9kfm": [
+"Marchetti: produzione 2025 stabile a 2,29 miliardi, ma il settore chiede conferma di Piano casa e bonus edilizia. Crescono scuole, alberghi, Rsa e villaggi turistici",
+"2026-11-09T17:12:31+01:00",
+"La filiera del legno tiene, ma spera in Piano casa e bonus edilizia - ItaliaOggi.it",
+"https://images.class.atexcloud.io/view/acePublic/alias/contentid/ad8c0808-afde-4dfc-ae58-3ad420648d99/0/angelo-luigi-marchetti-presidente-filiera-legno-png.webp"
 ],
 "https://www.italiaoggi.it/economia-e-politica/opinioni/i-molteplici-i-campi-larghi-dei-democratici-hjv2qb06": [
 "In Italia tutto è più complicato. Il solo Pd ha 10 correnti",
@@ -1846,12 +1864,6 @@
 "2026-11-07T14:00:00+01:00",
 "Caro carburanti, strategie per risparmiare al distributore - ItaliaOggi.it",
 "https://images.class.atexcloud.io/view/acePublic/alias/contentid/8263751f-e0be-4baf-8133-3e7e543f91bf/0/rifornimento-camion.webp"
-],
-"https://www.italiaoggi.it/marketing-e-media/marketing/job-in-retail-le-persone-al-centro-rp3g8sh8": [
-"Torna il 10 novembre a Milano l’iniziativa che valorizza le opportunità professionali del settore. Per affrontare le sfide di un mercato del lavoro in profonda evoluzione",
-"2026-11-06T19:30:07+01:00",
-"Job in Retail, le persone al centro - ItaliaOggi.it",
-"https://images.class.atexcloud.io/view/acePublic/alias/contentid/d1a0d1b8-4a5b-4b1e-9a6e-d79fc441f5ae/0/maximall-pompeii.webp"
 ],
 "https://www.italiaoggi.it/marketing-e-media/marketing/piazza-italia-compra-conbipel-nuovo-piano-industriale-per-il-rilancio-di-gruppo-flf4n1uj": [
 "Il polo retail campano della moda pronto a raggiungere il controllo del marchio piemontese di abbigliamento. Invitalia in uscita dalla compagine. Al via il calendario delle prossime aperture",
@@ -1907,24 +1919,6 @@
 "Pallavolo, Cozzoli: Rendere permanenti gli incentivi sulle sponsorizzazioni e gli sgravi contributivi - ItaliaOggi.it",
 "https://images.class.atexcloud.io/view/acePublic/alias/contentid/38dbc41a-80f7-4741-97a1-f28848e0b3e8/0/foto-cozzoli-jpg.webp"
 ],
-"https://www.sport.es/es/noticias/actualidad/girona-fc-reconoce-damm-150-136254610": [
-"Delfí Geli entregó una camiseta conmemorativa a la compañía antes del partido ante el Almería, en un acto celebrado en el Espai 1930 que pone en valor más de una década de vínculo entre ambas entidades",
-"2026-11-09T15:35:01+01:00",
-"El Girona FC reconoce a Damm por sus 150 años de historia y celebra una alianza que comenzó en 2012",
-"https://estaticos-cdn.prensaiberica.es/clip/e4c426ba-dda1-4cb2-8417-3f0c0396b9f0_16-9-discover-aspect-ratio_default_0_x1033y505.jpg"
-],
-"https://www.sport.es/es/noticias/actualidad/jose-elias-empresario-catalan-dinero-136242826": [
-"El dueño de La Sirena compartió su punto de vista al respecto en el pódcast 'The Wild Project'",
-"2026-11-09T12:29:55+01:00",
-"José Elías, empresario catalán: 'No tengo nada de dinero en la cuenta; en concreto lo que necesito para vivir. Mi dinero está invertido en mis empresas'",
-"https://estaticos-cdn.prensaiberica.es/clip/f6d6677d-bb86-4f0b-bd0e-2867a56e57cc_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
-],
-"https://www.sport.es/es/noticias/actualidad/profesora-secundaria-26-anos-denuncia-situacion-136246025": [
-"La docente hizo una reflexión sobre los cambios del sistema educativo y el futuro de la profesión",
-"2026-11-09T16:00:29+01:00",
-"Una profesora de secundaria de 26 años denuncia su situación: 'Mis padres se han gastado muchísimo dinero, y ver a mis compañeros con 45 o 50 años que no se pueden comprar una vivienda en la ciudad donde han vivido toda su vida, a mí me han engañado'",
-"https://estaticos-cdn.prensaiberica.es/clip/f0330c65-a30a-4113-9a98-ede4c669561a_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
-],
 "https://www.sport.es/es/noticias/actualidad/tertuliano-chiringuito-nuevo-concursante-gh-136235782": [
 "Josep Pedrerol anunció en directo quién participará en el programa de Telecinco, que se estrenará el próximo 19 de noviembre",
 "2026-11-09T08:54:05+01:00",
@@ -1937,29 +1931,23 @@
 "Se acabó la tregua con Julián",
 "https://estaticos-cdn.prensaiberica.es/clip/34840f6e-d244-46dc-9aa0-a1f480d2c129_16-9-discover-aspect-ratio_default_0_x1000y444.jpg"
 ],
+"https://www.sport.es/es/noticias/atletico-de-madrid/mateu-alemany-cocina-fichaje-bomba-136254285": [
+"El director deportivo rojiblanco quiere poner la guinda al centro del campo del Atlético con la incorporación de un viejo anhelo del Real Madrid",
+"2026-11-09T16:51:26+01:00",
+"Mateu Alemany cocina un fichaje bomba para el mercado de invierno",
+"https://estaticos-cdn.prensaiberica.es/clip/7fd97aca-252d-45dc-b60e-9de56a8eca47_16-9-discover-aspect-ratio_default_0_x840y356.jpg"
+],
 "https://www.sport.es/es/noticias/atletico-de-madrid/simeone-deja-gran-senalado-barca-136234060": [
 "El técnico del Atlético de Madrid realizó solo cuatro sustituciones frente al FC Barcelona pese a ir perdiendo y con signos de agotamiento físico en la plantilla",
 "2026-11-09T08:00:12+01:00",
 "Simeone deja un gran señalado contra el Barça",
 "https://estaticos-cdn.prensaiberica.es/clip/f0d28d58-d60d-442d-b443-87930388b472_16-9-discover-aspect-ratio_default_1528966.jpg"
 ],
-"https://www.sport.es/es/noticias/baloncesto/joe-cremo-luis-figo-tizona-136253362": [
-"El escolta claretiano, indiscutible para Bruno Savignani, mantiene un vínculo especial con el próximo rival de los amarillos, al que se medirán este viernes (19.00 horas, 'BalONcesto TV'). El conjunto castellanoleonés fue su segundo club en España,…",
-"2026-11-09T15:00:04+01:00",
-"Joe Cremo, el 'Luis Figo' del Tizona, se mide a sus ex con el CB Gran Canaria",
-"https://estaticos-cdn.prensaiberica.es/clip/ae728452-b523-4c94-82a2-7bbcf4703f10_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
-],
-"https://www.sport.es/es/noticias/baloncesto/nba/rinden-aday-mara-oklahoma-mejorando-136243008": [
-"El español lidera a los rookies en tapones y empieza a presentar su candidatura a los mejores quintetos de debutantes",
-"2026-11-09T11:50:56+01:00",
-"Se rinden a Aday Mara en Oklahoma: 'Está mejorando muy rápido, es impresionante'",
-"https://estaticos-cdn.prensaiberica.es/clip/974db20c-95aa-4bd7-93d9-65fa76cd2a6b_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
-],
-"https://www.sport.es/es/noticias/barca/50-descuento-entradas-proximo-barca-136244333": [
-"El FC Barcelona ha abierto la preventa para el partido del 2 de diciembre en el Spotify Camp Nou, con localidades a partir de 165 euros para los socios",
-"2026-11-09T12:40:10+01:00",
-"¡Hasta un 50% de descuento en las entradas del próximo Barça - Atlético de Madrid!",
-"https://estaticos-cdn.prensaiberica.es/clip/fd6e14b0-14a8-449f-8e8b-3b0cb1585851_16-9-discover-aspect-ratio_default_0.jpg"
+"https://www.sport.es/es/noticias/baloncesto/real-madrid-acumula-perdidas-record-136248289": [
+"La sección blanca cerró la temporada 2025-26 con unos números rojos de 33,2 millones de euros",
+"2026-11-09T16:56:04+01:00",
+"El Real Madrid acumula pérdidas récord de 33 millones en baloncesto pese a disparar su presupuesto",
+"https://estaticos-cdn.prensaiberica.es/clip/e4c4ab7e-cba8-4374-bcb2-4b35e8f1bf38_16-9-discover-aspect-ratio_default_0_x540y240.jpg"
 ],
 "https://www.sport.es/es/noticias/barca/abelardo-pau-cubarsi-espectaculo-central-136238671": [
 "El entrenador español, actualmente sin equipo, regaló varios elogios a jugadores del Barça tras la victoria en el Metropolitano",
@@ -1973,18 +1961,6 @@
 "Alivio en el Barça con un Josué Caicedo citado con Ecuador",
 "https://estaticos-cdn.prensaiberica.es/clip/8e68cf14-6099-458c-b78b-8b9f89b60cb3_16-9-discover-aspect-ratio_default_0_x340y127.jpg"
 ],
-"https://www.sport.es/es/noticias/barca/apuesta-ganadora-flick-christensen-avalo-136243324": [
-"El danés va a ser una pieza muy importante a partir de ahora y le dosificarán para evitar recaídas",
-"2026-11-09T11:44:06+01:00",
-"La apuesta ganadora de Flick por Christensen: avaló su renovación por el Barça a pesar de las dudas",
-"https://estaticos-cdn.prensaiberica.es/clip/bfbc4dc6-fd13-49e3-8363-3cf8f58d1c15_16-9-discover-aspect-ratio_default_1529060.jpg"
-],
-"https://www.sport.es/es/noticias/barca/baloncesto/horas-incertidumbre-barca-lesiones-punter-136225072": [
-"Los dos jugadores azulgranas no pudieron terminar el partido ante Breogán, y se está pendiente del alcance de sus contratiempos físicos para ver si llegan al importante partido de Euroliga ante Panathinaikos del próximo viernes",
-"2026-11-09T06:30:05+01:00",
-"Horas de incertidumbre en el Barça con las lesiones de Punter y Evbuomwan",
-"https://estaticos-cdn.prensaiberica.es/clip/6ca923ac-9d9b-4640-8c61-bd410e02285e_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
-],
 "https://www.sport.es/es/noticias/barca/baloncesto/reencuentro-inesperado-exazulgranas-marcelinho-huertas-136253908": [
 "El veterano base brasileño, de 43 años, apunta a la Euroliga para reencontrarse con el técnico catalán",
 "2026-11-09T15:31:49+01:00",
@@ -1996,6 +1972,12 @@
 "2026-11-09T13:58:42+01:00",
 "El Barça desembarca en Brasil",
 "https://estaticos-cdn.prensaiberica.es/clip/ff1b87b8-cd08-4f32-8b7f-983b9a10e4cc_16-9-discover-aspect-ratio_default_0_x1000y416.jpg"
+],
+"https://www.sport.es/es/noticias/barca/barca-flick-equipo-remontadas-135325127": [
+"El técnico alemán ha ganado la mitad de los partidos que el Barça ha empezado perdiendo y ya está en el podio histórico de entrenadores blaugranas con más remontadas",
+"2026-11-09T11:54:19+01:00",
+"El Barça de Flick, el equipo de las remontadas",
+"https://estaticos-cdn.prensaiberica.es/clip/2be7bd3e-3959-4242-805c-df75aeb3d286_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
 "https://www.sport.es/es/noticias/barca/barcelona-proximo-partido-fecha-laliga-136228771": [
 "Consulta a qué hora es el siguiente partido del Barça y en qué canal de TV ver la jornada 13 de LaLiga desde España",
@@ -2009,23 +1991,23 @@
 "Carlos Martínez: 'Cristiano Ronaldo no tiene las habilidades innatas de Messi y ahora cuando ves a muchos jugadores que jugaban en el Real Madrid con él y le preguntan quién es el mejor, todos te dicen que Leo'",
 "https://estaticos-cdn.prensaiberica.es/clip/08a87d20-283c-4cf5-beae-3e90e1cfd6e1_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
-"https://www.sport.es/es/noticias/barca/detalle-gavi-flick-final-encuentro-136235732": [
-"El Barça se marchó del Metropolitano con tres puntos fundamentales y con una imagen que también dejó un mensaje sobre la importancia de Gavi en el vestuario",
-"2026-11-09T07:54:11+01:00",
-"El detalle de Gavi con Flick al final del encuentro",
-"https://estaticos-cdn.prensaiberica.es/clip/32c58044-d825-4b24-b5d9-1c8c58306c02_16-9-discover-aspect-ratio_default_0_x1000y444.jpg"
+"https://www.sport.es/es/noticias/barca/cesar-augusto-arquitecto-techo-nuevo-camp-nou-bernabeu-barca-real-madrid-136244560": [
+"El estadio blaugrana apuesta por una estructura ligera de cables, con voladizos de hasta 90 metros y 18.000 metros cuadrados de paneles solares, frente al techo retráctil del Santiago Bernabéu",
+"2026-11-09T17:00:12+01:00",
+"César Augusto, arquitecto: 'El techo del nuevo Camp Nou se sostendrá con una red de cables, la cubierta protege las gradas y mantiene abierto el centro sobre el césped. Su objetivo es distinto del cierre completo del Bernabéu'",
+"https://estaticos-cdn.prensaiberica.es/clip/b1bcdfa3-6991-4a9c-b5a1-06f1da428b8a_16-9-discover-aspect-ratio_default_0_x827y310.jpg"
 ],
-"https://www.sport.es/es/noticias/barca/futbol-base/albert-peris-sustituto-pol-planas-136193353": [
-"El de Santa Coloma de Farners regresó a la entidad azulgrana este pasado verano para dirigir al equipo Sub-15",
-"2026-11-07T11:37:21+01:00",
-"Albert Peris, sustituto de Pol Planas en el Juvenil A del Barça",
-"https://estaticos-cdn.prensaiberica.es/clip/58d8a787-4eae-4015-977b-723f57885278_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
+"https://www.sport.es/es/noticias/barca/futbol-femenino/lesion-kerolin-nicoli-parte-medico-136256104": [
+"La brasileña se perderá los próximos compromisos del Barça y podría reaparecer el 16 de diciembre ante el Bayern en Múnich",
+"2026-11-09T16:24:14+01:00",
+"Lesión Kerolin Nicoli: parte médico del Barça y tiempo de baja",
+"https://estaticos-cdn.prensaiberica.es/clip/bc8978eb-6c9a-4450-9251-b8dcedf31ea4_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
-"https://www.sport.es/es/noticias/barca/futbol-base/pol-planas-dara-hablar-europa-136179616": [
-"El hasta ahora entrenador del Juvenil A del Barça iniciará un nuevo paso en su carrera como entrenador en el Dinamo de Zagreb. Valoramos con expertos su legado en el Barça.",
-"2026-11-08T08:00:33+01:00",
-"'Pol Planas dará mucho que hablar en Europa. Contagia el ADN Barça a los jugadores, sus equipos atacan muy bien y es un gran gestor'",
-"https://estaticos-cdn.prensaiberica.es/clip/96f5c5e3-aaff-4692-be3f-85818df8524b_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
+"https://www.sport.es/es/noticias/barca/laliga-premia-lamine-yamal-golazo-136254028": [
+"La trayectoria del joven talento del FC Barcelona sigue sumando reconocimientos después de que su acción individual en la novena jornada de Liga fuera seleccionada como la mejor del mes",
+"2026-11-09T17:13:38+01:00",
+"LaLiga premia a Lamine Yamal por su golazo ante el Betis",
+"https://estaticos-cdn.prensaiberica.es/clip/4bc1314d-0d54-4892-94a9-4038f6526801_16-9-discover-aspect-ratio_default_1519778.jpg"
 ],
 "https://www.sport.es/es/noticias/barca/lamine-yamal-molestias-incorpora-seleccion-136244057": [
 "El de Rocafonda acabó el partido ante el Atlético de Madrid con molestias en la rodilla derecha",
@@ -2045,11 +2027,11 @@
 "Miri, tío de Fermín López: 'Cuando se fue al Barça, sus padres iban a visitarlo cada 20 días, iban en coche desde Huelva hasta Barcelona, ha sido un sacrificio bastante grande'",
 "https://estaticos-cdn.prensaiberica.es/clip/a23d2bf0-34ef-44bf-a87b-eeea413d5520_16-9-discover-aspect-ratio_default_1526059.jpg"
 ],
-"https://www.sport.es/es/noticias/barca/movimiento-tactico-clave-flick-christensen-136233398": [
-"Sorprendió el técnico alemán en el descanso con un movimiento inesperado y luego lo pulió retirando a Cancelo",
-"2026-11-09T06:30:09+01:00",
-"El movimiento táctico clave de Flick: Christensen, factor determinante",
-"https://estaticos-cdn.prensaiberica.es/clip/19e58b3c-38dc-4cbb-a566-952d9b17168c_16-9-discover-aspect-ratio_default_0_x1000y444.jpg"
+"https://www.sport.es/es/noticias/barca/oficial-pau-cubarsi-golden-boy-136250023": [
+"El del Barça recibirá el galardón en una gala que se celebrará en Turín el 14 de diciembre",
+"2026-11-09T16:47:21+01:00",
+"Oficial: Pau Cubarsí es el Golden Boy 2026",
+"https://estaticos-cdn.prensaiberica.es/clip/efe0e6a8-4b5f-48f8-bca2-9490ab4a08e7_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
 "https://www.sport.es/es/noticias/barca/padre-nijstad-rompe-silencio-interes-136253067": [
 "Maurice Nijstad, padre del joven central del Twente, explica por primera vez cómo vivió su hijo el interés de los grandes clubes europeos, entre ellos el FC Barcelona, y los motivos que le llevaron a continuar en Países Bajos",
@@ -2081,11 +2063,29 @@
 "Lo que no se vio del Atlético-Barça: De las artes marciales de Adeyemi a la frustración de Raphinha, un King Kong culé y el detallazo de Fermín",
 "https://estaticos-cdn.prensaiberica.es/clip/40b8f3cf-3a52-426c-97f0-5fe356c46c6f_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
+"https://www.sport.es/es/noticias/deportes/campeon-olimpico-teddy-riner-candidato-136247719": [
+"El cinco veces oro olímpico sorprendió con su candidatura para las elecciones al Elíseo de 2027",
+"2026-11-09T13:20:43+01:00",
+"El campeón olímpico Teddy Riner, candidato a la presidencia de Francia: 'Sé lo que es luchar, caer y levantarse una y otra vez'",
+"https://estaticos-cdn.prensaiberica.es/clip/05870dad-611c-4ba4-81b1-05caca9bb25a_16-9-discover-aspect-ratio_default_1529119.jpg"
+],
+"https://www.sport.es/es/noticias/deportes/oros-espana-dia-historico-dakar-136234672": [
+"Gift Okunrobo en triple salto y Graciela Eningo en lucha playa dieron sus dos primeros títulos a la delegación española",
+"2026-11-09T06:30:09+01:00",
+"Dos oros para España en un día histórico en Dakar 2026",
+"https://estaticos-cdn.prensaiberica.es/clip/4807bcd8-7f88-4a6b-8746-25942978384e_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
+],
 "https://www.sport.es/es/noticias/deportes/ultima-vez-hiciste-primera-vez-bc-136235583": [
 "Sobrevolar paisajes, enfrentarse al Everest o poner a prueba los propios límites sin salir de la ciudad. En el Poblenou, un espacio que combina deporte, tecnología y realidad virtual propone una manera diferente de disfrutar del tiempo libre: menos…",
 "2026-11-09T06:59:01+01:00",
 "¿Cuándo fue la última vez que hiciste algo por primera vez? Barcelona tiene un lugar para volver a sentirlo",
 "https://estaticos-cdn.prensaiberica.es/clip/ee0b4ef8-999c-43ad-a5f5-b675838bf9aa_16-9-discover-aspect-ratio_default_0_x1125y499.jpg"
+],
+"https://www.sport.es/es/noticias/futbol-internacional/america/dato-demoledor-memphis-depay-retrata-136253690": [
+"El ex del Barça atraviesa la peor temporada goleadora de su carrera: solo ha visto portería una vez en todo 2026 y el Timão, inmerso en la zona de descenso, acusa su escasa aportación ofensiva",
+"2026-11-09T16:13:53+01:00",
+"El dato demoledor de Memphis Depay que retrata el drama del Corinthians",
+"https://estaticos-cdn.prensaiberica.es/clip/61685114-148b-4160-9974-f61cd638d88d_16-9-discover-aspect-ratio_default_1507816.jpg"
 ],
 "https://www.sport.es/es/noticias/futbol-internacional/america/primer-golpe-efecto-neymar-padre-136251296": [
 "'O pai do craque', que se ha convertido en el hombre fuerte del Peixe, deja entrever que Ney podría continuar en el club paulista la próxima temporada 2027",
@@ -2111,11 +2111,11 @@
 "El Manchester United, el peor equipo defensivo de Europa",
 "https://estaticos-cdn.prensaiberica.es/clip/2bb389c8-dbef-4d47-8683-ed3e000324a0_16-9-discover-aspect-ratio_default_0_x960y360.jpg"
 ],
-"https://www.sport.es/es/noticias/futbol-internacional/vozinha-emocionado-ganar-primer-titulo-136233249": [
-"El caboverdiano corona su primer semestre en el fútbol chileno con el título de liga tras una trayectoria que lo llevó a destacar previamente en el Mundial 2026",
-"2026-11-09T08:28:57+01:00",
-"Vozinha, emocionado tras ganar su primer título con Colo Colo: 'Esto es para todo Cabo Verde'",
-"https://estaticos-cdn.prensaiberica.es/clip/afca55c5-9182-4ffe-ac34-08084357cb1b_16-9-discover-aspect-ratio_default_0_x1000y444.jpg"
+"https://www.sport.es/es/noticias/futbol/cinco-internacionales-deportivo-selecciones-136258358": [
+"Giménez, Bil, Amatucci, Noubi y Mella, con Uruguay, Camerún y los combinados sub 21 de Italia, Bélgica y España",
+"2026-11-09T17:23:42+01:00",
+"Los cinco internacionales del Deportivo ya están con sus selecciones",
+"https://estaticos-cdn.prensaiberica.es/clip/70e61512-d4b5-489a-a787-87a1e951a438_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
 "https://www.sport.es/es/noticias/futbol/ciro-deslumbra-goles-messi-hijo-inter-miami-campeon-torneo-136250321": [
 "El hijo menor de Lionel Messi, de ocho años, fue una de las grandes figuras de la Legends Cup con el equipo Sub-10 de las Garzas",
@@ -2123,17 +2123,11 @@
 "Ciro Messi deslumbra con un doblete y se proclama campeón con el Inter Miami",
 "https://estaticos-cdn.prensaiberica.es/clip/e9820ef9-f214-4e50-ab00-e7e11c9c13a6_16-9-discover-aspect-ratio_default_1529164.jpg"
 ],
-"https://www.sport.es/es/noticias/futbol/iris-mel-dedica-emotivas-palabras-136236561": [
-"Pepe Mel fue operado con éxito en Sevilla tras sufrir un accidente cerebrovascular el pasado 1 de noviembre y continúa ingresado en el Hospital Virgen del Rocío",
-"2026-11-09T08:56:58+01:00",
-"Iris Mel dedica unas emotivas palabras a su padre: 'No me dejes aquí sola'",
-"https://estaticos-cdn.prensaiberica.es/clip/ebc20557-5182-42c3-8edb-0b0402be3e82_16-9-discover-aspect-ratio_default_0_x600y224.jpg"
-],
-"https://www.sport.es/es/noticias/futbol/segunda/exito-youth-league-reto-oviedo-136241637": [
-"El excapitán del Real Madrid apunta al banquillo carbayón tras la destitución de Julián Calero",
-"2026-11-09T11:52:34+01:00",
-"Del éxito en la Youth League al reto del Oviedo ¿cómo le ha ido a Raúl como entrenador?",
-"https://estaticos-cdn.prensaiberica.es/clip/77b0d6ba-af2c-464a-bf05-b3d40815e75c_16-9-discover-aspect-ratio_default_1504703.jpg"
+"https://www.sport.es/es/noticias/futbol/odisea-real-zaragoza-viajar-jaen-136257629": [
+"La cancelación de trenes a Andalucía abocará a la expedición blanquilla a un largo desplazamiento en bus aunque parará en Madrid en la ida",
+"2026-11-09T17:00:11+01:00",
+"La odisea del Real Zaragoza para viajar a Jaén: paliza en autocar y toda la noche en carretera para la vuelta",
+"https://estaticos-cdn.prensaiberica.es/clip/8518a4cd-01dc-4589-83cf-1781fce20f3c_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
 "https://www.sport.es/es/noticias/laliga/barrenetxea-marcha-lagrimas-enciende-alarmas-136231292": [
 "El extremo tuvo que abandonar el partido ante el Rayo por unas molestias en el muslo y se vuelve a perder una convocatoria con la selección",
@@ -2153,11 +2147,11 @@
 "Solo Newey hace feliz a Alonso: “Fuimos fenomenal en las curvas”",
 "https://estaticos-cdn.prensaiberica.es/clip/2fdc0f9c-6a9e-4a5f-92cf-f469eca48517_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
-"https://www.sport.es/es/noticias/motor/moto-gp/tardozzi-responde-aprilia-gana-conjunto-136241690": [
-"El directivo de Ducati atribuyó el mérito de la temporada no solo a Marc Márquez, sino también a la moto y a la gestión deportiva",
-"2026-11-09T15:00:04+01:00",
-"Tardozzi responde a Aprilia: 'Lo que gana es el conjunto'",
-"https://estaticos-cdn.prensaiberica.es/clip/e94f5466-1b81-4297-b267-7940fda50cac_16-9-discover-aspect-ratio_default_0_x800y355.jpg"
+"https://www.sport.es/es/noticias/motor/moto-gp/ezpeleta-pronuncia-posible-sancion-yamaha-136255932": [
+"'Nuestra relación con ellos es comercial y si hay algo que decir, se comunicará. En la parte deportiva, ni estamos, ni queremos estar. Eso es cosa de la FIM', apuntó Ezpeleta.",
+"2026-11-09T16:50:08+01:00",
+"Ezpeleta se pronuncia sobre la posible sanción a Yamaha",
+"https://estaticos-cdn.prensaiberica.es/clip/2377e377-6c70-4309-8317-af4b8a504754_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
 "https://www.sport.es/es/noticias/motor/moto-gp/valentino-rossi-gira-presentacion-libro-136239489": [
 "El expiloto de MotoGP se encuentra de gira promocional de 'La Mia Storia', una biografía en la que repasa su trayectoria",
@@ -2207,23 +2201,29 @@
 "¡Ojo, Barça, que llega el coco!",
 "https://estaticos-cdn.prensaiberica.es/clip/42fd0dc1-b082-46d5-b3fc-872a551efe80_16-9-discover-aspect-ratio_default_1461337.jpg"
 ],
+"https://www.sport.es/es/noticias/opinion/pol-planas-intangible-formadores-masia-136256271": [
+"La apuesta por La Masia es el gran hecho diferencial del Barça. Ningún otro club grande apuesta por sus canteranos como el Barça. Hablamos mucho del talento de estos jugadores, algo imprescindible, pero una gran clave infravalorada reside está en su…",
+"2026-11-09T16:54:24+01:00",
+"Pol Planas y el valor intangible de los formadores de La Masia",
+"https://estaticos-cdn.prensaiberica.es/clip/c6ca0b27-74a8-4a18-be52-e8b9b79cdf09_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
+],
 "https://www.sport.es/es/noticias/opinion/recibimiento-metropolitano-136208274": [
 "Se mire por donde se mire, tiene morbo la visita esta noche del Barcelona por primera vez a la casa de Julián Álvarez tras el movido verano que vivimos. En el Metropolitano ha bajado algo la tensión con el internacional argentino tras empezar a…",
 "2026-11-08T08:00:40+01:00",
 "El recibimiento en el Metropolitano",
 "https://estaticos-cdn.prensaiberica.es/clip/21aa6ff0-51ca-4027-b6bf-88c16b0a6111_16-9-discover-aspect-ratio_default_0_x1000y444.jpg"
 ],
-"https://www.sport.es/es/noticias/premier-league/unai-emery-vuelve-favor-136241509": [
-"El técnico vasco se viralizó en las redes sociales por una conversación surrealista con un periodista tras el empate del Aston Villa ante el Manchester United",
-"2026-11-09T11:25:55+01:00",
-"Unai Emery lo vuelve a hacer: '¡Por favor!'",
-"https://estaticos-cdn.prensaiberica.es/clip/ec9e1684-979a-41e5-b605-10e92b725e54_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
-],
 "https://www.sport.es/es/noticias/real-madrid/arda-guler-gran-debilidad-mourinho-136228021": [
 "El turco está encontrando su mejor versión desde la llegada del portugués al banquillo y se ha convertido en la pieza que completa el puzzle de Mourinho. Además, Güler es el gran socio de Mbappé en el terreno de juego",
 "2026-11-09T14:50:11+01:00",
 "Arda Güler, la gran debilidad de Mourinho",
 "https://estaticos-cdn.prensaiberica.es/clip/da8024e2-2b2b-4516-b2a5-c8a250b2b1a5_16-9-discover-aspect-ratio_default_0_x1000y444.jpg"
+],
+"https://www.sport.es/es/noticias/real-madrid/contradiccion-jj-gabriel-eleccion-dificil-136171070": [
+"La ambiciosa apuesta de JJ Gabriel con el Real Madrid contrasta con la feroz competencia que encontrará en la plantilla blanca frente a figuras consagradas y jóvenes talentos",
+"2026-11-09T16:54:58+01:00",
+"La contradicción de JJ Gabriel y una elección difícil de entender",
+"https://estaticos-cdn.prensaiberica.es/clip/e7f5c06f-15b7-4446-92e5-a9afdc1e5c93_16-9-discover-aspect-ratio_default_0_x1000y479.jpg"
 ],
 "https://www.sport.es/es/noticias/real-madrid/martin-lucas-hijos-iker-casillas-real-madrid-fichar-leganes-136239137": [
 "Los dos hermanos, de 12 y 10 años, ponen fin a su etapa en La Fábrica después de varios años formándose como porteros en la cantera blanca y buscarán nuevos retos deportivos",
@@ -2237,12 +2237,6 @@
 "La masa salarial del Real Madrid se dispara",
 "https://estaticos-cdn.prensaiberica.es/clip/90311686-9d4a-42cd-8606-f9ba2b32389f_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
-"https://www.sport.es/es/noticias/salud/notas-corazon-acelera-salta-latido-explicacion-cardiologos-136253138": [
-"El consumo excesivo de café, alcohol o sustancias estimulantes actúa como un importante excitante cardiaco que puede provocar palpitaciones y alteraciones patológicas en el ritmo normal del corazón",
-"2026-11-09T15:00:05+01:00",
-"¿Notas que el corazón se acelera o se salta un latido? Los cardiólogos explican cuándo preocuparse",
-"https://estaticos-cdn.prensaiberica.es/clip/ca9fcd13-95aa-4e11-9177-0b72428b9148_16-9-discover-aspect-ratio_default_0.jpg"
-],
 "https://www.sport.es/es/noticias/seleccion/victor-munoz-frutos-novedades-convocatoria-136248722": [
 "De la Fuente incorpora a los dos atacantes a la lista de la Selección Española por las bajas de Lamine Yamal, Oyarzabal y Barrenetxea",
 "2026-11-09T13:54:54+01:00",
@@ -2255,23 +2249,35 @@
 "Amazon liquida hoy por 53 euros (antes 113) el calefactor que calienta tu casa en segundos, ¡y más!",
 "https://estaticos-cdn.prensaiberica.es/clip/af8c9587-f491-4b31-8864-4f0c01f413c3_16-9-discover-aspect-ratio_default_0.jpg"
 ],
-"https://www.sport.es/es/noticias/ufc/ilia-topuria-29-anos-patrimonio-136240941": [
-"El luchador confiesa cómo se posiciona frente al dinero que logran acumular muchos compañeros de profesión",
-"2026-11-09T15:00:04+01:00",
-"Ilia Topuria (29 años), sobre su patrimonio: 'La riqueza no es lo que tienes, sino cuántos días podrías sobrevivir si no trabajaras. Hay gente que gana muchísimo dinero, pero son pobres porque tienen que trabajar todos los meses para mantener lo que tienen'",
-"https://estaticos-cdn.prensaiberica.es/clip/2b11a534-0fd2-4039-b569-f10003583975_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
+"https://www.sport.es/es/noticias/tenis/alcaraz-salda-parte-cuenta-pendiente-136256379": [
+"El tenista murciano se alzó con el título en el Masters 1000 de París y mira ya a los grandes objetivos de las ATP Finals y la Copa Davis",
+"2026-11-09T17:23:18+01:00",
+"Alcaraz salda parte de su cuenta pendiente",
+"https://estaticos-cdn.prensaiberica.es/clip/11aaf458-046a-4188-afbf-79e612ef3002_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
 ],
-"https://www.sportmediaset.mediaset.it/altrisport/messico-assassinato-l-ex-giocatore-di-baseball-enrique-quiones_118788492-202602k.shtml": [
-"Il lanciatore 57enne lavorava come autista a Mazatlan",
-"2026-11-09T08:23:26+01:00",
-"Messico, assassinato l'ex giocatore di baseball Enrique Quiñones",
-"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118788493?r=4"
+"https://www.sport.es/es/noticias/ufc/hokit-carga-topuria-senti-gaethje-136244439": [
+"El estadounidense vuelve a cargar contra el hispanogeorgiano y cuestiona que los peleadores de menor peso se enfrenten verbalmente a los pesos pesados, a cinco días de disputar el título ante Ciryl Gane",
+"2026-11-09T12:18:22+01:00",
+"Hokit carga contra Topuria: 'Sentí que Gaethje y yo lo vencimos juntos, estaba entrenando como si fuera un show'",
+"https://estaticos-cdn.prensaiberica.es/clip/6252696a-9f5c-4614-9d83-1614b2a89e41_16-9-discover-aspect-ratio_default_1528323.jpg"
 ],
-"https://www.sportmediaset.mediaset.it/basket/basket-lajae-jones-trieste_118790161-202602k.shtml": [
-"Che il talento ci fosse era fuori discussione, ma la stagione di Lajae Jones sta lasciando tutti a bocca aperta, rivelandosi uno dei giocatori piu dominanti del campionato",
-"2026-11-09T10:02:50+01:00",
-"Basket, c’è una nuova stella in LBA: Lajae Jones splende a Trieste",
-"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118790162?r=4"
+"https://www.sport.es/es/noticias/videojuegos/exdirector-tecnico-rockstar-advierte-usuarios-136244404": [
+"El desarrollador advierte sobre uno de los mayores retos a los que podría enfrentarse el estudio",
+"2026-11-09T17:00:13+01:00",
+"Un exdirector técnico de Rockstar advierte a los usuarios de PC sobre GTA 6: 'Si yo fuera Rockstar, me preocuparía'",
+"https://estaticos-cdn.prensaiberica.es/clip/bc4454ff-6e5c-4bf8-a0c3-a10074124d9a_16-9-discover-aspect-ratio_default_0_x600y225.jpg"
+],
+"https://www.sportmediaset.mediaset.it/basket/a-milano-e-il-giorno-di-luca-banchi-dobbiamo-alzare-il-livello-per-essere-competitivi_118801595-202602k.shtml": [
+"Il tecnico della Nazionale ritorna a guidare l’Olimpia a piu di 10 anni dall’ultima volta",
+"2026-11-09T16:28:37+01:00",
+"A Milano è il giorno di Luca Banchi: “Dobbiamo alzare il livello per essere competitivi”",
+"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118801846?r=8"
+],
+"https://www.sportmediaset.mediaset.it/basket/basket-gm-milano-esonero-poeta-ferita-per-tutti-banchi-il-migliore-possibile_118803850-202602k.shtml": [
+"\"Non e mai facile e non mai e piacevole terminare il rapporto con l'allenatore: Poeta era una meravigliosa persona, un amico, ha portato tanti titoli a...",
+"2026-11-09T17:10:16+01:00",
+"Basket, gm Milano: \"Esonero Poeta ferita per tutti, Banchi il migliore possibile\"",
+"https://img-api.cloud.mediaset.net/api/images/cu/v2/-/1200/675/aHR0cHM6Ly93d3cuc3BvcnRtZWRpYXNldC5tZWRpYXNldC5pdC9hc3NldHMvbWlzYy9zcG9ydG1lZGlhc2V0LWJhY2tncm91bmQucG5n?r=-1"
 ],
 "https://www.sportmediaset.mediaset.it/basket/basket-napoli-continua-a-volare-eguagliato-il-miglior-avvio-in-stagione-di-23-anni-fa_118792370-202602k.shtml": [
 "Anche in emergenza, la squadra di Repesa batte Scafati rimontando uno svantaggio di 18 punti. Domenica appuntamento con la storia contro Trieste",
@@ -2303,11 +2309,11 @@
 "Bologna, infortunio per Miranda: c'è lesione",
 "https://img-api.cloud.mediaset.net/api/images/cu/v2/-/1200/675/aHR0cHM6Ly93d3cuc3BvcnRtZWRpYXNldC5tZWRpYXNldC5pdC9hc3NldHMvbWlzYy9zcG9ydG1lZGlhc2V0LWJhY2tncm91bmQucG5n?r=-1"
 ],
-"https://www.sportmediaset.mediaset.it/calcio/frosinone/frosinone-alvini-atalanta-modello-da-seguire-calo-meritava-la-nazionale_118789402-202602k.shtml": [
-"Il tecnico dei sorpredenti ciociari: \"Andiamo sempre in campo per determinare la partita\"",
-"2026-11-09T09:07:28+01:00",
-"Frosinone, Alvini: \"Atalanta modello da seguire, Calò meritava la Nazionale\"",
-"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118789400?r=5"
+"https://www.sportmediaset.mediaset.it/calcio/fiocco-azzurro-per-pierluigi-gollini-il-portiere-della-roma-e-diventato-papa_118803038-202602k.shtml": [
+"Pierluigi Gollini, portiere della Roma, e la moglie Ariel Serra sono diventati genitori del piccolo Loen, con mamma e bambino che godono entrambi di...",
+"2026-11-09T16:50:00+01:00",
+"Fiocco azzurro per Pierluigi Gollini: il portiere della Roma è diventato papà",
+"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118803004?r=4"
 ],
 "https://www.sportmediaset.mediaset.it/calcio/furto-in-casa-di-izzo-ex-monza-rubati-denaro-e-oggetti-preziosi-ladri-ripresi-dalle-telecamere_118800126-202602k.shtml": [
 "Furto in casa del difensore Armando Izzo, attualmente in forza all'Avellino con un passato anche in serie A con Genoa, Torino e Monza. La notte scorsa...",
@@ -2351,6 +2357,12 @@
 "Thuram in versione monstre 'fa paura' anche a Lautaro: in questa Inter fa la differenza",
 "https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118790157?r=15"
 ],
+"https://www.sportmediaset.mediaset.it/calcio/italia-allenamento-sotto-la-pioggia-confermato-il-4-3-3_118803065-202602k.shtml": [
+"Allenamento sotto la pioggia per la Nazionale oggi a Coverciano per preparare la prima delle due partite di Nations League, giovedi sera a Milano...",
+"2026-11-09T16:57:43+01:00",
+"Italia, allenamento sotto la pioggia: confermato il 4-3-3. Cisse centravanti",
+"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118803860?r=5"
+],
 "https://www.sportmediaset.mediaset.it/calcio/italia-in-visita-a-coverciano-tre-ragazzi-sopravvissuti-a-tragedia-di-crans-montana_118800779-202602k.shtml": [
 "Un incontro con Roberto Mancini e Claudio Ranieri, la visita al Museo del Calcio poi al campo a seguire l'allenamento degli azzurri. E' stata una...",
 "2026-11-09T15:30:35+01:00",
@@ -2387,11 +2399,17 @@
 "Juventus: tre rientri dopo la sosta, ma per Yildiz bisogna ancora attendere",
 "https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118793753?r=6"
 ],
-"https://www.sportmediaset.mediaset.it/calcio/milan-un-poker-di-reazioni-palladino-numeri-da-top_118784227-202602k.shtml": [
-"Dopo ogni sconfitta i rossoneri hanno sempre reagito vincendo. Il tecnico napoletano fa volare il Bologna, continua la serie nera del Como contro l'Inter. Juve: i paragoni inchiodano Spalletti",
-"2026-11-09T07:46:25+01:00",
-"Milan, un poker di reazioni | Palladino, numeri da top",
-"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118784607?r=4"
+"https://www.sportmediaset.mediaset.it/calcio/lamine-yamal-cambia-casa-comprata-l-ex-villa-di-shakira-e-pique-per-11-milioni_118803046-202602k.shtml": [
+"Lamine Yamal e la fidanzata Ines Garcia si preparano a iniziare un nuovo capitolo insieme a Barcellona nella lussuosa villa un tempo appartenuta a...",
+"2026-11-09T17:00:00+01:00",
+"Lamine Yamal cambia casa: comprata l'ex villa di Shakira e Piqué per 11 milioni",
+"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118803047?r=4"
+],
+"https://www.sportmediaset.mediaset.it/calcio/napoli/napoli-allegri-cinque-giorni-riposo_118802032-202602k.shtml": [
+"I riposi erano gia programmati prima della sosta: dal 14 novembre via al tour de force a Castel Volturno, con la speranza di recuperare gli infortunati",
+"2026-11-09T16:56:11+01:00",
+"Allegri concede cinque giorni di riposo al Napoli, ma non sono un regalo: il tecnico ha già in mente il piano per ripartire",
+"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118802033?r=30"
 ],
 "https://www.sportmediaset.mediaset.it/calcio/serie-a-lazio-a-14-e-napoli-a--7-il-confronto-con-la-passata-stagione_118795927-202602k.shtml": [
 "Gattuso si gode la testa della classifica da imbattuto, mentre il Napoli scivola al 10° posto. Sorprende il Frosinone di Alvini, che sogna l'Europa. In coda la classifica e la copia della passata stagione",
@@ -2411,11 +2429,11 @@
 "Totti gira nuovo spot con Spalletti a casa sua: \"Ci stiamo ritrovando\"",
 "https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118798140?r=7"
 ],
-"https://www.sportmediaset.mediaset.it/calcio/una-juve-con-gli-attributi-ma-la-crisi-non-e-superata_118782431-202602k.shtml": [
-"Dimostrazione di carattere per la squadra di Spalletti: funziona la coppia Kolo Muani-Woltemade con il supporto di un trequartista",
-"2026-11-09T07:45:56+01:00",
-"Una Juve con gli attributi ma la crisi non è superata",
-"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118783864?r=9"
+"https://www.sportmediaset.mediaset.it/calcio/turchia-e-ancora-super-vlahovic-altra-doppietta-col-besiktas_118801550-202602k.shtml": [
+"Dusan Vlahovic ha firmato una doppietta decisiva nella vittoria per 3-0 del Besiktas contro il Genclerbirligi, disputata al Tupras Park per l'11ª...",
+"2026-11-09T16:06:15+01:00",
+"Turchia, è ancora super Vlahovic: altra doppietta col Besiktas",
+"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118801553?r=5"
 ],
 "https://www.sportmediaset.mediaset.it/calcio/under-21-baldini-gruppo-fortissimo-con-la-maglia-della-nazionale-le-amichevoli-non-esistono_118800014-202602k.shtml": [
 "\"Sono convintissimo che i ragazzi faranno bene, perche anche ieri sera quando sono arrivati ho visto molta euforia, ho visto molta voglia di stare...",
@@ -2423,11 +2441,11 @@
 "Under 21, Baldini: \"Gruppo fortissimo, con la maglia della Nazionale le amichevoli non esistono\"",
 "https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118800015?r=4"
 ],
-"https://www.sportmediaset.mediaset.it/drive-up/byd-snobba-maserati-l-auto-piu-veloce-al-mondo-e-nostra_118789399-202602k.shtml": [
-"L'interesse verso il marchio italiano sembra ormai definitivamente tramontato",
-"2026-11-09T09:30:17+01:00",
-"BYD snobba Maserati: \"L'auto più veloce al mondo è nostra\"",
-"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118789832?r=9"
+"https://www.sportmediaset.mediaset.it/calcio/vi-ricordate-ibrahiman-scandroglio-di-campioni-ora-fa-l-allenatore_118801561-202602k.shtml": [
+"A oltre 20 anni dalla trasmissione su Mediaset, \"Campioni - Il sogno\" e ancora ricordato come un reality cult, tanto che moltissimi tifosi non si sono...",
+"2026-11-09T16:20:00+01:00",
+"Vi ricordate Ibrahiman Scandroglio di Campioni? Ora fa l'allenatore",
+"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118801559?r=9"
 ],
 "https://www.sportmediaset.mediaset.it/drive-up/chi-vince-i-wta-vince-questa-mercedes-speciale_118793352-202602k.shtml": [
 "La divisione Manufaktur ha realizzato una versione esclusiva della SL 55 in colore ultravioletto",
@@ -2441,18 +2459,6 @@
 "La Polizia di Dubai restaura la sua prima supercar",
 "https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118800016?r=5"
 ],
-"https://www.sportmediaset.mediaset.it/drive-up/no-rete-cellulare-e-un-solo-benzinaio-tra-i-ghiacciai-del-canada_118785943-202602k.shtml": [
-"La Icefields Parkway collega Lake Louise a Jasper, 230 km attraversando uno dei paesaggi piu spettacolari del Canada",
-"2026-11-09T08:08:43+01:00",
-"No rete cellulare e un solo benzinaio tra i ghiacciai del Canada",
-"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118786987?r=11"
-],
-"https://www.sportmediaset.mediaset.it/drive-up/tesla-rimborsa-i-clienti-del-cybertruck_118790115-202602k.shtml": [
-"Il marchio texano restituira i depositi delle prenotazioni perche le linee produttive chiuderanno entro otto mesi",
-"2026-11-09T10:15:56+01:00",
-"Tesla rimborsa i clienti del Cybertruck",
-"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118790727?r=5"
-],
 "https://www.sportmediaset.mediaset.it/formula1/polveri-bagnate-in-brasile-la-peggior-ferrari-dell-anno_118790151-202602k.shtml": [
 "Piloti ormai separati in casa e un metodo che fa acqua alla base di un fine settimana sotto la linea di galleggiamento",
 "2026-11-09T10:31:02+01:00",
@@ -2464,12 +2470,6 @@
 "2026-11-09T15:13:41+01:00",
 "Sosta Nazionali, occasione per recuperare gli infortunati: chi torna a disposizione alla ripresa",
 "https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118799100?r=12"
-],
-"https://www.sportmediaset.mediaset.it/foto/rassegnastampa/i-giornali-sportivi-lunedi-9-novembre-2026_118786768-202602k.shtml": [
-"Lo sport sui quotidiani italiani ed esteri",
-"2026-11-09T08:04:29+01:00",
-"I giornali sportivi: lunedì 9 novembre 2026",
-"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118786770?r=7"
 ],
 "https://www.sportmediaset.mediaset.it/foto/sport/lultima-sera-con-i-tacchi-per-un-po-di-tempo-lindsey-vonn-si-prepara-alla-nona-operazione_118800861-202602k.shtml": [
 "\"L’ultima sera con i tacchi per un po' di tempo\". Reduce dal terribile incidente sulle nevi di Cortina ai Giochi invernali dello scorso febbraio per il...",
@@ -2488,6 +2488,18 @@
 "2026-11-09T12:03:06+01:00",
 "Oviedo, il leggendario Raul nuovo allenatore",
 "https://img-api.cloud.mediaset.net/api/images/cu/v2/-/1200/675/aHR0cHM6Ly93d3cuc3BvcnRtZWRpYXNldC5tZWRpYXNldC5pdC9hc3NldHMvbWlzYy9zcG9ydG1lZGlhc2V0LWJhY2tncm91bmQucG5n?r=-1"
+],
+"https://www.sportmediaset.mediaset.it/mercato/sassuolo-esonerato-aquilani-il-comunicato-ufficiale_118803248-202602k.shtml": [
+"\"L’U.S. Sassuolo Calcio comunica di aver sollevato l’allenatore Alberto Aquilani e il suo staff dai rispettivi incarichi. La Societa ringrazia il...",
+"2026-11-09T16:59:19+01:00",
+"Sassuolo, esonerato Aquilani: il comunicato ufficiale",
+"https://img-api.cloud.mediaset.net/api/images/cu/v2/-/1200/675/aHR0cHM6Ly93d3cuc3BvcnRtZWRpYXNldC5tZWRpYXNldC5pdC9hc3NldHMvbWlzYy9zcG9ydG1lZGlhc2V0LWJhY2tncm91bmQucG5n?r=-1"
+],
+"https://www.sportmediaset.mediaset.it/mercato/sassuolo/il-sassuolo-esonera-aquilani-fatale-la-quinta-sconfitta-di-fila_118803530-202602k.shtml": [
+"E' arrivato l'annuncio del club neroverde, in pole per sostituirlo c'e D'Aversa",
+"2026-11-09T17:09:14+01:00",
+"Il Sassuolo esonera Aquilani: fatale la quinta sconfitta di fila",
+"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118803534?r=9"
 ],
 "https://www.sportmediaset.mediaset.it/motogp/valentino-rossi-nel-2-015-marquez-lottava-solo-per-farmi-perdere-mi-brucia-ancora_118791324-202602k.shtml": [
 "Il pesarese tra passato, Antonelli e la Ferrari di F1: \"Le mi possibilita si sono dimezzate presentandomi in ciabatte da Todt\"",
@@ -2518,6 +2530,18 @@
 "2026-11-09T13:04:31+01:00",
 "Atp Finals 2026, 'Music Break' pronti a tornare protagonisti a Torino: artisti, programma e calendario",
 "https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118797206?r=4"
+],
+"https://www.sportmediaset.mediaset.it/speciale/atp-finals-2026/quanto-valgono-atp-finals-montepremi-punti_118801596-202602k.shtml": [
+"Il montepremi e i punti messi in palio dalle Atp Finals 2026, in programma dal 15 al 22 novembre a Torino.",
+"2026-11-09T16:29:25+01:00",
+"Quanto valgono le Atp Finals? Montepremi e punti Atp",
+"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118801842?r=8"
+],
+"https://www.sportmediaset.mediaset.it/speciale/eicma-2026/eicma-2026-supera-ancora-quota-600-000-presenze-6-per-ledizione-piu-grande-di-sempre_118803247-202602k.shtml": [
+"Dieci padiglioni, 764 espositori e 2.150 marchi da 52 Paesi, con 8.700 accreditati tra media e content creator. MotoLive festeggia 21 anni con Toni Bou e otto ore di diretta televisiva dedicate ai grandi campioni e alle moto delle 17 Case impegnate…",
+"2026-11-09T16:59:10+01:00",
+"EICMA 2026 supera ancora quota 600.000 presenze: +6% per l’edizione più grande di sempre",
+"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118803244?r=4"
 ],
 "https://www.sportmediaset.mediaset.it/sport/ciclismo-gli-azzurri-donati-e-magagnotti-promossi-nel-worldteam-red-bull_118794154-202602k.shtml": [
 "Altri due corridori provenienti dal programma di sviluppo del team faranno il salto dai 'Rookies' al WorldTeam Red Bull - BORA - hansgrohe per la nuova...",
@@ -2555,12 +2579,6 @@
 "Pattinaggio figura: Anna Cappellini nuovo direttore tecnico danza Fisg",
 "https://img-api.cloud.mediaset.net/api/images/cu/v2/-/1200/675/aHR0cHM6Ly93d3cuc3BvcnRtZWRpYXNldC5tZWRpYXNldC5pdC9hc3NldHMvbWlzYy9zcG9ydG1lZGlhc2V0LWJhY2tncm91bmQucG5n?r=-1"
 ],
-"https://www.sportmediaset.mediaset.it/sport/rally-della-lanterna-annullata-l-edizione-del-2027_118790720-202602k.shtml": [
-"Il 'Rally della Lanterna', storica gara automobilistica nell'entroterra di Genova giunta alla 42/ma edizione, non sara iscritta alla stagione sportiva...",
-"2026-11-09T10:09:45+01:00",
-"Rally della Lanterna, annullata l'edizione del 2027",
-"https://img-api.cloud.mediaset.net/api/images/cu/v2/-/1200/675/aHR0cHM6Ly93d3cuc3BvcnRtZWRpYXNldC5tZWRpYXNldC5pdC9hc3NldHMvbWlzYy9zcG9ydG1lZGlhc2V0LWJhY2tncm91bmQucG5n?r=-1"
-],
 "https://www.sportmediaset.mediaset.it/sport/scherma-coppa-del-mondo-nel-weekend-tutte-le-armi-azzurre-in-pedana_118798622-202602k.shtml": [
 "Secondo weekend di Coppa del Mondo con tutte le armi in pedana. Si gareggia in tre Continenti, con il fioretto a Plovdiv e la sciabola al Cairo, mentre...",
 "2026-11-09T15:02:00+01:00",
@@ -2585,12 +2603,6 @@
 "Slittino, Zoeggeler: \"Risolti nodi, da prossima settimana allenamento a Cortina\"",
 "https://img-api.cloud.mediaset.net/api/images/cu/v2/-/1200/675/aHR0cHM6Ly93d3cuc3BvcnRtZWRpYXNldC5tZWRpYXNldC5pdC9hc3NldHMvbWlzYy9zcG9ydG1lZGlhc2V0LWJhY2tncm91bmQucG5n?r=-1"
 ],
-"https://www.sportmediaset.mediaset.it/sport/superbike-il-teampata-go-eleven-ingaggia-arenas-per-il-2027_118790346-202602k.shtml": [
-"L’ultimo incastro della griglia WorldSBK per la stagione 2027 e ufficiale: il campione del mondo Supersport 2026 Albert Arenas salira sulla seconda...",
-"2026-11-09T10:06:28+01:00",
-"Superbike, il team Pata Go Eleven ingaggia Arenas per il 2027",
-"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118790347?r=4"
-],
 "https://www.sportmediaset.mediaset.it/sport/tennis-coppa-davis-gael-monfils-nuovo-capitano-della-francia_118795713-202602k.shtml": [
 "Il 40enne Gael Monfils, che ad inizio 2026 aveva annunciato il suo ritiro al termine dell'anno, e il nuovo capitano della Francia in Coppa Davis. A...",
 "2026-11-09T12:13:49+01:00",
@@ -2609,11 +2621,11 @@
 "Tennis, Wta Finals: Gauff batte Pegula all'esordio",
 "https://img-api.cloud.mediaset.net/api/images/cu/v2/-/1200/675/aHR0cHM6Ly93d3cuc3BvcnRtZWRpYXNldC5tZWRpYXNldC5pdC9hc3NldHMvbWlzYy9zcG9ydG1lZGlhc2V0LWJhY2tncm91bmQucG5n?r=-1"
 ],
-"https://www.sportmediaset.mediaset.it/tennis/wta-finals-doppio-esordio-con-vittoria-per-errani-e-paolini-contente-ma-lavoro-non-finito_118788491-202602k.shtml": [
-"Vittoria in rimonta contro Katerina Siniakova e Taylor Townsend",
-"2026-11-09T08:19:28+01:00",
-"Wta Finals doppio, esordio con vittoria per Errani e Paolini: \"Contente, ma lavoro non finito\"",
-"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118788490?r=4"
+"https://www.sportmediaset.mediaset.it/tennis/jannik-sinner-milano-controlli-ginocchio-valentino-rossi_118802027-202602k.shtml": [
+"Jannik Sinner e a Milano tra controlli al ginocchio destro ed eventi con gli sponsor. Valentino Rossi racconta il loro primo incontro",
+"2026-11-09T16:29:54+01:00",
+"Sinner a Milano per curare il ginocchio, Valentino Rossi svela: \"Gli dà ancora un po' di fastidio\"",
+"https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118802036?r=4"
 ],
 "https://www.tuttosport.com/news/altri-sport/2026/11/09-152490928/petrosyanmania_gold_edition_notte_di_sorprese_a_milano_vranceanu_ferma_vinotti": [
 "L’Allianz Cloud di Milano ha ospitato l’edizione 2026. Macaila vola al K-1 World GP 2027",
@@ -2639,12 +2651,6 @@
 "Pietrasanta Pharma è partner della Romeo & Giulietta Run Half Marathon di Verona",
 "https://cdn.tuttosport.com/images/2026/11/09/143340510-8f85a6f8-9f32-4215-aef7-20455b43dae1.jpg"
 ],
-"https://www.tuttosport.com/news/formula-1/2026/11/08-152474790/delusione_ferrari_antonelli_e_la_mercedes_festeggiano_il_titolo_costruttori_in_brasile_vince_norris": [
-"Leclerc e Hamilton non riescono a rinviare la festa a Kimi e Russell: sorride Toto Wolff. A San Paolo accade di tutto con la pioggia",
-"2026-11-08T19:49:03+01:00",
-"Delusione Ferrari, Antonelli e la Mercedes festeggiano il titolo costruttori. In Brasile vince Norris",
-"https://cdn.tuttosport.com/images/2026/11/08/184832924-aece2a1f-a4d0-494b-9812-5fca17357cb9.jpg"
-],
 "https://www.tuttosport.com/news/formula-1/2026/11/09-152481282/ferrari_piove_sul_bagnato_hamilton_fa_di_testa_sua": [
 "Gara anonima con un 7° e un 9° posto che certificano troppi guai, non solo la convivenza tra i piloti. Lewis rovina il suo 400° GP e un primo giro da leggenda con \"un’auto difficile\" (Vasseur dixit) disubbidendo al muretto, come a Singapore",
 "2026-11-09T06:15:00+01:00",
@@ -2662,12 +2668,6 @@
 "2026-11-09T09:36:12+01:00",
 "Mercedes, la festa continua: ora vede la Stella. E Wolff punge la Ferrari...",
 "https://cdn.tuttosport.com/images/2026/11/09/073948499-a24f3908-45c0-459c-90e0-b50d7123de0d.jpg"
-],
-"https://www.tuttosport.com/news/moto/motomondiale/moto-gp/2026/11/08-152474527/bezzecchi_vince_in_qatar_marc_marquez_rimanda_la_festa_del_decimo_titolo_la_classifica_aggiornata": [
-"Il pilota italiano dell'Aprilia si prende il gradino più alto del podio davanti allo spagnolo: slitta la possibilità di conquistare il Mondiale",
-"2026-11-08T18:18:09+01:00",
-"Bezzecchi vince in Qatar, Marc Marquez rimanda la festa del decimo titolo: la classifica aggiornata",
-"https://cdn.tuttosport.com/images/2026/11/08/171544802-dd0f2cb5-5b2b-4d40-b8b7-72b0f6ebfb49.jpg"
 ],
 "https://www.tuttosport.com/news/moto/motomondiale/moto-gp/2026/11/09-152481109/bezzecchi_in_versione_gran_califfo_del_qatar": [
 "Il pilota dell’Aprilia torna alla vittoria: sul podio Marquez e Fernandez. Grande prova di Bez che domina dalla partenza. Martin stoico: 7°. Marc per il suo 10° Mondiale deve aspettare il GP del Portogallo",
@@ -2699,17 +2699,17 @@
 "Conegliano risponde a Milano, Novara e Bergamo si prendono i derby",
 "https://cdn.tuttosport.com/images/2026/11/08/211822255-b2a1173a-6176-4243-86f5-989f9748f6ee.jpg"
 ],
+"https://www.tuttosport.com/news/pallavolo/nazionali/2026/11/09-152495550/la_nazionale_maschile_di_sitting_prepara_la_bronze_nations_league": [
+"I tecnici D'Aniello e Marchese hanno diramato l'elenco degli undici azzurri che si alleneranno in Friuli in vista della manifestazione internazionale che si svolegerà a Trieste da venerdì 20 a domenica 22 novembre",
+"2026-11-09T17:13:38+01:00",
+"La nazionale maschile di sitting prepara la Bronze Nations League",
+"https://cdn.tuttosport.com/images/2026/11/09/160309637-b08909a3-63d7-4f7c-8831-401c468e6552.jpg"
+],
 "https://www.tuttosport.com/news/pallavolo/superlega/2026/11/08-152484609/perugia_espugna_trento_nel_big_match_della_5a": [
 "Gli uomini di Lorenzetti la spuntano al tie break in casa di Michieletto e soci. Primi punti per Padova a Cisterna. Vincono anche Civitanova a Milano, Modena a Monza, Piacenza su Verona e la Tinet su Cuneo",
 "2026-11-09T00:37:14+01:00",
 "Perugia espugna Trento nel big match della 5a",
 "https://cdn.tuttosport.com/images/2026/11/08/233240799-1a1a120c-a30e-4a1d-907d-148581ded428.jpg"
-],
-"https://www.tuttosport.com/news/piemonte-news/2026/11/08-152475943/lilt_virtus_alessandria_lunder_17_conquista_il_secondo_posto": [
-"Successo per 3-0 nello scontro diretto contro il Lions Pozzolo Volley: tre punti preziosi che proiettano le ragazze di coach Martino al secondo posto in classifica",
-"2026-11-08T19:13:20+01:00",
-"LILT Virtus Alessandria, l’Under 17 conquista il secondo posto",
-"https://cdn.tuttosport.com/images/2026/11/08/181317739-39026a5c-695d-4268-a366-df3ce674f677.jpg"
 ],
 "https://www.tuttosport.com/news/piemonte-news/2026/11/08-152478249/usd_tennis_beinasco_vittoria_amara_per_la_squadra_a_la_b_va_agli_spareggi": [
 "Le ragazze di capitan Giulia Gatto espugnano 3-1 il campo del CT Giotto, ma chiudono seconde per numero di incontri vinti e mancano la qualificazione playoff. Pareggio per la formazione B contro la Virtus Bologna: sarà playout per mantenere la…",
@@ -2734,6 +2734,24 @@
 "2026-11-08T21:27:55+01:00",
 "La Bertram rompe il digiuno in campionato",
 "https://cdn.tuttosport.com/images/2026/11/08/202710421-d9f76ff1-f256-4da0-9cc5-230aab69768e.jpg"
+],
+"https://www.tuttosport.com/news/piemonte-news/2026/11/09-152495301/storm_pinerolo_weekend_perfetto_doppia_vittoria_e_sei_punti_in_ihl1": [
+"Successi contro i Milano Prospects e sul ghiaccio dei Leifers Hockey Bears: la prima squadra firma un fine settimana da protagonista. In pista anche U12 e U10, impegnate nei concentramenti di Como e Torre Pellice",
+"2026-11-09T17:00:24+01:00",
+"Storm Pinerolo, weekend perfetto: doppia vittoria e sei punti in IHL1",
+"https://cdn.tuttosport.com/images/2026/11/09/160018818-bd7d65d6-ac3d-4a0c-bc98-d7bd5e15df1d.jpg"
+],
+"https://www.tuttosport.com/news/piemonte-news/2026/11/09-152495522/giaguari_torino_doppio_ruggito_under_18_e_under_21_a_valanga": [
+"Due vittorie nette per le formazioni giallonere: l'Under 18 travolge i Frogs Legnano, mentre l'Under 21 supera i Bengals Brescia e conquista i primi punti in Coppa Italia. Un fine settimana da incorniciare per i Giaguari, che ora guardano ai…",
+"2026-11-09T17:11:26+01:00",
+"Giaguari Torino, doppio ruggito: Under 18 e Under 21 a valanga",
+"https://cdn.tuttosport.com/images/2026/11/09/161057354-07a33399-0b70-4de9-b31e-cc36dba001e6.jpg"
+],
+"https://www.tuttosport.com/news/piemonte-news/2026/11/09-152495887/basket_college_novara_rimonta_incompiuta": [
+"I ragazzi di coach Boselli reagiscono nella ripresa con un parziale importante, ma il recupero non basta. Per College è la terza rimonta sfiorata dopo quelle contro Vado e Biella, con la necessità di trovare maggiore continuità nell'arco dei…",
+"2026-11-09T17:27:09+01:00",
+"Basket College Novara, rimonta incompiuta",
+"https://cdn.tuttosport.com/images/2026/11/09/162703168-058d2f4e-a875-43c0-bbe4-a37b0e37e456.jpg"
 ],
 "https://www.tuttosport.com/news/scommesse/2026/11/08-152417616/serie_c_picerno-bari_tris_di_deo_o_scatto_rastelli_ecco_il_pronostico": [
 "Trasferta insidiosa per i pugliesi al \"Donato Curcio\" contro una squadra rigenerata dal cambio di allenatore",
@@ -2764,12 +2782,6 @@
 "2026-11-09T09:45:00+01:00",
 "Kings Cup Lottomatica.sport, ecco i primi verdetti. In due sono già promosse ai quarti. E oggi un big match da non perdere",
 "https://cdn.tuttosport.com/images/2026/11/06/114730678-68751b68-e6d6-42d0-bdf7-4a8245f5ad34.jpg"
-],
-"https://www.tuttosport.com/news/tennis/2026/11/08-152474528/alcaraz_show_dopo_vienna_trionfa_anche_a_parigi_carlos_stende_shelton_e_vince_il_nono_1000_in_carriera": [
-"Per lo spagnolo, che si è imposto con il punteggio di 7-6(5) 7-5, si tratta del 29° titolo in carriera, il quinto nel 2026",
-"2026-11-08T18:18:23+01:00",
-"Alcaraz show: dopo Vienna trionfa anche a Parigi! Carlos stende Shelton e vince il nono 1000 in carriera",
-"https://cdn.tuttosport.com/images/2026/11/08/170946710-58d87ec8-54a4-4a7f-be25-2841877003fe.jpg"
 ],
 "https://www.tuttosport.com/news/tennis/2026/11/09-152486739/ho_pianto_sotto_la_doccia_mi_stavo_ubriacando_sinner-cahill_l_addio_svela_segreti_inediti": [
 "Il video che celebra il rapporto con il coach diventa una miniera di retroscena su Jannik: “Slam, lacrime, burraco e la PlayStation rotta”",
