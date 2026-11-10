@@ -12,7 +12,7 @@ NOW = datetime.datetime.now(TZ)
 MAXAGE = datetime.timedelta(days=3)
 MAXN = 60
 UA = {"User-Agent": "Mozilla/5.0"}
-TABS = [("italia", "Italia"), ("mondo", "Mondo"), ("sport", "Sport"), ("torino", "Torino")]
+TABS = [("italia", "Italia"), ("mondo", "Mondo"), ("sport", "Sport"), ("torino", "Torino"), ("scommesse", "Scommesse")]
 OUT = json.load(open("data/outlets.json"))
 TRF = "data/translations.json"
 TR = json.load(open(TRF)) if os.path.exists(TRF) else {}
