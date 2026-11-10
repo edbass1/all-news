@@ -705,5 +705,70 @@
   "home_op": [
    "https://politiken.dk/debat/"
   ]
+ },
+ {
+  "key": "bet-agimeg",
+  "label": "AGIMEG",
+  "country": "Italia",
+  "tab": "scommesse",
+  "news": [
+   "https://www.agimeg.it/category/scommesse/feed/"
+  ],
+  "op": [],
+  "home": [
+   "https://www.agimeg.it/category/scommesse/"
+  ]
+ },
+ {
+  "key": "bet-agipronews",
+  "label": "Agipronews",
+  "country": "Italia",
+  "tab": "scommesse",
+  "news": [
+   "https://www.agipronews.it/feed/"
+  ],
+  "op": [],
+  "home": [
+   "https://www.agipronews.it/"
+  ]
+ },
+ {
+  "key": "bet-gioconews",
+  "label": "GiocoNews",
+  "country": "Italia",
+  "tab": "scommesse",
+  "news": [
+   "https://www.gioconews.it/feed/"
+  ],
+  "op": [],
+  "home": [
+   "https://www.gioconews.it/"
+  ]
+ },
+ {
+  "key": "bet-pressgiochi",
+  "label": "PressGiochi",
+  "country": "Italia",
+  "tab": "scommesse",
+  "news": [
+   "https://www.pressgiochi.it/feed/"
+  ],
+  "op": [],
+  "home": [
+   "https://www.pressgiochi.it/"
+  ]
+ },
+ {
+  "key": "bet-jamma",
+  "label": "JAMMA",
+  "country": "Italia",
+  "tab": "scommesse",
+  "news": [
+   "https://www.jamma.it/feed/"
+  ],
+  "op": [],
+  "home": [
+   "https://www.jamma.it/"
+  ]
  }
 ]
