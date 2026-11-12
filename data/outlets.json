@@ -1,773 +1,756 @@
 [
- {
-  "key": "guardian",
-  "label": "The Guardian Sport",
-  "country": "Regno Unito",
-  "news": [
-   "https://www.theguardian.com/uk/sport/rss",
-   "https://www.theguardian.com/football/rss"
-  ],
-  "op": [
-   "https://www.theguardian.com/sport/blog/rss"
-  ],
-  "tab": "sport",
-  "home": [
-   "https://www.theguardian.com/uk/sport"
-  ],
-  "home_op": [
-   "https://www.theguardian.com/uk/sport"
-  ]
- },
- {
-  "key": "cbs",
-  "label": "CBS Sports",
-  "country": "USA",
-  "news": [
-   "https://www.cbssports.com/rss/headlines/soccer/"
-  ],
-  "op": [],
-  "tab": "sport",
-  "home": [
-   "https://www.cbssports.com/soccer/"
-  ]
- },
- {
-  "key": "bbc",
-  "label": "BBC Sport",
-  "country": "Regno Unito",
-  "news": [
-   "https://feeds.bbci.co.uk/sport/rss.xml",
-   "https://feeds.bbci.co.uk/sport/football/rss.xml"
-  ],
-  "op": [],
-  "tab": "sport",
-  "home": [
-   "https://www.bbc.com/sport"
-  ]
- },
- {
-  "key": "independent",
-  "label": "The Independent Sport",
-  "country": "Regno Unito",
-  "news": [
-   "https://www.independent.co.uk/sport/football/rss",
-   "https://www.independent.co.uk/sport/rss"
-  ],
-  "op": [],
-  "tab": "sport",
-  "home": [
-   "https://www.independent.co.uk/sport"
-  ]
- },
- {
-  "key": "lequipe",
-  "label": "L'Équipe",
-  "country": "Francia",
-  "news": [
-   "https://dwh.lequipe.fr/api/edito/rss?path=/",
-   "https://dwh.lequipe.fr/api/edito/rss?path=/Football/"
-  ],
-  "op": [],
-  "tab": "sport",
-  "home": [
-   "https://www.lequipe.fr/"
-  ]
- },
- {
-  "key": "sofoot",
-  "label": "So Foot",
-  "country": "Francia",
-  "news": [
-   "https://www.sofoot.com/rss"
-  ],
-  "op": [],
-  "tab": "sport",
-  "home": [
-   "https://www.sofoot.com/"
-  ]
- },
- {
-  "key": "marca",
-  "label": "Marca",
-  "country": "Spagna",
-  "news": [
-   "https://e00-marca.uecdn.es/rss/portada.xml",
-   "https://e00-marca.uecdn.es/rss/futbol/primera-division.xml"
-  ],
-  "op": [
-   "https://e00-marca.uecdn.es/rss/opinion.xml"
-  ],
-  "tab": "sport",
-  "home": [
-   "https://www.marca.com/"
-  ],
-  "home_op": [
-   "https://www.marca.com/opinion.html"
-  ]
- },
- {
-  "key": "as",
-  "label": "AS",
-  "country": "Spagna",
-  "news": [
-   "https://feeds.as.com/mrss-s/pages/as/site/as.com/portada/"
-  ],
-  "op": [
-   "https://feeds.as.com/mrss-s/pages/as/site/as.com/section/opinion/portada/"
-  ],
-  "tab": "sport",
-  "home": [
-   "https://as.com/"
-  ],
-  "home_op": [
-   "https://as.com/opinion/"
-  ]
- },
- {
-  "key": "md",
-  "label": "Mundo Deportivo",
-  "country": "Spagna",
-  "news": [
-   "https://www.mundodeportivo.com/rss/home",
-   "https://www.mundodeportivo.com/rss/futbol"
-  ],
-  "op": [
-   "https://www.mundodeportivo.com/rss/opinion"
-  ],
-  "tab": "sport",
-  "home": [
-   "https://www.mundodeportivo.com/"
-  ],
-  "home_op": [
-   "https://www.mundodeportivo.com/opinion"
-  ]
- },
- {
-  "key": "sport",
-  "label": "Sport",
-  "country": "Spagna",
-  "tab": "sport",
-  "news": [],
-  "op": [],
-  "scrape": [
-   {
-    "page": "https://www.sport.es/es/",
-    "match": "sport\\.es/es/noticias/.+-\\d{6,}$"
-   },
-   {
-    "page": "https://www.sport.es/es/futbol/",
-    "match": "sport\\.es/es/noticias/.+-\\d{6,}$"
-   }
-  ],
-  "home": [
-   "https://www.sport.es/es/"
-  ]
- },
- {
-  "key": "relevo",
-  "label": "Relevo",
-  "country": "Spagna",
-  "news": [
-   "https://www.relevo.com/rss/"
-  ],
-  "op": [],
-  "tab": "sport",
-  "home": [
-   "https://www.relevo.com/"
-  ]
- },
- {
-  "key": "sportbild",
-  "label": "Sport Bild",
-  "country": "Germania",
-  "news": [
-   "https://www.bild.de/rss-feeds/rss-16725492,feed=sport.bild.html"
-  ],
-  "op": [],
-  "tab": "sport",
-  "home": [
-   "https://sportbild.bild.de/"
-  ]
- },
- {
-  "key": "abola",
-  "label": "A Bola",
-  "country": "Portogallo",
-  "news": [
-   "https://www.abola.pt/rss-articles.xml"
-  ],
-  "op": [],
-  "tab": "sport",
-  "home": [
-   "https://www.abola.pt/"
-  ]
- },
- {
-  "key": "record",
-  "label": "Record",
-  "country": "Portogallo",
-  "news": [
-   "https://www.record.pt/rss"
-  ],
-  "op": [],
-  "tab": "sport",
-  "home": [
-   "https://www.record.pt/"
-  ]
- },
- {
-  "key": "ole",
-  "label": "Olé",
-  "country": "Argentina",
-  "news": [
-   "https://www.ole.com.ar/rss/ultimas-noticias/",
-   "https://www.ole.com.ar/rss/futbol-primera/"
-  ],
-  "op": [
-   "https://www.ole.com.ar/rss/opinion/"
-  ],
-  "tab": "sport",
-  "home": [
-   "https://www.ole.com.ar/"
-  ],
-  "home_op": [
-   "https://www.ole.com.ar/opinion"
-  ]
- },
- {
-  "key": "ge",
-  "label": "Globo Esporte",
-  "country": "Brasile",
-  "news": [
-   "https://ge.globo.com/rss/ge/",
-   "https://ge.globo.com/rss/ge/futebol/"
-  ],
-  "op": [],
-  "tab": "sport",
-  "home": [
-   "https://ge.globo.com/"
-  ]
- },
- {
-  "key": "uol",
-  "label": "UOL Esporte",
-  "country": "Brasile",
-  "news": [
-   "https://rss.uol.com.br/feed/esporte.xml"
-  ],
-  "op": [],
-  "tab": "sport",
-  "home": [
-   "https://www.uol.com.br/esporte/"
-  ]
- },
- {
-  "key": "fotomac",
-  "label": "Fotomaç",
-  "country": "Turchia",
-  "news": [
-   "https://www.fotomac.com.tr/rss/anasayfa.xml"
-  ],
-  "op": [
-   "https://www.fotomac.com.tr/rss/yazarlar.xml"
-  ],
-  "tab": "sport",
-  "scrape": [
-   {
-    "sitemap": "https://www.fotomac.com.tr/sitemap/news.xml",
-    "exclude": "/yazarlar/"
-   },
-   {
-    "page": "https://www.fotomac.com.tr/",
-    "match": "fotomac\\.com\\.tr/[a-z-]+/\\d{4}/\\d\\d/\\d\\d/"
-   }
-  ],
-  "scrape_op": [
-   {
-    "page": "https://www.fotomac.com.tr/yazarlar",
-    "match": "/yazarlar/[^/]+/\\d{4}/\\d\\d/\\d\\d/"
-   }
-  ],
-  "home": [
-   "https://www.fotomac.com.tr/"
-  ],
-  "home_op": [
-   "https://www.fotomac.com.tr/yazarlar"
-  ]
- },
- {
-  "key": "tuttosport",
-  "label": "Tuttosport",
-  "country": "Italia",
-  "tab": "sport",
-  "news": [
-   "https://www.tuttosport.com/rss/calcio"
-  ],
-  "op": [],
-  "scrape": [
-   {
-    "sitemap": "https://www.tuttosport.com/site_map_news.xml"
-   }
-  ],
-  "home": [
-   "https://www.tuttosport.com/"
-  ]
- },
- {
-  "key": "cds",
-  "label": "Corriere dello Sport",
-  "country": "Italia",
-  "tab": "sport",
-  "news": [
-   "https://www.corrieredellosport.it/rss/calcio"
-  ],
-  "op": [],
-  "scrape": [
-   {
-    "sitemap": "https://www.corrieredellosport.it/site_map_news.xml"
-   }
-  ],
-  "home": [
-   "https://www.corrieredellosport.it/"
-  ]
- },
- {
-  "key": "sportmediaset",
-  "label": "Sportmediaset",
-  "country": "Italia",
-  "tab": "sport",
-  "news": [],
-  "op": [],
-  "scrape": [
-   {
-    "sitemap": "https://www.sportmediaset.mediaset.it/sitemap/sitemap_news.xml",
-    "exclude": "/video/"
-   }
-  ],
-  "home": [
-   "https://www.sportmediaset.mediaset.it/"
-  ]
- },
- {
-  "key": "fatto",
-  "label": "Il Fatto Quotidiano",
-  "country": "Italia",
-  "tab": "italia",
-  "news": [
-   "https://www.ilfattoquotidiano.it/feed/"
-  ],
-  "op": [
-   "https://www.ilfattoquotidiano.it/category/blog/feed/"
-  ],
-  "home": [
-   "https://www.ilfattoquotidiano.it/"
-  ],
-  "home_op": [
-   "https://www.ilfattoquotidiano.it/blog/"
-  ]
- },
- {
-  "key": "corriere",
-  "label": "Corriere della Sera",
-  "country": "Italia",
-  "tab": "italia",
-  "news": [],
-  "op": [],
-  "scrape": [
-   {
-    "sitemap": "https://www.corriere.it/dynamic-sitemap/sitemap-last-100/news.xml",
-    "exclude": "/opinioni/|/cook/|/giochi/"
-   },
-   {
-    "page": "https://www.corriere.it/",
-    "match": "corriere\\.it/[a-z0-9-]+(/[a-z0-9-]+)?/\\d\\d_[a-z]+_\\d+/.+\\.shtml",
-    "exclude": "/opinioni/|/giochi/"
-   }
-  ],
-  "scrape_op": [
-   {
-    "page": "https://www.corriere.it/opinioni/",
-    "match": "corriere\\.it/opinioni/\\d\\d_[a-z]+_\\d+/.+\\.shtml"
-   }
-  ],
-  "home": [
-   "https://www.corriere.it/"
-  ],
-  "home_op": [
-   "https://www.corriere.it/opinioni/"
-  ]
- },
- {
-  "key": "italiaoggi",
-  "label": "Italia Oggi",
-  "country": "Italia",
-  "tab": "italia",
-  "news": [],
-  "op": [],
-  "scrape": [
-   {
-    "sitemap": "https://www.italiaoggi.it/sitemap/sitemap_news_google.xml"
-   },
-   {
-    "page": "https://www.italiaoggi.it/",
-    "match": "www\\.italiaoggi\\.it/[a-z-]+/.+-[a-z0-9]{8}$"
-   }
-  ],
-  "home": [
-   "https://www.italiaoggi.it/"
-  ]
- },
- {
-  "key": "manifesto",
-  "label": "Il Manifesto",
-  "country": "Italia",
-  "tab": "italia",
-  "news": [
-   "https://ilmanifesto.it/feed"
-  ],
-  "op": [],
-  "html_op": {
-   "url": "https://ilmanifesto.it/sezioni/commenti",
-   "re": "^/(?!buon-compleanno|le-novita|scarica-le-app|dichiarazione-di)[a-z0-9-]{30,}$"
+  {
+    "key": "guardian",
+    "label": "The Guardian Sport",
+    "country": "Regno Unito",
+    "news": [
+      "https://www.theguardian.com/uk/sport/rss",
+      "https://www.theguardian.com/football/rss"
+    ],
+    "op": [
+      "https://www.theguardian.com/sport/blog/rss"
+    ],
+    "tab": "sport",
+    "home": [
+      "https://www.theguardian.com/uk/sport"
+    ],
+    "home_op": [
+      "https://www.theguardian.com/uk/sport"
+    ]
   },
-  "home": [
-   "https://ilmanifesto.it/"
-  ]
- },
- {
-  "key": "mowmag",
-  "label": "MOW Mag",
-  "country": "Italia",
-  "tab": "italia",
-  "news": [],
-  "op": [],
-  "scrape": [
-   {
-    "sitemap": "https://mowmag.com/sitemapnews.xml"
-   },
-   {
-    "page": "https://mowmag.com/",
-    "match": "mowmag\\.com/[a-z-]+/[a-z0-9-]{20,}$"
-   }
-  ],
-  "home": [
-   "https://mowmag.com/"
-  ]
- },
- {
-  "key": "calcioefinanza",
-  "label": "Calcio e Finanza",
-  "country": "Italia",
-  "tab": "italia",
-  "news": [
-   "https://www.calcioefinanza.it/feed/"
-  ],
-  "op": [],
-  "home": [
-   "https://www.calcioefinanza.it/"
-  ]
- },
- {
-  "key": "to0",
-  "label": "La Stampa",
-  "country": "Torino",
-  "tab": "torino",
-  "news": [
-   "https://www.lastampa.it/torino/rss"
-  ],
-  "op": [],
-  "home": [
-   "https://www.lastampa.it/torino/"
-  ]
- },
- {
-  "key": "to1",
-  "label": "La Sentinella del Canavese",
-  "country": "Torino",
-  "tab": "torino",
-  "news": [
-   "https://www.lasentinella.it/feed/"
-  ],
-  "op": [],
-  "home": [
-   "https://www.lasentinella.it/"
-  ]
- },
- {
-  "key": "to2",
-  "label": "TorinoToday",
-  "country": "Torino",
-  "tab": "torino",
-  "news": [
-   "https://www.torinotoday.it/rss"
-  ],
-  "op": [],
-  "home": [
-   "https://www.torinotoday.it/"
-  ]
- },
- {
-  "key": "to3",
-  "label": "Torino Oggi",
-  "country": "Torino",
-  "tab": "torino",
-  "news": [
-   "https://www.torinoggi.it/rss.xml"
-  ],
-  "op": [],
-  "home": [
-   "https://www.torinoggi.it/"
-  ]
- },
- {
-  "key": "to4",
-  "label": "Quotidiano Piemontese",
-  "country": "Torino",
-  "tab": "torino",
-  "news": [
-   "https://www.quotidianopiemontese.it/feed/"
-  ],
-  "op": [],
-  "home": [
-   "https://www.quotidianopiemontese.it/"
-  ]
- },
- {
-  "key": "to5",
-  "label": "il Torinese",
-  "country": "Torino",
-  "tab": "torino",
-  "news": [
-   "https://www.iltorinese.it/feed/"
-  ],
-  "op": [],
-  "home": [
-   "https://www.iltorinese.it/"
-  ]
- },
- {
-  "key": "w-guardian",
-  "label": "The Guardian",
-  "country": "Regno Unito",
-  "tab": "mondo",
-  "news": [
-   "https://www.theguardian.com/world/rss"
-  ],
-  "op": [
-   "https://www.theguardian.com/uk/commentisfree/rss"
-  ],
-  "home": [
-   "https://www.theguardian.com/world"
-  ],
-  "home_op": [
-   "https://www.theguardian.com/uk/commentisfree"
-  ]
- },
- {
-  "key": "w-mirror",
-  "label": "Daily Mirror",
-  "country": "Regno Unito",
-  "tab": "mondo",
-  "news": [
-   "https://www.mirror.co.uk/news/world-news/?service=rss",
-   "https://www.mirror.co.uk/news/?service=rss"
-  ],
-  "op": [],
-  "home": [
-   "https://www.mirror.co.uk/news/world-news/"
-  ]
- },
- {
-  "key": "w-observer",
-  "label": "The Observer",
-  "country": "Regno Unito",
-  "tab": "mondo",
-  "news": [],
-  "op": [],
-  "scrape": [
-   {
-    "sitemap": "https://observer.co.uk/news-sitemap.xml",
-    "exclude": "/opinion-and-ideas/|/columnists/"
-   },
-   {
-    "page": "https://observer.co.uk/",
-    "match": "observer\\.co\\.uk/news/(?!opinion-and-ideas|columnists)[a-z-]+/article/",
-    "exclude": "/opinion-and-ideas/|/columnists/"
-   }
-  ],
-  "scrape_op": [
-   {
-    "sitemap": "https://observer.co.uk/news-sitemap.xml",
-    "match": "/opinion-and-ideas/|/columnists/"
-   }
-  ],
-  "home": [
-   "https://observer.co.uk/"
-  ]
- },
- {
-  "key": "w-independent",
-  "label": "The Independent",
-  "country": "Regno Unito",
-  "tab": "mondo",
-  "news": [
-   "https://www.independent.co.uk/news/world/rss"
-  ],
-  "op": [
-   "https://www.independent.co.uk/voices/rss"
-  ],
-  "home": [
-   "https://www.independent.co.uk/news/world"
-  ],
-  "home_op": [
-   "https://www.independent.co.uk/voices"
-  ]
- },
- {
-  "key": "w-lemonde",
-  "label": "Le Monde",
-  "country": "Francia",
-  "tab": "mondo",
-  "news": [
-   "https://www.lemonde.fr/rss/une.xml"
-  ],
-  "op": [
-   "https://www.lemonde.fr/idees/rss_full.xml"
-  ],
-  "home": [
-   "https://www.lemonde.fr/"
-  ],
-  "home_op": [
-   "https://www.lemonde.fr/idees/"
-  ]
- },
- {
-  "key": "w-elpais",
-  "label": "El País",
-  "country": "Spagna",
-  "tab": "mondo",
-  "news": [
-   "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"
-  ],
-  "op": [
-   "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/opinion/portada"
-  ],
-  "home": [
-   "https://elpais.com/"
-  ],
-  "home_op": [
-   "https://elpais.com/opinion/"
-  ]
- },
- {
-  "key": "w-standard",
-  "label": "Der Standard",
-  "country": "Austria",
-  "tab": "mondo",
-  "news": [
-   "https://www.derstandard.at/rss"
-  ],
-  "op": [],
-  "op_match": "/kommentar|/userkommentar|/meinung",
-  "home": [
-   "https://www.derstandard.at/"
-  ]
- },
- {
-  "key": "w-volkskrant",
-  "label": "de Volkskrant",
-  "country": "Paesi Bassi",
-  "tab": "mondo",
-  "news": [
-   "https://www.volkskrant.nl/voorpagina/rss.xml"
-  ],
-  "op": [],
-  "op_match": "columns-opinie|/opinie/",
-  "home": [
-   "https://www.volkskrant.nl/"
-  ]
- },
- {
-  "key": "w-politiken",
-  "label": "Politiken",
-  "country": "Danimarca",
-  "tab": "mondo",
-  "news": [
-   "https://politiken.dk/rss/senestenyt.rss"
-  ],
-  "op": [
-   "https://politiken.dk/rss/debat.rss"
-  ],
-  "home": [
-   "https://politiken.dk/"
-  ],
-  "home_op": [
-   "https://politiken.dk/debat/"
-  ]
- },
- {
-  "key": "bet-agimeg",
-  "label": "AGIMEG",
-  "country": "Italia",
-  "tab": "scommesse",
-  "news": [
-   "https://www.agimeg.it/category/scommesse/feed/"
-  ],
-  "op": [],
-  "home": [
-   "https://www.agimeg.it/category/scommesse/"
-  ]
- },
- {
-  "key": "bet-agipronews",
-  "label": "Agipronews",
-  "country": "Italia",
-  "tab": "scommesse",
-  "news": [
-   "https://www.agipronews.it/feed/"
-  ],
-  "op": [],
-  "home": [
-   "https://www.agipronews.it/"
-  ]
- },
- {
-  "key": "bet-gioconews",
-  "label": "GiocoNews",
-  "country": "Italia",
-  "tab": "scommesse",
-  "news": [
-   "https://www.gioconews.it/feed/"
-  ],
-  "op": [],
-  "home": [
-   "https://www.gioconews.it/"
-  ]
- },
- {
-  "key": "bet-pressgiochi",
-  "label": "PressGiochi",
-  "country": "Italia",
-  "tab": "scommesse",
-  "news": [
-   "https://www.pressgiochi.it/feed/"
-  ],
-  "op": [],
-  "home": [
-   "https://www.pressgiochi.it/"
-  ]
- },
- {
-  "key": "bet-jamma",
-  "label": "JAMMA",
-  "country": "Italia",
-  "tab": "scommesse",
-  "news": [
-   "https://www.jamma.it/feed/"
-  ],
-  "op": [],
-  "home": [
-   "https://www.jamma.it/"
-  ]
- }
+  {
+    "key": "cbs",
+    "label": "CBS Sports",
+    "country": "USA",
+    "news": [
+      "https://www.cbssports.com/rss/headlines/soccer/"
+    ],
+    "op": [],
+    "tab": "sport",
+    "home": [
+      "https://www.cbssports.com/soccer/"
+    ]
+  },
+  {
+    "key": "bbc",
+    "label": "BBC Sport",
+    "country": "Regno Unito",
+    "news": [
+      "https://feeds.bbci.co.uk/sport/rss.xml",
+      "https://feeds.bbci.co.uk/sport/football/rss.xml"
+    ],
+    "op": [],
+    "tab": "sport",
+    "home": [
+      "https://www.bbc.com/sport"
+    ]
+  },
+  {
+    "key": "independent",
+    "label": "The Independent Sport",
+    "country": "Regno Unito",
+    "news": [
+      "https://www.independent.co.uk/sport/football/rss",
+      "https://www.independent.co.uk/sport/rss"
+    ],
+    "op": [],
+    "tab": "sport",
+    "home": [
+      "https://www.independent.co.uk/sport"
+    ]
+  },
+  {
+    "key": "lequipe",
+    "label": "L'Équipe",
+    "country": "Francia",
+    "news": [
+      "https://dwh.lequipe.fr/api/edito/rss?path=/",
+      "https://dwh.lequipe.fr/api/edito/rss?path=/Football/"
+    ],
+    "op": [],
+    "tab": "sport",
+    "home": [
+      "https://www.lequipe.fr/"
+    ]
+  },
+  {
+    "key": "sofoot",
+    "label": "So Foot",
+    "country": "Francia",
+    "news": [
+      "https://www.sofoot.com/rss"
+    ],
+    "op": [],
+    "tab": "sport",
+    "home": [
+      "https://www.sofoot.com/"
+    ]
+  },
+  {
+    "key": "marca",
+    "label": "Marca",
+    "country": "Spagna",
+    "news": [
+      "https://e00-marca.uecdn.es/rss/portada.xml",
+      "https://e00-marca.uecdn.es/rss/futbol/primera-division.xml"
+    ],
+    "op": [
+      "https://e00-marca.uecdn.es/rss/opinion.xml"
+    ],
+    "tab": "sport",
+    "home": [
+      "https://www.marca.com/"
+    ],
+    "home_op": [
+      "https://www.marca.com/opinion.html"
+    ]
+  },
+  {
+    "key": "as",
+    "label": "AS",
+    "country": "Spagna",
+    "news": [
+      "https://feeds.as.com/mrss-s/pages/as/site/as.com/portada/"
+    ],
+    "op": [
+      "https://feeds.as.com/mrss-s/pages/as/site/as.com/section/opinion/portada/"
+    ],
+    "tab": "sport",
+    "home": [
+      "https://as.com/"
+    ],
+    "home_op": [
+      "https://as.com/opinion/"
+    ]
+  },
+  {
+    "key": "md",
+    "label": "Mundo Deportivo",
+    "country": "Spagna",
+    "news": [
+      "https://www.mundodeportivo.com/rss/home",
+      "https://www.mundodeportivo.com/rss/futbol"
+    ],
+    "op": [
+      "https://www.mundodeportivo.com/rss/opinion"
+    ],
+    "tab": "sport",
+    "home": [
+      "https://www.mundodeportivo.com/"
+    ],
+    "home_op": [
+      "https://www.mundodeportivo.com/opinion"
+    ]
+  },
+  {
+    "key": "sport",
+    "label": "Sport",
+    "country": "Spagna",
+    "tab": "sport",
+    "news": [],
+    "op": [],
+    "scrape": [
+      {
+        "page": "https://www.sport.es/es/",
+        "match": "sport\\.es/es/noticias/.+-\\d{6,}$"
+      },
+      {
+        "page": "https://www.sport.es/es/futbol/",
+        "match": "sport\\.es/es/noticias/.+-\\d{6,}$"
+      }
+    ],
+    "home": [
+      "https://www.sport.es/es/"
+    ]
+  },
+  {
+    "key": "relevo",
+    "label": "Relevo",
+    "country": "Spagna",
+    "news": [
+      "https://www.relevo.com/rss/"
+    ],
+    "op": [],
+    "tab": "sport",
+    "home": [
+      "https://www.relevo.com/"
+    ]
+  },
+  {
+    "key": "sportbild",
+    "label": "Sport Bild",
+    "country": "Germania",
+    "news": [
+      "https://www.bild.de/rss-feeds/rss-16725492,feed=sport.bild.html"
+    ],
+    "op": [],
+    "tab": "sport",
+    "home": [
+      "https://sportbild.bild.de/"
+    ]
+  },
+  {
+    "key": "abola",
+    "label": "A Bola",
+    "country": "Portogallo",
+    "news": [
+      "https://www.abola.pt/rss-articles.xml"
+    ],
+    "op": [],
+    "tab": "sport",
+    "home": [
+      "https://www.abola.pt/"
+    ]
+  },
+  {
+    "key": "record",
+    "label": "Record",
+    "country": "Portogallo",
+    "news": [
+      "https://www.record.pt/rss"
+    ],
+    "op": [],
+    "tab": "sport",
+    "home": [
+      "https://www.record.pt/"
+    ]
+  },
+  {
+    "key": "ole",
+    "label": "Olé",
+    "country": "Argentina",
+    "news": [
+      "https://www.ole.com.ar/rss/ultimas-noticias/",
+      "https://www.ole.com.ar/rss/futbol-primera/"
+    ],
+    "op": [
+      "https://www.ole.com.ar/rss/opinion/"
+    ],
+    "tab": "sport",
+    "home": [
+      "https://www.ole.com.ar/"
+    ],
+    "home_op": [
+      "https://www.ole.com.ar/opinion"
+    ]
+  },
+  {
+    "key": "ge",
+    "label": "Globo Esporte",
+    "country": "Brasile",
+    "news": [
+      "https://ge.globo.com/rss/ge/",
+      "https://ge.globo.com/rss/ge/futebol/"
+    ],
+    "op": [],
+    "tab": "sport",
+    "home": [
+      "https://ge.globo.com/"
+    ]
+  },
+  {
+    "key": "uol",
+    "label": "UOL Esporte",
+    "country": "Brasile",
+    "news": [
+      "https://rss.uol.com.br/feed/esporte.xml"
+    ],
+    "op": [],
+    "tab": "sport",
+    "home": [
+      "https://www.uol.com.br/esporte/"
+    ]
+  },
+  {
+    "key": "fotomac",
+    "label": "Fotomaç",
+    "country": "Turchia",
+    "news": [
+      "https://www.fotomac.com.tr/rss/anasayfa.xml"
+    ],
+    "op": [
+      "https://www.fotomac.com.tr/rss/yazarlar.xml"
+    ],
+    "tab": "sport",
+    "scrape": [
+      {
+        "sitemap": "https://www.fotomac.com.tr/sitemap/news.xml",
+        "exclude": "/yazarlar/"
+      },
+      {
+        "page": "https://www.fotomac.com.tr/",
+        "match": "fotomac\\.com\\.tr/[a-z-]+/\\d{4}/\\d\\d/\\d\\d/"
+      }
+    ],
+    "scrape_op": [
+      {
+        "page": "https://www.fotomac.com.tr/yazarlar",
+        "match": "/yazarlar/[^/]+/\\d{4}/\\d\\d/\\d\\d/"
+      }
+    ],
+    "home": [
+      "https://www.fotomac.com.tr/"
+    ],
+    "home_op": [
+      "https://www.fotomac.com.tr/yazarlar"
+    ]
+  },
+  {
+    "key": "tuttosport",
+    "label": "Tuttosport",
+    "country": "Italia",
+    "tab": "sport",
+    "news": [
+      "https://www.tuttosport.com/rss/calcio"
+    ],
+    "op": [],
+    "scrape": [
+      {
+        "sitemap": "https://www.tuttosport.com/site_map_news.xml"
+      }
+    ],
+    "home": [
+      "https://www.tuttosport.com/"
+    ]
+  },
+  {
+    "key": "cds",
+    "label": "Corriere dello Sport",
+    "country": "Italia",
+    "tab": "sport",
+    "news": [
+      "https://www.corrieredellosport.it/rss/calcio"
+    ],
+    "op": [],
+    "scrape": [
+      {
+        "sitemap": "https://www.corrieredellosport.it/site_map_news.xml"
+      }
+    ],
+    "home": [
+      "https://www.corrieredellosport.it/"
+    ]
+  },
+  {
+    "key": "sportmediaset",
+    "label": "Sportmediaset",
+    "country": "Italia",
+    "tab": "sport",
+    "news": [],
+    "op": [],
+    "scrape": [
+      {
+        "sitemap": "https://www.sportmediaset.mediaset.it/sitemap/sitemap_news.xml",
+        "exclude": "/video/"
+      }
+    ],
+    "home": [
+      "https://www.sportmediaset.mediaset.it/"
+    ]
+  },
+  {
+    "key": "fatto",
+    "label": "Il Fatto Quotidiano",
+    "country": "Italia",
+    "tab": "italia",
+    "news": [
+      "https://www.ilfattoquotidiano.it/feed/"
+    ],
+    "op": [
+      "https://www.ilfattoquotidiano.it/category/blog/feed/"
+    ],
+    "home": [
+      "https://www.ilfattoquotidiano.it/"
+    ],
+    "home_op": [
+      "https://www.ilfattoquotidiano.it/blog/"
+    ]
+  },
+  {
+    "key": "corriere",
+    "label": "Corriere della Sera",
+    "country": "Italia",
+    "tab": "italia",
+    "news": [],
+    "op": [],
+    "scrape": [
+      {
+        "sitemap": "https://www.corriere.it/dynamic-sitemap/sitemap-last-100/news.xml",
+        "exclude": "/opinioni/|/cook/|/giochi/"
+      },
+      {
+        "page": "https://www.corriere.it/",
+        "match": "corriere\\.it/[a-z0-9-]+(/[a-z0-9-]+)?/\\d\\d_[a-z]+_\\d+/.+\\.shtml",
+        "exclude": "/opinioni/|/giochi/"
+      }
+    ],
+    "scrape_op": [
+      {
+        "page": "https://www.corriere.it/opinioni/",
+        "match": "corriere\\.it/opinioni/\\d\\d_[a-z]+_\\d+/.+\\.shtml"
+      }
+    ],
+    "home": [
+      "https://www.corriere.it/"
+    ],
+    "home_op": [
+      "https://www.corriere.it/opinioni/"
+    ]
+  },
+  {
+    "key": "italiaoggi",
+    "label": "Italia Oggi",
+    "country": "Italia",
+    "tab": "italia",
+    "news": [],
+    "op": [],
+    "scrape": [
+      {
+        "sitemap": "https://www.italiaoggi.it/sitemap/sitemap_news_google.xml"
+      },
+      {
+        "page": "https://www.italiaoggi.it/",
+        "match": "www\\.italiaoggi\\.it/[a-z-]+/.+-[a-z0-9]{8}$"
+      }
+    ],
+    "home": [
+      "https://www.italiaoggi.it/"
+    ]
+  },
+  {
+    "key": "mowmag",
+    "label": "MOW Mag",
+    "country": "Italia",
+    "tab": "italia",
+    "news": [],
+    "op": [],
+    "scrape": [
+      {
+        "sitemap": "https://mowmag.com/sitemapnews.xml"
+      },
+      {
+        "page": "https://mowmag.com/",
+        "match": "mowmag\\.com/[a-z-]+/[a-z0-9-]{20,}$"
+      }
+    ],
+    "home": [
+      "https://mowmag.com/"
+    ]
+  },
+  {
+    "key": "calcioefinanza",
+    "label": "Calcio e Finanza",
+    "country": "Italia",
+    "tab": "italia",
+    "news": [
+      "https://www.calcioefinanza.it/feed/"
+    ],
+    "op": [],
+    "home": [
+      "https://www.calcioefinanza.it/"
+    ]
+  },
+  {
+    "key": "to0",
+    "label": "La Stampa",
+    "country": "Torino",
+    "tab": "torino",
+    "news": [
+      "https://www.lastampa.it/torino/rss"
+    ],
+    "op": [],
+    "home": [
+      "https://www.lastampa.it/torino/"
+    ]
+  },
+  {
+    "key": "to1",
+    "label": "La Sentinella del Canavese",
+    "country": "Torino",
+    "tab": "torino",
+    "news": [
+      "https://www.lasentinella.it/feed/"
+    ],
+    "op": [],
+    "home": [
+      "https://www.lasentinella.it/"
+    ]
+  },
+  {
+    "key": "to2",
+    "label": "TorinoToday",
+    "country": "Torino",
+    "tab": "torino",
+    "news": [
+      "https://www.torinotoday.it/rss"
+    ],
+    "op": [],
+    "home": [
+      "https://www.torinotoday.it/"
+    ]
+  },
+  {
+    "key": "to3",
+    "label": "Torino Oggi",
+    "country": "Torino",
+    "tab": "torino",
+    "news": [
+      "https://www.torinoggi.it/rss.xml"
+    ],
+    "op": [],
+    "home": [
+      "https://www.torinoggi.it/"
+    ]
+  },
+  {
+    "key": "to4",
+    "label": "Quotidiano Piemontese",
+    "country": "Torino",
+    "tab": "torino",
+    "news": [
+      "https://www.quotidianopiemontese.it/feed/"
+    ],
+    "op": [],
+    "home": [
+      "https://www.quotidianopiemontese.it/"
+    ]
+  },
+  {
+    "key": "to5",
+    "label": "il Torinese",
+    "country": "Torino",
+    "tab": "torino",
+    "news": [
+      "https://www.iltorinese.it/feed/"
+    ],
+    "op": [],
+    "home": [
+      "https://www.iltorinese.it/"
+    ]
+  },
+  {
+    "key": "w-guardian",
+    "label": "The Guardian",
+    "country": "Regno Unito",
+    "tab": "mondo",
+    "news": [
+      "https://www.theguardian.com/world/rss"
+    ],
+    "op": [
+      "https://www.theguardian.com/uk/commentisfree/rss"
+    ],
+    "home": [
+      "https://www.theguardian.com/world"
+    ],
+    "home_op": [
+      "https://www.theguardian.com/uk/commentisfree"
+    ]
+  },
+  {
+    "key": "w-mirror",
+    "label": "Daily Mirror",
+    "country": "Regno Unito",
+    "tab": "mondo",
+    "news": [
+      "https://www.mirror.co.uk/news/world-news/?service=rss",
+      "https://www.mirror.co.uk/news/?service=rss"
+    ],
+    "op": [],
+    "home": [
+      "https://www.mirror.co.uk/news/world-news/"
+    ]
+  },
+  {
+    "key": "w-observer",
+    "label": "The Observer",
+    "country": "Regno Unito",
+    "tab": "mondo",
+    "news": [],
+    "op": [],
+    "scrape": [
+      {
+        "sitemap": "https://observer.co.uk/news-sitemap.xml",
+        "exclude": "/opinion-and-ideas/|/columnists/"
+      },
+      {
+        "page": "https://observer.co.uk/",
+        "match": "observer\\.co\\.uk/news/(?!opinion-and-ideas|columnists)[a-z-]+/article/",
+        "exclude": "/opinion-and-ideas/|/columnists/"
+      }
+    ],
+    "scrape_op": [
+      {
+        "sitemap": "https://observer.co.uk/news-sitemap.xml",
+        "match": "/opinion-and-ideas/|/columnists/"
+      }
+    ],
+    "home": [
+      "https://observer.co.uk/"
+    ]
+  },
+  {
+    "key": "w-independent",
+    "label": "The Independent",
+    "country": "Regno Unito",
+    "tab": "mondo",
+    "news": [
+      "https://www.independent.co.uk/news/world/rss"
+    ],
+    "op": [
+      "https://www.independent.co.uk/voices/rss"
+    ],
+    "home": [
+      "https://www.independent.co.uk/news/world"
+    ],
+    "home_op": [
+      "https://www.independent.co.uk/voices"
+    ]
+  },
+  {
+    "key": "w-lemonde",
+    "label": "Le Monde",
+    "country": "Francia",
+    "tab": "mondo",
+    "news": [
+      "https://www.lemonde.fr/rss/une.xml"
+    ],
+    "op": [
+      "https://www.lemonde.fr/idees/rss_full.xml"
+    ],
+    "home": [
+      "https://www.lemonde.fr/"
+    ],
+    "home_op": [
+      "https://www.lemonde.fr/idees/"
+    ]
+  },
+  {
+    "key": "w-elpais",
+    "label": "El País",
+    "country": "Spagna",
+    "tab": "mondo",
+    "news": [
+      "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"
+    ],
+    "op": [
+      "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/opinion/portada"
+    ],
+    "home": [
+      "https://elpais.com/"
+    ],
+    "home_op": [
+      "https://elpais.com/opinion/"
+    ]
+  },
+  {
+    "key": "w-standard",
+    "label": "Der Standard",
+    "country": "Austria",
+    "tab": "mondo",
+    "news": [
+      "https://www.derstandard.at/rss"
+    ],
+    "op": [],
+    "op_match": "/kommentar|/userkommentar|/meinung",
+    "home": [
+      "https://www.derstandard.at/"
+    ]
+  },
+  {
+    "key": "w-volkskrant",
+    "label": "de Volkskrant",
+    "country": "Paesi Bassi",
+    "tab": "mondo",
+    "news": [
+      "https://www.volkskrant.nl/voorpagina/rss.xml"
+    ],
+    "op": [],
+    "op_match": "columns-opinie|/opinie/",
+    "home": [
+      "https://www.volkskrant.nl/"
+    ]
+  },
+  {
+    "key": "w-politiken",
+    "label": "Politiken",
+    "country": "Danimarca",
+    "tab": "mondo",
+    "news": [
+      "https://politiken.dk/rss/senestenyt.rss"
+    ],
+    "op": [
+      "https://politiken.dk/rss/debat.rss"
+    ],
+    "home": [
+      "https://politiken.dk/"
+    ],
+    "home_op": [
+      "https://politiken.dk/debat/"
+    ]
+  },
+  {
+    "key": "bet-agimeg",
+    "label": "AGIMEG",
+    "country": "Italia",
+    "tab": "scommesse",
+    "news": [
+      "https://www.agimeg.it/category/scommesse/feed/"
+    ],
+    "op": [],
+    "home": [
+      "https://www.agimeg.it/category/scommesse/"
+    ]
+  },
+  {
+    "key": "bet-agipronews",
+    "label": "Agipronews",
+    "country": "Italia",
+    "tab": "scommesse",
+    "news": [
+      "https://www.agipronews.it/feed/"
+    ],
+    "op": [],
+    "home": [
+      "https://www.agipronews.it/"
+    ]
+  },
+  {
+    "key": "bet-gioconews",
+    "label": "GiocoNews",
+    "country": "Italia",
+    "tab": "scommesse",
+    "news": [
+      "https://www.gioconews.it/feed/"
+    ],
+    "op": [],
+    "home": [
+      "https://www.gioconews.it/"
+    ]
+  },
+  {
+    "key": "bet-pressgiochi",
+    "label": "PressGiochi",
+    "country": "Italia",
+    "tab": "scommesse",
+    "news": [
+      "https://www.pressgiochi.it/feed/"
+    ],
+    "op": [],
+    "home": [
+      "https://www.pressgiochi.it/"
+    ]
+  },
+  {
+    "key": "bet-jamma",
+    "label": "JAMMA",
+    "country": "Italia",
+    "tab": "scommesse",
+    "news": [
+      "https://www.jamma.it/feed/"
+    ],
+    "op": [],
+    "home": [
+      "https://www.jamma.it/"
+    ]
+  }
 ]
