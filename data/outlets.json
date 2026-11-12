@@ -469,6 +469,19 @@
   ]
  },
  {
+  "key": "calcioefinanza",
+  "label": "Calcio e Finanza",
+  "country": "Italia",
+  "tab": "italia",
+  "news": [
+   "https://www.calcioefinanza.it/feed/"
+  ],
+  "op": [],
+  "home": [
+   "https://www.calcioefinanza.it/"
+  ]
+ },
+ {
   "key": "to0",
   "label": "La Stampa",
   "country": "Torino",
