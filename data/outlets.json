@@ -418,20 +418,6 @@
   ]
  },
  {
-  "key": "internazionale",
-  "label": "Internazionale",
-  "country": "Italia",
-  "tab": "italia",
-  "news": [
-   "https://www.internazionale.it/sitemaps/rss.xml"
-  ],
-  "op": [],
-  "op_match": "/opinione/",
-  "home": [
-   "https://www.internazionale.it/"
-  ]
- },
- {
   "key": "manifesto",
   "label": "Il Manifesto",
   "country": "Italia",
