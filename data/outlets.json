@@ -448,6 +448,40 @@
     "op": [],
     "home": [
       "https://www.calcioefinanza.it/"
+    ],
+    "scrape": [
+      {
+        "page": "https://www.calcioefinanza.it/",
+        "match": "calcioefinanza\\.it/\\d{4}/\\d{2}/\\d{2}/[^/?#]+/?$"
+      },
+      {
+        "page": "https://www.calcioefinanza.it/finanza/",
+        "match": "calcioefinanza\\.it/\\d{4}/\\d{2}/\\d{2}/[^/?#]+/?$"
+      },
+      {
+        "page": "https://www.calcioefinanza.it/governance/",
+        "match": "calcioefinanza\\.it/\\d{4}/\\d{2}/\\d{2}/[^/?#]+/?$"
+      },
+      {
+        "page": "https://www.calcioefinanza.it/media/",
+        "match": "calcioefinanza\\.it/\\d{4}/\\d{2}/\\d{2}/[^/?#]+/?$"
+      },
+      {
+        "page": "https://www.calcioefinanza.it/stadi/",
+        "match": "calcioefinanza\\.it/\\d{4}/\\d{2}/\\d{2}/[^/?#]+/?$"
+      },
+      {
+        "page": "https://www.calcioefinanza.it/marketing/",
+        "match": "calcioefinanza\\.it/\\d{4}/\\d{2}/\\d{2}/[^/?#]+/?$"
+      },
+      {
+        "page": "https://www.calcioefinanza.it/business/",
+        "match": "calcioefinanza\\.it/\\d{4}/\\d{2}/\\d{2}/[^/?#]+/?$"
+      },
+      {
+        "page": "https://www.calcioefinanza.it/sportnext/",
+        "match": "calcioefinanza\\.it/\\d{4}/\\d{2}/\\d{2}/[^/?#]+/?$"
+      }
     ]
   },
   {
