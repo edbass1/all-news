@@ -275,6 +275,10 @@ def main():
                 st = ART.get(i["l"], ["pending"])[0]
                 if st == "ok":
                     i["xo"] = ART[i["l"]][1]; i["id"] = key(i["l"]); i["fx"] = o["key"] in foreign_keys; K.append(i)
+                elif o["key"] == "calcioefinanza" and len(clean(i.get("s", ""), 1000)) >= 35:
+                    # Calcio e Finanza: mostra anche le notizie il cui testo integrale
+                    # non è estraibile, usando il sommario e mantenendo il link originale.
+                    i["xo"] = clean(i["s"], 1000); i["id"] = key(i["l"]); i["fx"] = False; K.append(i)
                 else: excl[st] = excl.get(st, 0) + 1
             kept.append(K)
         data[o["key"]] = tuple(kept)
